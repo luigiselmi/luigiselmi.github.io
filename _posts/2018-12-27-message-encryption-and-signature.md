@@ -4,7 +4,10 @@ title:  "Public-key cryptography and digital signature using openssl"
 date:   2018-12-27
 categories: security
 ---
-The purpose of this post is to explain how to communicate privately over the Internet using public-key cryptography and how to digitally sign a document. The discussion is based on par. 2.5 and 2.6 of Schneier's book, [Applied Cryptography](https://www.schneier.com/books/applied_cryptography/). It is supposed you are using a Linux distribution. In case you use Window you might want to install [Cygwin](https://www.cygwin.com/) with openssl. You have by default openssh installed that allows you to login to a remote server using the ssh command. It is assumed that you know how to move a file from one folder to another one and how to copy a file. Openssh comes also with other commands that can be used to create a key pair to securely connect to a remote server using the key pair instead of the username and password. Openssh relies on Openssl that offers other tools to encrypt a file and create an hash of a document to sign it. We will set up a context for the secure communication problem using two characters, Alice and Bob. We will store their keys and messages in separate folders on our local file system
+The purpose of this post is to explain how to communicate privately over the Internet using public-key cryptography and how to digitally sign a document.
+
+## Introduction
+The discussion is based on par. 2.5 and 2.6 of Schneier's book, [Applied Cryptography](https://www.schneier.com/books/applied_cryptography/). It is supposed you are using a Linux distribution. In case you use Window you might want to install [Cygwin](https://www.cygwin.com/) with openssl. You have by default openssh installed that allows you to login to a remote server using the ssh command. It is assumed that you know how to move a file from one folder to another one and how to copy a file. Openssh comes also with other commands that can be used to create a key pair to securely connect to a remote server using the key pair instead of the username and password. Openssh relies on Openssl that offers other tools to encrypt a file and create an hash of a document to sign it. We will set up a context for the secure communication problem using two characters, Alice and Bob. We will store their keys and messages in separate folders on our local file system
 {% highlight text %}
 $ mkdir alice
 
@@ -217,7 +220,7 @@ Bob can compute again the hash of the document data.txt using the same hash func
 $ openssl dgst -sha256 article.pdf > bob.dgst
 {% endhighlight %}
 
-### 6. Bob compares his digest with Alice's to find out if they match 
+### 6. Bob compares his digest with Alice's to find out if they match
 {% highlight bash %}
 $ diff -s alice.dgst bob.dgst
 {% endhighlight %}
