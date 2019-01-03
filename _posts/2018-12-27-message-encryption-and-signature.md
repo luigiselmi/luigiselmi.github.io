@@ -1,38 +1,44 @@
 ---
 layout: post
-title:  "Public-key cryptography and digital signature using openssl"
+title:  "Public-key cryptography and digital signature using OpenSSL"
 date:   2018-12-27
 categories: security
 ---
 The purpose of this post is to explain how to communicate privately over the Internet using public-key cryptography and how to digitally sign a document.
 
 ## Introduction
-The discussion is based on par. 2.5 and 2.6 of Schneier's book, [Applied Cryptography](https://www.schneier.com/books/applied_cryptography/). It is supposed you are using a Linux distribution. In case you use Window you might want to install [Cygwin](https://www.cygwin.com/) with openssl. You have by default openssh installed that allows you to login to a remote server using the ssh command. It is assumed that you know how to move a file from one folder to another one and how to copy a file. Openssh comes also with other commands that can be used to create a key pair to securely connect to a remote server using the key pair instead of the username and password. Openssh relies on Openssl that offers other tools to encrypt a file and create an hash of a document to sign it. We will set up a context for the secure communication problem using two characters, Alice and Bob. We will store their keys and messages in separate folders on our local file system
+Being able to communicate privately is a civil right and often a business need. As we can not allow anyone to eavesdrop our communications, we have also the right to avoid surveillance by companies or governments. There are many tools and protocols, many being open source and free, that can be used to enhance the security of our communications over the Internet. The aim of this post is to provide a very high level description of the ideas behind these tools and protocols and practical guidance on how to use one of them, [OpenSSL](https://www.openssl.org/), which is open source, free and used to secure most of the communications over the Internet. In particular in this post we will show
+
+1. How to avoid being eavesdropped while sending files to our friends or collaborators over the internet
+2. How to digitally sign a document
+
+It is supposed that you are using a Linux distribution or a Mac with OpenSSL version 1.0.2. In case you use Windows you might want to install [Cygwin](https://www.cygwin.com/) with openssl. It is assumed that you know how to move a file from one folder to another one and how to copy a file using the command line. OpenSSL is an open source cryptography toolkit. It supports secret key and public key cryptography. We will set up a context for the secure communication problem using two characters, Alice and Bob. We will simulate the transmission of encrypted messages between Alice and Bob by copying files from Alice's folder to Bob's and vice-versa. This simulation is meant for you to easily check what happens on both sides when they send or receive messages using OpenSSL, but it must be kept in mind that it bypasses the core business of encryption that is about sending messages over an insecure channel such as the Internet where other parties could eavesdrop or interfere with Alice's and Bob's communication. With this warning in mind, let's start our simulation by creating a folder for Alice's messages and one for Bob's
 {% highlight text %}
 $ mkdir alice
 
 $ mkdir bob
 {% endhighlight %}
 ## Alice and Bob
-Bob can't remember his bank account details and asks Alice to send them to him by email. Alice is aware that sending the data as plain text over the Internet is risky so she wonders how to send the data to Bob in such a way that nobody else but him can read and use the data. After some investigation Alice has come up with the idea that the solution to their problem is public-key cryptography and the openssl tools.
+Bob can't remember his bank account details and asks Alice to send them to him by email. Alice is aware that sending the data as plain text over the Internet is risky so she wonders how to send the data to Bob in such a way that nobody else but he can read and use the data. After some investigation, Alice decides that the solution to their problem is public-key cryptography and the OpenSSL tools.
 
 ## Public-key cryptography
-This is what she and Bob have to do
+Public-key cryptography consists of creating a key pair, namely, a private key and a public key. The private key is kept secret and is never shared with anyone. The private key is used by the sender, Alice, to decrypt the messages. The public key is sent to the recipient of the message, Bob, to encrypt the messages being sent to Alice. The public key can even be published on the Internet for that matter. Only Alice can decrypt a message encrypted with her public key, using her private key. There are different ways of creating a key pair but all are based on defining mathematical problems that are very difficult to solve in a short time scale, such as factorizing a number that is the product of two big prime numbers. This class of problems is used in the Rivest-Shamir-Adleman (RSA) cryptosystem. The idea is to find two prime numbers big enough, e.g. with more than 150 digits, so that it would be difficult even for a cluster of computers to find them out in decades but it would be very easy to compute one of the two prime numbers by whoever knows one of them. The public key will be the product of the two prime numbers and the private key will be the two prime numbers themselves. The algorithm used for the encryption is well known and publicly available. The only thing that is not public, and known only to the owner of the key pair, is the private key. Let's see what Alice and Bob have to do to keep their communication private:
 
 1. Alice and Bob create their own private and public keys.
 2. Bob sends Alice his public key.
 3. Alice encrypts her message using Bob’s public key and sends it to Bob.
 4. Bob decrypts Alice’s message using his private key.
 
-So, first of all both Alice and Bob need a key pair.
+So, first of all, both Alice and Bob need a key pair.
 
 ### 1. Alice and Bob create their own private and public keys.
-Alice doesn’t have yet a key pair so she needs to create it, as an example using the RSA cryptosystem with the name of the file that will contain the private key set to alice_rsa and the private key’s size of 2048 bit. Let's move into Alice's folder and execute the command
+Alice doesn’t yet have a key pair, so she needs to create it. As an example she may use the RSA cryptosystem with the name of the file that will contain the private key, e.g. alice_rsa, and the private key’s size of 2048 bit. Let's move into Alice's folder and execute the command
 {% highlight bash %}
 $ openssl genpkey -algorithm RSA -out alice_rsa -pkeyopt rsa_keygen_bits:2048
 {% endhighlight %}
 The private key in alice_rsa is saved in the Privacy-Enhanced Mail (PEM) format and looks like the following
 {% highlight text %}
+$ cat alice_rsa
 -----BEGIN PRIVATE KEY-----
 MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC68nDsjtWepLcM
 pF4zVaMdFsVdg692M5Mj9v/vGvgyyPHpHmH/QKolOB9KtlUZcth6d7fwmFgyaa/m
@@ -61,14 +67,15 @@ BBKZA9sccokOYWtVtnCxWZYnnG7ElOBvojuLtf+/stvIadnCVe7km6f6J50QcqtH
 1g6eTMfEoqkXG5plBlcEbjEv+wAGO9RXCiyYNquUuwjMrgv8dqUpHGXdw6XxxGi6
 LTf0HIwHOpMNVVyptpRZoCH/
 -----END PRIVATE KEY-----
-
 {% endhighlight %}
+
 The public key can be created from the private one, and saved in e.g. alice_rsa.pub, with the command
 {% highlight bash %}
 $ openssl rsa -in alice_rsa -pubout -out alice_rsa.pub
 {% endhighlight %}
 Alice's public key will look like
 {% highlight text %}
+$ cat alice_rsa.pub
 -----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuvJw7I7VnqS3DKReM1Wj
 HRbFXYOvdjOTI/b/7xr4Msjx6R5h/0CqJTgfSrZVGXLYene38JhYMmmv5lzdR4zk
@@ -82,56 +89,54 @@ oaVh7ZPRJzMcoaP66bevxE2DzkN0FelMc+BvbQy6Sc4C9kOFR1SsKiUp0wS671Tp
 Now we have Alice's key pair in her folder. Let's do the same for Bob. We move into Bob's folder and create his key pair bob_rsa and bob_rsa.pub as we did for Alice. After Alice and Bob have their key pair we are done with the 1st step of the procedure.
 
 ### 2. Bob sends to Alice his public key.
-Let's move to the 2nd step: Bob must send his public key to Alice so she will be able to send him her message. We simulate this by copying Bob's public key file, bob_rsa.pub in Alice's folder. From Bob's folder
+Let's move to the 2nd step: Bob must send his public key to Alice so she will be able to send him her message encrypted. We simulate this by copying Bob's public key file, bob_rsa.pub in Alice's folder. From Bob's folder
 {% highlight bash %}
 $ cp bob_rsa.pub ../alice/
 {% endhighlight %}
-As soon as a copy of Bob's public key is in Alice's folder the 2nd step of the procedure is completed and we can move to the 3rd: Alice will encrypt her message using Bob's public key and will send it to Bob.
+As soon as a copy of Bob's public key is in Alice's folder, the 2nd step of the procedure is complete and we can move to the 3rd: Alice will encrypt her message using Bob's public key and will send it to Bob.
 
 ### 3. Alice encrypts her message using Bob’s public key and sends it to Bob.
-Bob's public key can now be used by Alice with openssl to encrypt her message stored in a file, e.g. data.txt, containing sensitive information
+Bob's public key can now be used by Alice with OpenSSL to encrypt her message stored in a file, e.g. data.txt, containing sensitive information
 {% highlight bash %}
 Bob Bank Account
 userid: 123456
 password: 276f8%2=0as}
 pin: 4657
 {% endhighlight %}
-Alice encrypts the file using openssl and Bob’s public key that she has received from him, e.g. by email, and that we have simulated by simply copying the file from Bob's folder to Alice's. From Alice's folder
+In our example the size of the file is only 65 bytes. Alice encrypts the file using OpenSSL and Bob’s public key that she has received from him, e.g. by email, which we have simulated by simply copying the file from Bob's folder to Alice's. From Alice's folder
 {% highlight bash %}
 $ openssl rsautl -encrypt -pubin -inkey bob_rsa.pub -in data.txt -out data.txt.enc
 {% endhighlight %}
-Now Alice can send her encrypted message, data.txt.enc. The encrypted message is a binary file whose content doesn't make any sense and can be decrypted only by Bob using his private key. If Alice was a real person she could send it to Bob by email. We will simulate the sending of the encrypted message by copying it in Bob's folder. From Alice's folder's
+Now Alice can send her encrypted message, data.txt.enc. The encrypted message is a binary file whose content doesn't make any sense and can be decrypted only by Bob using his private key. If Alice were a real person she would be able to send it to Bob by email. We will once again simulate the sending of the encrypted message by copying it in Bob's folder. From Alice's folder
 {% highlight bash %}
 $ cp data.txt.enc ../bob/
 {% endhighlight %}
-After the encrypted message has been received by Bob, in our simulation after it is in Bob's folder, the 3rd step is completed and we can move to the 4th and last step.
+As soon as the encrypted message has been received by Bob, in our simulation when it has been copied in Bob's folder, the 3rd step is complete. We can move to the 4th and last step.
 
 ### 4. Bob decrypts Alice’s message using his private key.
 From Bob's folder
 {% highlight bash %}
 $ openssl rsautl -decrypt -inkey bob_rsa -in data.txt.enc -out data.txt
 {% endhighlight %}
-Bob can open the file data.txt containing the original message in plain text that Alice wanted to send to him. We can easily check the Bob's decrypted message and Alice's original message are exactly the same. From the root folder
+Bob can open the file data.txt containing the original message in plain text that Alice wanted to send to him. We can easily check that Bob's decrypted message and Alice's original message are exactly the same. From the root folder
 {% highlight bash %}
 diff -s alice/data.txt bob/data.txt
 {% endhighlight %}
-The procedure that Alice chose to send her message to Bob, without risking anyone else could read it, is completed. In this example Alice didn't use her private or public key. In case Bob wanted to send a feedback to her he could use Alice's public key to encrypt his message so that only her could decrypt it using her private key. Both Alice and Bob must keep their private keys in a very safe place. The private key we have just created for them can be used by anyone who has access to it. One way to protect the private key is to encrypt it using an algorithm, e.g. AES-128, with a password so that only who knows the password can decrypt the private key and use it to read the messages sent by others and encrypted using the public key. For example Alice could have made her private key safer by creating it with the following command
+The procedure that Alice chose to send her message to Bob, without risking anyone else reading it, is complete. In this example Alice did not use her private or public key. In case Bob wanted to send her feedback, he could use Alice's public key to encrypt his message, so that only she would be able to decrypt it, using her private key. Both Alice and Bob must keep their private keys in a very safe place. The private key we have just created for them can be used by anyone who has access to it. One way to protect the private key is to encrypt it using an algorithm, e.g. AES-128, with a password so that only the person who knows the password can decrypt the private key and use it. For example, Alice could have made her private key safer by creating it with the following command
 {% highlight bash %}
-$ openssl genpkey -algorithm RSA -out alice_rsa -aes-128-cbc -pass pass:$wT(16p
+$ openssl genpkey -algorithm RSA -out alice_rsa -pkeyopt rsa_keygen_bits:2048 -aes-256-cbc -pass pass:wT16pB9y
 {% endhighlight %}
-where $wT(16p would be Alice's password.
-
+where wT16pB9y would be Alice's password. Currently OpenSSL supports only alphanumeric characters for passwords.
 ## Hybrid cryptosystem
-Alice has successfully solved Bob's problem. She's been able to send to him his bank account details in a secure way. Now she wants to send to Bob a file, e.g. a jpeg picture she doesn't want anyone else to see and whose size is some KB
-{% highlight bash %}
+Alice has successfully solved Bob's problem. She has been able to send him his bank account details in a secure way. Now she wants to send Bob a file, e.g. a jpeg picture that she doesn't want anyone else to see, and whose size is some KB
 $ openssl rsautl -encrypt -pubin -inkey bob_rsa.pub -in alice.jpg -out alice.jpg.enc
 {% endhighlight %}
 This time openssl will raise an error
 {% highlight text %}
 RSA operation error
-4294956672:error:0406D06E:rsa routines:RSA_padding_add_PKCS1_type_2:data too large for key size:rsa_pk1.c:174:
+4294956672:error:0406D06E:,rsa routines:RSA_padding_add_PKCS1_type_2:data too large for key size:rsa_pk1.c:174:
 {% endhighlight %}
-The problem is that the RSA algorithm can be used only to encrypt messages whose size is smaller than the size of the private key that corresponds to the public key used for the encryption. Since Bob's private key is 2048 bit long, or 256 bytes, his public key cannot be used to encrypt messages that are bigger than 256 bytes. The best option to solve the problem is to use a symmetric key to encrypt the file and then send the encrypted file and the symmetric key encrypted using the public key of the recipient. The system is called hybrid because it uses public-key and symmetric cryptography together. Alice defines a new protocol in which she will create a symmetric key that will share with Bob
+The problem is that the RSA algorithm can be used only to encrypt messages whose size is smaller than the size of the private key that corresponds to the public key used for the encryption. Since Bob's private key is 2048 bit long, or 256 bytes, his public key cannot be used to encrypt messages that are bigger than 256 bytes. The best option to solve this issue is to use a symmetric key to encrypt the file, and then send the encrypted file and the symmetric key encrypted using the public key of the recipient. One more reason to use a symmetric algorithm to encrypt a message is that they are three orders of magnitude faster than asymmetric ones. The algorithms used in the symmetric key encryption are different from those used in public-key encryption. The symmetric key algorithms use a secret key that is based on a pseudo-random value taken from a huge range of possible values. The secret key is shared only by the two communicating parties. The strength of the algorithm rests in the difficulty of finding the key within a huge key space. The system is called hybrid because it uses public-key and symmetric cryptography together. Alice defines a new protocol in which she will create a symmetric key that she will share with Bob
 
 1. Alice creates a symmetric key.
 2. Alice encrypts the data using the symmetric key.
@@ -140,10 +145,10 @@ The problem is that the RSA algorithm can be used only to encrypt messages whose
 5. Bob decrypts the symmetric key using his private key.
 6. Bob decrypts the data using the symmetric key.
 
-Let's implement these steps on behalf of Alice and Bob using openssl.
+Let's implement these steps on behalf of Alice and Bob using OpenSSL.
 
 ### 1. Alice creates a symmetric key.
-First, Alice creates a symmetric key. From Alice's folder
+First, Alice creates a symmetric key, e.g. a sequence of 32 random bytes. From Alice's folder
 {% highlight bash %}
 $ openssl rand 32 -out symmetric.key
 {% endhighlight %}
@@ -174,20 +179,33 @@ $ openssl rsautl -decrypt -inkey bob_rsa -in symmetric.key.enc -out symmetric.ke
 {% highlight bash %}
 $ openssl enc -d -in alice.jpg.enc -out alice.jpg -K symmetric.key
 {% endhighlight %}
-
+You can verify that the image in Bob's folder is exactly the same as the image in Alice's folder by looking at them or by using the following command from the root folder
+{% highlight bash %}
+$ diff -s alice/alice.jpg bob/alice.jpg
+{% endhighlight %}
+This 2nd protocol enables Alice and Bob to send each other files of any size allowed by the channel, encrypted. Unfortunately it is subject to the man-in-the-middle attack. This is because a message sent over the Internet goes through different routers where a 3rd party, called Mallory in cryptography, can impersonate both Alice and Bob by sending them his public key instead of Bob's and Alice's respectively. Alice and Bob can solve this issue by publishing their public keys on a trusted website or by using certificates where their public keys are signed by a trusted 3rd party. In the 1st case it would be easier to check the fingerprint of the public key by computing its hash using one algorithm such as AES. Let's create Bob's fingerprint. From Bob's folder
+{% highlight bash %}
+$ openssl dgst -sha256 -hex -c bob_rsa.pub > bob.fingerprint
+{% endhighlight %}
+The fingerprint can be verified more easily than the full public key
+{% highlight bash %}
+$ cat bob.fingerprint
+SHA256(bob_rsa.pub)= 7f:98:0e:4f:a7:e4:5d:5f:bb:fb:f5:80:3a:32:b8:7e:2a:23:22:44:c4:da:8c:4d:eb:95:fa:f8:9c:5f:d9:24   
+{% endhighlight %}
+The creation of certificates, even if possible with OpenSSL, requires the definition of a certificate authority and is beyond the scope of this post. In the following section we will address another important use case, the digital signature of a document.
 ## Digital signature
-Alice is a journalist and wants to send to Bob an article, e.g. a pdf file, being sure than no one else can claim to be the author. Once again she comes up with a protocol that can solve her problem.
+Alice is a journalist and wants to send Bob an article, e.g. a pdf file, being sure than no one else can claim to be the author. Once again she comes up with a protocol that can solve her problem.
 
 1. Alice creates a one-way hash of a document, Alice's digest.
 2. Alice encrypts the digest with her private key, thereby signing the document.
 3. Alice sends the document, her public key and the signed digest to Bob.
 4. Bob decrypts Alice's digest with her public key.
-5. Bob creates a one-way hash of the document that Alice sent, Bob's digest.
+5. Bob creates a one-way hash of the document that Alice has sent, Bob's digest.
 6. Bob compares his digest with Alice's to find out if they match
 
 If the signed hash matches the hash he generated, the signature is valid. Let’s say Alice wants to send a file, e.g. data.txt, with her digital signature to Bob.
 ### 1. Alice creates a one-way hash of a document, Alice's digest.
-Alice can sign the message using openssl, choosing one hash function, e.g. SHA-256 . She can create the one-way hash of the message, also known as the digest,  with
+Alice can sign the message choosing one hash function, e.g. SHA-256 . She can create the one-way hash of the message, also known as the digest,  with
 {% highlight bash %}
 $ openssl dgst -sha256 article.pdf > alice.dgst
 {% endhighlight %}
@@ -212,10 +230,10 @@ From Bob's folder
 {% highlight bash %}
 $ openssl rsautl -verify -inkey alice_rsa.pub -pubin -keyform PEM -in alice.sign -out alice.dgst
 {% endhighlight %}
-The output, alice.dgst, is Alice's digest of the document extracted from her signature of the document.
+The output, alice.dgst, is Alice's digest of the document, extracted from her signature of the document.
 
 ### 5. Bob creates a one-way hash of the document that Alice has sent, Bob's digest.
-Bob can compute again the hash of the document data.txt using the same hash function SHA-256 that has been used by Alice
+Bob can again compute the hash of the document data.txt using the same hash function SHA-256 that has been used by Alice
 {% highlight bash %}
 $ openssl dgst -sha256 article.pdf > bob.dgst
 {% endhighlight %}
@@ -226,6 +244,12 @@ $ diff -s alice.dgst bob.dgst
 {% endhighlight %}
 The result of the comparison is
 {% highlight text %}
-Files alice.dgst and bob.dgst are identical
+Files alice.dgst and bob.dgst previously cautionedl
 {% endhighlight %}
-proving that Alice signed the document. The signature cannot be repudiated and the document cannot be changed without compromising the validity of the signature.
+proving that Alice has signed the docueheynt. The signature canot be repudiated and the document cannot be changed without compromising the validity of the signature.
+## Conclusion
+We have seen how to use OpenSSL to enhance the security of our communications with the public-key cryptography and the symmetric encryption. As previously cautioned, the protocols we have shown are not completely secure, but they will certainly limit the number of eavesdroppers capable of figuring out the content of your digital assets sent over the Internet. The protocol shown can be improved in ways beyond the scope of this post. You can get more information on this by consulting the books in the reference below.
+## References
+1. [Bruce Schneier - Applied Cryptography, 2nd Edition](https://www.schneier.com/books/applied_cryptography/)
+2. [William Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)
+3. [Dan Boneh, Victor Shoup - A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
