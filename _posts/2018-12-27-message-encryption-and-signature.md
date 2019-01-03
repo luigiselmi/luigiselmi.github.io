@@ -12,13 +12,14 @@ Being able to communicate privately is a civil right and often a business need. 
 1. How to avoid being eavesdropped while sending files to our friends or collaborators over the internet
 2. How to digitally sign a document
 
-It is supposed that you are using a Linux distribution or a Mac with OpenSSL version 1.0.2. In case you use Windows you might want to install [Cygwin](https://www.cygwin.com/) with openssl. It is assumed that you know how to move a file from one folder to another one and how to copy a file using the command line. OpenSSL is an open source cryptography toolkit. It supports secret key and public key cryptography. We will set up a context for the secure communication problem using two characters, Alice and Bob. We will simulate the transmission of encrypted messages between Alice and Bob by copying files from Alice's folder to Bob's and vice-versa. This simulation is meant for you to easily check what happens on both sides when they send or receive messages using OpenSSL, but it must be kept in mind that it bypasses the core business of encryption that is about sending messages over an insecure channel such as the Internet where other parties could eavesdrop or interfere with Alice's and Bob's communication. With this warning in mind, let's start our simulation by creating a folder for Alice's messages and one for Bob's
+It is supposed that you are using a Linux distribution or a Mac with OpenSSL version 1.0.2. In case you use Windows you might want to install [Cygwin](https://www.cygwin.com/) with openssl. It is assumed that you know how to move a file from one folder to another one and how to copy a file using the command line.
+## Alice and Bob
+We will set up a context for the secure communication problem using two characters, Alice and Bob. We will simulate the transmission of encrypted messages between Alice and Bob by copying files from Alice's folder to Bob's and vice-versa. This simulation is meant for you to easily check what happens on both sides when they send or receive messages using OpenSSL, but it must be kept in mind that it bypasses the core business of encryption that is about sending messages over an insecure channel such as the Internet where other parties could eavesdrop or interfere with Alice's and Bob's communication. With this warning in mind, let's start our simulation by creating a folder for Alice's messages and one for Bob's
 {% highlight text %}
 $ mkdir alice
 
 $ mkdir bob
 {% endhighlight %}
-## Alice and Bob
 Bob can't remember his bank account details and asks Alice to send them to him by email. Alice is aware that sending the data as plain text over the Internet is risky so she wonders how to send the data to Bob in such a way that nobody else but he can read and use the data. After some investigation, Alice decides that the solution to their problem is public-key cryptography and the OpenSSL tools.
 
 ## Public-key cryptography
@@ -183,6 +184,7 @@ $ openssl enc -d -in alice.jpg.enc -out alice.jpg -K symmetric.key
 You can verify that the image in Bob's folder is exactly the same as the image in Alice's folder by looking at them or by using the following command from the root folder
 {% highlight bash %}
 $ diff -s alice/alice.jpg bob/alice.jpg
+Files alice/alice.jpg and bob/alice.jpg are identical
 {% endhighlight %}
 This 2nd protocol enables Alice and Bob to send each other files of any size allowed by the channel, encrypted. Unfortunately it is subject to the man-in-the-middle attack. This is because a message sent over the Internet goes through different routers where a 3rd party, called Mallory in cryptography, can impersonate both Alice and Bob by sending them his public key instead of Bob's and Alice's respectively. Alice and Bob can solve this issue by publishing their public keys on a trusted website or by using certificates where their public keys are signed by a trusted 3rd party. In the 1st case it would be easier to check the fingerprint of the public key by computing its hash using one algorithm such as AES. Let's create Bob's fingerprint. From Bob's folder
 {% highlight bash %}
@@ -245,9 +247,9 @@ $ diff -s alice.dgst bob.dgst
 {% endhighlight %}
 The result of the comparison is
 {% highlight text %}
-Files alice.dgst and bob.dgst previously cautionedl
+Files alice.dgst and bob.dgst are identical
 {% endhighlight %}
-proving that Alice has signed the docueheynt. The signature canot be repudiated and the document cannot be changed without compromising the validity of the signature.
+proving that Alice has signed the document. The signature can not be repudiated and the document can not be changed without compromising the validity of the signature.
 ## Conclusion
 We have seen how to use OpenSSL to add some level of security to our communications with the public-key cryptography and the symmetric encryption. As previously cautioned, the protocols we have shown are not completely secure, but they will certainly limit the number of eavesdroppers capable of figuring out the content of your digital assets sent over the Internet. You can get more information on cryptography, algorithms and how protocols can be improved to enhance the security of the communications, by consulting the books in the references.
 ## References
