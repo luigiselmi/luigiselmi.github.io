@@ -14,7 +14,7 @@ Being able to communicate privately is a civil right and often a business need. 
 
 It is supposed that you are using a Linux distribution or a Mac with OpenSSL version 1.0.2. In case you use Windows you might want to install [Cygwin](https://www.cygwin.com/) with openssl. It is assumed that you know how to move a file from one folder to another one and how to copy a file using the command line.
 ## Alice and Bob
-We will set up a context for the secure communication problem using two characters, Alice and Bob. We will simulate the transmission of encrypted messages between Alice and Bob by copying files from Alice's folder to Bob's and vice-versa. This simulation is meant for you to easily check what happens on both sides when they send or receive messages using OpenSSL, but it must be kept in mind that it bypasses the core business of encryption that is about sending messages over an insecure channel such as the Internet where other parties could eavesdrop or interfere with Alice's and Bob's communication. With this warning in mind, let's start our simulation by creating a folder for Alice's messages and one for Bob's
+We will set up a context for the secure communication problem using two characters, Alice and Bob. We will simulate the transmission of encrypted messages between Alice and Bob by copying files from Alice's folder to Bob's and vice-versa on our local file system. This simulation is meant for you to easily check what happens on both sides when they send or receive messages using OpenSSL, but it must be kept in mind that it bypasses the core business of encryption that is about sending messages over an insecure channel such as the Internet where other parties could eavesdrop or interfere with Alice's and Bob's communication. With this warning in mind, let's start our simulation by creating a folder for Alice's messages and one for Bob's
 {% highlight text %}
 $ mkdir alice
 
@@ -33,7 +33,7 @@ Public-key cryptography consists of creating a key pair, namely a private key an
 So, first of all, both Alice and Bob need a key pair.
 
 ### 1. Alice and Bob create their own private and public keys.
-Alice doesn’t yet have a key pair, so she needs to create it. As an example she may use the RSA cryptosystem with the name of the file that will contain the private key, e.g. alice_rsa, and the private key’s size of 2048 bit. Let's move into Alice's folder and execute the command
+Alice doesn’t yet have a key pair, so she needs to create it. As an example she may use the RSA cryptosystem. Her private key will be stored in a file, e.g. alice_rsa. The size of the private key will be 2048 bit. Let's move into Alice's folder and execute the command
 {% highlight bash %}
 $ openssl genpkey -algorithm RSA -out alice_rsa -pkeyopt rsa_keygen_bits:2048
 {% endhighlight %}
@@ -87,10 +87,10 @@ oaVh7ZPRJzMcoaP66bevxE2DzkN0FelMc+BvbQy6Sc4C9kOFR1SsKiUp0wS671Tp
 8QIDAQAB
 -----END PUBLIC KEY-----
 {% endhighlight %}
-Now we have Alice's key pair in her folder. Let's do the same for Bob. We move into Bob's folder and create his key pair bob_rsa and bob_rsa.pub as we did for Alice. After Alice and Bob have their key pair we are done with the 1st step of the procedure.
+Now we have Alice's key pair in her folder. Let's do the same for Bob. We move into Bob's folder and create his key pair, stored in e.g. bob_rsa and bob_rsa.pub, as we did for Alice. After Alice and Bob have their key pair we are done with the 1st step of the procedure.
 
 ### 2. Bob sends to Alice his public key.
-Let's move to the 2nd step: Bob must send his public key to Alice so she will be able to send him her message encrypted. We simulate this by copying Bob's public key file, bob_rsa.pub in Alice's folder. From Bob's folder
+Let's move to the 2nd step: Bob must send his public key to Alice so she will be able to send him her message encrypted. We simulate this by copying Bob's public key file, bob_rsa.pub, in Alice's folder. From Bob's folder
 {% highlight bash %}
 $ cp bob_rsa.pub ../alice/
 {% endhighlight %}
@@ -123,13 +123,13 @@ Bob can open the file data.txt containing the original message in plain text tha
 {% highlight bash %}
 diff -s alice/data.txt bob/data.txt
 {% endhighlight %}
-The procedure that Alice chose to send her message to Bob, without risking anyone else reading it, is complete. In this example Alice did not use her private or public key. In case Bob wanted to send her feedback, he could use Alice's public key to encrypt his message, so that only she would be able to decrypt it, using her private key. Both Alice and Bob must keep their private keys in a very safe place. The private key we have just created for them can be used by anyone who has access to it. One way to protect the private key is to encrypt it using an algorithm, e.g. AES-128, with a password so that only the person who knows the password can decrypt the private key and use it. For example, Alice could have made her private key safer by creating it with the following command
+The procedure that Alice chose to send her message to Bob, without risking anyone else reading it, is complete. In this example Alice did not use her private or public key. In case Bob wanted to send her feedback, he could use Alice's public key to encrypt his message, so that only she would be able to decrypt it, using her private key. Both Alice and Bob must keep their private keys in a very safe place. The private key we have just created for them can be used by anyone who has access to it. One way to protect the private key is to encrypt it using an algorithm, e.g. AES-256, with a password so that only the person who knows the password can decrypt the private key and use it. For example, Alice could have made her private key safer by creating it with the following command
 {% highlight bash %}
 $ openssl genpkey -algorithm RSA -out alice_rsa -pkeyopt rsa_keygen_bits:2048 -aes-256-cbc -pass pass:wT16pB9y
 {% endhighlight %}
 where wT16pB9y would be Alice's password. Currently OpenSSL supports only alphanumeric characters for passwords.
 ## Hybrid cryptosystem
-Alice has successfully solved Bob's problem. She has been able to send him his bank account details in a secure way. Now she wants to send Bob a file, e.g. a jpeg picture that she doesn't want anyone else to see, and whose size is some KB
+Alice has successfully solved Bob's problem. She has been able to send him his bank account details in a secure way. Now she wants to send Bob a file, e.g. a jpeg picture that she doesn't want anyone else to see, and whose size is some KB. Let's try to encrypt the image on behalf of Alice
 {% highlight bash %}
 $ openssl rsautl -encrypt -pubin -inkey bob_rsa.pub -in alice.jpg -out alice.jpg.enc
 {% endhighlight %}
@@ -258,4 +258,4 @@ Thanks to Eurydice Prentoulis for proof-reading the text.
 1. [Bruce Schneier - Applied Cryptography, 2nd Edition](https://www.schneier.com/books/applied_cryptography/)
 2. [William Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)
 3. [Dan Boneh, Victor Shoup - A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
-4. [Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone](http://cacr.uwaterloo.ca/hac/)
+4. [Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone - Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
