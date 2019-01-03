@@ -258,3 +258,4 @@ Thanks to Eurydice Prentoulis for proof-reading the text.
 1. [Bruce Schneier - Applied Cryptography, 2nd Edition](https://www.schneier.com/books/applied_cryptography/)
 2. [William Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)
 3. [Dan Boneh, Victor Shoup - A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
+4. [Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone](http://cacr.uwaterloo.ca/hac/)
