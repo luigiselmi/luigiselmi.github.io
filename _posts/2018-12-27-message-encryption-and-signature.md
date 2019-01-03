@@ -129,6 +129,7 @@ $ openssl genpkey -algorithm RSA -out alice_rsa -pkeyopt rsa_keygen_bits:2048 -a
 where wT16pB9y would be Alice's password. Currently OpenSSL supports only alphanumeric characters for passwords.
 ## Hybrid cryptosystem
 Alice has successfully solved Bob's problem. She has been able to send him his bank account details in a secure way. Now she wants to send Bob a file, e.g. a jpeg picture that she doesn't want anyone else to see, and whose size is some KB
+{% highlight bash %}
 $ openssl rsautl -encrypt -pubin -inkey bob_rsa.pub -in alice.jpg -out alice.jpg.enc
 {% endhighlight %}
 This time openssl will raise an error
@@ -248,7 +249,7 @@ Files alice.dgst and bob.dgst previously cautionedl
 {% endhighlight %}
 proving that Alice has signed the docueheynt. The signature canot be repudiated and the document cannot be changed without compromising the validity of the signature.
 ## Conclusion
-We have seen how to use OpenSSL to enhance the security of our communications with the public-key cryptography and the symmetric encryption. As previously cautioned, the protocols we have shown are not completely secure, but they will certainly limit the number of eavesdroppers capable of figuring out the content of your digital assets sent over the Internet. The protocol shown can be improved in ways beyond the scope of this post. You can get more information on this by consulting the books in the reference below.
+We have seen how to use OpenSSL to add some level of security to our communications with the public-key cryptography and the symmetric encryption. As previously cautioned, the protocols we have shown are not completely secure, but they will certainly limit the number of eavesdroppers capable of figuring out the content of your digital assets sent over the Internet. You can get more information on cryptography, algorithms and how protocols can be improved to enhance the security of the communications, by consulting the books in the references.
 ## References
 1. [Bruce Schneier - Applied Cryptography, 2nd Edition](https://www.schneier.com/books/applied_cryptography/)
 2. [William Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)
