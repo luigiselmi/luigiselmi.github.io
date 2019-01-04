@@ -119,7 +119,7 @@ From Bob's folder
 {% highlight bash %}
 $ openssl rsautl -decrypt -inkey bob_rsa -in data.txt.enc -out data.txt
 {% endhighlight %}
-Bob can open the file data.txt containing the original message in plain text that Alice wanted to send to him. We can easily check that Bob's decrypted message and Alice's original message are exactly the same. From the root folder
+Bob can open the file data.txt containing the original message in plain text that Alice wanted to send to him. We can easily verify that Bob's decrypted message and Alice's original message are exactly the same. From the root folder
 {% highlight bash %}
 $ diff -s alice/data.txt bob/data.txt
 Files alice/data.txt and bob/data.txt are identical
@@ -157,8 +157,12 @@ $ openssl rand 32 -out secret
 {% endhighlight %}
 
 ### 2. Alice encrypts the data using the AES-256 cipher and the secret string.
+The command will encrypt the image
 {% highlight bash %}
 $ openssl enc -e -aes-256-cbc -in alice.jpg -out alice.jpg.enc -pass file:secret -p
+{% endhighlight %}
+and will print the key created by OpenSSL from the secret
+{% highlight bash %}
 salt=469950DBF6FA435A
 key=E94C0C70A8BC662DB270C57B642C010910B65118C97DD37088E84F6DC3627225
 iv =B83AB9A6A80D67DFA6B3572EB850EE0D
@@ -259,7 +263,7 @@ Files alice.dgst and bob.dgst are identical
 {% endhighlight %}
 proving that Alice has signed the document. The signature can not be repudiated and the document can not be changed without compromising the validity of the signature.
 ## Conclusion
-We have seen how to use OpenSSL to add some level of security to our communications with the public-key cryptography and the symmetric encryption. As previously cautioned, the protocols we have shown are not completely secure, but they will certainly limit the number of eavesdroppers capable of figuring out the content of your digital assets sent over the Internet. You can get more information on cryptography, algorithms and how protocols can be improved to enhance the security of the communications, by consulting the books in the references.
+We have seen how to use OpenSSL to add some level of security to our communications with the public-key cryptography and the symmetric encryption. As previously cautioned, the protocols we have shown are not completely secure, but they will certainly limit the number of eavesdroppers capable of figuring out the content of your digital assets sent over the Internet. You can get more information on cryptography, algorithms and how protocols can be improved to enhance the security of the communications, by consulting the resources in the references.
 ## Acknowledgments
 Thanks to Eurydice Prentoulis for proof-reading the text.
 ## References
@@ -267,3 +271,4 @@ Thanks to Eurydice Prentoulis for proof-reading the text.
 2. [William Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)
 3. [Dan Boneh, Victor Shoup - A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
 4. [Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone - Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
+5. [Dan Boneh - Cryptography I (Coursera)](https://www.coursera.org/learn/crypto)
