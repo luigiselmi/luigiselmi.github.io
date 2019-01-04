@@ -156,7 +156,7 @@ First, Alice creates a secret, e.g. a sequence of 32 random bytes. From Alice's 
 $ openssl rand 32 -out secret
 {% endhighlight %}
 
-### 2. Alice encrypts the data using the AES-256 cipher and the secret string.
+### 2. Alice encrypts the data using the AES-256 cipher and the secret.
 The command will encrypt the image
 {% highlight bash %}
 $ openssl enc -e -aes-256-cbc -in alice.jpg -out alice.jpg.enc -pass file:secret -p
