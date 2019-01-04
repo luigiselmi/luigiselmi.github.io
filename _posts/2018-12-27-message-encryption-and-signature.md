@@ -23,7 +23,7 @@ $ mkdir bob
 Let's imagine that Bob can't remember his bank account details and asks Alice to send them to him by email. Alice is aware that sending the data as plain text over the Internet is risky so she wonders how to send the data to Bob in such a way that nobody else but he can read and use the data. After some investigation, Alice decides that the solution to their problem is public-key cryptography and the OpenSSL tools.
 
 ## Public-key cryptography
-Public-key cryptography consists of creating a key pair, namely a private key and a public key. The private key is kept secret and is never shared with anyone. Alice uses Bob's public key to encrypt the messages being sent to him. Bob uses his private key to decrypt the messages encrypted with his public key. The public key can even be published on the Internet for that matter. Only the owner of the private key can decrypt a message encrypted with his or her public key. There are different ways of creating a key pair but all are based on defining mathematical problems that are very difficult to solve in a short time scale, such as factorizing a number that is the product of two big prime numbers. This class of problems is used in the Rivest-Shamir-Adleman (RSA) cryptosystem. The idea is to find two prime numbers big enough, e.g. with more than 150 digits, so that it would be very difficult even for a cluster of computers to find them out in decades while it is very easy to compute their product. In RSA, the public key is the product of two prime numbers and the private key is the set of the two prime numbers themselves. An eavesdropper who wants to decrypt a message would need to extract the private key, i.e. the two prime numbers, from their product. In other words, the eavesdropper must be able to factorize a number that is the product of two big prime numbers, which in itself is an hard enough problem. Using RSA we can be confident that nobody will be able to decrypt our messages. The algorithm used for the encryption is well known and publicly available. The only thing that is not public, and known only to the owner of the key pair, is the private key. Let's see what Alice and Bob have to do to keep their communication private:
+Public-key cryptography consists of creating a key pair, namely a private key and a public key, to encrypt and decrypt messages. The private key is kept secret and is never shared with anyone. Alice uses Bob's public key to encrypt the messages being sent to him. Bob uses his private key to decrypt the messages encrypted with his public key. The public key can even be published on the Internet for that matter. Only the owner of the private key can decrypt a message encrypted with his or her public key. There are different ways of creating a key pair but all are based on defining mathematical problems that are very difficult to solve in a short time scale, such as factorizing a number that is the product of two big prime numbers. This class of problems is used in the Rivest-Shamir-Adleman (RSA) cryptosystem. The idea is to find two prime numbers big enough, e.g. with more than 150 digits, so that it would be very difficult even for a cluster of computers to find them out in decades while it is very easy to compute their product. In RSA, the public key is the product of two prime numbers and the private key is the set of the two prime numbers themselves. An eavesdropper who wants to decrypt a message would need to extract the private key, i.e. the two prime numbers, from their product. In other words, the eavesdropper must be able to factorize a number that is the product of two big prime numbers, which in itself is an hard enough problem. Using RSA we can be confident that nobody will be able to decrypt our messages. The algorithm used for the encryption is well known and publicly available. The only thing that is not public, and known only to the owner of the key pair, is the private key. Let's see what Alice and Bob have to do to keep their communication private:
 
 1. Alice and Bob create their own private and public keys.
 2. Bob sends Alice his public key.
@@ -121,7 +121,8 @@ $ openssl rsautl -decrypt -inkey bob_rsa -in data.txt.enc -out data.txt
 {% endhighlight %}
 Bob can open the file data.txt containing the original message in plain text that Alice wanted to send to him. We can easily check that Bob's decrypted message and Alice's original message are exactly the same. From the root folder
 {% highlight bash %}
-diff -s alice/data.txt bob/data.txt
+$ diff -s alice/data.txt bob/data.txt
+Files alice/data.txt and bob/data.txt are identical
 {% endhighlight %}
 The procedure that Alice chose to send her message to Bob, without risking anyone else reading it, is complete. In this example Alice did not use her private or public key. In case Bob wanted to send her feedback, he could use Alice's public key to encrypt his message, so that only she would be able to decrypt it, using her private key. Both Alice and Bob must keep their private keys in a very safe place. The private key we have just created for them can be used by anyone who has access to it. One way to protect the private key is to encrypt it using an algorithm, e.g. AES-256, with a password so that only the person who knows the password can decrypt the private key and use it. For example, Alice could have made her private key safer by creating it with the following command
 {% highlight bash %}
@@ -138,54 +139,61 @@ This time openssl will raise an error
 RSA operation error
 4294956672:error:0406D06E:,rsa routines:RSA_padding_add_PKCS1_type_2:data too large for key size:rsa_pk1.c:174:
 {% endhighlight %}
-The problem is that the RSA algorithm can be used only to encrypt messages whose size is smaller than the size of the private key that corresponds to the public key used for the encryption. Since Bob's private key is 2048 bit long, or 256 bytes, his public key cannot be used to encrypt messages that are bigger than 256 bytes. The best option to solve this issue is to use a symmetric key to encrypt the file, and then send the encrypted file and the symmetric key encrypted using the public key of the recipient. One more reason to use a symmetric algorithm to encrypt a message is that they are three orders of magnitude faster than asymmetric ones. The algorithms used in the symmetric key encryption are different from those used in public-key encryption. The symmetric key algorithms use a secret key that is based on a pseudo-random value taken from a huge range of possible values. The secret key is shared only by the two communicating parties. The strength of the algorithm rests in the difficulty of finding the key within a huge key space. The system is called hybrid because it uses public-key and symmetric cryptography together. Alice defines a new protocol in which she will create a symmetric key that she will share with Bob
+The problem is that the RSA algorithm can be used only to encrypt messages whose size is smaller than the size of the private key that corresponds to the public key used for the encryption. Since Bob's private key is 2048 bit long, or 256 bytes, his public key cannot be used to encrypt messages that are bigger than 256 bytes. The best option to solve this issue is to use a symmetric algorithm. A symmetric algorithm can use only one key, called a symmetric key, for encryption and decryption. Once a message has been encrypted with the symmetric key, it can be sent, with the symmetric key encrypted using the public key of the recipient, so he or she will be able to decrypt the message. One more reason to use a symmetric algorithm to encrypt a message is that they are three orders of magnitude faster than asymmetric ones. The algorithms used in the symmetric key encryption are different from those used in public-key encryption. The symmetric key algorithms use a key that is based on a pseudo-random value taken from a huge range of possible values. The key is shared only by the two communicating parties. The strength of the algorithm rests in the difficulty of finding the key within a huge key space. The way in which the symmetric key must be created depends on the cryptographic algorithm, also called cipher. One of the most robust ciphers is AES-256, that we have already used to encrypt Alice's private key. OpenSSL creates the symmetric key, to be used with the AES-256 cipher, from a secret string, in short secret, that can be created and stored in a file. Alice defines a new protocol in which she will create the secret that she will use to encrypt her picture and that she will share with Bob. The system that she is going to use is called a hybrid cryptosystem because it uses public-key and symmetric cryptography together.
 
-1. Alice creates a symmetric key.
-2. Alice encrypts the data using the symmetric key.
-3. Alice encrypts the symmetric key using Bob’s public key.
-4. Alice sends the encrypted data and the encrypted symmetric key to Bob.
-5. Bob decrypts the symmetric key using his private key.
-6. Bob decrypts the data using the symmetric key.
+1. Alice creates the secret.
+2. Alice encrypts the data using the AES-256 cipher and the secret.
+3. Alice encrypts the secret using Bob’s public key.
+4. Alice sends the encrypted data and the encrypted secret to Bob.
+5. Bob decrypts the secret using his private key.
+6. Bob decrypts the data using the AES-256 cipher and the secret.
 
 Let's implement these steps on behalf of Alice and Bob using OpenSSL.
 
-### 1. Alice creates a symmetric key.
-First, Alice creates a symmetric key, e.g. a sequence of 32 random bytes. From Alice's folder
+### 1. Alice creates the secret.
+First, Alice creates a secret, e.g. a sequence of 32 random bytes. From Alice's folder
 {% highlight bash %}
-$ openssl rand 32 -out symmetric.key
+$ openssl rand 32 -out secret
 {% endhighlight %}
 
-### 2. Alice encrypts the data using the symmetric key.
+### 2. Alice encrypts the data using the AES-256 cipher and the secret string.
 {% highlight bash %}
- $ openssl enc -e -in alice.jpg -out alice.jpg.enc -K symmetric.key
+$ openssl enc -e -aes-256-cbc -in alice.jpg -out alice.jpg.enc -pass file:secret -p
+salt=469950DBF6FA435A
+key=E94C0C70A8BC662DB270C57B642C010910B65118C97DD37088E84F6DC3627225
+iv =B83AB9A6A80D67DFA6B3572EB850EE0D
+{% endhighlight %}
+The key, created by OpenSSL from the secret, is shown as a result of the encryption with other parameters, salt and iv. The AES-256 cipher is a block cipher that encrypts a fixed block of 256 bits of the message at a time.
+### 3. Alice encrypts the secret using Bob’s public key.
+{% highlight bash %}
+$ openssl rsautl -encrypt -pubin -inkey bob_rsa.pub -in secret -out secret.enc
 {% endhighlight %}
 
-### 3. Alice encrypts the symmetric key using Bob’s public key.
+### 4. Alice sends the encrypted data and the encrypted secret to Bob.
+We can simulate the sending of the encrypted data and secret by copying them from Alice's folder to Bob's.
 {% highlight bash %}
-$ openssl rsautl -encrypt -pubin -inkey bob_rsa.pub -in symmetric.key -out symmetric.key.enc
+$ cp alice.jpg.enc secret.enc ../bob
 {% endhighlight %}
 
-### 4. Alice sends the encrypted data and the encrypted symmetric key to Bob.
-We can simulate the sending of the encrypted data and symmetric key by copying them from Alice's folder to Bob's.
-{% highlight bash %}
-$ cp alice.jpg.enc symmetric.key.enc ../bob
-{% endhighlight %}
-
-### 5. Bob decrypts the symmetric key using his private key.
+### 5. Bob decrypts the secret using his private key.
 From Bob's folder
 {% highlight bash %}
-$ openssl rsautl -decrypt -inkey bob_rsa -in symmetric.key.enc -out symmetric.key
+$ openssl rsautl -decrypt -inkey bob_rsa -in secret.enc -out secret
 {% endhighlight %}
 
-### 6. Bob decrypts the data using the symmetric key.
+### 6. Bob decrypts the data using the AES-256 cipher and the secret.
 {% highlight bash %}
-$ openssl enc -d -in alice.jpg.enc -out alice.jpg -K symmetric.key
+$ openssl enc -d -aes-256-cbc -in alice.jpg.enc -out alice.jpg -pass file:secret -p
+salt=469950DBF6FA435A
+key=E94C0C70A8BC662DB270C57B642C010910B65118C97DD37088E84F6DC3627225
+iv =B83AB9A6A80D67DFA6B3572EB850EE0D
 {% endhighlight %}
 You can verify that the image in Bob's folder is exactly the same as the image in Alice's folder by looking at them or by using the following command from the root folder
 {% highlight bash %}
 $ diff -s alice/alice.jpg bob/alice.jpg
 Files alice/alice.jpg and bob/alice.jpg are identical
 {% endhighlight %}
+It can also be verified that the key, created by OpenSSL from the secret for the decryption, is the same as the key created for the encryption. In case a non valid secret is used, the decryption will fail.  
 This 2nd protocol enables Alice and Bob to send each other files of any size allowed by the channel, encrypted. Unfortunately it is subject to the man-in-the-middle attack. This is because a message sent over the Internet goes through different routers where a 3rd party, called Mallory in cryptography, can impersonate both Alice and Bob by sending them his public key instead of Bob's and Alice's respectively. Alice and Bob can solve this issue by publishing their public keys on a trusted website or by using certificates where their public keys are signed by a trusted 3rd party. In the 1st case it would be easier to check the fingerprint of the public key by computing its hash using one algorithm such as AES. Let's create Bob's fingerprint. From Bob's folder
 {% highlight bash %}
 $ openssl dgst -sha256 -hex -c bob_rsa.pub > bob.fingerprint
