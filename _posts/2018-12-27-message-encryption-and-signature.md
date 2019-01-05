@@ -12,7 +12,7 @@ Being able to communicate privately is a civil right and often a business need. 
 1. How to avoid being eavesdropped while sending files to our friends or collaborators over the internet
 2. How to digitally sign a document
 
-It is supposed that you are using a Linux distribution or a Mac with OpenSSL version 1.0.2. In case you use Windows you might want to install [Cygwin](https://www.cygwin.com/) with openssl. It is assumed that you know how to move a file from one folder to another one and how to copy a file using the command line.
+It is supposed that you are using a Linux distribution or a Mac with OpenSSL version 1.0.2 installed. In case you use Windows you might want to install [Cygwin](https://www.cygwin.com/) with openssl. It is assumed that you know how to use the command line.
 ## Alice and Bob
 We will set up a context for the secure communication problem using two characters, Alice and Bob. We will simulate the transmission of encrypted messages between Alice and Bob by copying files from Alice's folder to Bob's and vice-versa on our local file system. This simulation is meant for you to easily check what happens on both sides when they send or receive messages using OpenSSL, but it must be kept in mind that it bypasses the core business of encryption that is about sending messages over an insecure channel such as the Internet where other parties could eavesdrop or interfere with Alice's and Bob's communication. With this warning in mind, let's start our simulation by creating a folder for Alice's messages and one for Bob's
 {% highlight text %}
