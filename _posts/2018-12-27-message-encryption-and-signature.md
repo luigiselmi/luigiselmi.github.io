@@ -218,7 +218,7 @@ Alice is a journalist and wants to send Bob an article, e.g. a pdf file, being s
 5. Bob creates a one-way hash of the document that Alice has sent, Bob's digest.
 6. Bob compares his digest with Alice's to find out if they match
 
-If the signed hash matches the hash he generated, the signature is valid. Let’s say Alice wants to send a file, e.g. data.txt, with her digital signature to Bob.
+If the signed hash matches the hash he generated, the signature is valid. Let’s say Alice wants to send a file, e.g. article.pdf, with her digital signature to Bob.
 ### 1. Alice creates a one-way hash of a document, Alice's digest.
 Alice can sign the message choosing one hash function, e.g. SHA-256 . She can create the one-way hash of the message, also known as the digest,  with
 {% highlight bash %}
