@@ -2,7 +2,7 @@
 layout: post
 title:  "Public-key cryptography and digital signature using OpenSSL"
 date:   2018-12-27
-categories: security
+categories: security, cryptography
 ---
 The purpose of this post is to explain how to communicate privately over the Internet using public-key cryptography and how to digitally sign a document.
 
@@ -89,7 +89,7 @@ oaVh7ZPRJzMcoaP66bevxE2DzkN0FelMc+BvbQy6Sc4C9kOFR1SsKiUp0wS671Tp
 {% endhighlight %}
 Now we have Alice's key pair in her folder. Let's do the same for Bob. We move into Bob's folder and create his key pair, stored in e.g. bob_rsa and bob_rsa.pub, as we did for Alice. After Alice and Bob have their key pair we are done with the 1st step of the procedure.
 
-### 2. Bob sends to Alice his public key.
+### 2. Bob sends Alice his public key.
 Let's move to the 2nd step: Bob must send his public key to Alice so she will be able to send him her message encrypted. We simulate this by copying Bob's public key file, bob_rsa.pub, in Alice's folder. From Bob's folder
 {% highlight bash %}
 $ cp bob_rsa.pub ../alice/
@@ -134,7 +134,7 @@ Alice has successfully solved Bob's problem. She has been able to send him his b
 {% highlight bash %}
 $ openssl rsautl -encrypt -pubin -inkey bob_rsa.pub -in alice.jpg -out alice.jpg.enc
 {% endhighlight %}
-This time openssl will raise an error
+This time OpenSSL will raise an error
 {% highlight text %}
 RSA operation error
 4294956672:error:0406D06E:,rsa routines:RSA_padding_add_PKCS1_type_2:data too large for key size:rsa_pk1.c:174:
