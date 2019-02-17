@@ -167,7 +167,7 @@ salt=469950DBF6FA435A
 key=E94C0C70A8BC662DB270C57B642C010910B65118C97DD37088E84F6DC3627225
 iv =B83AB9A6A80D67DFA6B3572EB850EE0D
 {% endhighlight %}
-The key, created by OpenSSL from the secret, is shown as a result of the encryption with other parameters, salt and iv. The AES-256 cipher is a block cipher that encrypts a fixed block of 256 bits of the message at a time.
+The AES-256 cipher is a block cipher that encrypts a fixed block of 256 bits of the message at a time. The key, created by OpenSSL from the secret, is shown as a result of the encryption with other parameters, salt and iv. The salt parameter is created by OpenSSL to be added as a suffix to the secret to mitigate directory attacks, when the secret has not been chosen wisely and it could easily be found simply by brute force. The iv parameter is the initialization vector used as the content of the first block. It ensures that no information can be extracted by an attacker from messages that may start with some common header.   
 ### 3. Alice encrypts the secret using Bob’s public key.
 {% highlight bash %}
 $ openssl rsautl -encrypt -pubin -inkey bob_rsa.pub -in secret -out secret.enc
