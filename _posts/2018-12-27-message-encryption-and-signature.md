@@ -274,3 +274,4 @@ Thanks to Eurydice Prentoulis for proof-reading the text.
 3. [Dan Boneh, Victor Shoup - A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
 4. [Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone - Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/)
 5. [Dan Boneh - Cryptography I (Coursera)](https://www.coursera.org/learn/crypto)
+6. [Christoph Paar, Jan Pelzl - Understanding Cryptography](http://www.crypto-textbook.com/)
