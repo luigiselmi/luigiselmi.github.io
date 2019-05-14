@@ -209,7 +209,7 @@ The fingerprint can be verified more easily than the full public key
 $ cat bob.fingerprint
 SHA256(bob_rsa.pub)= 7f:98:0e:4f:a7:e4:5d:5f:bb:fb:f5:80:3a:32:b8:7e:2a:23:22:44:c4:da:8c:4d:eb:95:fa:f8:9c:5f:d9:24   
 {% endhighlight %}
-In the following section we will address another important use case, the digital signature of a document, in which a hash function is used to digitally sign a file.
+In the following section we will address another important use case in which a hash function is used to digitally sign a file.
 ## Digital signature
 Alice is a journalist and wants to send Bob an article, e.g. a pdf file, being sure than no one else can claim to be the author. Once again she comes up with a protocol that can solve her problem.
 
