@@ -151,7 +151,7 @@ The problem is that the RSA algorithm can be used only to encrypt messages whose
 Let's implement these steps on behalf of Alice and Bob using OpenSSL.
 
 ### 1. Alice creates the secret.
-First, Alice creates a secret, e.g. a sequence of 32 random bytes. From Alice's folder
+First, Alice creates a secret, e.g. a sequence of 32 random bytes, using a pseudo-random bytes generator provided by OpenSSL. From Alice's folder
 {% highlight bash %}
 $ openssl rand 32 -out secret
 {% endhighlight %}
