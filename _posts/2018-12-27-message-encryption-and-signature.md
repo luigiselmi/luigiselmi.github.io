@@ -151,7 +151,7 @@ The problem is that the RSA algorithm can be used only to encrypt messages whose
 Let's implement these steps on behalf of Alice and Bob using OpenSSL.
 
 ### 1. Alice creates the secret.
-First, Alice creates a secret, e.g. a sequence of 32 random bytes, using a pseudo-random bytes generator provided by OpenSSL. From Alice's folder
+First, Alice creates a secret, e.g. a sequence of 32 random bytes, using a pseudo-random bytes generator provided by OpenSSL. The longer is the sequence of random bytes the more difficult is for an eavesdropper to figure it out. It should never be so short that it could be found simply by brute force. For example a sequence of only 2 bytes (16 bits) can be found in just 2^16 = 65536 attempts. From Alice's folder
 {% highlight bash %}
 $ openssl rand 32 -out secret
 {% endhighlight %}
