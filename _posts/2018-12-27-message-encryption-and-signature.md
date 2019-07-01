@@ -108,7 +108,7 @@ In our example the size of the file is only 65 bytes. Alice encrypts the file us
 {% highlight bash %}
 $ openssl rsautl -encrypt -pubin -inkey bob_rsa.pub -in data.txt -out data.txt.enc
 {% endhighlight %}
-Now Alice can send her encrypted message, data.txt.enc. The encrypted message is a binary file whose content doesn't make any sense and can be decrypted only by Bob using his private key. If Alice were a real person she would be able to send it to Bob by email. We will once again simulate the sending of the encrypted message by copying it in Bob's folder. From Alice's folder
+Now Alice can send her encrypted message, data.txt.enc. The encrypted message is a binary file whose content doesn't make any sense and can be decrypted only by Bob using his private key. The RSA encryption algorithm is randomized, and executing again the same command will result in a different ciphertext but when they are decrypted the output will be exactly the same message. If Alice were a real person she would be able to send it to Bob by email. We will once again simulate the sending of the encrypted message by copying it in Bob's folder. From Alice's folder
 {% highlight bash %}
 $ cp data.txt.enc ../bob/
 {% endhighlight %}
