@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Copernicus"
+date:   2020-12-01
+categories: earth observation, remote sensing, climate change
+---
+Copernicus
 I have been following the Copernicus programme for more than a year, trying also to refresh my knowledge about remote sensing. Copernicus provides open access to the images from a constellation of satellites that have been launched in orbit to monitor the atmosphere, oceans and land. Maybe today the only thing on which everyone agrees is that we are witnessing the impacts on our societies of disastrous events that are undeniably linked to climate change due to human activities. Citizens, communities, administrations, enterprises, insurance companies have to monitor and adapt their activities and infrastructures to the new scenarios and this is even more important in urban environments where such infrastructures and people are concentrated. I
 
 Introduction
