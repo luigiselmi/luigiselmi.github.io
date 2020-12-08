@@ -3,6 +3,7 @@ layout: post
 title:  "Air Quality Forecasts"
 date:   2020-12-08
 categories: earth observation, health, air quality
+permalink: /copernicus/air_quality_forecasts.html
 ---
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
