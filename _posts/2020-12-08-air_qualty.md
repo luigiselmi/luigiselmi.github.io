@@ -21,7 +21,7 @@ During a pandemic the air quality might not be seen as the most pressing issue b
 The Copernicus Atmosphere Monitoring Service ([CAMS](https://atmosphere.copernicus.eu/)) provides information related to air quality, atmospheric composition, greenhouse gases, solar irradiance. The datasets released by the CAMS service is the result of assimilation processes in which observations from satellites and ground stations are used to update and correct every hour the estimates computed by a numerical model of the atmosphere. The CAMS is operated by the European Centre for Medium-Range Weather Forecasts ([ECMWF](https://www.ecmwf.int/)) on behalf of the European Commission.
 
 ### CAMS European air quality forecasts
-The CAMS provides its datasets as open data, available to all for free, through a web page and a web service. For the air quality forecasts a user can select, among other options
+The CAMS provides its datasets as open data, available to all for free, through a web page and a web service. For the [European air quality forecasts](https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-europe-air-quality-forecasts) a user can select, among other options
 
 - the variables, that is the physical parameters she is interested in
 - the model she wants to use (nine models are available, plus the ensemble)
