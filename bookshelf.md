@@ -80,7 +80,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Schloss et al. - Algorithm Archive](https://www.algorithm-archive.org/)  
 [Kochenderfer et al. - Algorithms for Decision Making](https://algorithmsbook.com/)  
 [Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
-
+[Needham et al. - Graph Algorithms](https://neo4j.com/graph-algorithms-book/)  
 
 ### Distributed Systems and High Performance Computing
 [van Steen et al. - Computer and Network Organization](https://www.distributed-systems.net/index.php/books/computer-and-network-organization/)  
@@ -210,6 +210,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Howard et al. - Practical Deep Learning for Coders](https://course.fast.ai/)  
 [Ma et al. - Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/)  
 [LeCun et al. - Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)  
+[Stevens et al. - Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)    
 [Bronstein et al. Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)  
 [Roberts et al. - The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)  
 [Sutton et al. - Reinforcement Learning, 2nd Ed.](http://incompleteideas.net/book/the-book-2nd.html)  
@@ -221,6 +222,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 
 ### Databases
 [Abiteboul - Foundation of Databases](http://webdam.inria.fr/Alice/)  
+[Robinson et al. - Graph Databases](https://neo4j.com/graph-databases-book/)  
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
