@@ -3,6 +3,8 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf
 ---
+![Bookshelf](assets/bookshelf.jpg)
+
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their works available online for free.  
 
 ## Physics
