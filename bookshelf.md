@@ -85,7 +85,6 @@ I am addicted to science and technology books. Fortunately, there are many autho
 ### Distributed Systems and High Performance Computing
 [van Steen et al. - Computer and Network Organization](https://www.distributed-systems.net/index.php/books/computer-and-network-organization/)  
 [van Steen et al. - Distributed Systems, 3rd Ed.](https://www.distributed-systems.net/index.php/books/ds3/)  
-[van Steen - Graph Theory and Complex Networks](https://www.distributed-systems.net/index.php/books/gtcn/)  
 [Burns - Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)  
 [Eijkhout - Introduction to High Performance Scientific Computing](https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html)  
 [Livermore Computing Center - Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial)  
@@ -152,7 +151,8 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Azencott - Introduction au Machine Learning](http://cazencott.info/)  
 [Mohri et al. - Foundations of Machine Learning, 2nd Ed.](https://cs.nyu.edu/~mohri/mlbook/)  
 [Gerrish - How Smart Machines Think](https://muse.jhu.edu/book/61941)  
-
+[James et al. - An Introduction to Statistical Learning, 2nd Ed.](https://www.statlearning.com/)  
+[Hastie et al. - The Elements of Statistical Learning, 2nd Ed.](https://hastie.su.domains/ElemStatLearn/)  
 
 ### Geographic Information Systems
 [Lovelace et al. - Geocomputation with R](https://geocompr.robinlovelace.net/)  
@@ -179,7 +179,8 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Vetterli - Foundation of Signal Processing](https://fourierandwavelets.org/)  
 [Prandoni et al. - Signal Processing for Communications](https://www.sp4comm.org/index.html)  
 [Peyre' et al. - Computational Optimal Transport](https://optimaltransport.github.io/book/)  
-[Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
+[Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)
+[Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)   
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
@@ -247,9 +248,71 @@ I am addicted to science and technology books. Fortunately, there are many autho
 
    ***
 ## Mathematics
+[Russell - The Principles of Mathematics](https://people.umass.edu/klement/pom/)  
+[Jarvis et al. - Foundations of Applied Mathematics](https://foundations-of-applied-mathematics.github.io/)  
+[Law et al. - Data Assimilation: A Mathematical Introduction](https://arxiv.org/abs/1506.07825)  
+[Lehman et al. - Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/)  
+[Gallier et al. Logic and Computation (Topology, Algebra, etc.)](https://www.cis.upenn.edu/~jean/gbooks/home.html)  
+
+### Algebra
+[Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
+[Thomas - Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)  
+[Cherney et al. - Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
+[Treil - Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)  
+[Boyd et al. - Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)  
+[Ash - Abstract Algebra: The Basic Graduate Year](https://faculty.math.illinois.edu/~r-ash/)  
+[O’Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
+
+### Calculus
+[Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
+[Axler - Measure, Integration & Real Analysis](https://measure.axler.net/)  
+[Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)
+
+
+### Probability and Statistics
+[Gelman et al. - Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/)  
+[Lattimore et al. - Bandit Algorithms](https://banditalgs.com/)  
+[Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
 [Vershynin - High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html)  
+[Clyde et al. - An Introduction to Bayesian Thinking](https://statswithr.github.io/book/)  
+[Blitzstein - Introduction to Probability, 2nd Ed.](https://projects.iq.harvard.edu/stat110/home)  
+[Kadane - Principles of Uncertainty, 2nd Ed.](http://www.stat.cmu.edu/~kadane/)  
+[Cranmer - Statistics and Data Science](http://theoryandpractice.org/stats-ds-book/intro.html)  
+[Davidson-Pilon - Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
+[Goodman et al. - Probabilistic Models of Cognition](https://probmods.org/)  
+[Tanizaky - Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/cv-e.htm)  
+[Johnson - Bayes Rules ! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)  
+
+### Causal Inference
+[Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
+[Hernan - Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)  
+[Peters - Elements of Causal Inference](http://web.math.ku.dk/~peters/elements.html)  
+[Sharma et al. - Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)  
+[Facure Alves - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
+
+### Number Theory
+[Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
+[Shoup - A Computational Introduction to Number Theory and Algebra, 2nd Ed.](https://shoup.net/ntb/)  
+
+### Optimization and Linear Programming
+[Dantzig - Linear Programming and Extensions](https://www.rand.org/pubs/reports/R366.html)  
+[Vishnoi - Algorithms for Convex Optimization](https://convex-optimization.github.io/)  
+
 ### Graph Theory
-[Barabasi - Network Science](http://networksciencebook.com/)
+[Barabasi - Network Science](http://networksciencebook.com/)  
+[Easley et al. - Network, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)  
+[Lyons et al. - Probability on Trees and Networks](https://www.uni-due.de/~hm0110/book.pdf)  
+[Guichard - An Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/book/)  
+[Williamson - Network Flow Algorithms](http://www.networkflowalgs.com/)  
+[Lovasz - Large networks and graph limits](https://web.cs.elte.hu/~lovasz/kurzusok/hombook-almost-final.pdf)  
+[van Steen - Graph Theory and Complex Networks](https://www.distributed-systems.net/index.php/books/gtcn/)  
+
+### Game Theory
+[Dresher - Games of Strategy - Theory and Applications](https://www.rand.org/content/dam/rand/pubs/commercial_books/2007/RAND_CB149-1.pdf)  
+[Shoham - Multiagent Systems](http://www.masfoundations.org/mas.pdf)  
+[Karlin - Game Theory, Alive](https://homes.cs.washington.edu/~karlin/)  
 
 ### Category Theory
-[Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
+[Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+[Fong et al. - An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
+[Leinster - Basic category Theory](https://arxiv.org/abs/1612.09375)  
