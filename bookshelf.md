@@ -126,9 +126,8 @@ I am addicted to science and technology books. Fortunately, there are many autho
 ### Data Visualization
 [Healy - Data Visualization - A Practical Introduction](https://socviz.co/)  
 [Wilke - Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)  
-[Wickham - ggplot2: Elegant Graphics for Data Analysis, 2nd Ed.](https://ggplot2-book.org/)
+[Wickham - ggplot2: Elegant Graphics for Data Analysis, 2nd Ed.](https://ggplot2-book.org/)    
 [Dougherty - Hands-On Data Visualization](https://handsondataviz.org/)  
-
 
 ### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
