@@ -268,6 +268,10 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Axler - Measure, Integration & Real Analysis](https://measure.axler.net/)  
 [Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)
 
+### Topology
+[Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
+[Morris - Topology without tears](https://www.topologywithouttears.net/)  
+[Hatcher - Algebraic Topology](https://pi.math.cornell.edu/~hatcher/)  
 
 ### Probability and Statistics
 [Gelman et al. - Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/)  
