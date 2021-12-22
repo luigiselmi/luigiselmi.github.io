@@ -3,12 +3,10 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf
 ---
-I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their works available online for free.
-
-
-# Science
+I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their works available online for free.  
 
 ## Physics
+   ***
 [Feynman et al. - The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)  
 
 ### Geophysics and Remote Sensing
@@ -30,6 +28,9 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
 [Nearing - Mathematical Tools for Physics](http://www.physics.miami.edu/~nearing/mathmethods/)  
 [Landau - A Survey on Computational Physics: Python Multimodal eBook](https://psrc.aapt.org/items/detail.cfm?ID=11578)  
+[Downey - Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)  
+[Shiffman - The Nature of Code](https://natureofcode.com/)      
+[Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
 
 
 ### Quantum Mechanics
@@ -45,8 +46,11 @@ I am addicted to science and technology books. Fortunately, there are many autho
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
 [Kak et al. - Principles of Computerized Tomographic Imaging](http://www.slaney.org/pct/pct-toc.html)  
+[US Department of Energy - Nuclear Physics and Reactor Theory, Vol.1](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v1)  
+[US Department of Energy - Nuclear Physics and Reactor Theory, Vol.2](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v2)  
 
 ## Biology
+   ***
 [Ingalls - Mathematical Modeling in Systems Biology: An Introduction](https://uwaterloo.ca/scholar/bingalls/online-textbook)  
 [Batra et al. - The Epidemiologist R Handbook ](https://epirhandbook.com/en/)  
 [Milo et al. - Cell Biology by the Numbers](http://book.bionumbers.org/)  
@@ -60,15 +64,35 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Rolls - Memory, Attention, and Decision-Making: a unifying computational neuroscience approach](https://www.oxcns.org/b8_text.html)  
 [Rolls et al. - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
 
-## Computer Science
 
-### Distributed Systems
+## Computer Science
+   ***
+### Algorithms and Data Structures
+[Arora et al. - Computational Complexity: A Modern Approach](http://theory.cs.princeton.edu/complexity/)  
+[Bovet et al. - Introduction to the theory of complexity](https://www.tcs.ifi.lmu.de/lehre/ws-2015-16/kompl/bovetcrescenzi)  
+[Erickson - Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)  
+[Di Pierro - Annotated Algorithms in Python](https://github.com/mdipierro/nlib)  
+[Flajolet et al. - Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/AnaCombi/)  
+[Barack - Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)  
+[Wigderson - Mathematics and Computation](https://www.math.ias.edu/avi/book)  
+[Schloss et al. - Algorithm Archive](https://www.algorithm-archive.org/)  
+[Kochenderfer et al. - Algorithms for Decision Making](https://algorithmsbook.com/)  
+[Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
+
+
+### Distributed Systems and High Performance Computing
 [van Steen et al. - Computer and Network Organization](https://www.distributed-systems.net/index.php/books/computer-and-network-organization/)  
 [van Steen et al. - Distributed Systems, 3rd Ed.](https://www.distributed-systems.net/index.php/books/ds3/)  
 [van Steen - Graph Theory and Complex Networks](https://www.distributed-systems.net/index.php/books/gtcn/)  
 [Burns - Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)  
+[Eijkhout - Introduction to High Performance Scientific Computing](https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html)  
+[Livermore Computing Center - Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial)  
+[Severance - High Performance Computing](https://cnx.org/contents/u4IVVH92@5.2:bEZZukPR@1/Introduction-to-the-Connexions-Edition)  
+
 
 ### Computer Programming
+[Stepanov et al. - Elements of Programming](http://elementsofprogramming.com/)  
+
 #### R
 [Wickham - Advanced R, 2nd Ed.](https://adv-r.hadley.nz/index.html)  
 [Phillips - YaRr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)  
@@ -81,20 +105,17 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [O'Sullivan et al. - Real World Haskell](http://book.realworldhaskell.org/)  
 
 #### Scala
-[Alexander - Scala Book](https://alvinalexander.com/scala/scala-book-free/)  
-
-### Category Theory
-[Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
+[Alexander - Scala Book](https://alvinalexander.com/scala/scala-book-free/)    
 
 ### Data Science
 [Pradhan et al. - R for Data Science](https://r4ds.had.co.nz/)  
-[VanderPlas - Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+[VanderPlas - Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 [Perlin - Analyzing Financial and Economic Data with R](https://www.msperlin.com/afedR/)  
 [Adhikari et al. - Computational and Inferential Thinking: The Foundations of Data Science, 2nd Ed.](https://inferentialthinking.com/chapters/intro.html)  
 [Zacharski - A Programmer’s Guide to Data Mining](http://guidetodatamining.com/)  
-[Jeroen - Data Science at the Command Line, 2nd Ed.](https://datascienceatthecommandline.com/)
+[Jeroen - Data Science at the Command Line, 2nd Ed.](https://datascienceatthecommandline.com/)  
 [Irizarry - Introduction to Data Science](https://rafalab.github.io/dsbook/)  
-[Blum et al. - Foundation of Data Science](https://www.cs.cornell.edu/jeh/)
+[Blum et al. - Foundation of Data Science](https://www.cs.cornell.edu/jeh/)  
 [Ranjan Das - Data Science: Theories, Models, Algorithms and Analytics](https://srdas.github.io/MLBook/)  
 [Bouveyron et al. - Model-Based Clustering and Classification for Data Science](https://math.unice.fr/~cbouveyr/MBCbook/)  
 [Rajamohan - Computational Statistics with PyMC3](https://sjster.github.io/introduction_to_computational_statistics/docs/index.html)  
@@ -106,7 +127,128 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Wickham - ggplot2: Elegant Graphics for Data Analysis, 2nd Ed.](https://ggplot2-book.org/)
 [Dougherty - Hands-On Data Visualization](https://handsondataviz.org/)  
 
-### Machine Learning
 
+### Machine Learning
+[Daume’ III - A Course in Machine Learning](http://ciml.info/)  
+[Simeone - A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/abs/1709.02840)  
+[Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
+[Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)  
+[Parr et al. - The Mechanics of Machine Learning](https://mlbook.explained.ai/)  
+[Barber - Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)  
+[Winn et al. - Model-Based Machine Learning](https://mbmlbook.com/index.html)  
+[Kriesel - A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)  
+[Molnar - Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)  
+[Battiti et al. - The LION Way. Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/)  
+[Burkov - The Hundred Pages Machine Learning Book](http://themlbook.com/wiki/doku.php)  
+[Bobra - Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/Introduction/title.html)  
+[Bishop - Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)  
+[Deisenroth et al. - Mathematics for Machine Learning](https://mml-book.github.io/)  
+[Rasmussen - Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)  
+[Murphy - Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/)  
+[Thakur - Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)  
+[Hardt et al. - Pattern, Predictions, and Actions](https://mlstory.org/index.html)  
+[Treveil et al. - Introducing MLOp](https://pages.dataiku.com/oreilly-introducing-mlops)  
+[Azencott - Introduction au Machine Learning](http://cazencott.info/)  
+[Mohri et al. - Foundations of Machine Learning, 2nd Ed.](https://cs.nyu.edu/~mohri/mlbook/)  
+[Gerrish - How Smart Machines Think](https://muse.jhu.edu/book/61941)  
+
+
+### Geographic Information Systems
+[Lovelace et al. - Geocomputation with R](https://geocompr.robinlovelace.net/)  
+[Bartlein - Geographic Data Analysis (with R)](https://pjbartlein.github.io/GeogDataAnalysis/index.html)  
+[Donnelly et al. - Introduction to GIS with QGIS](https://atcoordinates.files.wordpress.com/2021/06/intro_qgis_june2021.pdf)  
+[Hijmans - Spatial Data Science with R](https://rspatial.org/raster/index.html)  
+[Pebesma et al. - Spatial Data Science with Applications in R](https://keen-swartz-3146c4.netlify.app/)  
+[QGIS - A Gentle Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.html)  
+[Saylor Academy - Essential of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)  
+[Rey et al. - Geographic Data Science with PySAL and the PyData Stack](https://geographicdata.science/book/intro)  
+[ESRI - The ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book/)  
+[Vermeer - Geodesy](https://users.aalto.fi/~mvermeer/geodesy.pdf)  
+[Vermeer - Physical Geodesy](https://users.aalto.fi/~mvermeer/fys-en.pdf)  
+[Vermeer - Methods of Navigation](https://users.aalto.fi/~mvermeer/nav-en.pdf)    
+[Vermeer et al. - Digital Aerial Mapping: A Hands-On Course](https://users.aalto.fi/~mvermeer/book.pdf)  
+[Gimond - Introduction to GIS and Spatial Analysis (with R)](https://mgimond.github.io/Spatial/index.html)  
+
+### Genetic Programming
+[Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
+
+### Information Theory and Digital Signal Processing
+[MacKay - Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/book.html)  
+[Smith - The Scientist and Engineer’s Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)  
+[Vetterli - Foundation of Signal Processing](https://fourierandwavelets.org/)  
+[Prandoni et al. - Signal Processing for Communications](https://www.sp4comm.org/index.html)  
+[Peyre' et al. - Computational Optimal Transport](https://optimaltransport.github.io/book/)  
+[Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
+
+### Computer Vision and Computer Graphics
+[Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
+[Prince - Computer Vision: Models, Learning and Inference](http://www.computervisionmodels.com/)  
+[Hyvärinen et al. - Natural Image Statistics](https://www.cs.helsinki.fi/u/ahyvarin/natimgsx/)  
+[Solem - Programming Computer Vision with Python](http://programmingcomputervision.com/)  
+[Pharr et al. - Physically Based Rendering: From Theory to Implementation, 3rd Ed.](https://www.pbr-book.org/)  
+[Eck et al. - Introduction to Computer Graphics](https://open.umn.edu/opentextbooks/textbooks/420)  
+[Krig - Computer Vision Metrics](https://link.springer.com/book/10.1007/978-1-4302-5930-5)  
+
+### Information Retrieval
+[Manning et al. - Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)  
+
+### Natural Language Processing
+[Jurafsky et al. - Speech and Language Processing, 3r Ed. draft](https://web.stanford.edu/~jurafsky/slp3/)  
+[Silge et al. - Text Mining with R](https://www.tidytextmining.com/)  
+[Bird et al. - Natural Language Processing with Python](https://www.nltk.org/book/)  
+[Eisenstein - Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)  
+
+### Neural Networks, Deep Learning, and Reinforcement Learning
+[Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
+[Karpathy  - CS231n Convolutional Neural Network for Visual Recognition](https://cs231n.github.io/)  
+[Rojas - Neural Networks - A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/)  
+[Hagan et al. - Neural Network Design, 2nd edition](https://hagan.okstate.edu/nnd.html)  
+[Zhang et al. - Dive into Deep Learning](http://d2l.ai/index.html)  
+[Hamilton - Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)  
+[Howard et al. - Practical Deep Learning for Coders](https://course.fast.ai/)  
+[Ma et al. - Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/)  
+[LeCun et al. - Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)  
+[Bronstein et al. Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)  
+[Roberts et al. - The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)  
+[Sutton et al. - Reinforcement Learning, 2nd Ed.](http://incompleteideas.net/book/the-book-2nd.html)  
+[Francois-Lavet et al. - An Introduction to Deep Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)
+
+### Robotics
+[Lynch et al. - Modern Robotics - Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)  
+[Murray et al. - A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/index.php?title=Main_Page)  
+
+### Databases
+[Abiteboul - Foundation of Databases](http://webdam.inria.fr/Alice/)  
+
+### Software Engineering
+[Felleisen et al. - How to Design Programs](https://htdp.org/)  
+[The Architecture of Open Source Applications](http://aosabook.org/en/index.html)  
+[Adkins et al. - Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems/)  
+
+### Operating Systems
+[Arpaci-Dusseau et al. - Operating Systems: Three easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)  
+[Cooper - Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)  
+
+### Knowledge Representation, Semantic Web, and Linked Data
+[Bergman - A Knowledge Representation Practionary](https://www.mkbergman.com/a-knowledge-representation-practionary/)  
+[Heath et al. - Linked Data: Evolving the Web into a Global Data Space](http://linkeddatabook.com/editions/1.0/)  
+[Dodds et al. - Linked Data Patterns](https://patterns.dataincubator.org/book/)  
+[Hogan et al. - Knowledge Graphs](https://kgbook.org/)
+
+### Information Security
+[Anderson - Security Engineering, 2nd Edition](https://www.cl.cam.ac.uk/~rja14/book.html)  
+[Nakov - Practical Cryptography for Developers](https://cryptobook.nakov.com/)  
+[Van Houtven - Crypto 101](https://www.crypto101.io/)  
+[Boneh et al. - A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)  
+[Menezes - Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)  
+[Kohel - Cryptography](http://iml.univ-mrs.fr/~kohel/tch/M2-CryptoSymetrique/crypto.pdf)  
+
+
+   ***
 ## Mathematics
 [Vershynin - High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html)  
+### Graph Theory
+[Barabasi - Network Science](http://networksciencebook.com/)
+
+### Category Theory
+[Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
