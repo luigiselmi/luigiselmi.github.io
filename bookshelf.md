@@ -133,7 +133,6 @@ I am addicted to science and technology books. Fortunately, there are many autho
 ### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
 [Simeone - A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/abs/1709.02840)  
-[Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
 [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)  
 [Parr et al. - The Mechanics of Machine Learning](https://mlbook.explained.ai/)  
 [Barber - Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)  
@@ -324,3 +323,9 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 [Fong et al. - An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
 [Leinster - Basic category Theory](https://arxiv.org/abs/1612.09375)  
+
+## Finance and Economics
+[Welch - Corporate Finance, 4th Edition](https://book.ivo-welch.info/read/)
+[Heller - The Birth of Capitalism: A 21st Century Perspective](https://www.jstor.org/stable/j.ctt183p671)  
+[Lengwiler - Microfoundations of Financial Economics - An Introduction to General Equilibrium Asset Pricing](https://microfoundations.org/asset-pricing-book/)  
+ 
