@@ -326,6 +326,6 @@ I am addicted to science and technology books. Fortunately, there are many autho
 
    ***
 ## Finance and Economics
-[Welch - Corporate Finance, 4th Edition](https://book.ivo-welch.info/read/)
+[Welch - Corporate Finance, 4th Edition](https://book.ivo-welch.info/read/)  
 [Heller - The Birth of Capitalism: A 21st Century Perspective](https://www.jstor.org/stable/j.ctt183p671)  
 [Lengwiler - Microfoundations of Financial Economics - An Introduction to General Equilibrium Asset Pricing](https://microfoundations.org/asset-pricing-book/)  
