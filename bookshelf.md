@@ -323,8 +323,8 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Karlin - Game Theory, Alive](https://homes.cs.washington.edu/~karlin/)  
 
 ### Category Theory
-[Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
-[Fong et al. - An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
+[Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
+[Fong et al. - Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
 [Leinster - Basic category Theory](https://arxiv.org/abs/1612.09375)  
 
 
