@@ -257,6 +257,8 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Law et al. - Data Assimilation: A Mathematical Introduction](https://arxiv.org/abs/1506.07825)  
 [Lehman et al. - Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/)  
 [Gallier et al. Logic and Computation (Topology, Algebra, etc.)](https://www.cis.upenn.edu/~jean/gbooks/home.html)  
+[Magnus - forallX - An Introduction to Formal Logic](https://www.fecundity.com/logic/index.html)  
+
 
 ### Algebra
 [Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
