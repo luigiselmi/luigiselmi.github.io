@@ -13,7 +13,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 
 ### Geophysics and Remote Sensing
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
-[Earle - Physical Geology](https://opentextbc.ca/geology/)  
+[Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
 [Stocker - Introduction to Climate Modeling](https://climatehomes.unibe.ch/~stocker/publications21.html)  
 [Goosse et al. - Introduction to climate dynamics and climate modeling](http://www.climate.be/textbook/ebook.html)   
