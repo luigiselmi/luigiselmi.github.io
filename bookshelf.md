@@ -26,7 +26,8 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Jackson - Synthetic Aperture Radar - Marine User’s Manual](https://www.sarusersmanual.com/)  
 [Miller - Applied Radar Meteorology](https://vortex.plymouth.edu/~stmiller/stmiller_content/Publications/AppRadarMet_V1.5.2.pdf)  
 [Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
-[MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)   
+[MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
+[Bosboom et al. - Coastal Dynamics](https://open.umn.edu/opentextbooks/textbooks/coastal-dynamics)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
