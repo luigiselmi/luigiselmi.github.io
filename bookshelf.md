@@ -42,7 +42,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Watrous - The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/)  
 [Skinner - Principles of Quantum Mechanics](http://www.damtp.cam.ac.uk/user/dbs26/PQM.html)  
 [Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
-[Matuschak - Quantum Country - A free introduction to quantum computing and quantum mechanics](https://quantum.country/)  
+[Matuschak et al. - Quantum Country - A free introduction to quantum computing and quantum mechanics](https://quantum.country/)  
 
 ### Statistical Mechanics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
