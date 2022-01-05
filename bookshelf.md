@@ -38,10 +38,11 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
 
 
-### Quantum Mechanics
+### Quantum Mechanics and Quantum Computing
 [Watrous - The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/)  
 [Skinner - Principles of Quantum Mechanics](http://www.damtp.cam.ac.uk/user/dbs26/PQM.html)  
 [Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
+[Matuschak - Quantum Country - A free introduction to quantum computing and quantum mechanics](https://quantum.country/)  
 
 ### Statistical Mechanics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
@@ -216,11 +217,13 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Bronstein et al. Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)  
 [Roberts et al. - The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)  
 [Sutton et al. - Reinforcement Learning, 2nd Ed.](http://incompleteideas.net/book/the-book-2nd.html)  
-[Francois-Lavet et al. - An Introduction to Deep Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)
+[Francois-Lavet et al. - An Introduction to Deep Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)  
+[Nielsen - Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)  
 
-### Robotics
+### Artificial Intelligence and Robotics
 [Lynch et al. - Modern Robotics - Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)  
 [Murray et al. - A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/index.php?title=Main_Page)  
+[Nilsson - The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/)  
 
 ### Databases
 [Abiteboul - Foundation of Databases](http://webdam.inria.fr/Alice/)  
