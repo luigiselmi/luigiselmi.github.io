@@ -113,6 +113,9 @@ I am addicted to science and technology books. Fortunately, there are many autho
 #### Scala
 [Alexander - Scala Book](https://alvinalexander.com/scala/scala-book-free/)    
 
+### Java
+[Eck - Introduction to Programming Using Java, 8th Ed.](https://math.hws.edu/javanotes/)  
+
 ### Data Science
 [Pradhan et al. - R for Data Science](https://r4ds.had.co.nz/)  
 [VanderPlas - Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
@@ -270,7 +273,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Thomas - Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)  
 [Cherney et al. - Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
 [Treil - Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)  
-[Boyd et al. - Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)  
+[Boyd et al. - Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)  
 [Ash - Abstract Algebra: The Basic Graduate Year](https://faculty.math.illinois.edu/~r-ash/)  
 [O’Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
 
