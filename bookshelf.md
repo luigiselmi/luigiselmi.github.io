@@ -113,7 +113,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 #### Scala
 [Alexander - Scala Book](https://alvinalexander.com/scala/scala-book-free/)    
 
-### Java
+#### Java
 [Eck - Introduction to Programming Using Java, 8th Ed.](https://math.hws.edu/javanotes/)  
 
 ### Data Science
