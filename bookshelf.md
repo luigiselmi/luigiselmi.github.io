@@ -98,6 +98,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 
 ### Computer Programming
 [Stepanov et al. - Elements of Programming](http://elementsofprogramming.com/)  
+[Papert - Mindstorm - Children, Computers, and Powerful Ideas](https://mindstorms.media.mit.edu/)  
 
 #### R
 [Wickham - Advanced R, 2nd Ed.](https://adv-r.hadley.nz/index.html)  
