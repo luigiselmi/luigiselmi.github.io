@@ -187,8 +187,8 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Vetterli - Foundation of Signal Processing](https://fourierandwavelets.org/)  
 [Prandoni et al. - Signal Processing for Communications](https://www.sp4comm.org/index.html)  
 [Peyre' et al. - Computational Optimal Transport](https://optimaltransport.github.io/book/)  
-[Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)
-[Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)   
+[Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
+[Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)  
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
