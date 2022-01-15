@@ -45,6 +45,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Skinner - Principles of Quantum Mechanics](http://www.damtp.cam.ac.uk/user/dbs26/PQM.html)  
 [Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
 [Matuschak et al. - Quantum Country - A free introduction to quantum computing and quantum mechanics](https://quantum.country/)  
+[Wong - Introduction to Classical and Quantum Computing](http://www.thomaswong.net/)  
 
 ### Statistical Mechanics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
