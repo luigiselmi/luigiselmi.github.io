@@ -54,7 +54,6 @@ I am addicted to science and technology books. Fortunately, there are many autho
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
-[Kak et al. - Principles of Computerized Tomographic Imaging](http://www.slaney.org/pct/pct-toc.html)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.1](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v1)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.2](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v2)  
 
@@ -190,6 +189,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Peyre' et al. - Computational Optimal Transport](https://optimaltransport.github.io/book/)  
 [Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
 [Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)  
+[Kak et al. - Principles of Computerized Tomographic Imaging](http://www.slaney.org/pct/pct-toc.html)  
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
