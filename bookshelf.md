@@ -302,6 +302,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Goodman et al. - Probabilistic Models of Cognition](https://probmods.org/)  
 [Tanizaky - Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/cv-e.htm)  
 [Johnson - Bayes Rules ! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)  
+[Hyndman et al. - Forecasting: Principles and Practice, 3rd Ed.](https://otexts.com/fpp3/)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
