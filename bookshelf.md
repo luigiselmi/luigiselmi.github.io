@@ -5,7 +5,9 @@ permalink: /bookshelf
 ---
 ![Bookshelf](assets/bookshelf.jpg)
 
-I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their works available online for free.  
+I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their works available online for free.
+
+Last update: 20 January 2022  
 
 ## Physics
    ***
@@ -177,6 +179,7 @@ I am addicted to science and technology books. Fortunately, there are many autho
 [Vermeer - Methods of Navigation](https://users.aalto.fi/~mvermeer/nav-en.pdf)    
 [Vermeer et al. - Digital Aerial Mapping: A Hands-On Course](https://users.aalto.fi/~mvermeer/book.pdf)  
 [Gimond - Introduction to GIS and Spatial Analysis (with R)](https://mgimond.github.io/Spatial/index.html)  
+[Graham et al. - Geographies of Digital Exclusion](https://www.oii.ox.ac.uk/research/publications/geographies-of-digital-exclusion-data-and-inequality/)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
