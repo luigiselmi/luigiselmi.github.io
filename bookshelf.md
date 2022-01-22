@@ -39,7 +39,6 @@ Last update: 22 January 2022
 [Landau - A Survey on Computational Physics: Python Multimodal eBook](https://psrc.aapt.org/items/detail.cfm?ID=11578)  
 [Downey - Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)  
 [Shiffman - The Nature of Code](https://natureofcode.com/)      
-[Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
 
 
 ### Quantum Mechanics and Quantum Computing
@@ -122,6 +121,7 @@ Last update: 22 January 2022
 [Eck - Introduction to Programming Using Java, 8th Ed.](https://math.hws.edu/javanotes/)  
 
 ### Data Science
+[Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
 [Pradhan et al. - R for Data Science](https://r4ds.had.co.nz/)  
 [VanderPlas - Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 [Perlin - Analyzing Financial and Economic Data with R](https://www.msperlin.com/afedR/)  
