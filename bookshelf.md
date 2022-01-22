@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their works available online for free.
 
-Last update: 20 January 2022  
+Last update: 22 January 2022  
 
 ## Physics
    ***
@@ -97,7 +97,8 @@ Last update: 20 January 2022
 [Eijkhout - Introduction to High Performance Scientific Computing](https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html)  
 [Livermore Computing Center - Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial)  
 [Severance - High Performance Computing](https://cnx.org/contents/u4IVVH92@5.2:bEZZukPR@1/Introduction-to-the-Connexions-Edition)  
-
+[Shapira et al. - Kafka: The Definitive Guide, 2nd Ed.](https://www.confluent.io/resources/kafka-the-definitive-guide/)  
+[Kreps - I Heart Logs](https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/)  
 
 ### Computer Programming
 [Stepanov et al. - Elements of Programming](http://elementsofprogramming.com/)  
@@ -347,3 +348,7 @@ Last update: 20 January 2022
 [Welch - Corporate Finance, 4th Edition](https://book.ivo-welch.info/read/)  
 [Heller - The Birth of Capitalism: A 21st Century Perspective](https://www.jstor.org/stable/j.ctt183p671)  
 [Lengwiler - Microfoundations of Financial Economics - An Introduction to General Equilibrium Asset Pricing](https://microfoundations.org/asset-pricing-book/)  
+
+## Entrepreneurship, Project Management and Marketing
+   ***
+[Fandrey - Academic Slide Design](http://www.academicslidedesign.org/)  
