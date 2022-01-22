@@ -32,6 +32,7 @@ Last update: 22 January 2022
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
 [Bosboom et al. - Coastal Dynamics](https://open.umn.edu/opentextbooks/textbooks/coastal-dynamics)  
 [Stull - Practical Meteorology: An Algebra-based Survey of Atmospheric Science](https://www.eoas.ubc.ca/books/Practical_Meteorology/)  
+[Newman - Marine Hydrodynamics, 40th Anniversary Ed.](https://mitpress.mit.edu/books/marine-hydrodynamics-40th-anniversary-edition)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
@@ -98,8 +99,10 @@ Last update: 22 January 2022
 [Severance - High Performance Computing](https://cnx.org/contents/u4IVVH92@5.2:bEZZukPR@1/Introduction-to-the-Connexions-Edition)  
 [Shapira et al. - Kafka: The Definitive Guide, 2nd Ed.](https://www.confluent.io/resources/kafka-the-definitive-guide/)  
 [Kreps - I Heart Logs](https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/)  
+[Foster et al. - Cloud Computing for Science and Engineering](https://cloud4scieng.org/)  
 
 ### Computer Programming
+[Abelson et al. - Structure and Interpretation of Computer Programs, JavaScript Ed.](https://sourceacademy.org/sicpjs/index)  
 [Stepanov et al. - Elements of Programming](http://elementsofprogramming.com/)  
 [Papert - Mindstorm - Children, Computers, and Powerful Ideas](https://mindstorms.media.mit.edu/)  
 
