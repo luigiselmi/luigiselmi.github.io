@@ -184,6 +184,7 @@ Last update: 23 January 2022
 [Vermeer et al. - Digital Aerial Mapping: A Hands-On Course](https://users.aalto.fi/~mvermeer/book.pdf)  
 [Gimond - Introduction to GIS and Spatial Analysis (with R)](https://mgimond.github.io/Spatial/index.html)  
 [Graham et al. - Geographies of Digital Exclusion](https://www.oii.ox.ac.uk/research/publications/geographies-of-digital-exclusion-data-and-inequality/)  
+[Tiberius et al. - Surveying and Mapping](https://textbooks.open.tudelft.nl/textbooks/catalog/book/46)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
@@ -311,6 +312,7 @@ Last update: 23 January 2022
 [Tanizaky - Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/cv-e.htm)  
 [Johnson - Bayes Rules ! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)  
 [Hyndman et al. - Forecasting: Principles and Practice, 3rd Ed.](https://otexts.com/fpp3/)  
+[Martin et al. - Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
