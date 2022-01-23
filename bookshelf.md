@@ -136,7 +136,7 @@ Last update: 23 January 2022
 [Ranjan Das - Data Science: Theories, Models, Algorithms and Analytics](https://srdas.github.io/MLBook/)  
 [Bouveyron et al. - Model-Based Clustering and Classification for Data Science](https://math.unice.fr/~cbouveyr/MBCbook/)  
 [Rajamohan - Computational Statistics with PyMC3](https://sjster.github.io/introduction_to_computational_statistics/docs/index.html)  
-
+[McKinney - Python for Data Analysis, 3rd Ed.](https://wesmckinney.com/book/)  
 
 ### Data Visualization
 [Healy - Data Visualization - A Practical Introduction](https://socviz.co/)  
