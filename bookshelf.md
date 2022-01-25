@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Bookshelf
+title: Luigi's selection of free textbooks on science and technology
 permalink: /bookshelf
 ---
-![Luigi's selection of free textbooks on science and technology](assets/bookshelf.jpg)
+![Bookshelf](assets/bookshelf.jpg)
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their works available online for free.
 
