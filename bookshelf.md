@@ -242,7 +242,7 @@ Last update: 23 January 2022
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
-[The Architecture of Open Source Applications](http://aosabook.org/en/index.html)  
+[Brown et al. - The Architecture of Open Source Applications](http://aosabook.org/en/index.html)  
 [Adkins et al. - Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems/)  
 [Shapira et al. - Kafka: The Definitive Guide, 2nd Ed.](https://www.confluent.io/resources/kafka-the-definitive-guide/)  
 [Kreps - I Heart Logs](https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/)  
