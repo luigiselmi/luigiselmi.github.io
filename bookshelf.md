@@ -97,10 +97,6 @@ Last update: 23 January 2022
 [Eijkhout - Introduction to High Performance Scientific Computing](https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html)  
 [Livermore Computing Center - Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial)  
 [Severance - High Performance Computing](https://cnx.org/contents/u4IVVH92@5.2:bEZZukPR@1/Introduction-to-the-Connexions-Edition)  
-[Shapira et al. - Kafka: The Definitive Guide, 2nd Ed.](https://www.confluent.io/resources/kafka-the-definitive-guide/)  
-[Kreps - I Heart Logs](https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/)  
-[Foster et al. - Cloud Computing for Science and Engineering](https://cloud4scieng.org/)  
-[Fox et al. - Engineering Software as a Service: An Agile Approach Using Cloud Computing, 2nd Ed.](http://www.saasbook.info/)  
 
 ### Computer Programming
 [Abelson et al. - Structure and Interpretation of Computer Programs, JavaScript Ed.](https://sourceacademy.org/sicpjs/index)  
@@ -248,6 +244,10 @@ Last update: 23 January 2022
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)  
 [Adkins et al. - Building Secure and Reliable Systems](https://sre.google/books/building-secure-reliable-systems/)  
+[Shapira et al. - Kafka: The Definitive Guide, 2nd Ed.](https://www.confluent.io/resources/kafka-the-definitive-guide/)  
+[Kreps - I Heart Logs](https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/)  
+[Foster et al. - Cloud Computing for Science and Engineering](https://cloud4scieng.org/)  
+[Fox et al. - Engineering Software as a Service: An Agile Approach Using Cloud Computing, 2nd Ed.](http://www.saasbook.info/)  
 
 ### Operating Systems
 [Arpaci-Dusseau et al. - Operating Systems: Three easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)  
