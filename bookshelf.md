@@ -100,6 +100,7 @@ Last update: 23 January 2022
 [Shapira et al. - Kafka: The Definitive Guide, 2nd Ed.](https://www.confluent.io/resources/kafka-the-definitive-guide/)  
 [Kreps - I Heart Logs](https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/)  
 [Foster et al. - Cloud Computing for Science and Engineering](https://cloud4scieng.org/)  
+[Fox et al. - Engineering Software as a Service: An Agile Approach Using Cloud Computing, 2nd Ed.](http://www.saasbook.info/)  
 
 ### Computer Programming
 [Abelson et al. - Structure and Interpretation of Computer Programs, JavaScript Ed.](https://sourceacademy.org/sicpjs/index)  
