@@ -314,6 +314,7 @@ Last update: 25 January 2022
 [Johnson - Bayes Rules ! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)  
 [Hyndman et al. - Forecasting: Principles and Practice, 3rd Ed.](https://otexts.com/fpp3/)  
 [Martin et al. - Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  
+[Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
