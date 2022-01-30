@@ -127,7 +127,7 @@ Last update: 27 January 2022
 [Perlin - Analyzing Financial and Economic Data with R](https://www.msperlin.com/afedR/)  
 [Adhikari et al. - Computational and Inferential Thinking: The Foundations of Data Science, 2nd Ed.](https://inferentialthinking.com/chapters/intro.html)  
 [Zacharski - A Programmer’s Guide to Data Mining](http://guidetodatamining.com/)  
-[Jeroen - Data Science at the Command Line, 2nd Ed.](https://datascienceatthecommandline.com/)  
+[Janssens - Data Science at the Command Line, 2nd Ed.](https://datascienceatthecommandline.com/)  
 [Irizarry - Introduction to Data Science](https://rafalab.github.io/dsbook/)  
 [Blum et al. - Foundation of Data Science](https://www.cs.cornell.edu/jeh/)  
 [Ranjan Das - Data Science: Theories, Models, Algorithms and Analytics](https://srdas.github.io/MLBook/)  
