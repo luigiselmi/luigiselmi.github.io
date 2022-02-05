@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: 2 February 2022  
+Last update: 5 February 2022  
 
 ## Physics
    ***
@@ -48,6 +48,7 @@ Last update: 2 February 2022
 [Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
 [Matuschak et al. - Quantum Country - A free introduction to quantum computing and quantum mechanics](https://quantum.country/)  
 [Wong - Introduction to Classical and Quantum Computing](http://www.thomaswong.net/)  
+[Rovelli et al. - Covariant Loop Quantum Gravity](http://www.cpt.univ-mrs.fr/~rovelli/IntroductionLQG.pdf)  
 
 ### Statistical Mechanics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
