@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: 6 February 2022  
+Last update: 7 February 2022  
 
 ## Physics
    ***
@@ -168,6 +168,7 @@ Last update: 6 February 2022
 [Gerrish - How Smart Machines Think](https://muse.jhu.edu/book/61941)  
 [James et al. - An Introduction to Statistical Learning, 2nd Ed.](https://www.statlearning.com/)  
 [Hastie et al. - The Elements of Statistical Learning, 2nd Ed.](https://hastie.su.domains/ElemStatLearn/)  
+[Shalev-Shwartz et al. - Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)  
 
 ### Geographic Information Systems
 [Lovelace et al. - Geocomputation with R](https://geocompr.robinlovelace.net/)  
