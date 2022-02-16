@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: 7 February 2022  
+Last update: 16 February 2022  
 
 ## Physics
    ***
@@ -282,6 +282,9 @@ Last update: 7 February 2022
 [Gallier et al. Logic and Computation (Topology, Algebra, etc.)](https://www.cis.upenn.edu/~jean/gbooks/home.html)  
 [Magnus - forallX - An Introduction to Formal Logic](https://www.fecundity.com/logic/index.html)  
 [Abelson et al. - Turtle Geometry: The Computer as a Medium for Exploring Mathematics](https://doi.org/10.7551/mitpress/6933.001.0001)  
+
+### Numerical Methods
+[Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
 
 ### Algebra
 [Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
