@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: 16 February 2022  
+Last update: 26 February 2022  
 
 ## Physics
    ***
@@ -363,6 +363,7 @@ Last update: 16 February 2022
 [Welch - Corporate Finance, 4th Edition](https://book.ivo-welch.info/read/)  
 [Heller - The Birth of Capitalism: A 21st Century Perspective](https://www.jstor.org/stable/j.ctt183p671)  
 [Lengwiler - Microfoundations of Financial Economics - An Introduction to General Equilibrium Asset Pricing](https://microfoundations.org/asset-pricing-book/)  
+[The Core Team - The Economy](https://www.core-econ.org/the-economy/)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
