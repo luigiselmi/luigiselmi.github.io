@@ -169,6 +169,7 @@ Last update: 26 February 2022
 [James et al. - An Introduction to Statistical Learning, 2nd Ed.](https://www.statlearning.com/)  
 [Hastie et al. - The Elements of Statistical Learning, 2nd Ed.](https://hastie.su.domains/ElemStatLearn/)  
 [Shalev-Shwartz et al. - Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)  
+[Efron et al. - Computer Age Statistical Inference](https://hastie.su.domains/CASI/)  
 
 ### Geographic Information Systems
 [Lovelace et al. - Geocomputation with R](https://geocompr.robinlovelace.net/)  
