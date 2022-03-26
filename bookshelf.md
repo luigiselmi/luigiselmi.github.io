@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: February 28th 2022  
+Last update: March 26th 2022  
 
 ## Physics
    ***
@@ -121,6 +121,9 @@ Last update: February 28th 2022
 
 #### Java
 [Eck - Introduction to Programming Using Java, 8th Ed.](https://math.hws.edu/javanotes/)  
+
+#### Python
+[Kong et al. - Python Programming and Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)  
 
 ### Data Science
 [Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
