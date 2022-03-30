@@ -77,6 +77,7 @@ Last update: March 30th 2022
 [Rolls et al. - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
 
 ## Medicine
+   ***
 [World Health Organization - Manual of diagnostic ultrasound](https://www.who.int/publications/i/item/9241544619)  
 
 ## Computer Science
