@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: March 26th 2022  
+Last update: March 30th 2022  
 
 ## Physics
    ***
@@ -76,6 +76,8 @@ Last update: March 26th 2022
 [Rolls - Memory, Attention, and Decision-Making: a unifying computational neuroscience approach](https://www.oxcns.org/b8_text.html)  
 [Rolls et al. - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
 
+## Medicine
+[World Health Organization - Manual of diagnostic ultrasound](https://www.who.int/publications/i/item/9241544619)  
 
 ## Computer Science
    ***
