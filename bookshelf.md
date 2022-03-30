@@ -78,6 +78,7 @@ Last update: March 30th 2022
 
 ## Medicine
    ***
+[Betts et al. - Anatomy and Physiology](https://openstax.org/details/books/anatomy-and-physiology)  
 [World Health Organization - Manual of diagnostic ultrasound](https://www.who.int/publications/i/item/9241544619)  
 
 ## Computer Science
