@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: March 30th 2022  
+Last update: March 31st 2022  
 
 ## Physics
    ***
@@ -144,6 +144,7 @@ Last update: March 30th 2022
 [Rajamohan - Computational Statistics with PyMC3](https://sjster.github.io/introduction_to_computational_statistics/docs/index.html)  
 [McKinney - Python for Data Analysis, 3rd Ed.](https://wesmckinney.com/book/)  
 [Storopoli et al. - Julia Data Science](https://juliadatascience.io/)  
+[Wright et al. - High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/)  
 
 ### Data Visualization
 [Healy - Data Visualization - A Practical Introduction](https://socviz.co/)  
