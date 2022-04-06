@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: April 4th 2022  
+Last update: April 6th 2022  
 
 ## Physics
    ***
@@ -218,6 +218,7 @@ Last update: April 4th 2022
 [Pharr et al. - Physically Based Rendering: From Theory to Implementation, 3rd Ed.](https://www.pbr-book.org/)  
 [Eck et al. - Introduction to Computer Graphics](https://open.umn.edu/opentextbooks/textbooks/420)  
 [Krig - Computer Vision Metrics](https://link.springer.com/book/10.1007/978-1-4302-5930-5)  
+[McGuire - The Graphics Code](https://graphicscodex.courses.nvidia.com/app.html)  
 
 ### Information Retrieval
 [Manning et al. - Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)  
