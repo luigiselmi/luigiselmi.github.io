@@ -283,7 +283,6 @@ Last update: April 6th 2022
 [Kohel - Cryptography](http://iml.univ-mrs.fr/~kohel/tch/M2-CryptoSymetrique/crypto.pdf)  
 
 
-
 ## Mathematics
    ***
 [Russell - The Principles of Mathematics](https://people.umass.edu/klement/pom/)  
@@ -296,6 +295,7 @@ Last update: April 6th 2022
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
+[Linge et al. - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python](https://hplgit.github.io/prog4comp/index.html)  
 
 ### Algebra
 [Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
