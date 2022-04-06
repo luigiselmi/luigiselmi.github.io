@@ -274,7 +274,7 @@ Last update: April 6th 2022
 [Dodds et al. - Linked Data Patterns](https://patterns.dataincubator.org/book/)  
 [Hogan et al. - Knowledge Graphs](https://kgbook.org/)
 
-### Information Security
+### Cryptography and Information Security
 [Anderson - Security Engineering, 2nd Edition](https://www.cl.cam.ac.uk/~rja14/book.html)  
 [Nakov - Practical Cryptography for Developers](https://cryptobook.nakov.com/)  
 [Van Houtven - Crypto 101](https://www.crypto101.io/)  
