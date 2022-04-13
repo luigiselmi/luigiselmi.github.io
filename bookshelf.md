@@ -129,6 +129,8 @@ Last update: April 6th 2022
 
 #### Python
 [Kong et al. - Python Programming and Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)  
+[Sundnes - Introduction to Scientific Programming with Python](https://sundnes.github.io/python_intro/)  
+[Hill - Learning Scientific Programming with Python](https://scipython.com/)  
 
 ### Data Science
 [Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
