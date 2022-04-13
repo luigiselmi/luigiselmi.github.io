@@ -377,6 +377,7 @@ Last update: April 13th 2022
 [Heller - The Birth of Capitalism: A 21st Century Perspective](https://www.jstor.org/stable/j.ctt183p671)  
 [Lengwiler - Microfoundations of Financial Economics - An Introduction to General Equilibrium Asset Pricing](https://microfoundations.org/asset-pricing-book/)  
 [The Core Team - The Economy](https://www.core-econ.org/the-economy/)  
+[Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
