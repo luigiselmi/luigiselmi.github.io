@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: April 13th 2022  
+Last update: April 15th 2022  
 
 ## Physics
    ***
@@ -96,6 +96,7 @@ Last update: April 13th 2022
 [Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
 [Needham et al. - Graph Algorithms](https://neo4j.com/graph-algorithms-book/)  
 [Arndt - Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtpage.html)  
+[Sanders et al. - Sequential and Parallel Algorithms and Data Structures](https://people.mpi-inf.mpg.de/~mehlhorn/ToolboxNew.html)  
 
 ### Distributed Systems and High Performance Computing
 [van Steen et al. - Computer and Network Organization](https://www.distributed-systems.net/index.php/books/computer-and-network-organization/)  
