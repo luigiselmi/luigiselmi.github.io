@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: April 15th 2022  
+Last update: April 16th 2022  
 
 ## Physics
    ***
@@ -248,6 +248,7 @@ Last update: April 15th 2022
 [Sutton et al. - Reinforcement Learning, 2nd Ed.](http://incompleteideas.net/book/the-book-2nd.html)  
 [Francois-Lavet et al. - An Introduction to Deep Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)  
 [Nielsen - Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)  
+[Bertsekas - Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control](http://web.mit.edu/dimitrib/www/RLbook.html)  
 
 ### Artificial Intelligence and Robotics
 [Lynch et al. - Modern Robotics - Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)  
