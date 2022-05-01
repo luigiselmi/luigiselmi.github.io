@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: April 16th 2022  
+Last update: May 1st 2022  
 
 ## Physics
    ***
@@ -191,7 +191,7 @@ Last update: April 16th 2022
 [Pebesma et al. - Spatial Data Science with Applications in R](https://keen-swartz-3146c4.netlify.app/)  
 [QGIS - A Gentle Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.html)  
 [Saylor Academy - Essential of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)  
-[Rey et al. - Geographic Data Science with PySAL and the PyData Stack](https://geographicdata.science/book/intro)  
+[Rey et al. - Geographic Data Science with Python](https://geographicdata.science/book/intro)  
 [Vermeer - Geodesy](https://users.aalto.fi/~mvermeer/geodesy.pdf)  
 [Vermeer - Physical Geodesy](https://users.aalto.fi/~mvermeer/fys-en.pdf)  
 [Vermeer - Methods of Navigation](https://users.aalto.fi/~mvermeer/nav-en.pdf)    
@@ -314,6 +314,7 @@ Last update: April 16th 2022
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
 [Axler - Measure, Integration & Real Analysis](https://measure.axler.net/)  
 [Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)
+[Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
 
 ### Topology
 [Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
