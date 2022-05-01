@@ -313,7 +313,7 @@ Last update: May 1st 2022
 ### Calculus
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
 [Axler - Measure, Integration & Real Analysis](https://measure.axler.net/)  
-[Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)
+[Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)  
 [Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
 
 ### Topology
