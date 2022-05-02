@@ -135,7 +135,7 @@ Last update: May 1st 2022
 
 ### Data Science
 [Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
-[Pradhan et al. - R for Data Science](https://r4ds.had.co.nz/)  
+[Wickham et al. - R for Data Science](https://r4ds.had.co.nz/)  
 [VanderPlas - Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 [Perlin - Analyzing Financial and Economic Data with R](https://www.msperlin.com/afedR/)  
 [Adhikari et al. - Computational and Inferential Thinking: The Foundations of Data Science, 2nd Ed.](https://inferentialthinking.com/chapters/intro.html)  
