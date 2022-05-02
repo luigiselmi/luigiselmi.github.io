@@ -291,7 +291,7 @@ Last update: May 2nd, 2022
 
 ## Mathematics
    ***
-## Foundations and Logic
+### Foundations and Logic
 [Russell - The Principles of Mathematics](https://people.umass.edu/klement/pom/)  
 [Jarvis et al. - Foundations of Applied Mathematics](https://foundations-of-applied-mathematics.github.io/)    
 [Gallier et al. Logic and Computation (Topology, Algebra, etc.)](https://www.cis.upenn.edu/~jean/gbooks/home.html)  
