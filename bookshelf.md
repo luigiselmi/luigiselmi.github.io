@@ -93,7 +93,6 @@ Last update: May 2nd, 2022
 [Wigderson - Mathematics and Computation](https://www.math.ias.edu/avi/book)  
 [Schloss et al. - Algorithm Archive](https://www.algorithm-archive.org/)  
 [Kochenderfer et al. - Algorithms for Decision Making](https://algorithmsbook.com/)  
-[Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
 [Needham et al. - Graph Algorithms](https://neo4j.com/graph-algorithms-book/)  
 [Arndt - Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtpage.html)  
 [Sanders et al. - Sequential and Parallel Algorithms and Data Structures](https://people.mpi-inf.mpg.de/~mehlhorn/ToolboxNew.html)  
@@ -356,6 +355,7 @@ Last update: May 2nd, 2022
 ### Optimization and Linear Programming
 [Dantzig - Linear Programming and Extensions](https://www.rand.org/pubs/reports/R366.html)  
 [Vishnoi - Algorithms for Convex Optimization](https://convex-optimization.github.io/)  
+[Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
