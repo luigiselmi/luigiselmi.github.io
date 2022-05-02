@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: May 1st 2022  
+Last update: May 2nd, 2022  
 
 ## Physics
    ***
@@ -149,6 +149,8 @@ Last update: May 1st 2022
 [McKinney - Python for Data Analysis, 3rd Ed.](https://wesmckinney.com/book/)  
 [Storopoli et al. - Julia Data Science](https://juliadatascience.io/)  
 [Wright et al. - High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/)  
+[Law et al. - Data Assimilation: A Mathematical Introduction](https://arxiv.org/abs/1506.07825)  
+[Lehman et al. - Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/)
 
 ### Data Visualization
 [Healy - Data Visualization - A Practical Introduction](https://socviz.co/)  
@@ -289,13 +291,14 @@ Last update: May 1st 2022
 
 ## Mathematics
    ***
+## Foundations and Logic
 [Russell - The Principles of Mathematics](https://people.umass.edu/klement/pom/)  
-[Jarvis et al. - Foundations of Applied Mathematics](https://foundations-of-applied-mathematics.github.io/)  
-[Law et al. - Data Assimilation: A Mathematical Introduction](https://arxiv.org/abs/1506.07825)  
-[Lehman et al. - Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/)  
+[Jarvis et al. - Foundations of Applied Mathematics](https://foundations-of-applied-mathematics.github.io/)    
 [Gallier et al. Logic and Computation (Topology, Algebra, etc.)](https://www.cis.upenn.edu/~jean/gbooks/home.html)  
 [Magnus - forallX - An Introduction to Formal Logic](https://www.fecundity.com/logic/index.html)  
 [Abelson et al. - Turtle Geometry: The Computer as a Medium for Exploring Mathematics](https://doi.org/10.7551/mitpress/6933.001.0001)  
+[Smith - Beginning Mathematical Logic: A Study Guide](https://www.logicmatters.net/tyl/)  
+[Smith - An Introduction to Formal Logic, 2ns Edition](https://www.logicmatters.net/ifl/)  
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
@@ -372,6 +375,7 @@ Last update: May 1st 2022
 [Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
 [Fong et al. - Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
 [Leinster - Basic category Theory](https://arxiv.org/abs/1612.09375)  
+[Smith - Beginning Category Theory](https://www.logicmatters.net/categories/)  
 
 
 ## Finance and Economics
