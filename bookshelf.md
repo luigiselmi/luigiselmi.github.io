@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: May 2nd, 2022  
+Last update: May 9th, 2022  
 
 ## Physics
    ***
@@ -107,6 +107,7 @@ Last update: May 2nd, 2022
 
 ### Computer Programming
 [Abelson et al. - Structure and Interpretation of Computer Programs, JavaScript Ed.](https://sourceacademy.org/sicpjs/index)  
+[Cooper et al. - Engineering a Compiler](https://dl.acm.org/doi/10.5555/2737838)  
 [Stepanov et al. - Elements of Programming](http://elementsofprogramming.com/)  
 [Papert - Mindstorm - Children, Computers, and Powerful Ideas](https://mindstorms.media.mit.edu/)  
 
