@@ -40,6 +40,7 @@ Last update: May 9th, 2022
 [Landau - A Survey on Computational Physics: Python Multimodal eBook](https://psrc.aapt.org/items/detail.cfm?ID=11578)  
 [Downey - Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)  
 [Shiffman - The Nature of Code](https://natureofcode.com/)      
+[Wolfram - A New Kind of Science](https://www.wolframscience.com/nks/)  
 
 
 ### Quantum Mechanics and Quantum Computing
