@@ -359,6 +359,7 @@ Last update: May 14th, 2022
 [Vishnoi - Algorithms for Convex Optimization](https://convex-optimization.github.io/)  
 [Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
 [Fourer et al. - AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)  
+[Sallan et al. - Modeling and solving linear programming with R](https://upcommons.upc.edu/handle/2117/78335)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
