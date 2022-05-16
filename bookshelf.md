@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: May 14th, 2022  
+Last update: May 16th, 2022  
 
 ## Physics
    ***
@@ -358,6 +358,7 @@ Last update: May 14th, 2022
 [Vishnoi - Algorithms for Convex Optimization](https://convex-optimization.github.io/)  
 [Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
 [Kochenderfer et al. - Algorithms for Decision Making](https://algorithmsbook.com/)  
+[Kochenderfer et al. - Decision Making Under Uncertainty](https://mykel.kochenderfer.com/textbooks/)  
 [Fourer et al. - AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)  
 [Sallan et al. - Modeling and solving linear programming with R](https://upcommons.upc.edu/handle/2117/78335)  
 
