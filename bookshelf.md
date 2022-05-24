@@ -362,6 +362,8 @@ Last update: May 24th, 2022
 [Fourer et al. - AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)  
 [Sallan et al. - Modeling and solving linear programming with R](https://upcommons.upc.edu/handle/2117/78335)  
 [Liberti - Mathematical Programming](https://www.lix.polytechnique.fr/~liberti/teaching/dix/inf580-15/mathprog.pdf)  
+[Boyd et al. - Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)  
+[Dattorro - Convex Optimization and Euclidean Distance Geometry](https://meboo.convexoptimization.com/access.html)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
