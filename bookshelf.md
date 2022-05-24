@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: May 16th, 2022  
+Last update: May 24th, 2022  
 
 ## Physics
    ***
@@ -361,6 +361,7 @@ Last update: May 16th, 2022
 [Kochenderfer et al. - Decision Making Under Uncertainty](https://mykel.kochenderfer.com/textbooks/)  
 [Fourer et al. - AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)  
 [Sallan et al. - Modeling and solving linear programming with R](https://upcommons.upc.edu/handle/2117/78335)  
+[Liberti - Mathematical Programming](https://www.lix.polytechnique.fr/~liberti/teaching/dix/inf580-15/mathprog.pdf)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
