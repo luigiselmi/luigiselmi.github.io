@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: May 24th, 2022  
+Last update: June 3rd, 2022  
 
 ## Physics
    ***
@@ -341,6 +341,7 @@ Last update: May 24th, 2022
 [Hyndman et al. - Forecasting: Principles and Practice, 3rd Ed.](https://otexts.com/fpp3/)  
 [Martin et al. - Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  
 [Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
+[Wilf - generatingfunctionology, 2nd Edition](https://www2.math.upenn.edu/~wilf/DownldGF.html)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
