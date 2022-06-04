@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 3rd, 2022  
+Last update: June 4th, 2022  
 
 ## Physics
    ***
@@ -41,6 +41,7 @@ Last update: June 3rd, 2022
 [Downey - Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)  
 [Shiffman - The Nature of Code](https://natureofcode.com/)      
 [Wolfram - A New Kind of Science](https://www.wolframscience.com/nks/)  
+[Zanghi - Appunti di Metodi Matematici della Fisica (in Italian)](https://www.ge.infn.it/~zanghi/metodi/mm2015.html)  
 
 
 ### Quantum Mechanics and Quantum Computing
@@ -342,6 +343,7 @@ Last update: June 3rd, 2022
 [Martin et al. - Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  
 [Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
 [Wilf - generatingfunctionology, 2nd Edition](https://www2.math.upenn.edu/~wilf/DownldGF.html)  
+[Popov - Two-Dimensional Random Walk](https://www.ime.unicamp.br/~popov/2srw.pdf)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
