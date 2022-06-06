@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 4th, 2022  
+Last update: June 6th, 2022  
 
 ## Physics
    ***
@@ -42,6 +42,7 @@ Last update: June 4th, 2022
 [Shiffman - The Nature of Code](https://natureofcode.com/)      
 [Wolfram - A New Kind of Science](https://www.wolframscience.com/nks/)  
 [Zanghi - Appunti di Metodi Matematici della Fisica (in Italian)](https://www.ge.infn.it/~zanghi/metodi/mm2015.html)  
+[Lienhard IV et al. - A Heat Transfer Textbook, 5th Ed.](https://ahtt.mit.edu/)  
 
 
 ### Quantum Mechanics and Quantum Computing
