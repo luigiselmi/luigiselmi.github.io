@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 6th, 2022  
+Last update: June 8th, 2022  
 
 ## Physics
    ***
@@ -212,7 +212,6 @@ Last update: June 6th, 2022
 [Smith - The Scientist and Engineer’s Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)  
 [Vetterli - Foundation of Signal Processing](https://fourierandwavelets.org/)  
 [Prandoni et al. - Signal Processing for Communications](https://www.sp4comm.org/index.html)  
-[Peyre' et al. - Computational Optimal Transport](https://optimaltransport.github.io/book/)  
 [Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
 [Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)  
 [Kak et al. - Principles of Computerized Tomographic Imaging](http://www.slaney.org/pct/pct-toc.html)  
@@ -368,6 +367,8 @@ Last update: June 6th, 2022
 [Liberti - Mathematical Programming](https://www.lix.polytechnique.fr/~liberti/teaching/dix/inf580-15/mathprog.pdf)  
 [Boyd et al. - Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)  
 [Dattorro - Convex Optimization and Euclidean Distance Geometry](https://meboo.convexoptimization.com/access.html)  
+[Villani - Optimal Transport, old and new](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf)  
+[Peyre' et al. - Computational Optimal Transport](https://optimaltransport.github.io/book/)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
