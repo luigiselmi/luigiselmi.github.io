@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 8th, 2022  
+Last update: June 11th, 2022  
 
 ## Physics
    ***
@@ -304,6 +304,7 @@ Last update: June 8th, 2022
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
 [Linge et al. - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python](https://hplgit.github.io/prog4comp/index.html)  
+[Moler - Numerical Computing with MATLAB](https://it.mathworks.com/moler/chapters.html)    
 
 ### Algebra
 [Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
