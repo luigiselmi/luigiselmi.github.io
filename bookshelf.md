@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 11th, 2022  
+Last update: June 14th, 2022  
 
 ## Physics
    ***
@@ -320,6 +320,7 @@ Last update: June 11th, 2022
 [Axler - Measure, Integration & Real Analysis](https://measure.axler.net/)  
 [Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)  
 [Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
+[Dawkins - Paul's Online Math Notes](https://tutorial.math.lamar.edu/)  
 
 ### Topology
 [Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
