@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 15th, 2022  
+Last update: June 16th, 2022  
 
 ## Physics
    ***
@@ -215,6 +215,7 @@ Last update: June 15th, 2022
 [Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
 [Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)  
 [Kak et al. - Principles of Computerized Tomographic Imaging](http://www.slaney.org/pct/pct-toc.html)  
+[Gallager - Principles of Digital Communication](https://ocw.mit.edu/courses/6-450-principles-of-digital-communications-i-fall-2006/)  
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
@@ -346,6 +347,7 @@ Last update: June 15th, 2022
 [Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
 [Wilf - generatingfunctionology, 2nd Edition](https://www2.math.upenn.edu/~wilf/DownldGF.html)  
 [Popov - Two-Dimensional Random Walk](https://www.ime.unicamp.br/~popov/2srw.pdf)  
+[Gallager - Discrete Stochastic Processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
