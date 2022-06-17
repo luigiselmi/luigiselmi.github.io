@@ -33,6 +33,7 @@ Last update: June 16th, 2022
 [Bosboom et al. - Coastal Dynamics](https://open.umn.edu/opentextbooks/textbooks/coastal-dynamics)  
 [Stull - Practical Meteorology: An Algebra-based Survey of Atmospheric Science](https://www.eoas.ubc.ca/books/Practical_Meteorology/)  
 [Newman - Marine Hydrodynamics, 40th Anniversary Ed.](https://mitpress.mit.edu/books/marine-hydrodynamics-40th-anniversary-edition)  
+[Hanna et al. - Handbook on Atmospheric Diffusion](https://www.osti.gov/biblio/5591108/)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
