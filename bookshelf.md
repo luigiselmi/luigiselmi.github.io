@@ -377,6 +377,7 @@ Last update: June 24th, 2022
 [Dattorro - Convex Optimization and Euclidean Distance Geometry](https://meboo.convexoptimization.com/access.html)  
 [Villani - Optimal Transport, old and new](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf)  
 [Peyre' et al. - Computational Optimal Transport](https://optimaltransport.github.io/book/)  
+[Liberzon - Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc.pdf)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
