@@ -7,11 +7,14 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 16th, 2022  
+Last update: June 24th, 2022  
 
 ## Physics
    ***
 [Feynman et al. - The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)  
+
+### Classical Physics
+[Cline - Variational Principles in Classical Mechanics, 3rd Ed.](http://classicalmechanics.lib.rochester.edu/)  
 
 ### Geophysics and Remote Sensing
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
