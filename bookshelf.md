@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 24th, 2022  
+Last update: June 26th, 2022  
 
 ## Physics
    ***
