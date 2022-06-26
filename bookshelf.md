@@ -310,6 +310,7 @@ Last update: June 26th, 2022
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
 [Linge et al. - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python](https://hplgit.github.io/prog4comp/index.html)  
 [Moler - Numerical Computing with MATLAB](https://it.mathworks.com/moler/chapters.html)    
+[Wick - Numerical Methods for Partial Differential Equations](http://www.thomaswick.org/links/lecture_notes_Numerics_PDEs_Oct_12_2019.pdf)  
 
 ### Algebra
 [Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
