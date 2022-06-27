@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 26th, 2022  
+Last update: June 27th, 2022  
 
 ## Physics
    ***
@@ -207,6 +207,7 @@ Last update: June 26th, 2022
 [Gimond - Introduction to GIS and Spatial Analysis (with R)](https://mgimond.github.io/Spatial/index.html)  
 [Graham et al. - Geographies of Digital Exclusion](https://www.oii.ox.ac.uk/research/publications/geographies-of-digital-exclusion-data-and-inequality/)  
 [Tiberius et al. - Surveying and Mapping](https://textbooks.open.tudelft.nl/textbooks/catalog/book/46)  
+[INSEE - Handbook of Spatial Analysis - Theory and Application with R](https://www.insee.fr/en/information/3635545)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
