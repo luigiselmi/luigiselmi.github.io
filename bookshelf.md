@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: June 27th, 2022  
+Last update: July 4th, 2022  
 
 ## Physics
    ***
@@ -37,6 +37,8 @@ Last update: June 27th, 2022
 [Stull - Practical Meteorology: An Algebra-based Survey of Atmospheric Science](https://www.eoas.ubc.ca/books/Practical_Meteorology/)  
 [Newman - Marine Hydrodynamics, 40th Anniversary Ed.](https://mitpress.mit.edu/books/marine-hydrodynamics-40th-anniversary-edition)  
 [Hanna et al. - Handbook on Atmospheric Diffusion](https://www.osti.gov/biblio/5591108/)  
+[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
+[Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
