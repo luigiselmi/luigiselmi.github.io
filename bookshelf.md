@@ -39,6 +39,7 @@ Last update: July 4th, 2022
 [Hanna et al. - Handbook on Atmospheric Diffusion](https://www.osti.gov/biblio/5591108/)  
 [Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
 [Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
+[LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
@@ -330,6 +331,7 @@ Last update: July 4th, 2022
 [Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)  
 [Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
 [Dawkins - Paul's Online Math Notes](https://tutorial.math.lamar.edu/)  
+[Heinbockel - Introduction to Tensor Calculus and Continuum Mechanics](https://vtk.ugent.be/w/images/9/96/Wiskundige_ingenieurstechnieken_-_Introduction_to_Tensor_Calculus.pdf)  
 
 ### Topology
 [Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
