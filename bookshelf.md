@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: July 8th, 2022  
+Last update: July 9th, 2022  
 
 ## Physics
    ***
@@ -281,6 +281,7 @@ Last update: July 8th, 2022
 [Kreps - I Heart Logs](https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration/)  
 [Foster et al. - Cloud Computing for Science and Engineering](https://cloud4scieng.org/)  
 [Fox et al. - Engineering Software as a Service: An Agile Approach Using Cloud Computing, 2nd Ed.](http://www.saasbook.info/)  
+[Burns et al. Kubernetes Up and Running, 2nd Ed.](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmware-kubernetes-up-running-dive-into-the-future-of-infrastructure.pdf)  
 
 ### Operating Systems
 [Arpaci-Dusseau et al. - Operating Systems: Three easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)  
