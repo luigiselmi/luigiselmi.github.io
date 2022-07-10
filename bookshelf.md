@@ -283,7 +283,7 @@ Last update: July 10th, 2022
 [Fox et al. - Engineering Software as a Service: An Agile Approach Using Cloud Computing, 2nd Ed.](http://www.saasbook.info/)  
 [Burns et al. Kubernetes Up and Running, 2nd Ed.](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmware-kubernetes-up-running-dive-into-the-future-of-infrastructure.pdf)  
 [Beyer et al. - Site Relialability Engineering: How Google Runs Production Systems](https://sre.google/sre-book/table-of-contents/)  
-[Beyer et al. The Site Reliability Workbook: Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/)  
+[Beyer et al. - The Site Reliability Workbook: Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/)  
 
 ### Operating Systems
 [Arpaci-Dusseau et al. - Operating Systems: Three easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)  
