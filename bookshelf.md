@@ -168,6 +168,7 @@ Last update: July 10th, 2022
 [Wilke - Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)  
 [Wickham - ggplot2: Elegant Graphics for Data Analysis, 2nd Ed.](https://ggplot2-book.org/)    
 [Dougherty - Hands-On Data Visualization](https://handsondataviz.org/)  
+[Spencer - Data in Wonderland](https://ssp3nc3r.github.io/data_in_wonderland/)  
 
 ### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
