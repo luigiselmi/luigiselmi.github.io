@@ -67,6 +67,7 @@ Last update: July 11th, 2022
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
 [Goodstein - States of Matter](http://xn--webducation-dbb.com/book-states-of-matter-by-david-l-goodstein-pdf/)  
 [Tong - Lectures on Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys.html)  
+[Sethna - Statistical Mechanics: Entropy, Order Parameters, and Complexity, 2nd Ed.](https://sethna.lassp.cornell.edu/StatMech/)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
