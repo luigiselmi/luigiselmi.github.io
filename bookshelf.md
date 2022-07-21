@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: July 13th, 2022  
+Last update: July 21st, 2022  
 
 ## Physics
    ***
@@ -41,6 +41,7 @@ Last update: July 13th, 2022
 [Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
 [LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
 [Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
+[Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)    
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
