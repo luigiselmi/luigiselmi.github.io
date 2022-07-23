@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: July 21st, 2022  
+Last update: July 23rd, 2022  
 
 ## Physics
    ***
@@ -348,6 +348,7 @@ Last update: July 21st, 2022
 [Morris - Topology without tears](https://www.topologywithouttears.net/)  
 [Hatcher - Algebraic Topology](https://pi.math.cornell.edu/~hatcher/)  
 [Bradley et al. - Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)  
+[Dey et al. - Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html)  
 
 ### Probability and Statistics
 [Gelman et al. - Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/)  
