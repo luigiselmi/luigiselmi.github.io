@@ -349,6 +349,7 @@ Last update: July 23rd, 2022
 [Hatcher - Algebraic Topology](https://pi.math.cornell.edu/~hatcher/)  
 [Bradley et al. - Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)  
 [Dey et al. - Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html)  
+[Edelsbrunner et al. - Computational Topology: An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf)  
 
 ### Probability and Statistics
 [Gelman et al. - Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/)  
