@@ -163,7 +163,9 @@ Last update: July 23rd, 2022
 [Storopoli et al. - Julia Data Science](https://juliadatascience.io/)  
 [Wright et al. - High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/)  
 [Law et al. - Data Assimilation: A Mathematical Introduction](https://arxiv.org/abs/1506.07825)  
-[Lehman et al. - Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/)
+[Lehman et al. - Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/)  
+[Peyre' - Mathematical Foundations of Data Science](https://mathematical-tours.github.io/book/)  
+[Peyre' - An Introduction to Data Sciences](https://mathematical-tours.github.io/book-basics/)  
 
 ### Data Visualization
 [Healy - Data Visualization - A Practical Introduction](https://socviz.co/)  
@@ -229,6 +231,7 @@ Last update: July 23rd, 2022
 [Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)  
 [Kak et al. - Principles of Computerized Tomographic Imaging](http://www.slaney.org/pct/pct-toc.html)  
 [Gallager - Principles of Digital Communication](https://ocw.mit.edu/courses/6-450-principles-of-digital-communications-i-fall-2006/)  
+[Peyre' - The Discrete Algebra of the Fourier Transform](https://mathematical-tours.github.io/daft/)  
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
