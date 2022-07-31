@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: July 26th, 2022  
+Last update: July 31st, 2022  
 
 ## Physics
    ***
@@ -42,6 +42,8 @@ Last update: July 26th, 2022
 [LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
 [Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)    
+[Lalic et al. - Agricultural Meteorology and Climatology](https://books.fupress.com/catalogue/agricultural-meteorology-and-climatology/3808)  
+[Sozzi - La Micrometeorologia e la Dispersione degli Inquinanti in Aria (Italian)](http://www.arpat.toscana.it/temi-ambientali/aria/modellistica-per-la-qualita-dellaria/linee-guida/apat-micrometeorologia.pdf)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
@@ -414,6 +416,7 @@ Last update: July 26th, 2022
 [Dresher - Games of Strategy - Theory and Applications](https://www.rand.org/content/dam/rand/pubs/commercial_books/2007/RAND_CB149-1.pdf)  
 [Shoham - Multiagent Systems](http://www.masfoundations.org/mas.pdf)  
 [Karlin - Game Theory, Alive](https://homes.cs.washington.edu/~karlin/)  
+[Osborne - Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/)  
 
 ### Category Theory
 [Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
