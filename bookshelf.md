@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: July 31st, 2022  
+Last update: August 7th, 2022  
 
 ## Physics
    ***
@@ -32,7 +32,6 @@ Last update: July 31st, 2022
 [Jackson - Synthetic Aperture Radar - Marine User’s Manual](https://www.sarusersmanual.com/)  
 [Miller - Applied Radar Meteorology](https://vortex.plymouth.edu/~stmiller/stmiller_content/Publications/AppRadarMet_V1.5.2.pdf)  
 [Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
-[MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
 [Bosboom et al. - Coastal Dynamics](https://open.umn.edu/opentextbooks/textbooks/coastal-dynamics)  
 [Stull - Practical Meteorology: An Algebra-based Survey of Atmospheric Science](https://www.eoas.ubc.ca/books/Practical_Meteorology/)  
 [Newman - Marine Hydrodynamics, 40th Anniversary Ed.](https://mitpress.mit.edu/books/marine-hydrodynamics-40th-anniversary-edition)  
@@ -76,6 +75,10 @@ Last update: July 31st, 2022
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.1](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v1)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.2](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v2)  
+
+## Climate Change and Environmental Sustainability
+[MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
+[Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
 
 ## Biology
    ***
@@ -277,6 +280,7 @@ Last update: July 31st, 2022
 [Lynch et al. - Modern Robotics - Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)  
 [Murray et al. - A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/index.php?title=Main_Page)  
 [Nilsson - The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/)  
+[Cangelosi et al. - Cognitive Robotics](https://direct.mit.edu/books/oa-edited-volume/5331/Cognitive-Robotics)  
 
 ### Databases
 [Abiteboul - Foundation of Databases](http://webdam.inria.fr/Alice/)  
