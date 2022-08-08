@@ -51,7 +51,7 @@ From the analysis of the problem under the geophysical aspect, if we accept what
 
 P.S.: the amount of $CO_2$ in the atmosphere in 2022 is 418 ppm, an increase of 31 ppm in less than 13 years since the time the post was written, 2.4 ppm per year.
 
-[Climate Change Recap, Part 2: Solutions](https://www.luigiselmi.eu/copernicus/climate_change_recap1.html)
+[Climate Change Recap, Part 2: Solutions](https://www.luigiselmi.eu/copernicus/climate_change_recap2.html)
 
 ## References
 * [James E. Hansen, Makiko Sato - Paleoclimate Implications for Human-Made Climate Change](https://arxiv.org/abs/1105.0968)  
