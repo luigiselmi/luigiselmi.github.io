@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology books. Fortunately, there are many authors that kindly have made their work available online for free.
 
-Last update: August 8th, 2022  
+Last update: August 9th, 2022  
 
 ## Physics
    ***
@@ -44,6 +44,7 @@ Last update: August 8th, 2022
 [Lalic et al. - Agricultural Meteorology and Climatology](https://books.fupress.com/catalogue/agricultural-meteorology-and-climatology/3808)  
 [Sozzi - La Micrometeorologia e la Dispersione degli Inquinanti in Aria (Italian)](http://www.arpat.toscana.it/temi-ambientali/aria/modellistica-per-la-qualita-dellaria/linee-guida/apat-micrometeorologia.pdf)  
 [Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
+[Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
