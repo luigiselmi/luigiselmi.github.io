@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made textbooks available online for free.
 
-Last update: August 9th, 2022  
+Last update: August 10th, 2022  
 
 ## Physics
    ***
@@ -152,6 +152,7 @@ Last update: August 9th, 2022
 [Kong et al. - Python Programming and Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)  
 [Sundnes - Introduction to Scientific Programming with Python](https://sundnes.github.io/python_intro/)  
 [Hill - Learning Scientific Programming with Python](https://scipython.com/)  
+[Sargent et al. - Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)  
 
 ### Data Science
 [Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
@@ -438,6 +439,9 @@ Last update: August 9th, 2022
 [Lengwiler - Microfoundations of Financial Economics - An Introduction to General Equilibrium Asset Pricing](https://microfoundations.org/asset-pricing-book/)  
 [The Core Team - The Economy](https://www.core-econ.org/the-economy/)  
 [Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
+[Stachurski et al. - Economic Networks - Theory and Computation](https://networks.quantecon.org/)  
+[Sargent et al. - Quantitative Economics with Python](https://python.quantecon.org/intro.html)  
+[Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
