@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made textbooks available online for free.
 
-Last update: August 10th, 2022  
+Last update: August 11th, 2022  
 
 ## Physics
    ***
@@ -208,6 +208,7 @@ Last update: August 10th, 2022
 [Hastie et al. - The Elements of Statistical Learning, 2nd Ed.](https://hastie.su.domains/ElemStatLearn/)  
 [Shalev-Shwartz et al. - Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)  
 [Efron et al. - Computer Age Statistical Inference](https://hastie.su.domains/CASI/)  
+[Mitchell - Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)  
 
 ### Geographic Information Systems
 [Lovelace et al. - Geocomputation with R](https://geocompr.robinlovelace.net/)  
