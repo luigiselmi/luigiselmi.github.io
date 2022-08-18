@@ -79,6 +79,7 @@ Last update: August 18th, 2022.
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.2](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v2)  
 
 ## Climate Change and Environmental Sustainability
+   ***
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
 [Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
 
