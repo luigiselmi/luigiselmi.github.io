@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 11th, 2022  
+Last update: August 18th, 2022  
 
 ## Physics
    ***
@@ -82,25 +82,123 @@ Last update: August 11th, 2022
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
 [Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
 
-## Biology
+## Mathematics
    ***
-[Ingalls - Mathematical Modeling in Systems Biology: An Introduction](https://uwaterloo.ca/scholar/bingalls/online-textbook)  
-[Batra et al. - The Epidemiologist R Handbook ](https://epirhandbook.com/en/)  
-[Milo et al. - Cell Biology by the Numbers](http://book.bionumbers.org/)  
-[Bonita et al. - Basic Epidemiology, 2nd Ed.](https://apps.who.int/iris/handle/10665/43541)  
-[Frank - Immunology and Evolution of Infectious Disease](https://stevefrank.org/antiVar/antiVar.html)  
-[Frank - Dynamics of Cancer](https://stevefrank.org/cancer/cancer.html)  
-[Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
-[Rolls - Cerebral Cortex: Principles of Operation](https://www.oxcns.org/b12text.html)  
-[Rolls et al. - The Noisy Brain - Stochastic Dynamics as a Principle of Brain Function](https://www.oxcns.org/b9_text.html)  
-[Rolls - Neuroculture - On the Implications of Brain Science](https://www.oxcns.org/b10_text.html)  
-[Rolls - Memory, Attention, and Decision-Making: a unifying computational neuroscience approach](https://www.oxcns.org/b8_text.html)  
-[Rolls et al. - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
+### Foundations and Logic
+[Russell - The Principles of Mathematics](https://people.umass.edu/klement/pom/)  
+[Jarvis et al. - Foundations of Applied Mathematics](https://foundations-of-applied-mathematics.github.io/)    
+[Gallier et al. Logic and Computation (Topology, Algebra, etc.)](https://www.cis.upenn.edu/~jean/gbooks/home.html)  
+[Magnus - forallX - An Introduction to Formal Logic](https://www.fecundity.com/logic/index.html)  
+[Abelson et al. - Turtle Geometry: The Computer as a Medium for Exploring Mathematics](https://doi.org/10.7551/mitpress/6933.001.0001)  
+[Smith - Beginning Mathematical Logic: A Study Guide](https://www.logicmatters.net/tyl/)  
+[Smith - An Introduction to Formal Logic, 2ns Edition](https://www.logicmatters.net/ifl/)  
 
-## Medicine
-   ***
-[Betts et al. - Anatomy and Physiology](https://openstax.org/details/books/anatomy-and-physiology)  
-[World Health Organization - Manual of diagnostic ultrasound](https://www.who.int/publications/i/item/9241544619)  
+### Numerical Methods
+[Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
+[Linge et al. - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python](https://hplgit.github.io/prog4comp/index.html)  
+[Moler - Numerical Computing with MATLAB](https://it.mathworks.com/moler/chapters.html)    
+[Wick - Numerical Methods for Partial Differential Equations](http://www.thomaswick.org/links/lecture_notes_Numerics_PDEs_Oct_12_2019.pdf)  
+
+### Algebra
+[Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
+[Thomas - Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)  
+[Cherney et al. - Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
+[Treil - Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)  
+[Boyd et al. - Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)  
+[Ash - Abstract Algebra: The Basic Graduate Year](https://faculty.math.illinois.edu/~r-ash/)  
+[O’Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
+
+### Calculus
+[Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
+[Axler - Measure, Integration & Real Analysis](https://measure.axler.net/)  
+[Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)  
+[Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
+[Dawkins - Paul's Online Math Notes](https://tutorial.math.lamar.edu/)  
+[Heinbockel - Introduction to Tensor Calculus and Continuum Mechanics](https://vtk.ugent.be/w/images/9/96/Wiskundige_ingenieurstechnieken_-_Introduction_to_Tensor_Calculus.pdf)  
+[Tao - An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)  
+[Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
+
+### Topology
+[Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
+[Morris - Topology without tears](https://www.topologywithouttears.net/)  
+[Hatcher - Algebraic Topology](https://pi.math.cornell.edu/~hatcher/)  
+[Bradley et al. - Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)  
+[Dey et al. - Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html)  
+[Edelsbrunner et al. - Computational Topology: An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf)  
+
+### Probability and Statistics
+[Gelman et al. - Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/)  
+[Lattimore et al. - Bandit Algorithms](https://banditalgs.com/)  
+[Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
+[Vershynin - High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html)  
+[Clyde et al. - An Introduction to Bayesian Thinking](https://statswithr.github.io/book/)  
+[Blitzstein - Introduction to Probability, 2nd Ed.](https://projects.iq.harvard.edu/stat110/home)  
+[Kadane - Principles of Uncertainty, 2nd Ed.](http://www.stat.cmu.edu/~kadane/)  
+[Cranmer - Statistics and Data Science](http://theoryandpractice.org/stats-ds-book/intro.html)  
+[Davidson-Pilon - Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
+[Goodman et al. - Probabilistic Models of Cognition](https://probmods.org/)  
+[Tanizaky - Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/cv-e.htm)  
+[Johnson - Bayes Rules ! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)  
+[Hyndman et al. - Forecasting: Principles and Practice, 3rd Ed.](https://otexts.com/fpp3/)  
+[Martin et al. - Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  
+[Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
+[Wilf - generatingfunctionology, 2nd Edition](https://www2.math.upenn.edu/~wilf/DownldGF.html)  
+[Popov - Two-Dimensional Random Walk](https://www.ime.unicamp.br/~popov/2srw.pdf)  
+[Gallager - Discrete Stochastic Processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)  
+[Taleb - Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemoloy, and Applications](https://arxiv.org/abs/2001.10488)  
+
+### Causal Inference
+[Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
+[Hernan - Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)  
+[Peters - Elements of Causal Inference](http://web.math.ku.dk/~peters/elements.html)  
+[Sharma et al. - Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)  
+[Facure Alves - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
+
+### Number Theory
+[Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
+[Shoup - A Computational Introduction to Number Theory and Algebra, 2nd Ed.](https://shoup.net/ntb/)  
+
+### Optimization and Linear Programming
+[Dantzig - Linear Programming and Extensions](https://www.rand.org/pubs/reports/R366.html)  
+[Vishnoi - Algorithms for Convex Optimization](https://convex-optimization.github.io/)  
+[Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
+[Kochenderfer et al. - Algorithms for Decision Making](https://algorithmsbook.com/)  
+[Kochenderfer et al. - Decision Making Under Uncertainty](https://mykel.kochenderfer.com/textbooks/)  
+[Fourer et al. - AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)  
+[Sallan et al. - Modeling and solving linear programming with R](https://upcommons.upc.edu/handle/2117/78335)  
+[Liberti - Mathematical Programming](https://www.lix.polytechnique.fr/~liberti/teaching/dix/inf580-15/mathprog.pdf)  
+[Boyd et al. - Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)  
+[Dattorro - Convex Optimization and Euclidean Distance Geometry](https://meboo.convexoptimization.com/access.html)  
+[Villani - Optimal Transport, old and new](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf)  
+[Peyre' et al. - Computational Optimal Transport](https://optimaltransport.github.io/book/)  
+[Liberzon - Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc.pdf)  
+[Anderson, Moore - Optimal Filtering](https://users.cecs.anu.edu.au/~john/papers/BOOK/B02.PDF)  
+[Lucchetti - Convexity and Well-Posed Problems](http://www.robertolucchetti.com/public/uploads/2018/09/Lucchetti-R.-Convexity-and-Well-Posed-Problems2005328.pdf)  
+
+### Graph Theory
+[Barabasi - Network Science](http://networksciencebook.com/)  
+[Easley et al. - Network, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)  
+[Lyons et al. - Probability on Trees and Networks](https://www.uni-due.de/~hm0110/book.pdf)  
+[Guichard - An Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/book/)  
+[Williamson - Network Flow Algorithms](http://www.networkflowalgs.com/)  
+[Lovasz - Large networks and graph limits](https://web.cs.elte.hu/~lovasz/kurzusok/hombook-almost-final.pdf)  
+[van Steen - Graph Theory and Complex Networks](https://www.distributed-systems.net/index.php/books/gtcn/)  
+
+### Game Theory
+[Dresher - Games of Strategy - Theory and Applications](https://www.rand.org/content/dam/rand/pubs/commercial_books/2007/RAND_CB149-1.pdf)  
+[Shoham - Multiagent Systems](http://www.masfoundations.org/mas.pdf)  
+[Karlin - Game Theory, Alive](https://homes.cs.washington.edu/~karlin/)  
+[Osborne - Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/)  
+[Bonanno - Game Theory](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)  
+[Lucchetti - A Primer in Game Theory](http://www.robertolucchetti.com/public/uploads/2018/09/Esculapio18Ottobre.pdf)  
+
+
+### Category Theory
+[Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
+[Fong et al. - Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
+[Leinster - Basic category Theory](https://arxiv.org/abs/1612.09375)  
+[Smith - Beginning Category Theory](https://www.logicmatters.net/categories/)  
+
 
 ## Computer Science
    ***
@@ -320,119 +418,6 @@ Last update: August 11th, 2022
 [Menezes - Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)  
 [Kohel - Cryptography](http://iml.univ-mrs.fr/~kohel/tch/M2-CryptoSymetrique/crypto.pdf)  
 
-
-## Mathematics
-   ***
-### Foundations and Logic
-[Russell - The Principles of Mathematics](https://people.umass.edu/klement/pom/)  
-[Jarvis et al. - Foundations of Applied Mathematics](https://foundations-of-applied-mathematics.github.io/)    
-[Gallier et al. Logic and Computation (Topology, Algebra, etc.)](https://www.cis.upenn.edu/~jean/gbooks/home.html)  
-[Magnus - forallX - An Introduction to Formal Logic](https://www.fecundity.com/logic/index.html)  
-[Abelson et al. - Turtle Geometry: The Computer as a Medium for Exploring Mathematics](https://doi.org/10.7551/mitpress/6933.001.0001)  
-[Smith - Beginning Mathematical Logic: A Study Guide](https://www.logicmatters.net/tyl/)  
-[Smith - An Introduction to Formal Logic, 2ns Edition](https://www.logicmatters.net/ifl/)  
-
-### Numerical Methods
-[Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
-[Linge et al. - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python](https://hplgit.github.io/prog4comp/index.html)  
-[Moler - Numerical Computing with MATLAB](https://it.mathworks.com/moler/chapters.html)    
-[Wick - Numerical Methods for Partial Differential Equations](http://www.thomaswick.org/links/lecture_notes_Numerics_PDEs_Oct_12_2019.pdf)  
-
-### Algebra
-[Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
-[Thomas - Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)  
-[Cherney et al. - Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
-[Treil - Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)  
-[Boyd et al. - Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)  
-[Ash - Abstract Algebra: The Basic Graduate Year](https://faculty.math.illinois.edu/~r-ash/)  
-[O’Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
-
-### Calculus
-[Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
-[Axler - Measure, Integration & Real Analysis](https://measure.axler.net/)  
-[Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)  
-[Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
-[Dawkins - Paul's Online Math Notes](https://tutorial.math.lamar.edu/)  
-[Heinbockel - Introduction to Tensor Calculus and Continuum Mechanics](https://vtk.ugent.be/w/images/9/96/Wiskundige_ingenieurstechnieken_-_Introduction_to_Tensor_Calculus.pdf)  
-[Tao - An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)  
-
-### Topology
-[Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
-[Morris - Topology without tears](https://www.topologywithouttears.net/)  
-[Hatcher - Algebraic Topology](https://pi.math.cornell.edu/~hatcher/)  
-[Bradley et al. - Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)  
-[Dey et al. - Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html)  
-[Edelsbrunner et al. - Computational Topology: An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf)  
-
-### Probability and Statistics
-[Gelman et al. - Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/)  
-[Lattimore et al. - Bandit Algorithms](https://banditalgs.com/)  
-[Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
-[Vershynin - High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html)  
-[Clyde et al. - An Introduction to Bayesian Thinking](https://statswithr.github.io/book/)  
-[Blitzstein - Introduction to Probability, 2nd Ed.](https://projects.iq.harvard.edu/stat110/home)  
-[Kadane - Principles of Uncertainty, 2nd Ed.](http://www.stat.cmu.edu/~kadane/)  
-[Cranmer - Statistics and Data Science](http://theoryandpractice.org/stats-ds-book/intro.html)  
-[Davidson-Pilon - Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  
-[Goodman et al. - Probabilistic Models of Cognition](https://probmods.org/)  
-[Tanizaky - Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/cv-e.htm)  
-[Johnson - Bayes Rules ! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)  
-[Hyndman et al. - Forecasting: Principles and Practice, 3rd Ed.](https://otexts.com/fpp3/)  
-[Martin et al. - Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  
-[Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
-[Wilf - generatingfunctionology, 2nd Edition](https://www2.math.upenn.edu/~wilf/DownldGF.html)  
-[Popov - Two-Dimensional Random Walk](https://www.ime.unicamp.br/~popov/2srw.pdf)  
-[Gallager - Discrete Stochastic Processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)  
-[Taleb - Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemoloy, and Applications](https://arxiv.org/abs/2001.10488)  
-
-### Causal Inference
-[Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
-[Hernan - Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)  
-[Peters - Elements of Causal Inference](http://web.math.ku.dk/~peters/elements.html)  
-[Sharma et al. - Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)  
-[Facure Alves - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
-
-### Number Theory
-[Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
-[Shoup - A Computational Introduction to Number Theory and Algebra, 2nd Ed.](https://shoup.net/ntb/)  
-
-### Optimization and Linear Programming
-[Dantzig - Linear Programming and Extensions](https://www.rand.org/pubs/reports/R366.html)  
-[Vishnoi - Algorithms for Convex Optimization](https://convex-optimization.github.io/)  
-[Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
-[Kochenderfer et al. - Algorithms for Decision Making](https://algorithmsbook.com/)  
-[Kochenderfer et al. - Decision Making Under Uncertainty](https://mykel.kochenderfer.com/textbooks/)  
-[Fourer et al. - AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)  
-[Sallan et al. - Modeling and solving linear programming with R](https://upcommons.upc.edu/handle/2117/78335)  
-[Liberti - Mathematical Programming](https://www.lix.polytechnique.fr/~liberti/teaching/dix/inf580-15/mathprog.pdf)  
-[Boyd et al. - Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)  
-[Dattorro - Convex Optimization and Euclidean Distance Geometry](https://meboo.convexoptimization.com/access.html)  
-[Villani - Optimal Transport, old and new](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf)  
-[Peyre' et al. - Computational Optimal Transport](https://optimaltransport.github.io/book/)  
-[Liberzon - Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc.pdf)  
-
-### Graph Theory
-[Barabasi - Network Science](http://networksciencebook.com/)  
-[Easley et al. - Network, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)  
-[Lyons et al. - Probability on Trees and Networks](https://www.uni-due.de/~hm0110/book.pdf)  
-[Guichard - An Introduction to Combinatorics and Graph Theory](https://www.whitman.edu/mathematics/cgt_online/book/)  
-[Williamson - Network Flow Algorithms](http://www.networkflowalgs.com/)  
-[Lovasz - Large networks and graph limits](https://web.cs.elte.hu/~lovasz/kurzusok/hombook-almost-final.pdf)  
-[van Steen - Graph Theory and Complex Networks](https://www.distributed-systems.net/index.php/books/gtcn/)  
-
-### Game Theory
-[Dresher - Games of Strategy - Theory and Applications](https://www.rand.org/content/dam/rand/pubs/commercial_books/2007/RAND_CB149-1.pdf)  
-[Shoham - Multiagent Systems](http://www.masfoundations.org/mas.pdf)  
-[Karlin - Game Theory, Alive](https://homes.cs.washington.edu/~karlin/)  
-[Osborne - Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/)  
-
-### Category Theory
-[Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
-[Fong et al. - Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
-[Leinster - Basic category Theory](https://arxiv.org/abs/1612.09375)  
-[Smith - Beginning Category Theory](https://www.logicmatters.net/categories/)  
-
-
 ## Finance and Economics
    ***
 [Welch - Corporate Finance, 4th Edition](https://book.ivo-welch.info/read/)  
@@ -443,7 +428,29 @@ Last update: August 11th, 2022
 [Stachurski et al. - Economic Networks - Theory and Computation](https://networks.quantecon.org/)  
 [Sargent et al. - Quantitative Economics with Python](https://python.quantecon.org/intro.html)  
 [Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
+[Bonanno - Decision Making](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html)  
+[Bonanno - The Economics of Uncertainty and Insurance](http://faculty.econ.ucdavis.edu/faculty/bonanno/EUI_Book.html)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
 [Fandrey - Academic Slide Design](http://www.academicslidedesign.org/)  
+
+## Biology
+   ***
+[Ingalls - Mathematical Modeling in Systems Biology: An Introduction](https://uwaterloo.ca/scholar/bingalls/online-textbook)  
+[Batra et al. - The Epidemiologist R Handbook ](https://epirhandbook.com/en/)  
+[Milo et al. - Cell Biology by the Numbers](http://book.bionumbers.org/)  
+[Bonita et al. - Basic Epidemiology, 2nd Ed.](https://apps.who.int/iris/handle/10665/43541)  
+[Frank - Immunology and Evolution of Infectious Disease](https://stevefrank.org/antiVar/antiVar.html)  
+[Frank - Dynamics of Cancer](https://stevefrank.org/cancer/cancer.html)  
+[Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
+[Rolls - Cerebral Cortex: Principles of Operation](https://www.oxcns.org/b12text.html)  
+[Rolls et al. - The Noisy Brain - Stochastic Dynamics as a Principle of Brain Function](https://www.oxcns.org/b9_text.html)  
+[Rolls - Neuroculture - On the Implications of Brain Science](https://www.oxcns.org/b10_text.html)  
+[Rolls - Memory, Attention, and Decision-Making: a unifying computational neuroscience approach](https://www.oxcns.org/b8_text.html)  
+[Rolls et al. - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
+
+## Medicine
+   ***
+[Betts et al. - Anatomy and Physiology](https://openstax.org/details/books/anatomy-and-physiology)  
+[World Health Organization - Manual of diagnostic ultrasound](https://www.who.int/publications/i/item/9241544619)  
