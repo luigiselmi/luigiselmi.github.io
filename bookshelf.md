@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 18th, 2022  
+Last update: August 18th, 2022.  
 
 ## Physics
    ***
