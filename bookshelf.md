@@ -91,7 +91,7 @@ Last update: August 18th, 2022.
 [Magnus - forallX - An Introduction to Formal Logic](https://www.fecundity.com/logic/index.html)  
 [Abelson et al. - Turtle Geometry: The Computer as a Medium for Exploring Mathematics](https://doi.org/10.7551/mitpress/6933.001.0001)  
 [Smith - Beginning Mathematical Logic: A Study Guide](https://www.logicmatters.net/tyl/)  
-[Smith - An Introduction to Formal Logic, 2ns Edition](https://www.logicmatters.net/ifl/)  
+[Smith - An Introduction to Formal Logic, 2nd Edition](https://www.logicmatters.net/ifl/)  
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
