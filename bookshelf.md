@@ -5,9 +5,9 @@ permalink: /bookshelf
 ---
 ![Bookshelf](assets/bookshelf.jpg)
 
-I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free. 
+I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 20th, 2022.  
+Last update: August 21st, 2022.  
 
 ## Physics
    ***
@@ -432,6 +432,7 @@ Last update: August 20th, 2022.
 [Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
 [Bonanno - Decision Making](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html)  
 [Bonanno - The Economics of Uncertainty and Insurance](http://faculty.econ.ucdavis.edu/faculty/bonanno/EUI_Book.html)  
+[Greenlaw et al. Principles of Economics, 2nd Ed.](https://openstax.org/details/books/principles-economics-2e)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
