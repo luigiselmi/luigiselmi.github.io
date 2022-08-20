@@ -5,9 +5,9 @@ permalink: /bookshelf
 ---
 ![Bookshelf](assets/bookshelf.jpg)
 
-I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
+I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free. 
 
-Last update: August 18th, 2022.  
+Last update: August 20th, 2022.  
 
 ## Physics
    ***
@@ -175,6 +175,7 @@ Last update: August 18th, 2022.
 [Liberzon - Calculus of Variations and Optimal Control Theory](http://liberzon.csl.illinois.edu/teaching/cvoc.pdf)  
 [Anderson, Moore - Optimal Filtering](https://users.cecs.anu.edu.au/~john/papers/BOOK/B02.PDF)  
 [Lucchetti - Convexity and Well-Posed Problems](http://www.robertolucchetti.com/public/uploads/2018/09/Lucchetti-R.-Convexity-and-Well-Posed-Problems2005328.pdf)  
+[Hazan - Introduction to Online Convex Optimization](https://arxiv.org/abs/1909.05207)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
