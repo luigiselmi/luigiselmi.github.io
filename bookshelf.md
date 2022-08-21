@@ -231,6 +231,9 @@ Last update: August 21st, 2022.
 [Stepanov et al. - Elements of Programming](http://elementsofprogramming.com/)  
 [Papert - Mindstorm - Children, Computers, and Powerful Ideas](https://mindstorms.media.mit.edu/)  
 
+#### C/C++
+[Banahan, Brady, Doran - The C Book](https://publications.gbdirect.co.uk/c_book/)  
+
 #### R
 [Wickham - Advanced R, 2nd Ed.](https://adv-r.hadley.nz/index.html)  
 [Phillips - YaRr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)  
