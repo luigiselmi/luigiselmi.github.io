@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 21st, 2022.  
+Last update: August 23rd, 2022.  
 
 ## Physics
    ***
@@ -436,6 +436,7 @@ Last update: August 21st, 2022.
 [Bonanno - Decision Making](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html)  
 [Bonanno - The Economics of Uncertainty and Insurance](http://faculty.econ.ucdavis.edu/faculty/bonanno/EUI_Book.html)  
 [Greenlaw et al. Principles of Economics, 2nd Ed.](https://openstax.org/details/books/principles-economics-2e)  
+[Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
