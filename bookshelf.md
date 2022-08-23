@@ -147,6 +147,7 @@ Last update: August 23rd, 2022.
 [Popov - Two-Dimensional Random Walk](https://www.ime.unicamp.br/~popov/2srw.pdf)  
 [Gallager - Discrete Stochastic Processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)  
 [Taleb - Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemoloy, and Applications](https://arxiv.org/abs/2001.10488)  
+[NIST/SEMATECH - e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
