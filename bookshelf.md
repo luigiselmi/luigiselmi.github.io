@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 23rd, 2022.  
+Last update: August 29th, 2022.  
 
 ## Physics
    ***
@@ -148,6 +148,8 @@ Last update: August 23rd, 2022.
 [Gallager - Discrete Stochastic Processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)  
 [Taleb - Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemoloy, and Applications](https://arxiv.org/abs/2001.10488)  
 [NIST/SEMATECH - e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/)  
+[Durrett - Elementary Probability for Applications](https://services.math.duke.edu/~rtd/EP4A/EP4A.html)  
+[Durrett - Essential of Stochastic Processes](https://services.math.duke.edu/~rtd/EOSP/eosp.html)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
