@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 29th, 2022.  
+Last update: September 1st, 2022.  
 
 ## Physics
    ***
@@ -62,7 +62,7 @@ Last update: August 29th, 2022.
 [Watrous - The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/)  
 [Skinner - Principles of Quantum Mechanics](http://www.damtp.cam.ac.uk/user/dbs26/PQM.html)  
 [Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
-[Matuschak et al. - Quantum Country - A free introduction to quantum computing and quantum mechanics](https://quantum.country/)  
+[Matuschak, Nielsen - Quantum computing for the very curious](https://quantum.country/)  
 [Wong - Introduction to Classical and Quantum Computing](http://www.thomaswong.net/)  
 [Rovelli et al. - Covariant Loop Quantum Gravity](http://www.cpt.univ-mrs.fr/~rovelli/IntroductionLQG.pdf)  
 [Hughes et al. - Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4)  
