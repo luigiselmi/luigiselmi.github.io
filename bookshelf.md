@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 1st, 2022.  
+Last update: September 2nd, 2022.  
 
 ## Physics
    ***
@@ -441,6 +441,8 @@ Last update: September 1st, 2022.
 [Greenlaw et al. Principles of Economics, 2nd Ed.](https://openstax.org/details/books/principles-economics-2e)  
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
 [Ilmanen - Expected Returns on Major Asset Classes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616228)  
+[Fama - Foundations of Finance](https://faculty.chicagobooth.edu/eugene.fama/research/)  
+
 
 ## Entrepreneurship, Project Management and Marketing
    ***
