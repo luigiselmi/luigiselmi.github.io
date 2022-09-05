@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 3rd, 2022.  
+Last update: September 5th, 2022.  
 
 ## Physics
    ***
@@ -259,6 +259,7 @@ Last update: September 3rd, 2022.
 [Sundnes - Introduction to Scientific Programming with Python](https://sundnes.github.io/python_intro/)  
 [Hill - Learning Scientific Programming with Python](https://scipython.com/)  
 [Sargent et al. - Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)  
+[Sheppard - Introduction to Python for Econometrics, Statistics and Numerical Analysis, 4th Ed.](https://www.kevinsheppard.com/teaching/python/notes/)  
 
 ### Data Science
 [Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
@@ -443,6 +444,7 @@ Last update: September 3rd, 2022.
 [Ilmanen - Expected Returns on Major Asset Classes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616228)  
 [Fama - Foundations of Finance](https://faculty.chicagobooth.edu/eugene.fama/research/)  
 [BEA - NIPA Handbook: Concepts and Methods of the U.S. National Income and Product Accounts](https://www.bea.gov/resources/methodologies/nipa-handbook)  
+[Sheppard - Financial Econometrics Notes](https://www.kevinsheppard.com/teaching/mfe/notes/)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
