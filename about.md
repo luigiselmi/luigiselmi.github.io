@@ -23,7 +23,7 @@ the Silk framework and in the use of geographical data. I developed also a seman
 * M. Kaschesky, L. Selmi: Fusepool R5 linked data framework: concepts, methodologies, and tools for linked data, Proceedings of the 14th Annual International Conference on Digital Government Research
 * P. Castracane, L. Selmi, S. Casadio, M. Cacciani and G. Fiocco, Ground-based remote sensing of wind, temperature and aerosol backscattering in an urban environment during different atmosphericstability conditions, Ed. Physics and chemistry of the earth. Part B: Hydrology, oceans and atmosphere, Elsevier Science.
 
-## Presentations
+## Presentations and awards
 * 23-27 May 2022 - Living Planet Symposium 2022, Bonn (Germany) - Land Use and Land Cover Classification using CNN Deep Learning Architectures (Poster Session)
 * 25-27 January 2022 - The 4th International Electronic Conference on Remote Sensing - Flood mapping using Sentinel-1 SAR imagery and the ESA SNAP S1 Toolbox (Best Presentation Award)  
 
