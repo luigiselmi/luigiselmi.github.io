@@ -445,7 +445,7 @@ Last update: September 12th, 2022.
 [Sheppard - Financial Econometrics Notes](https://www.kevinsheppard.com/teaching/mfe/notes/)  
 [Würtz, Setz, Chalabi, Lam, Ellis - Basic R for Finance](https://www.rmetrics.org/ebooks-basicr)  
 [Würtz, Setz, Chalabi, Chen, Ellis - Portfolio Optimization with R/Rmetrics](https://www.rmetrics.org/ebooks-portfolio)  
-[Stachurski et al. - Economic Networks - Theory and Computation](https://networks.quantecon.org/)  
+[Stachurski, Sargent - Economic Networks - Theory and Computation](https://networks.quantecon.org/)  
 [Sargent et al. - Quantitative Economics with Python](https://python.quantecon.org/intro.html)  
 [Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
 [Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
