@@ -433,20 +433,22 @@ Last update: September 12th, 2022.
 [Heller - The Birth of Capitalism: A 21st Century Perspective](https://www.jstor.org/stable/j.ctt183p671)  
 [Lengwiler - Microfoundations of Financial Economics - An Introduction to General Equilibrium Asset Pricing](https://microfoundations.org/asset-pricing-book/)  
 [The Core Team - The Economy](https://www.core-econ.org/the-economy/)  
-[Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
-[Stachurski et al. - Economic Networks - Theory and Computation](https://networks.quantecon.org/)  
-[Sargent et al. - Quantitative Economics with Python](https://python.quantecon.org/intro.html)  
-[Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
 [Bonanno - Decision Making](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html)  
 [Bonanno - The Economics of Uncertainty and Insurance](http://faculty.econ.ucdavis.edu/faculty/bonanno/EUI_Book.html)  
 [Greenlaw et al. Principles of Economics, 2nd Ed.](https://openstax.org/details/books/principles-economics-2e)  
-[Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
 [Ilmanen - Expected Returns on Major Asset Classes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616228)  
 [Fama - Foundations of Finance](https://faculty.chicagobooth.edu/eugene.fama/research/)  
 [BEA - NIPA Handbook: Concepts and Methods of the U.S. National Income and Product Accounts](https://www.bea.gov/resources/methodologies/nipa-handbook)  
+
+### Econometrics and Quantitative Finance
+[Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
 [Sheppard - Financial Econometrics Notes](https://www.kevinsheppard.com/teaching/mfe/notes/)  
 [Würtz, Setz, Chalabi, Lam, Ellis - Basic R for Finance](https://www.rmetrics.org/ebooks-basicr)  
 [Würtz, Setz, Chalabi, Chen, Ellis - Portfolio Optimization with R/Rmetrics](https://www.rmetrics.org/ebooks-portfolio)  
+[Stachurski et al. - Economic Networks - Theory and Computation](https://networks.quantecon.org/)  
+[Sargent et al. - Quantitative Economics with Python](https://python.quantecon.org/intro.html)  
+[Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
+[Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
