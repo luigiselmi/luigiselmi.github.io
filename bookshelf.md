@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 5th, 2022.  
+Last update: September 12th, 2022.  
 
 ## Physics
    ***
@@ -445,6 +445,8 @@ Last update: September 5th, 2022.
 [Fama - Foundations of Finance](https://faculty.chicagobooth.edu/eugene.fama/research/)  
 [BEA - NIPA Handbook: Concepts and Methods of the U.S. National Income and Product Accounts](https://www.bea.gov/resources/methodologies/nipa-handbook)  
 [Sheppard - Financial Econometrics Notes](https://www.kevinsheppard.com/teaching/mfe/notes/)  
+[Würtz, Setz, Chalabi, Lam, Ellis - Basic R for Finance](https://www.rmetrics.org/ebooks-basicr)  
+[Würtz, Setz, Chalabi, Chen, Ellis - Portfolio Optimization with R/Rmetrics](https://www.rmetrics.org/ebooks-portfolio)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
