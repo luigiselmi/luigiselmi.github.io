@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 12th, 2022.  
+Last update: September 15th, 2022.  
 
 ## Physics
    ***
@@ -119,13 +119,15 @@ Last update: September 12th, 2022.
 [Tao - An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)  
 [Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
 
-### Topology
+### Computational Geometry and Topology
+[Goodman, O'Rourke, Tóth - Handbook of Discrete and Computational Geometry, 3rd Ed.](https://www.csun.edu/~ctoth/Handbook/HDCG3.html)  
 [Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
 [Morris - Topology without tears](https://www.topologywithouttears.net/)  
 [Hatcher - Algebraic Topology](https://pi.math.cornell.edu/~hatcher/)  
 [Bradley et al. - Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)  
 [Dey et al. - Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html)  
 [Edelsbrunner et al. - Computational Topology: An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf)  
+
 
 ### Probability and Statistics
 [Gelman et al. - Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/)  
