@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 15th, 2022.  
+Last update: September 16th, 2022.  
 
 ## Physics
    ***
@@ -319,23 +319,25 @@ Last update: September 15th, 2022.
 [Efron et al. - Computer Age Statistical Inference](https://hastie.su.domains/CASI/)  
 [Mitchell - Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)  
 
-### Geographic Information Systems
-[Lovelace et al. - Geocomputation with R](https://geocompr.robinlovelace.net/)  
-[Bartlein - Geographic Data Analysis (with R)](https://pjbartlein.github.io/GeogDataAnalysis/index.html)  
-[Donnelly et al. - Introduction to GIS with QGIS](https://atcoordinates.files.wordpress.com/2021/06/intro_qgis_june2021.pdf)  
-[Hijmans - Spatial Data Science with R](https://rspatial.org/raster/index.html)  
-[Pebesma et al. - Spatial Data Science with Applications in R](https://keen-swartz-3146c4.netlify.app/)  
-[QGIS - A Gentle Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.html)  
-[Saylor Academy - Essential of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)  
-[Rey et al. - Geographic Data Science with Python](https://geographicdata.science/book/intro)  
-[Vermeer - Geodesy](https://users.aalto.fi/~mvermeer/geodesy.pdf)  
-[Vermeer - Physical Geodesy](https://users.aalto.fi/~mvermeer/fys-en.pdf)  
-[Vermeer - Methods of Navigation](https://users.aalto.fi/~mvermeer/nav-en.pdf)    
-[Vermeer et al. - Digital Aerial Mapping: A Hands-On Course](https://users.aalto.fi/~mvermeer/book.pdf)  
-[Gimond - Introduction to GIS and Spatial Analysis (with R)](https://mgimond.github.io/Spatial/index.html)  
-[Graham et al. - Geographies of Digital Exclusion](https://www.oii.ox.ac.uk/research/publications/geographies-of-digital-exclusion-data-and-inequality/)  
-[Tiberius et al. - Surveying and Mapping](https://textbooks.open.tudelft.nl/textbooks/catalog/book/46)  
-[INSEE - Handbook of Spatial Analysis - Theory and Application with R](https://www.insee.fr/en/information/3635545)  
+### Neural Networks, Deep Learning, and Reinforcement Learning
+[Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
+[Karpathy  - CS231n Convolutional Neural Network for Visual Recognition](https://cs231n.github.io/)  
+[Rojas - Neural Networks - A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/)  
+[Hagan et al. - Neural Network Design, 2nd edition](https://hagan.okstate.edu/nnd.html)  
+[Zhang et al. - Dive into Deep Learning](http://d2l.ai/index.html)  
+[Hamilton - Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)  
+[Howard et al. - Practical Deep Learning for Coders](https://course.fast.ai/)  
+[Ma et al. - Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/)  
+[LeCun et al. - Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)  
+[Stevens et al. - Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)    
+[Bronstein et al. Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)  
+[Roberts et al. - The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)  
+[Sutton et al. - Reinforcement Learning, 2nd Ed.](http://incompleteideas.net/book/the-book-2nd.html)  
+[Francois-Lavet et al. - An Introduction to Deep Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)  
+[Nielsen - Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)  
+[Bertsekas - Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control](http://web.mit.edu/dimitrib/www/RLbook.html)  
+[Kashani et al. - Deep Learning Inteviews: Hundreds of fully solved questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)  
+[Rao, Jelvis - Foundations of Reinforcement Learning with Applications in Finance](https://stanford.edu/~ashlearn/)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
@@ -370,25 +372,6 @@ Last update: September 15th, 2022.
 [Bird et al. - Natural Language Processing with Python](https://www.nltk.org/book/)  
 [Eisenstein - Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)  
 
-### Neural Networks, Deep Learning, and Reinforcement Learning
-[Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
-[Karpathy  - CS231n Convolutional Neural Network for Visual Recognition](https://cs231n.github.io/)  
-[Rojas - Neural Networks - A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/)  
-[Hagan et al. - Neural Network Design, 2nd edition](https://hagan.okstate.edu/nnd.html)  
-[Zhang et al. - Dive into Deep Learning](http://d2l.ai/index.html)  
-[Hamilton - Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)  
-[Howard et al. - Practical Deep Learning for Coders](https://course.fast.ai/)  
-[Ma et al. - Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/)  
-[LeCun et al. - Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)  
-[Stevens et al. - Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)    
-[Bronstein et al. Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)  
-[Roberts et al. - The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)  
-[Sutton et al. - Reinforcement Learning, 2nd Ed.](http://incompleteideas.net/book/the-book-2nd.html)  
-[Francois-Lavet et al. - An Introduction to Deep Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)  
-[Nielsen - Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)  
-[Bertsekas - Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control](http://web.mit.edu/dimitrib/www/RLbook.html)  
-[Kashani et al. - Deep Learning Inteviews: Hundreds of fully solved questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)  
-
 ### Artificial Intelligence and Robotics
 [Lynch et al. - Modern Robotics - Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)  
 [Murray et al. - A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/index.php?title=Main_Page)  
@@ -398,6 +381,24 @@ Last update: September 15th, 2022.
 ### Databases
 [Abiteboul - Foundation of Databases](http://webdam.inria.fr/Alice/)  
 [Robinson et al. - Graph Databases](https://neo4j.com/graph-databases-book/)  
+
+### Geographic Information Systems
+[Lovelace et al. - Geocomputation with R](https://geocompr.robinlovelace.net/)  
+[Bartlein - Geographic Data Analysis (with R)](https://pjbartlein.github.io/GeogDataAnalysis/index.html)  
+[Donnelly et al. - Introduction to GIS with QGIS](https://atcoordinates.files.wordpress.com/2021/06/intro_qgis_june2021.pdf)  
+[Hijmans - Spatial Data Science with R](https://rspatial.org/raster/index.html)  
+[Pebesma et al. - Spatial Data Science with Applications in R](https://keen-swartz-3146c4.netlify.app/)  
+[QGIS - A Gentle Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.html)  
+[Saylor Academy - Essential of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)  
+[Rey et al. - Geographic Data Science with Python](https://geographicdata.science/book/intro)  
+[Vermeer - Geodesy](https://users.aalto.fi/~mvermeer/geodesy.pdf)  
+[Vermeer - Physical Geodesy](https://users.aalto.fi/~mvermeer/fys-en.pdf)  
+[Vermeer - Methods of Navigation](https://users.aalto.fi/~mvermeer/nav-en.pdf)    
+[Vermeer et al. - Digital Aerial Mapping: A Hands-On Course](https://users.aalto.fi/~mvermeer/book.pdf)  
+[Gimond - Introduction to GIS and Spatial Analysis (with R)](https://mgimond.github.io/Spatial/index.html)  
+[Graham et al. - Geographies of Digital Exclusion](https://www.oii.ox.ac.uk/research/publications/geographies-of-digital-exclusion-data-and-inequality/)  
+[Tiberius et al. - Surveying and Mapping](https://textbooks.open.tudelft.nl/textbooks/catalog/book/46)  
+[INSEE - Handbook of Spatial Analysis - Theory and Application with R](https://www.insee.fr/en/information/3635545)  
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
