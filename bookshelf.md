@@ -9,9 +9,9 @@ I am addicted to science and technology. Fortunately, there are many authors tha
 
 Last update: September 20th, 2022.  
 
-[Physics](#physics)  
-[Mathematics](#mathematics)  
-  [Numerical Methods](#numerical-methods)  
+* [Physics](#physics)  
+* [Mathematics](#mathematics)  
+    * [Numerical Methods](#numerical-methods)  
 
 ## Physics
    ***
