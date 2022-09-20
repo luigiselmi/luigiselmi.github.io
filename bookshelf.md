@@ -11,6 +11,7 @@ Last update: September 20th, 2022.
 
 [Physics](#physics)  
 [Mathematics](#mathematics)  
+  [Numerical Methods](#numerical-methods)  
 
 ## Physics
    ***
