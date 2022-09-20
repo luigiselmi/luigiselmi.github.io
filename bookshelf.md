@@ -59,6 +59,7 @@ Last update: September 20th, 2022.
     * [Cryptography and Information Security](#cryptography-and-information-security)  
 
 * [Finance and Economics](#finance-and-economics)  
+    * [Econometrics and Quantitative Finance](#econometrics-and-quantitative-finance)  
 * [Entrepreneurship, Project Management and Marketing](#entrepreneurship-project-management-and-marketing)  
 * [Biology](#biology)  
 * [Medicine](#medicine)  
