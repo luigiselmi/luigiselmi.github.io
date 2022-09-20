@@ -9,6 +9,9 @@ I am addicted to science and technology. Fortunately, there are many authors tha
 
 Last update: September 20th, 2022.  
 
+[Physics](#Physics)
+[Mathematics](#Mathematics)
+
 ## Physics
    ***
 [Feynman et al. - The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)  
