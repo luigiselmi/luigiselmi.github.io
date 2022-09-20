@@ -45,6 +45,19 @@ Last update: September 20th, 2022.
     * [Data Visualization](#data-visualization)  
     * [Machine Learning](#machine-learning)  
     * [Neural Networks, Deep Learning, and Reinforcement Learning](#neural-networks-deep-learning-and-reinforcement-learning)  
+    * [Genetic Programming](#genetic-programming)  
+    * [Digital Signal Processing and Information Theory](#digital-signal-processing-and-information-theory)  
+    * [Computer Vision and Computer Graphics](#computer-vision-and-computer-graphics)  
+    * [Information Retrieval](#information-retrieval)  
+    * [Natural Language Processing](#natural-language-processing)  
+    * [Artificial Intelligence and Robotics](#artificial-intelligence-and-robotics)  
+    * [Databases](#databases)  
+    * [Geographic Information Systems](#geographic-information-systems)  
+    * [Software Engineering](#software-engineering)  
+    * [Operating Systems](#operating-systems)  
+    * [Knowledge Representation, Semantic Web, and Linked Data](#knowledge-representation-semantic-web-and-linked-data)  
+    * [Cryptography and Information Security](#cryptography-and-information-security)  
+
 * [Finance and Economics](#finance-and-economics)  
 * [Entrepreneurship, Project Management and Marketing](#entrepreneurship-project-management-and-marketing)  
 * [Biology](#biology)  
@@ -385,7 +398,7 @@ Last update: September 20th, 2022.
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
 
-### Information Theory and Digital Signal Processing
+### Digital Signal Processing and Information Theory  
 [MacKay - Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/book.html)  
 [Smith - The Scientist and Engineer’s Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)  
 [Vetterli - Foundation of Signal Processing](https://fourierandwavelets.org/)  
