@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 16th, 2022.  
+Last update: September 20th, 2022.  
 
 ## Physics
    ***
@@ -181,6 +181,7 @@ Last update: September 16th, 2022.
 [Anderson, Moore - Optimal Filtering](https://users.cecs.anu.edu.au/~john/papers/BOOK/B02.PDF)  
 [Lucchetti - Convexity and Well-Posed Problems](http://www.robertolucchetti.com/public/uploads/2018/09/Lucchetti-R.-Convexity-and-Well-Posed-Problems2005328.pdf)  
 [Hazan - Introduction to Online Convex Optimization](https://arxiv.org/abs/1909.05207)  
+[Lusby, Stidsen - Mathematical Programming with Julia](https://www.man.dtu.dk/MathProgrammingWithJulia)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
@@ -318,6 +319,7 @@ Last update: September 16th, 2022.
 [Shalev-Shwartz et al. - Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html)  
 [Efron et al. - Computer Age Statistical Inference](https://hastie.su.domains/CASI/)  
 [Mitchell - Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)  
+[Wilber et al. - MLU-Explain: Visual explanation of core machine learning concepts](https://mlu-explain.github.io/)  
 
 ### Neural Networks, Deep Learning, and Reinforcement Learning
 [Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
