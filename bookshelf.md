@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bookshelf
+title: Luigi's Bookshelf
 permalink: /bookshelf
 ---
 ![Luigi's Bookshelf](assets/bookshelf.jpg)
