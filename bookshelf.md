@@ -16,6 +16,7 @@ Last update: September 20th, 2022.
     * [Quantum Mechanics and Computing](#quantum-mechanics-and-computing)  
     * [Statistical Mechanics](#statistical-mechanics)  
     * [Nuclear Physics](#nuclear-physics)  
+* [Climate Change and Environmental Sustainability](#climate-change-and-environmental-sustainability)  
 * [Mathematics](#mathematics)  
     * [Foundations and Logic](#foundations-and-logic)  
     * [Algebra](#algebra)  
@@ -29,13 +30,17 @@ Last update: September 20th, 2022.
     * [Graph Theory](#graph-theory)  
     * [Game Theory](#game-theory)  
     * [Category Theory](#category-theory)  
-* [Climate Change and Environmental Sustainability](#climate-change-and-environmental-sustainability)
 * [Computer Science](#computer-science)  
+    * [Algorithms and Data Structures](#algorithms-and-data-structures)  
+    * [Distributed Systems and High Performance Computing](#distributed-systems-and-high-performance-computing)  
+    * [Computer Programming](#computer-programming)  
+        * [C/C++](#c/c++)  
+        * [R](#r)  
+        * [JavaScript](#javascript)  
 * [Finance and Economics](#finance-and-economics)  
 * [Entrepreneurship, Project Management and Marketing](#entrepreneurship-project-management-and-marketing)  
 * [Biology](#biology)  
 * [Medicine](#medicine)  
-
 
 ## Physics
    ***
