@@ -9,8 +9,8 @@ I am addicted to science and technology. Fortunately, there are many authors tha
 
 Last update: September 20th, 2022.  
 
-[Physics](#Physics)
-[Mathematics](#Mathematics)
+[Physics](#Physics)  
+[Mathematics](#Mathematics)  
 
 ## Physics
    ***
