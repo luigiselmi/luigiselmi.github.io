@@ -12,6 +12,13 @@ Last update: September 20th, 2022.
 * [Physics](#physics)  
 * [Mathematics](#mathematics)  
     * [Numerical Methods](#numerical-methods)  
+* [Climate Change and Environmental Sustainability](#climate-change-and-environmental-sustainability)
+* [Computer Science](#computer-science)  
+* [Finance and Economics](#finance-and-economics)  
+* [Entrepreneurship, Project Management and Marketing](#entrepreneurship,-project-management-and-marketing)  
+* [Biology](#biology)  
+* [Medicine](#medicine)  
+
 
 ## Physics
    ***
