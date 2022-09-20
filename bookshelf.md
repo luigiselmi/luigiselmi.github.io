@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /bookshelf
 ---
-![Bookshelf](assets/bookshelf.jpg)
+![Luigi's Bookshelf](assets/bookshelf.jpg)
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
