@@ -12,6 +12,10 @@ Last update: September 20th, 2022.
 * [Physics](#physics)
     * [Classical Physics](#classical-physics)  
     * [Geophysics and Remote Sensing](#geophysics-and-remote-sensing)  
+    * [Mathematical and Computational Physics](#mathematical-and-computational-physics)  
+    * [Quantum Mechanics and Computing](#quantum-mechanics-and-computing)  
+    * [Statistical Mechanics](#statistical-mechanics)  
+    * [Nuclear Physics](#nuclear-physics)
 * [Mathematics](#mathematics)  
     * [Numerical Methods](#numerical-methods)  
 * [Climate Change and Environmental Sustainability](#climate-change-and-environmental-sustainability)
@@ -71,7 +75,7 @@ Last update: September 20th, 2022.
 [Greenshields et al. - Notes on Computational Fluid Dynamics: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)  
 [Hall - An Elementary Introduction to Groups and Representations](https://arxiv.org/abs/math-ph/0005032)  
 
-### Quantum Mechanics and Quantum Computing
+### Quantum Mechanics and Computing
 [Watrous - The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/)  
 [Skinner - Principles of Quantum Mechanics](http://www.damtp.cam.ac.uk/user/dbs26/PQM.html)  
 [Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
