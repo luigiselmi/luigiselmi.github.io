@@ -15,9 +15,15 @@ Last update: September 20th, 2022.
     * [Mathematical and Computational Physics](#mathematical-and-computational-physics)  
     * [Quantum Mechanics and Computing](#quantum-mechanics-and-computing)  
     * [Statistical Mechanics](#statistical-mechanics)  
-    * [Nuclear Physics](#nuclear-physics)
+    * [Nuclear Physics](#nuclear-physics)  
 * [Mathematics](#mathematics)  
+    * [Foundations and Logic](#foundations-and-logic)  
+    * [Algebra](#algebra)  
+    * [Calculus](#calculus)  
     * [Numerical Methods](#numerical-methods)  
+    * [Computational Geometry and Topology](#computational-geometry-and-topology)  
+    * [Probability and Statistics](#probability-and-statistics)  
+    * [Causal Inference](#causal-inference)  
 * [Climate Change and Environmental Sustainability](#climate-change-and-environmental-sustainability)
 * [Computer Science](#computer-science)  
 * [Finance and Economics](#finance-and-economics)  
@@ -111,12 +117,6 @@ Last update: September 20th, 2022.
 [Smith - Beginning Mathematical Logic: A Study Guide](https://www.logicmatters.net/tyl/)  
 [Smith - An Introduction to Formal Logic, 2nd Edition](https://www.logicmatters.net/ifl/)  
 
-### Numerical Methods
-[Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
-[Linge et al. - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python](https://hplgit.github.io/prog4comp/index.html)  
-[Moler - Numerical Computing with MATLAB](https://it.mathworks.com/moler/chapters.html)    
-[Wick - Numerical Methods for Partial Differential Equations](http://www.thomaswick.org/links/lecture_notes_Numerics_PDEs_Oct_12_2019.pdf)  
-
 ### Algebra
 [Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
 [Thomas - Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)  
@@ -135,6 +135,12 @@ Last update: September 20th, 2022.
 [Heinbockel - Introduction to Tensor Calculus and Continuum Mechanics](https://vtk.ugent.be/w/images/9/96/Wiskundige_ingenieurstechnieken_-_Introduction_to_Tensor_Calculus.pdf)  
 [Tao - An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)  
 [Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
+
+### Numerical Methods
+[Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
+[Linge et al. - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python](https://hplgit.github.io/prog4comp/index.html)  
+[Moler - Numerical Computing with MATLAB](https://it.mathworks.com/moler/chapters.html)    
+[Wick - Numerical Methods for Partial Differential Equations](http://www.thomaswick.org/links/lecture_notes_Numerics_PDEs_Oct_12_2019.pdf)  
 
 ### Computational Geometry and Topology
 [Goodman, O'Rourke, Tóth - Handbook of Discrete and Computational Geometry, 3rd Ed.](https://www.csun.edu/~ctoth/Handbook/HDCG3.html)  
