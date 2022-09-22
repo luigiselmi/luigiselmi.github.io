@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 20th, 2022.  
+Last update: September 22nd, 2022.  
 
 # Subject Index  
 
@@ -458,6 +458,7 @@ Last update: September 20th, 2022.
 [Graham et al. - Geographies of Digital Exclusion](https://www.oii.ox.ac.uk/research/publications/geographies-of-digital-exclusion-data-and-inequality/)  
 [Tiberius et al. - Surveying and Mapping](https://textbooks.open.tudelft.nl/textbooks/catalog/book/46)  
 [INSEE - Handbook of Spatial Analysis - Theory and Application with R](https://www.insee.fr/en/information/3635545)  
+[Snyder - Map Projections: A Working Manual](https://pubs.er.usgs.gov/publication/pp1395)  
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
