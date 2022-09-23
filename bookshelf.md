@@ -341,6 +341,7 @@ Last update: September 22nd, 2022.
 [Lehman et al. - Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/)  
 [Peyre' - Mathematical Foundations of Data Science](https://mathematical-tours.github.io/book/)  
 [Peyre' - An Introduction to Data Sciences](https://mathematical-tours.github.io/book-basics/)  
+[Baumer, Kaplan, Horton - Modern Data Science with R, 2nd Ed.](http://mdsr-book.github.io/)  
 
 ### Data Visualization
 [Healy - Data Visualization - A Practical Introduction](https://socviz.co/)  
