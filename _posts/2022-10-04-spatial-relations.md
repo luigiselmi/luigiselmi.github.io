@@ -26,7 +26,7 @@ Spatial relations are used to merge two spatial datasets A and B in which each r
 We will use spatial objects such as Points, Lines and Polygons for which a set of coordinate pairs will be assigned. A layer is a collection of one or more spatial objects that describes a certain event that occurred over an area of interest. In GeoPandas a layer is built using a GeoDataFrame. A GeoDataFrame is a subclass of the DataFrame class of the Pandas Python library that has a column with geometry.
 
 ## Topological relations
-We apply the topological relations: *within*, *intersects* and *touch* between the polygons that we have defined. We will not use *contains* since it's the inverse of *within*. We will apply the topological relations to pairs of polygons from two different layers. The methods take the left operand from a polygon of one layer and the right operand from the corresponding polygon of the other layer. By "corresponding" we mean the polygons have the same index value in the two GeoDataFrame used to implement our layers. Since so far we have only one polygon in each layer their index value is 0.
+We apply the topological relations: *within*, *intersects* and *touch* between the polygons that we have defined. We will not use *contains* since it's the inverse of *within*. We will apply the topological relations to pairs of polygons from two different layers. The methods take the left operand from a polygon of one layer and the right operand from the corresponding polygon of the other layer. By "corresponding" we mean the polygons have the same index value in the two GeoDataFrame used to implement our layers.
 
 ### within
 From the [relation definition](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoSeries.within.html) in Geopandas: "An object is said to be within another if at least one of its points is located in the interior and no points are located in the exterior of the other."
@@ -46,14 +46,19 @@ Our points and polygons in the blue, red, orange and green layers are not comple
 ![Marche region](../assets/geoscience/polygons_marche_region.jpg)
 
 ## Municipalities of the Marche region
-We want to see which municipality lies within the polygon of the blue layer. We start by opening the dataset of the municipalities of the Marche region. This dataset has been extracted from the dataset of the Italian municipalities from ISTAT, the Italian National Institute of Statistics (see ref.2) and it is available in the data folder of the repository.
+We want to see which municipality lies within the polygon of the blue layer. We start by opening the dataset of the municipalities of the Marche region. This dataset has been extracted from the dataset of the Italian municipalities from ISTAT, the Italian National Institute of Statistics and it is available in the data folder of the repository.
 
 |![Municip within](../assets/geoscience/marche_municip_within_blue_layer.jpg)|![Municip intersect](../assets/geoscience/marche_municip_intersect_blue_layer.jpg) |
 |:--:|:--:|
 |*Municipalities of Marche within the blue layer*|*Municipalities of Marche intersecting the blue layer*|
 
 ## Further logic operations with masks
-Again, we want to add the information about the spatial relationship *intersects* between a municipality and the blue area to the municipalities layer. As we can see the *within* relationship is stronger than *intersects* so we will keep it and we will represent the *intersects* relationship with a 'Intersects' value only for those municipalities that intercepts the blue area but are not completely within it.
+As we can see the *within* relationship is stronger than *intersects*. We might want to see only the municipalities that intercept the blue area but are not completely within it. With GeoPandas such logic operation can be done with one line of code.
+
+````
+border_intersects = intersects & ~within
+
+````
 
 ![Polygons](../assets/geoscience/marche_municip_intersect_border_blue_layer.jpg)
 
