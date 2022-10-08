@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 22nd, 2022.  
+Last update: September 8th October, 2022.  
 
 # Subject Index  
 
@@ -175,6 +175,7 @@ Last update: September 22nd, 2022.
 [Linge et al. - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python](https://hplgit.github.io/prog4comp/index.html)  
 [Moler - Numerical Computing with MATLAB](https://it.mathworks.com/moler/chapters.html)    
 [Wick - Numerical Methods for Partial Differential Equations](http://www.thomaswick.org/links/lecture_notes_Numerics_PDEs_Oct_12_2019.pdf)  
+[Hennig, Osborne, Kersting - Probabilistic Numerics: Computation as Machine Learning](https://www.probabilistic-numerics.org/textbooks/)  
 
 ### Computational Geometry and Topology
 [Goodman, O'Rourke, Tóth - Handbook of Discrete and Computational Geometry, 3rd Ed.](https://www.csun.edu/~ctoth/Handbook/HDCG3.html)  
