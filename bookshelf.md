@@ -462,6 +462,7 @@ Last update: September 14th October, 2022.
 [Tiberius et al. - Surveying and Mapping](https://textbooks.open.tudelft.nl/textbooks/catalog/book/46)  
 [INSEE - Handbook of Spatial Analysis - Theory and Application with R](https://www.insee.fr/en/information/3635545)  
 [Snyder - Map Projections: A Working Manual](https://pubs.er.usgs.gov/publication/pp1395)  
+[Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)  
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
