@@ -423,7 +423,7 @@ Last update: September 14th October, 2022.
 [Eck et al. - Introduction to Computer Graphics](https://open.umn.edu/opentextbooks/textbooks/420)  
 [Krig - Computer Vision Metrics](https://link.springer.com/book/10.1007/978-1-4302-5930-5)  
 [McGuire - The Graphics Code](https://graphicscodex.courses.nvidia.com/app.html)  
-[Dofgson - Image Resampling](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-261.pdf)  
+[Dodgson - Image Resampling](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-261.pdf)  
 
 ### Information Retrieval
 [Manning et al. - Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)  
