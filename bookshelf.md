@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 17th October, 2022.  
+Last update: September 19th October, 2022.  
 
 # Subject Index  
 
@@ -440,6 +440,7 @@ Last update: September 17th October, 2022.
 [Murray et al. - A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/index.php?title=Main_Page)  
 [Nilsson - The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/)  
 [Cangelosi et al. - Cognitive Robotics](https://direct.mit.edu/books/oa-edited-volume/5331/Cognitive-Robotics)  
+[Summerfield - How to build a brain from scratch](https://humaninformationprocessing.com/teaching/)  
 
 ### Databases
 [Abiteboul - Foundation of Databases](http://webdam.inria.fr/Alice/)  
