@@ -42,4 +42,4 @@ introduction to Logic. It covers the encoding of information as logical sentence
 Italian is my mother tongue. I speak English fluently as it's the language I use the most since 2010. I can understand quite a bit of German, French and Portuguese. I got a Cambridge First Certificate English (Level B2 of the EU Reference for Languages) in 2010 and a telc Zertifikat Deutsch B1 in 2017.
 
 ## Other skills
-I like being in the nature, most often in the Apennine Mountains in Central Italy, not far from Rome. I have a 1° degree FIPSAS/CMAS diver license and I have been practicing mountain climbing and skiing.
+I like being in the nature, most often in the Apennine Mountains in Central Italy, not far from Rome. I have a 1° degree FIPSAS/CMAS diver license and I have been practicing [mountain climbing](https://www.flickr.com/photos/susterru/293369805/in/album-72157640984342785/) and [skiing](https://www.flickr.com/photos/susterru/2149914032/in/album-72157603587059163/).
