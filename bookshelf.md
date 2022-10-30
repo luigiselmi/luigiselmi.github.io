@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 23rd October, 2022.  
+Last update: 30th October, 2022.  
 
 # Subject Index  
 
@@ -139,6 +139,7 @@ Last update: September 23rd October, 2022.
    ***
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
 [Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
+[Kalmus - Being the Change: Live Well and Spark a Climate Revolution](https://peterkalmus.net/books/read-by-chapter-being-the-change/)  
 
 ## Mathematics
    ***
