@@ -29,7 +29,7 @@ Scholarship for a research study on data integration at the entity level through
 
 ## Presentations and awards
 * 19-21 October 2022 - SISC2022: Governing the Future. 10th Annual SISC Conference, Rome, Italy
-* 19th October 2022 - 3rd Prize of the Wekeo Jupyter Notebook Competition  
+* 19th October 2022 - [3rd Prize](assets/cv/Wekeo_JNC_2022_Luigi_Selmi.pdf) of the Wekeo Jupyter Notebook Competition  
 * 23-27 May 2022 - Living Planet Symposium 2022, Bonn (Germany) - Land Use and Land Cover Classification using CNN Deep Learning Architectures (Poster Session)
 * 25-27 January 2022 - The 4th International Electronic Conference on Remote Sensing - Flood mapping using Sentinel-1 SAR imagery and the ESA SNAP S1 Toolbox (Best Presentation Award)  
 
