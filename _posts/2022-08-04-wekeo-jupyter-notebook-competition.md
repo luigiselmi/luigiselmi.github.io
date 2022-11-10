@@ -23,4 +23,4 @@ I am glad to say that one of my notebooks, the one on solar radiation, won the 3
 
 [![Award Ceremony](../assets/wekeo/award_ceremony.jpg)](https://youtu.be/5_gvn1NMbo0?t=480)  
 
-and [certificate](assets/cv/Wekeo_JNC_2022_Luigi_Selmi.pdf)
+and [certificate](../assets/cv/Wekeo_JNC_2022_Luigi_Selmi.pdf)
