@@ -431,6 +431,7 @@ Last update: 24th November, 2022.
 [Krig - Computer Vision Metrics](https://link.springer.com/book/10.1007/978-1-4302-5930-5)  
 [McGuire - The Graphics Code](https://graphicscodex.courses.nvidia.com/app.html)  
 [Dodgson - Image Resampling](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-261.pdf)  
+[Dunn, Parbery - 3D Math Primer for Graphics and Game Development](https://www.gamemath.com/)  
 
 ### Information Retrieval
 [Manning et al. - Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)  
