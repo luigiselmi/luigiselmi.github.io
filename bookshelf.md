@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 20th November, 2022.  
+Last update: 24th November, 2022.  
 
 # Subject Index  
 
@@ -385,6 +385,7 @@ Last update: 20th November, 2022.
 [Efron et al. - Computer Age Statistical Inference](https://hastie.su.domains/CASI/)  
 [Mitchell - Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)  
 [Wilber et al. - MLU-Explain: Visual explanation of core machine learning concepts](https://mlu-explain.github.io/)  
+[Shapire, Freund - Boosting: Foundations and Algorithms](https://direct.mit.edu/books/oa-monograph/5342/BoostingFoundations-and-Algorithms)  
 
 ### Neural Networks, Deep Learning, and Reinforcement Learning
 [Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
