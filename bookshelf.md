@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 24th November, 2022.  
+Last update: 29th November, 2022.  
 
 # Subject Index  
 
@@ -432,6 +432,7 @@ Last update: 24th November, 2022.
 [McGuire - The Graphics Code](https://graphicscodex.courses.nvidia.com/app.html)  
 [Dodgson - Image Resampling](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-261.pdf)  
 [Dunn, Parbery - 3D Math Primer for Graphics and Game Development](https://www.gamemath.com/)  
+[Phillips - Image Processing in C, 2nd Edition](https://github.com/Dwayne-Phillips/CIPS)      
 
 ### Information Retrieval
 [Manning et al. - Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)  
