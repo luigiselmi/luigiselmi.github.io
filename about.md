@@ -19,7 +19,7 @@ the Silk framework and in the use of geographical data. I developed also a seman
 #### University of Trento Dept. of Information Engineering and Computer Science (2011-03-01 - 2011-08-31)
 Scholarship for a research study on data integration at the entity level through heterogeneous systems.
 
-## Pubblications
+## Publications
 * L. Selmi - Flood mapping using the Sentinel-1 imagery and the ESA SNAP S1 Toolbox, 2021, ESA SNAP Tutorials ([link](https://step.esa.int/main/doc/tutorials/))  
 * Josep Maria Salanova Grau, Evangelos Mitsakis, Panagiotis Tzenos, Iraklis Stamos, Luigi Selmi, Georgia Aifadopoulou - Multisource Data Framework for Road Traffic State Estimation, Journal of Advanced Transportation, Hindawi ([link](https://doi.org/10.1155/2018/9078547))  
 * Ivan Ermilov, Axel-Cyrille Ngonga Ngomo, Aad Versteden, Hajira Jabeen, Gezim Sejdiu, Giorgos Argyriou, Luigi Selmi, Jürgen Jakobitsch, Jens Lehmann - Managing Lifecycle of Big Data Applications, International Conference on Knowledge Engineering and the Semantic Web, Springer ([link](https://link.springer.com/chapter/10.1007/978-3-319-69548-8_18))  
