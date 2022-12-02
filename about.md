@@ -26,6 +26,7 @@ I received a scholarship for a research study on data integration at the entity 
 * P. Castracane, L. Selmi, S. Casadio, M. Cacciani and G. Fiocco - Ground-based remote sensing of wind, temperature and aerosol backscattering in an urban environment during different atmosphericstability conditions, Ed. Physics and chemistry of the earth. Part B: Hydrology, oceans and atmosphere, Elsevier Science ([link](https://doi.org/10.1016/S1464-1909(00)00246-X))  
 
 ## Presentations and awards
+* 30th November 2022 PyData Rome: Deep Learning for Land Use and Land Cover classification ()[slides](assets/pydata_rome/Deep_Learning_for_LULC_Classification_PyData_Rome_Meeting_30_Nov.2022.pdf))
 * 19-21 October 2022 - SISC2022: Governing the Future. 10th Annual SISC Conference, Rome, Italy
 * 19th October 2022 - [3rd Prize](assets/cv/Wekeo_JNC_2022_Luigi_Selmi.pdf) of the Wekeo Jupyter Notebook Competition  
 * 23-27 May 2022 - Living Planet Symposium 2022, Bonn (Germany) - Land Use and Land Cover Classification using CNN Deep Learning Architectures (Poster Session)
