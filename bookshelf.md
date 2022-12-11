@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 29th November, 2022.  
+Last update: 11th December, 2022.  
 
 # Subject Index  
 
@@ -214,6 +214,7 @@ Last update: 29th November, 2022.
 [NIST/SEMATECH - e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/)  
 [Durrett - Elementary Probability for Applications](https://services.math.duke.edu/~rtd/EP4A/EP4A.html)  
 [Durrett - Essential of Stochastic Processes](https://services.math.duke.edu/~rtd/EOSP/eosp.html)  
+[Wikle, Zammit-Mangion, Cressie - Spatio-Temporal Statistics with R](https://spacetimewithr.org/)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
