@@ -4,6 +4,16 @@ title:  "Land Use and Land Cover Classification using a ResNet Deep Learning Arc
 categories: earth observation, remote sensing, deep learning
 permalink: /eo/lulc-classification-deeplearning.html
 ---
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    processEscapes: true
+  }
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 ![Sentinel-2](../assets/Sentinel-2-MSI_overview.jpg)
 
 My goal with this experiment was to test the accuracy of Convolutional Neural Networks to learn the spatial and spectral characteristics of image patches of the Earth surface extracted from satellite images for Land Use and Land Cover (LULC) classification tasks. To achieve my goal I used a transfer learning technique that consists of using a pretrained ResNet CNN architecture [1] and finetune it with the EuroSAT dataset [2], a collection of labelled satellite patch images extracted from the Copernicus Sentinel-2 satellites products. I used the [Fastai](https://www.fast.ai/) deep learning library to write the Python code to train and validate the system, and Google Colab to execute it on a GPU. I have also performed some additional LULC classification tests using new images extracted from the Copernicus Sentinel-2 dataset products through the Sentinel-Hub EO-Browser. In the next four sections I provide some information about the LULC classification task, the Sentinel-2 satellites and their products, the EuroSAT dataset, and the finetuning technique. In the coding sections that follow I describe all the steps required to set up a deep learning architecture to accomplish the LULC task and to assess the accuracy of the results.
@@ -17,6 +27,30 @@ In the visible region, dry grass has a stronger reflectance in band 4 (Red) than
 
 ## The Copernicus Sentinel-2 satellites
 The Copernicus [Sentinel-2](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2) constellation is based on two identical satellites for earth observation, launched and operated by the European Space Agency (ESA). Each satellite flies on a Sun synchronous near-polar orbit at 786 km altitude, 180° apart from each other so that the same area can be revisited every 5 days. Both satellites carry a high spatial resolution multispectral imager (MSI) with a 290 km swath that can collect the solar energy reflected by the Earth surface in 13 spectral bands, from the visible to the near-infrared spectral range. The spatial resolution ranges from 10 m per pixel (B2, B3, B4, and B8 bands) down to 60 m per pixel. The ESA processes the raw data for radiometric calibration, orthorectification, atmospheric correction and georeferencing, and delivers the processed images as Level-1C (L1C) and Level-2A (L2A) [data products](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2/data-products). Both products are delivered as 100 km x 100 km tiles in UTM/WGS84 projection. L1C products are not processed for atmospheric correction and are described as Top-Of-Atmosphere reflectance data, while L2A products have received atmospheric correction and are described as Bottom-Of-Atmosphere reflectance data. L1C and L2A products can be obtained under an open access license from the [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) or from other providers such as [Sentinel-Hub](https://apps.sentinel-hub.com/eo-browser/).
+
+## Deep Learning Models
+This section is meant to provide a very rough idea of the calculations used in Deep Learning to map an input to its output without any mathematical rigor. With this caveat in mind, it is known that a multilayer feedforward network, like ResNet50, can be used to build a model $y(x)$ to fit an unknown target function $y^*(x)$ that maps an input x to an output y. An input can be an image and the output a numeric value in case of a regression task or a categorical value in case of a classification task. The feedforward neural network model can be represented as nested functions, one function for each layer where the output of one layer's units is the input to the following layer's units. Each successive layer should provide a different and increasingly abstract view of the input. Let's suppose we use a network with only three hidden layers where an input x goes from layer h to layer g and f
+
+$$x → h → g → f → y(x)$$
+
+Throwing mathematical precision to the winds, we can represent the model with the function   
+
+$$y(x, w) = f(g(h(x, w_h), w_g), w_f)$$
+
+where w represents all the parameters $w_h, w_g, w_f$. We train our model using a data set of N inputs with labels {$x^{(n)}, t^{(n)}$} that represent a sample of the unknown function $y^*(x)$. Our model should minimize a cost function
+
+$$ℒ = ||y(x, w) - y^*(x)||^2$$
+
+One algorithm used to minimize the cost function is gradient descent with backward propagation
+
+$$w_{i+1} = w_i - γ∇_wℒ$$
+
+where i is the index of a batch of inputs used to update the parameters w, $γ$ the learning rate, and
+
+
+$$ ∇_wℒ = 2||y(x, w) - y^*(x)|| ∇_wy $$
+
+The gradient $∇_wy$ is computed following the chain rule from Calculus implemented in PyTorch using automatic differentiation. We train our model by updating its parameters w using the training set several times (epochs) till we don't observe any further reduction of the cost function, in particular on a subset of our data set, the validation set, that has not been used for training. At that point we can say that our model y(x) fits the target function $y^*(x)$ well enough for our purposes.
 
 ## The EuroSAT dataset
 The EuroSAT dataset was created at the Deutsches Forschungszentrum für Künstliche Intelligenz ([DKFI](https://www.dfki.de/web/)). The images were extracted from the Sentinel-2A L1C products covering cities in 34 European countries all over a year. The dataset consists of two subsets: RGB and multispectral. Each dataset contains 27000 images divided in 10 classes with 2000 to 3000 images per class. The classes defined to label the images are a subset of those defined in CORINE: Pasture, HerbaceousVegetation, Industrial, AnnualCrop, Residential, PermanentCrop, Highway, SeaLake, Forest, River. The RGB dataset contains images covering the three bands in the visible region of the spectrum (RGB colors). The multispectral dataset contains images covering all the 13 specral bands available from the MSI sensor of the Sentinel-2 satellites. The size of each patch image is 64x64 pixels with 10 m resolution. In this notebook I use only the RGB dataset.
