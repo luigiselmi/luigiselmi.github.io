@@ -195,7 +195,7 @@ Last update: 11th December, 2022.
 [Gelman et al. - Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/)  
 [Lattimore et al. - Bandit Algorithms](https://banditalgs.com/)  
 [Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
-[Vershynin - High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html)  
+[Vershynin - High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)    
 [Clyde et al. - An Introduction to Bayesian Thinking](https://statswithr.github.io/book/)  
 [Blitzstein - Introduction to Probability, 2nd Ed.](https://projects.iq.harvard.edu/stat110/home)  
 [Kadane - Principles of Uncertainty, 2nd Ed.](http://www.stat.cmu.edu/~kadane/)  
