@@ -398,7 +398,6 @@ Last update: 11th December, 2022.
 [Howard et al. - Practical Deep Learning for Coders](https://course.fast.ai/)  
 [Ma et al. - Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/)  
 [LeCun et al. - Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)  
-[Stevens et al. - Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)    
 [Bronstein et al. Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)  
 [Roberts et al. - The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)  
 [Sutton et al. - Reinforcement Learning, 2nd Ed.](http://incompleteideas.net/book/the-book-2nd.html)  
