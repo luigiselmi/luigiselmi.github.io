@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Land Use and Land Cover Classification using a ResNet Deep Learning Architecture"
+title:  "Deep Learning for Land Use and Land Cover Classification"
 categories: earth observation, remote sensing, deep learning
 permalink: /eo/lulc-classification-deeplearning.html
 ---
