@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 11th December, 2022.  
+Last update: 15th December, 2022.  
 
 # Subject Index  
 
@@ -442,6 +442,7 @@ Last update: 11th December, 2022.
 [Silge et al. - Text Mining with R](https://www.tidytextmining.com/)  
 [Bird et al. - Natural Language Processing with Python](https://www.nltk.org/book/)  
 [Eisenstein - Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)  
+[Liu, Lin, Sun - Representation Learning for Natural Language Processing](https://arxiv.org/abs/2102.03732)  
 
 ### Artificial Intelligence and Robotics
 [Lynch et al. - Modern Robotics - Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)  
