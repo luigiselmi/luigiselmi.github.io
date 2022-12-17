@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 15th December, 2022.  
+Last update: 17th December, 2022.  
 
 # Subject Index  
 
@@ -350,6 +350,7 @@ Last update: 15th December, 2022.
 [Peyre' - An Introduction to Data Sciences](https://mathematical-tours.github.io/book-basics/)  
 [Baumer, Kaplan, Horton - Modern Data Science with R, 2nd Ed.](http://mdsr-book.github.io/)  
 [Brunton, Kutz - Data-Driven Science & Engineering](http://databookuw.com/databook.pdf)  
+[Spector, Norvig, Wiggins, Wing - Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/)  
 
 ### Data Visualization
 [Healy - Data Visualization - A Practical Introduction](https://socviz.co/)  
