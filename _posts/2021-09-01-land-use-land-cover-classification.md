@@ -39,7 +39,7 @@ $$y(x, w) = f(g(h(x, w_h), w_g), w_f)$$
 
 where w represents all the parameters $w_h, w_g, w_f$. We train our model using a data set of N inputs with labels {$x^{(n)}, t^{(n)}$} that represent a sample of the unknown function $y^*(x)$. Our model should minimize a cost function
 
-$$ℒ = ||y(x, w) - y^*(x)||^2$$
+$$ℒ = \frac{1}{2}||y(x, w) - y^*(x)||^2$$
 
 One algorithm used to minimize the cost function is gradient descent with backward propagation
 
@@ -48,7 +48,7 @@ $$w_{i+1} = w_i - γ∇_wℒ$$
 where i is the index of a batch of inputs used to update the parameters w, $γ$ the learning rate, and
 
 
-$$ ∇_wℒ = 2||y(x, w) - y^*(x)|| ∇_wy $$
+$$ ∇_wℒ = ||y(x, w) - y^*(x)|| ∇_wy $$
 
 The gradient $∇_wy$ is computed following the chain rule from Calculus implemented in PyTorch using automatic differentiation. We train our model by updating its parameters w using the training set several times (epochs) till we don't observe any further reduction of the cost function, in particular on a subset of our data set, the validation set, that has not been used for training. At that point we can say that our model y(x) fits the target function $y^*(x)$ well enough for our purposes.
 
