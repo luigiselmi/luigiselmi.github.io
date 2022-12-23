@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 17th December, 2022.  
+Last update: 23rd December, 2022.  
 
 # Subject Index  
 
@@ -245,6 +245,7 @@ Last update: 17th December, 2022.
 [Lucchetti - Convexity and Well-Posed Problems](http://www.robertolucchetti.com/public/uploads/2018/09/Lucchetti-R.-Convexity-and-Well-Posed-Problems2005328.pdf)  
 [Hazan - Introduction to Online Convex Optimization](https://arxiv.org/abs/1909.05207)  
 [Lusby, Stidsen - Mathematical Programming with Julia](https://www.man.dtu.dk/MathProgrammingWithJulia)  
+[Kwon - Julia Programming for Operation Research. 2nd Ed.](https://juliabook.chkwon.net/book/)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
