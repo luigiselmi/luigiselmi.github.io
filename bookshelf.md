@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 23rd December, 2022.  
+Last update: 24th December, 2022.  
 
 # Subject Index  
 
@@ -72,6 +72,7 @@ Last update: 23rd December, 2022.
 
 ### Classical Physics
 [Cline - Variational Principles in Classical Mechanics, 3rd Ed.](http://classicalmechanics.lib.rochester.edu/)  
+[Abraham, Marsden - Foundations of Mechanics](https://authors.library.caltech.edu/25029/)  
 
 ### Geophysics and Remote Sensing
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
@@ -135,12 +136,6 @@ Last update: 23rd December, 2022.
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.1](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v1)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.2](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v2)  
-
-## Climate Change and Environmental Sustainability
-   ***
-[MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
-[Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
-[Brundtland et al. - Our Common Future](https://www.are.admin.ch/are/en/home/media/publications/sustainable-development/brundtland-report.html)  
 
 ## Mathematics
    ***
@@ -214,7 +209,10 @@ Last update: 23rd December, 2022.
 [NIST/SEMATECH - e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/)  
 [Durrett - Elementary Probability for Applications](https://services.math.duke.edu/~rtd/EP4A/EP4A.html)  
 [Durrett - Essential of Stochastic Processes](https://services.math.duke.edu/~rtd/EOSP/eosp.html)  
-[Wikle, Zammit-Mangion, Cressie - Spatio-Temporal Statistics with R](https://spacetimewithr.org/)  
+[Neal - Probabilistic Inference using Markov Chain Monte Carlo Methods](https://glizen.com/radfordneal/review.abstract.html)  
+[Betancourt - A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)  
+[Betancourt - Probabilistic Modeling with Stan](https://betanalpha.github.io/writing/)  
+[Stan Development Team - Stan User's Guide](https://mc-stan.org/docs/2_18/stan-users-guide/index.html)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
@@ -476,6 +474,7 @@ Last update: 23rd December, 2022.
 [INSEE - Handbook of Spatial Analysis - Theory and Application with R](https://www.insee.fr/en/information/3635545)  
 [Snyder - Map Projections: A Working Manual](https://pubs.er.usgs.gov/publication/pp1395)  
 [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)  
+[Wikle, Zammit-Mangion, Cressie - Spatio-Temporal Statistics with R](https://spacetimewithr.org/)  
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
@@ -529,6 +528,12 @@ Last update: 23rd December, 2022.
 [Sargent et al. - Quantitative Economics with Python](https://python.quantecon.org/intro.html)  
 [Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
 [Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
+
+## Climate Change and Environmental Sustainability
+   ***
+[MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
+[Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
+[Brundtland et al. - Our Common Future](https://www.are.admin.ch/are/en/home/media/publications/sustainable-development/brundtland-report.html)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
