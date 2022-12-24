@@ -18,7 +18,6 @@ Last update: 24th December, 2022.
     * [Quantum Mechanics and Computing](#quantum-mechanics-and-computing)  
     * [Statistical Mechanics](#statistical-mechanics)  
     * [Nuclear Physics](#nuclear-physics)  
-* [Climate Change and Environmental Sustainability](#climate-change-and-environmental-sustainability)  
 * [Mathematics](#mathematics)  
     * [Foundations and Logic](#foundations-and-logic)  
     * [Algebra](#algebra)  
@@ -59,9 +58,9 @@ Last update: 24th December, 2022.
     * [Operating Systems](#operating-systems)  
     * [Knowledge Representation, Semantic Web, and Linked Data](#knowledge-representation-semantic-web-and-linked-data)  
     * [Cryptography and Information Security](#cryptography-and-information-security)  
-
 * [Finance and Economics](#finance-and-economics)  
     * [Econometrics and Quantitative Finance](#econometrics-and-quantitative-finance)  
+* [Climate Change and Environmental Sustainability](#climate-change-and-environmental-sustainability)  
 * [Entrepreneurship, Project Management and Marketing](#entrepreneurship-project-management-and-marketing)  
 * [Biology](#biology)  
 * [Medicine](#medicine)  
