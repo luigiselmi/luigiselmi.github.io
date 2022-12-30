@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 24th December, 2022.  
+Last update: 30th December, 2022.  
 
 # Subject Index  
 
@@ -63,6 +63,7 @@ Last update: 24th December, 2022.
 * [Climate Change and Environmental Sustainability](#climate-change-and-environmental-sustainability)  
 * [Entrepreneurship, Project Management and Marketing](#entrepreneurship-project-management-and-marketing)  
 * [Biology](#biology)  
+    * [Neuroscience](#neuroscience)
 * [Medicine](#medicine)  
 
 ## Physics
@@ -546,12 +547,14 @@ Last update: 24th December, 2022.
 [Bonita et al. - Basic Epidemiology, 2nd Ed.](https://apps.who.int/iris/handle/10665/43541)  
 [Frank - Immunology and Evolution of Infectious Disease](https://stevefrank.org/antiVar/antiVar.html)  
 [Frank - Dynamics of Cancer](https://stevefrank.org/cancer/cancer.html)  
+### Neuroscience
 [Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
 [Rolls - Cerebral Cortex: Principles of Operation](https://www.oxcns.org/b12text.html)  
-[Rolls et al. - The Noisy Brain - Stochastic Dynamics as a Principle of Brain Function](https://www.oxcns.org/b9_text.html)  
+[Rolls, Deco - The Noisy Brain - Stochastic Dynamics as a Principle of Brain Function](https://www.oxcns.org/b9_text.html)  
 [Rolls - Neuroculture - On the Implications of Brain Science](https://www.oxcns.org/b10_text.html)  
 [Rolls - Memory, Attention, and Decision-Making: a unifying computational neuroscience approach](https://www.oxcns.org/b8_text.html)  
-[Rolls et al. - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
+[Rolls, Deco - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
+[Rolls, Treves - Neural Networks and Brain Functions](https://www.oxcns.org/b3_text.html)  
 
 ## Medicine
    ***
