@@ -410,6 +410,7 @@ Last update: 31st December, 2022.
 [Bertsekas - Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control](http://web.mit.edu/dimitrib/www/RLbook.html)  
 [Kashani et al. - Deep Learning Inteviews: Hundreds of fully solved questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)  
 [Rao, Jelvis - Foundations of Reinforcement Learning with Applications in Finance](https://stanford.edu/~ashlearn/)  
+[Nikolenko - Synthetic Data for Deep Learning](https://synthesis.ai/synthetic-data-for-deep-learning/)
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
