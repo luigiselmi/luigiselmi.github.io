@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 30th December, 2022.  
+Last update: 31st December, 2022.  
 
 # Subject Index  
 
@@ -42,6 +42,7 @@ Last update: 30th December, 2022.
         * [Scala](#scala)  
         * [Java](#java)  
         * [Python](#python)  
+        * [Rust](#rust)
     * [Data Science](#data-science)  
     * [Data Visualization](#data-visualization)  
     * [Machine Learning](#machine-learning)  
@@ -326,6 +327,9 @@ Last update: 30th December, 2022.
 [Hill - Learning Scientific Programming with Python](https://scipython.com/)  
 [Sargent et al. - Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)  
 [Sheppard - Introduction to Python for Econometrics, Statistics and Numerical Analysis, 4th Ed.](https://www.kevinsheppard.com/teaching/python/notes/)  
+
+#### Rust
+[Klabnik, Nichols - The Rust Programming Language](https://doc.rust-lang.org/book/)
 
 ### Data Science
 [Hey et al. - The Fourth Paradigm: Data-Intensive Scientific Discovery](https://www.microsoft.com/en-us/research/publication/fourth-paradigm-data-intensive-scientific-discovery/)  
