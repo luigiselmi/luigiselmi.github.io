@@ -534,6 +534,7 @@ Last update: 1st December, 2023.
 [Sargent et al. - Quantitative Economics with Python](https://python.quantecon.org/intro.html)  
 [Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
 [Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
+[Hanck, Arnold, Gerber, Schmelzer - Introduction to Econometrics with R](https://www.econometrics-with-r.org/)  
 
 ## Climate Change and Environmental Sustainability
    ***
