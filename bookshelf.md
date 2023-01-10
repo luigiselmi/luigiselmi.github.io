@@ -215,6 +215,7 @@ Last update: January 10th, 2023.
 [Betancourt - A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)  
 [Betancourt - Probabilistic Modeling with Stan](https://betanalpha.github.io/writing/)  
 [Stan Development Team - Stan User's Guide](https://mc-stan.org/docs/2_18/stan-users-guide/index.html)  
+[Marden - Multivariate Statistics: Old School](http://stat.istics.net/Multivariate/)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
