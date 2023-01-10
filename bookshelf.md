@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: 1st December, 2023.  
+Last update: January 10th, 2023.  
 
 # Subject Index  
 
@@ -271,7 +271,7 @@ Last update: 1st December, 2023.
 [Fong et al. - Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
 [Leinster - Basic category Theory](https://arxiv.org/abs/1612.09375)  
 [Smith - Beginning Category Theory](https://www.logicmatters.net/categories/)  
-
+[Riehl - Category Theory in Context](https://emilyriehl.github.io/books/)  
 
 ## Computer Science
    ***
