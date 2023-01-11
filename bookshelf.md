@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 10th, 2023.  
+Last update: January 11th, 2023.  
 
 # Subject Index  
 
@@ -247,6 +247,7 @@ Last update: January 10th, 2023.
 [Hazan - Introduction to Online Convex Optimization](https://arxiv.org/abs/1909.05207)  
 [Lusby, Stidsen - Mathematical Programming with Julia](https://www.man.dtu.dk/MathProgrammingWithJulia)  
 [Kwon - Julia Programming for Operation Research. 2nd Ed.](https://juliabook.chkwon.net/book/)  
+[Bubeck - Convex Optimization: Algorithms and Complexity](http://sbubeck.com/book.html)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
