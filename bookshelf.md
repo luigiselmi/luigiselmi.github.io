@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 11th, 2023.  
+Last update: January 13th, 2023.  
 
 # Subject Index  
 
@@ -413,7 +413,9 @@ Last update: January 11th, 2023.
 [Bertsekas - Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control](http://web.mit.edu/dimitrib/www/RLbook.html)  
 [Kashani et al. - Deep Learning Inteviews: Hundreds of fully solved questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)  
 [Rao, Jelvis - Foundations of Reinforcement Learning with Applications in Finance](https://stanford.edu/~ashlearn/)  
-[Nikolenko - Synthetic Data for Deep Learning](https://synthesis.ai/synthetic-data-for-deep-learning/)
+[Nikolenko - Synthetic Data for Deep Learning](https://synthesis.ai/synthetic-data-for-deep-learning/)  
+[Akkus et al. - Multimodal Deep Learning](https://arxiv.org/abs/2301.04856)  
+[Kingma, Welling - An Introduction to variational Autoencoders](https://arxiv.org/abs/1906.02691)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
