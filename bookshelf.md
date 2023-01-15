@@ -546,6 +546,7 @@ Last update: January 15th, 2023.
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
 [Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
 [Brundtland et al. - Our Common Future](https://www.are.admin.ch/are/en/home/media/publications/sustainable-development/brundtland-report.html)  
+[Beard - Smart Grids for Dummies](https://www.smartgrid.gov/document/smart_grids_dummies)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
