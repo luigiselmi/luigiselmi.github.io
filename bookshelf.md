@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 18th, 2023.  
+Last update: January 20th, 2023.  
 
 # Subject Index  
 
@@ -161,7 +161,7 @@ Last update: January 18th, 2023.
 ### Calculus
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
 [Axler - Measure, Integration & Real Analysis](https://measure.axler.net/)  
-[Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry)  
+[Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/9780262019347/functional-differential-geometry/)    
 [Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
 [Dawkins - Paul's Online Math Notes](https://tutorial.math.lamar.edu/)  
 [Heinbockel - Introduction to Tensor Calculus and Continuum Mechanics](https://vtk.ugent.be/w/images/9/96/Wiskundige_ingenieurstechnieken_-_Introduction_to_Tensor_Calculus.pdf)  
