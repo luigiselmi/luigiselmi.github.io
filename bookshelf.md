@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 20th, 2023.  
+Last update: January 23rd, 2023.  
 
 # Subject Index  
 
@@ -418,6 +418,7 @@ Last update: January 20th, 2023.
 [Nikolenko - Synthetic Data for Deep Learning](https://synthesis.ai/synthetic-data-for-deep-learning/)  
 [Akkus et al. - Multimodal Deep Learning](https://arxiv.org/abs/2301.04856)  
 [Kingma, Welling - An Introduction to variational Autoencoders](https://arxiv.org/abs/1906.02691)  
+[Wu, Cui, Pei, Zhao - Graph Neural Networks: Foundations, Frontiers, and Applications](https://graph-neural-networks.github.io/index.html)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
