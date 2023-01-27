@@ -9,7 +9,7 @@ permalink: /pydata/pydata-rome-chapter
 |:--:|
 ||
 
-## What is PyData
+## What is PyData ?
 [PyData](https://pydata.org/) is an educational program of NumFocus, a nonprofit charity promoting open practices in research, data, and scientific computing. It provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The forum is organized on the Meetup platform and currently, in January 2023, there are 215 groups in 73 countries.
 
 ## The Rome PyData Chapter
