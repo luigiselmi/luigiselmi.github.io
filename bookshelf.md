@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 23rd, 2023.  
+Last update: January 28th, 2023.  
 
 # Subject Index  
 
@@ -216,6 +216,7 @@ Last update: January 23rd, 2023.
 [Betancourt - Probabilistic Modeling with Stan](https://betanalpha.github.io/writing/)  
 [Stan Development Team - Stan User's Guide](https://mc-stan.org/docs/2_18/stan-users-guide/index.html)  
 [Marden - Multivariate Statistics: Old School](http://stat.istics.net/Multivariate/)  
+[Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
