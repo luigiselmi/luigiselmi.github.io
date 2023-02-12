@@ -127,8 +127,7 @@ Last update: February 12th, 2023.
 [Wong - Introduction to Classical and Quantum Computing](http://www.thomaswong.net/)  
 [Rovelli et al. - Covariant Loop Quantum Gravity](http://www.cpt.univ-mrs.fr/~rovelli/IntroductionLQG.pdf)  
 [Hughes et al. - Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4)  
-[Aaronson - Introduction to Quantum Information Science: Lecture Notes](https://www.scottaaronson.com/qclec.pdf)  
-[Watrous - The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/)  
+[Aaronson - Introduction to Quantum Information Science: Lecture Notes](https://www.scottaaronson.com/qclec.pdf)   
 
 ### Statistical Mechanics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
