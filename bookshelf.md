@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 12th, 2023.  
+Last update: February 16th, 2023.  
 
 # Subject Index  
 
@@ -128,6 +128,7 @@ Last update: February 12th, 2023.
 [Rovelli et al. - Covariant Loop Quantum Gravity](http://www.cpt.univ-mrs.fr/~rovelli/IntroductionLQG.pdf)  
 [Hughes et al. - Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4)  
 [Aaronson - Introduction to Quantum Information Science: Lecture Notes](https://www.scottaaronson.com/qclec.pdf)   
+[Girvin - Circuit QED: Superconducting Qubits Coupled to Microwave Photons](http://www.capri-school.eu/lectureres/master_cqed_les_houches.pdf)  
 
 ### Statistical Mechanics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
@@ -297,7 +298,7 @@ Last update: February 12th, 2023.
 
 ### Distributed Systems and High Performance Computing
 [van Steen et al. - Computer and Network Organization](https://www.distributed-systems.net/index.php/books/computer-and-network-organization/)  
-[van Steen et al. - Distributed Systems, 3rd Ed.](https://www.distributed-systems.net/index.php/books/ds3/)  
+[van Steen, Tanenbaum - Distributed Systems, 4th Ed.](https://www.distributed-systems.net/index.php/books/ds4/)  
 [Burns - Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/)  
 [Eijkhout - Introduction to High Performance Scientific Computing](https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html)  
 [Livermore Computing Center - Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial)  
