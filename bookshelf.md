@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 16th, 2023.  
+Last update: February 23rd, 2023.  
 
 # Subject Index  
 
@@ -451,6 +451,7 @@ Last update: February 16th, 2023.
 [Dodgson - Image Resampling](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-261.pdf)  
 [Dunn, Parbery - 3D Math Primer for Graphics and Game Development](https://www.gamemath.com/)  
 [Phillips - Image Processing in C, 2nd Edition](https://github.com/Dwayne-Phillips/CIPS)      
+[Wald - Data Fusion. Definitions and Architectures - Fusion of Images of Different Spatial Resolutions](https://hal.science/hal-00464703)
 
 ### Information Retrieval
 [Manning et al. - Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)  
