@@ -462,7 +462,7 @@ Last update: February 27th, 2023.
 [Bird et al. - Natural Language Processing with Python](https://www.nltk.org/book/)  
 [Eisenstein - Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)  
 [Liu, Lin, Sun - Representation Learning for Natural Language Processing](https://arxiv.org/abs/2102.03732)  
-[Bird, Klein, Loper - Natural Language Processing with Python: Analyzing Text with the Natutal Language Toolkit](https://www.nltk.org/book/)  
+[Bird, Klein, Loper - Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)  
 
 ### Artificial Intelligence and Robotics
 [Lynch et al. - Modern Robotics - Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)  
