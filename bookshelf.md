@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 27th, 2023.  
+Last update: March 3rd, 2023.  
 
 # Subject Index  
 
@@ -438,6 +438,7 @@ Last update: February 27th, 2023.
 [Kak et al. - Principles of Computerized Tomographic Imaging](http://www.slaney.org/pct/pct-toc.html)  
 [Gallager - Principles of Digital Communication](https://ocw.mit.edu/courses/6-450-principles-of-digital-communications-i-fall-2006/)  
 [Peyre' - The Discrete Algebra of the Fourier Transform](https://mathematical-tours.github.io/daft/)  
+[O'Haver - A Pragmatic Introduction to Signal Processing with applications in scientific measurements](https://terpconnect.umd.edu/~toh/spectrum/TOC.html)
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
