@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: March 17th, 2023.  
+Last update: March 29th, 2023.  
 
 # Subject Index  
 
@@ -106,6 +106,8 @@ Last update: March 17th, 2023.
 [Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
 [Camara et al. - Satellite Image Time Series Analysis on Earth Observation Data Cubes](https://e-sensing.github.io/sitsbook/index.html)  
 [Meijerink et al. - Remote Sensing Applications to Groundwater](https://unesdoc.unesco.org/ark:/48223/pf0000156300)  
+[Gordon - Physical Principles of Ocean Color Remote Sensing](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
+[Mobley et al. - The Oceanic Optics Book](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
@@ -497,6 +499,7 @@ Last update: March 17th, 2023.
 [Snyder - Map Projections: A Working Manual](https://pubs.er.usgs.gov/publication/pp1395)  
 [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)  
 [Wikle, Zammit-Mangion, Cressie - Spatio-Temporal Statistics with R](https://spacetimewithr.org/)  
+[Campbell, Shin - Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
