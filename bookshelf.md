@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: April 11th, 2023.  
+Last update: April 12th, 2023.  
 
 # Subject Index  
 
@@ -498,7 +498,7 @@ Last update: April 11th, 2023.
 [Tiberius et al. - Surveying and Mapping](https://textbooks.open.tudelft.nl/textbooks/catalog/book/46)  
 [INSEE - Handbook of Spatial Analysis - Theory and Application with R](https://www.insee.fr/en/information/3635545)  
 [Snyder - Map Projections: A Working Manual](https://pubs.er.usgs.gov/publication/pp1395)  
-[ESRI - Understanding Map Projections](http://downloads2.esri.com/support/documentation/ao_/710understanding_map_projections.pdf) 
+[ESRI - Understanding Map Projections](http://downloads2.esri.com/support/documentation/ao_/710understanding_map_projections.pdf)  
 [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)  
 [Wikle, Zammit-Mangion, Cressie - Spatio-Temporal Statistics with R](https://spacetimewithr.org/)  
 [Campbell, Shin - Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)
