@@ -32,6 +32,7 @@ I received a scholarship for a research study on data integration at the entity 
 * 19th October 2022 - [3rd Prize](assets/cv/Wekeo_JNC_2022_Luigi_Selmi.pdf) of the Wekeo Jupyter Notebook Competition  
 * 23-27 May 2022 - Living Planet Symposium 2022, Bonn (Germany) - Land Use and Land Cover Classification using CNN Deep Learning Architectures (Poster Session)
 * 25-27 January 2022 - The 4th International Electronic Conference on Remote Sensing - Flood mapping using Sentinel-1 SAR imagery and the ESA SNAP S1 Toolbox (Best Presentation Award)  
+* 2nd European Semantic Web Conference Summer School 2012 [Student Project 1st Prize](assets/semweb/2nd_ESWC_2012_1st_Prize.jpg)
 
 ## Courses and Certifications
 * 2021-11-19 [ESRI - Imagery in Action](https://www.esri.com/training/TrainingRecord/Certificate/lgslm1/60acd9af30ba2f5a03182bc3/-60)  
@@ -46,7 +47,10 @@ I received a scholarship for a research study on data integration at the entity 
 * 2018-07-22 - [Deep Learning Specialization](https://coursera.org/share/7db159dbb0e19624ef9ee4cd32822b7f). An online specialization on Deep Learning offered by deeplearning.ai on the Coursera platform and taught by Prof. Andrew Ng. It is made up of five courses: 1) Neural Networks and Deep Learning, 2) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, 3) Structuring Machine Learning Projects, 4) Convolutional Neural Networks, 5) Sequence Models. I achieved a grade of 100 % in all the five courses.  
 * 2016-10-30 [Machine Learning](https://coursera.org/share/3059f81a80485678de7c0f6f61c171db). An online course offered by Stanford University on the Coursera platform and taught by Prof. Andrew Ng. The course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). I achieved a grade of 98.8 %.  
 * 2014-12-22 Introduction to Logic. An online course offered by Stanford University and taught by Prof. M. Genesereth. The course is a rigorous
-introduction to Logic. It covers the encoding of information as logical sentences, logical reasoning,and an introduction to logic technology and its applications. Logics covered include Propositional Logic and Relational Logic. I completed the course with distinction.  
+introduction to Logic. It covers the encoding of information as logical sentences, logical reasoning, and an introduction to logic technology and its applications. Logics covered include Propositional Logic and Relational Logic. I completed the course with distinction.
+* 2012-07-20 International Association for Ontology and its Applications (IAOA) - 1st Interdisciplinary IAOA Summer School [Certificate of Attendance](assets/semweb/IAOA_Summer_School_2012.jpg))
+* 2012-07-14 9th Summer School on Ontological Engineering and the Semantic Web ([Certificate of Attendance](assets/semweb/SSSW_Ontological_Engineering_2012.jpg))
+* 2012-05-26 2nd European Semantic Web Conference Summer School 2012 ([Certificate of Attendance](assets/semweb/2nd_ESWC_Summer_School_2012.jpg))
 
 ## Languages
 Italian is my mother tongue. I speak English fluently as it's the language I use the most since 2010. I can understand quite a bit of German, French and Portuguese. I got a Cambridge First Certificate English (Level B2 of the EU Reference for Languages) in 2010 and a telc Zertifikat Deutsch B1 in 2017.
