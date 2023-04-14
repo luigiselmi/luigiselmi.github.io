@@ -53,7 +53,7 @@ introduction to Logic. It covers the encoding of information as logical sentence
 * 2012-05-26 2nd European Semantic Web Conference Summer School 2012 ([Certificate of Attendance](assets/semweb/2nd_ESWC_Summer_School_2012.jpg))
 
 ## Languages
-Italian is my mother tongue. I speak English fluently as it's the language I use the most since 2010. I can understand quite a bit of German, French and Portuguese. I got a Cambridge First Certificate English (Level B2 of the EU Reference for Languages) in 2010 and a telc Zertifikat Deutsch B1 in 2017.
+Italian is my mother tongue. I speak English fluently as it's the language I use the most since 2010. I can understand quite a bit of German, French and Portuguese. I got a [Cambridge First Certificate English](assets/cv/cambridge_esol_certificate.jpg) (Level B2 of the EU Reference for Languages) in 2010, and a [telc Zertifikat Deutsch B1](assets/cv/telc_Deutsch_B1.jpg) in 2017.
 
 ## Other skills
 I like being in the nature, most often in the Apennine Mountains in Central Italy, not far from Rome. I have a 1° degree FIPSAS/CMAS [diver](https://www.flickr.com/photos/susterru/7939836234) license and I have been practicing [mountain climbing](https://www.flickr.com/photos/susterru/293369805) and [skiing](https://www.flickr.com/photos/susterru/2149914032).
