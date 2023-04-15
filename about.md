@@ -33,7 +33,7 @@ I received a scholarship for a research study on data integration at the entity 
 * 23-27 May 2022 - Living Planet Symposium 2022, Bonn (Germany) - [Land Use and Land Cover Classification using CNN Deep Learning Architectures](https://lps22.ollyservices.com/index.php@page_id=18446&v=AuthorList&do=17&day=3994&entity_id=323230.html) (Poster Session)
 * 25-27 January 2022 - The 4th International Electronic Conference on Remote Sensing - Flood mapping using Sentinel-1 SAR imagery and the ESA SNAP S1 Toolbox ([Best Presentation Award](https://ecrs-4.sciforum.net/#custom2325))  
 * 2nd European Semantic Web Conference Summer School 2012 [Student Project 1st Prize](assets/semweb/2nd_ESWC_2012_1st_Prize.jpg)
-* 2010-12-20 I have co-organized the conference [Io partecipo! La democrazia nell’era di Internet](https://agenda.infn.it/event/3196/) on e-democracy. The conference took place at the Physics Department of the Sapienza University of Rome.
+* 2010-12-20 I have co-organized the conference [Io partecipo! La democrazia nell’era di Internet](https://agenda.infn.it/event/3196/) on e-democracy. The conference took place at the Physics Department of the Sapienza University of Rome, with [Prof. Stefano Rodota](https://it.wikipedia.org/wiki/Stefano_Rodot%C3%A0) as invited speaker.
 
 ## Courses and Certifications
 * 2023-03-22 The Mediterranean System: a hotspot for climate change and adaptation, Accademia dei Lincei, Rome ([Certificate of Attendance](assets/cv/lincei_cert.jpg))
