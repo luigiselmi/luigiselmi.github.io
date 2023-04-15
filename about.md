@@ -58,9 +58,10 @@ introduction to Logic. It covers the encoding of information as logical sentence
 * 2012-07-14 9th Summer School on Ontological Engineering and the Semantic Web ([Certificate of Attendance](assets/semweb/SSSW_Ontological_Engineering_2012.jpg))
 * 2012-05-26 2nd European Semantic Web Conference Summer School 2012 ([Certificate of Attendance](assets/semweb/2nd_ESWC_Summer_School_2012.jpg))
 * 2010-05-14 Semsphere Semantic Technology Specialist Course - Vienna, Austria ([Certificate of Attendance](assets/cv/semsphere_cert.jpg))
+* 2006-04-06 Sun Microsystems Certified Programmer for the Java Platform 1.4 ([link](assets/cv/sun_programmer_cert.jpg))
 
 ## Languages
 Italian is my mother tongue. I speak English fluently as it's the language I use the most since 2010. I can understand quite a bit of German, French and Portuguese. I got a [Cambridge First Certificate English](assets/cv/cambridge_esol_certificate.jpg) (Level B2 of the EU Reference for Languages) in 2010, and a [telc Zertifikat Deutsch B1](assets/cv/telc_Deutsch_B1.jpg) in 2017.
 
 ## Other skills
-I am one of the organizers of the [PyData Rome](https://www.meetup.com/pydata-rome/) Meetup group, the Rome chapter of PyData, a community for developers and users of open source data tools and open data. When I am not at work I like being in the nature, most often in the Apennine Mountains in Central Italy, not far from Rome. I have a 1° degree FIPSAS/CMAS [diver](https://www.flickr.com/photos/susterru/7939836234) license and I have been practicing [mountain climbing](https://www.flickr.com/photos/susterru/293369805) and [skiing](https://www.flickr.com/photos/susterru/2149914032).
+I am one of the organizers of the [PyData Rome](https://www.meetup.com/pydata-rome/) Meetup group, the Rome chapter of [PyData](https://pydata.org/), a community for developers and users of open source data tools and open data. When I am not at work I like being in the nature, most often in the Apennine Mountains in Central Italy, not far from Rome. I have a 1° degree FIPSAS/CMAS [diver](https://www.flickr.com/photos/susterru/7939836234) license and I have been practicing [mountain climbing](https://www.flickr.com/photos/susterru/293369805) and [skiing](https://www.flickr.com/photos/susterru/2149914032).
