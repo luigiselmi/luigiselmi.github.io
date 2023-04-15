@@ -36,7 +36,7 @@ I received a scholarship for a research study on data integration at the entity 
 * 2010-12-20 [Io partecipo! La democrazia nell’era di Internet](https://agenda.infn.it/event/3196/), Sapienza Univ. of Rome
 
 ## Courses and Certifications
-* 2023-03-22 The Mediterranean System: a hotspot for climate change and adaptation, Accademia dei Lincei, Rome [Certificate of Attendance](assets/cv/lincei_cert.jpg)
+* 2023-03-22 The Mediterranean System: a hotspot for climate change and adaptation, Accademia dei Lincei, Rome ([Certificate of Attendance](assets/cv/lincei_cert.jpg))
 * 2022-09-21 [Monitoring and Modeling Floods using Earth Observations](assets/cv/nasa_arset_flood_monitoring_cert.jpg), NASA Applied Remote Sensing Training Program
 * 2022-09-20 [Selecting Climate Change Projection Sets for Mitigation, Adaptation and Risk Management Applications](assets/cv/nasa_arset_risk_management_cert.jpg), NASA Applied Remote Sensing Training Program
 * 2021-12-05 [ESRI - Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/lgslm1/60acd9af30ba2f5a03182bc3/-60)  
