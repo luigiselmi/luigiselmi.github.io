@@ -42,7 +42,7 @@ I received a scholarship for a research study on data integration at the entity 
 * 2021-12-05 [ESRI - Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/training/TrainingRecord/Certificate/lgslm1/60acd9af30ba2f5a03182bc3/-60)  
 * 2021-11-19 [ESRI - Imagery in Action](https://www.esri.com/training/TrainingRecord/Certificate/lgslm1/60acd9af30ba2f5a03182bc3/-60)  
 * 2021-09-14 - [Echoes in Space - Introduction to Radar Remote Sensing](assets/cv/eo_college_certificate.png), EO College  
-* 16-20 November 2020 - 2nd Joint Training Course on Atmospheric Composition, EUMETSAT, ESA, ECMWF  
+* 16-20 November 2020 - [2nd Joint Training Course on Atmospheric Composition](assets/cv/atmospheric_composition_cert.jpg), EUMETSAT, ESA, ECMWF  
 * 2021-06-30 [Using Google Earth Engine for Land Monitoring Applications](assets/cv/nasa_arset_gee_cert.jpg), NASA Applied Remote Sensing Training Program
 * 2020-08-10 [Algorithms, Part 1](https://github.com/luigiselmi/algorithms#part-i). First part of the course taught by Kevin Wayne and Robert Sedgewick and offered by Princeton University on Coursera. This part of the course covers elementary data structures, sorting, and searching algorithms in Java.
 * 2020-05-27 [Statistical Learning](https://courses.edx.org/certificates/4216f260f2f54b9ab7e597f0cd80c7af) An introductory-level course in supervised learning, with a focus on regression and classification methods. The lectures cover all the material in An Introduction to Statistical Learning, with Applications in R by James, Witten, Hastie and Tibshirani.   
