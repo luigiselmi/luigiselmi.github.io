@@ -57,7 +57,7 @@ I received a scholarship for a research study on data integration at the entity 
 introduction to Logic. It covers the encoding of information as logical sentences, logical reasoning, and an introduction to logic technology and its applications. Logics covered include Propositional Logic and Relational Logic. I completed the course with distinction.
 * 2012-07-20 First Interdisciplinary Summer School on Ontological Analysis, International Association for Ontology and its Applications (IAOA), University of Trento ([Certificate of Attendance](assets/semweb/IAOA_Summer_School_2012.jpg))
 * 2012-07-14 9th Summer School on Ontological Engineering and the Semantic Web, Cercedilla, Spain ([Certificate of Attendance](assets/semweb/SSSW_Ontological_Engineering_2012.jpg))
-* 2012-05-26 2nd European Semantic Web Conference Summer School 2012, Kalamaki, Creta, Grecia ([Certificate of Attendance](assets/semweb/2nd_ESWC_Summer_School_2012.jpg))
+* 2012-05-26 2nd European Semantic Web Conference Summer School 2012, Kalamaki, Crete, Greece ([Certificate of Attendance](assets/semweb/2nd_ESWC_Summer_School_2012.jpg))
 * 2010-05-14 Semantic Technology Specialist Course - STI International, Vienna, Austria ([Certificate of Attendance](assets/cv/semsphere_cert.jpg))
 * 2006-04-06 Sun Microsystems Certified Programmer for the Java Platform 1.4 ([link](assets/cv/sun_programmer_cert.jpg))
 
