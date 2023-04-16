@@ -19,10 +19,10 @@ the Silk framework and in the use of geographical data. I developed also a seman
 I received a scholarship for a research study on data integration at the entity level through heterogeneous systems.
 
 #### 2011-01-01 - 2012-07-31 Okkam S.r.l., Trento, Italy
-I designed the architecture and wrote the project proposal of a software system for the integration of datasets related to real estate properties for a number of municipalities in the Autonomous Province of Trento. The data was used to build a knowledge base to calculate tax revenues according to the province's policy. The project consisted in the development of some ontologies for the representation of the domain objects, the mapping system from the original format to the semantic one, and of the components to search and query the knowledge base.
+I designed the architecture and wrote the project proposal of a software system for the integration of datasets related to real estate properties for a number of municipalities in the Autonomous Province of Trento. The data was used to build a knowledge base to calculate tax revenues according to the province's policy. The project consisted in the development of some ontologies for the representation of the domain objects, the mapping system from the original data format to the semantic one, and of the components to search and query the knowledge base.
 
 #### 1999 - 2010 Sistemi Informativi Avanzati S.r.l, Rome, Italy
-I worked as an IT consultant, on behalf of a small IT company in Rome, at various large companies and international organizations such as Ericsson Telecomunicazioni S.p.A, Selex Communications S.p.A., Food and Agriculture Organization of the United Nations (FAO), Accenture, Istituto Nazionale di Previdenza e assistenza per i Dipendenti dell’Amministrazione Pubblica (INPDAP).
+I worked as an IT consultant, on behalf of a small IT company in Rome, at various large companies and Italian and international organizations such as Ericsson Telecomunicazioni S.p.A, Selex Communications S.p.A., Food and Agriculture Organization of the United Nations (FAO), Accenture, Istituto Nazionale di Previdenza e assistenza per i Dipendenti dell’Amministrazione Pubblica (INPDAP).
 
 ## Publications
 * L. Selmi - Flood mapping using the Sentinel-1 imagery and the ESA SNAP S1 Toolbox, 2021, ESA SNAP Tutorials ([link](https://step.esa.int/main/doc/tutorials/))  
