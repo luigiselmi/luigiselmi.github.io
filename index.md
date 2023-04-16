@@ -5,4 +5,4 @@
 layout: home
 
 ---
-<img src="assets/cv/jauaperi.jpg" alt="Jauaperi">
+<img src="assets/cv/jauaperi.jpg" alt="Jauaperi" width="982" height="393">
