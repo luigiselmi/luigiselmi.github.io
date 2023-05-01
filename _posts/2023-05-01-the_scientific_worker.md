@@ -50,7 +50,7 @@ The modern worker must be able to read and interpret the data coming from the en
 This knowledge is fundamental, independently of the economy in which the (scientific) worker operates, that is, market or socialist economy.
 
 ## Education and culture
-Open and machine readable data is not enough. The cost of education should be kept at its minimum and I appreciate those who publish their scientific work freely online. I publish a collection of high quality books made freely available by their authors [here](/bookshelf) on my website.  One more important characteristic of the (scientific) worker is a knowledge sharing culture. For this reason I have organized the PyData Rome group on Meetup.
+Open and machine readable data is not enough. The cost of education should be kept at its minimum and I appreciate those who publish their scientific work freely online. I publish a collection of high quality textbooks made freely available by their authors [here](/bookshelf) on my website.  One more important characteristic of the (scientific) worker is a knowledge sharing culture. For this reason I have organized the PyData Rome group on Meetup.
 
 ## Conclusion
 If you see yourself as a (scientific) worker you are invited to join the [PyData Rome](https://www.meetup.com/pydata-rome/) group today. **Happy international workers’ day!**
