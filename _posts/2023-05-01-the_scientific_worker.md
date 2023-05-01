@@ -15,7 +15,7 @@ Today May 1st, the international workers’ day, is the perfect day to reflect o
 The modern worker must be able to read and interpret the data coming from the environment: physical, social, economical and financial environment. The data must be available in digital format, open and easily usable by computing machines. The worker must be able to read, transform, interpret, and produce data. In order to possess these skills the worker must have a good and actionable knowledge of  mathematics, physics, biology, finance, and computer science. Here follows a list of topics that, according to my experience, a scientific worker should grasp.
 
 ### Mathematics
-* Propositional and predicate logic
+* Propositional and predicate calculus
 * Real and complex analysis
 * Calculus
 * Linear Algebra
