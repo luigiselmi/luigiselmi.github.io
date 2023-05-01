@@ -16,6 +16,9 @@ The modern worker must be able to read and interpret the data coming from the en
 
 ### Maths
 * Real and complex analysis
+* Calculus
+* Linear Algebra
+* Geometry
 * Probability distributions
 * Differential equations
 * Graph theory
