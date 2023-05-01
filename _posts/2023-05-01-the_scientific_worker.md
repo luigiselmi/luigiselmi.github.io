@@ -22,7 +22,6 @@ The modern worker must be able to read and interpret the data coming from the en
 * Probability distributions
 * Differential equations
 * Graph theory
-* Neural networks
 * Optimization and linear programming
 * Data assimilation, transforms, inversion and interpolation
 
@@ -40,6 +39,7 @@ The modern worker must be able to read and interpret the data coming from the en
 * Computer architecture
 * Computer programming
 * Algorithms and data structures
+* Neural networks
 * Computational complexity
 * Parallel computing
 * Cryptography
