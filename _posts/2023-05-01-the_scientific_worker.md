@@ -44,6 +44,7 @@ The modern worker must be able to read and interpret the data coming from the en
 * Computational complexity
 * Parallel computing
 * Cryptography
+* Information theory
 * Digital Signal Processing
 
 ### Finance
