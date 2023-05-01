@@ -32,7 +32,8 @@ The modern worker must be able to read and interpret the data coming from the en
 ### Biology
 * Anatomy and physiology
 * Genetics
-* Computer science
+
+### Computer science
 * Computer architecture
 * Computer programming
 * Algorithms and data structures
