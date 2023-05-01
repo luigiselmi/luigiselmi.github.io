@@ -21,7 +21,7 @@ The modern worker must be able to read and interpret the data coming from the en
 * Graph theory
 * Neural networks
 * Optimization and linear programming
-* Data assimilation, inversion and interpolation
+* Data assimilation, transforms, inversion and interpolation
 
 ### Physics
 * Mechanics (Newtonian, Lagrangian, Hamiltonian)
