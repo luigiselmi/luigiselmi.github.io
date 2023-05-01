@@ -27,7 +27,7 @@ The modern worker must be able to read and interpret the data coming from the en
 * Data assimilation, transforms, inversion and interpolation
 
 ### Physics
-* Mechanics (Newtonian, Lagrangian, Hamiltonian)
+* Classical Mechanics (Newtonian, Lagrangian, Hamiltonian)
 * Electromagnetism and matter-radiation interaction
 * Quantum Mechanics
 * Statistical Physics
