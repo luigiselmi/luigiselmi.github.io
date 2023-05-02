@@ -458,7 +458,8 @@ Last update: May 2nd, 2023.
 [Dodgson - Image Resampling](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-261.pdf)  
 [Dunn, Parbery - 3D Math Primer for Graphics and Game Development](https://www.gamemath.com/)  
 [Phillips - Image Processing in C, 2nd Edition](https://github.com/Dwayne-Phillips/CIPS)      
-[Wald - Data Fusion. Definitions and Architectures - Fusion of Images of Different Spatial Resolutions](https://hal.science/hal-00464703)
+[Wald - Data Fusion. Definitions and Architectures - Fusion of Images of Different Spatial Resolutions](https://hal.science/hal-00464703)  
+[Glassner - Principles of Digital Image Synthesis](https://www.glassner.com/portfolio/principles-of-digital-image-synthesis/)
 
 ### Information Retrieval
 [Manning et al. - Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)  
