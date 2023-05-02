@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: April 28th, 2023.  
+Last update: May 2nd, 2023.  
 
 # Subject Index  
 
@@ -177,7 +177,7 @@ Last update: April 28th, 2023.
 [Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
 [Grady, Polimeni - Discrete Calculus: Applied Analysis on Graphs for Computational Science](http://leogrady.net/publications/)    
 [Acquistapace - Appunti di Analisi 1 e 2 e Analisi Funzionale (in Italian)](https://people.dm.unipi.it/acquistp/)  
-[Tricomi - Funzioni Analitiche](https://matematicaitaliana.sns.it/opere/315/)  
+[Tricomi - Funzioni Analitiche (in Italian)](https://matematicaitaliana.sns.it/opere/315/)  
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
