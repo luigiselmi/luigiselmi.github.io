@@ -463,8 +463,8 @@ Last update: May 11th, 2023.
 [Dunn, Parbery - 3D Math Primer for Graphics and Game Development](https://www.gamemath.com/)  
 [Phillips - Image Processing in C, 2nd Edition](https://github.com/Dwayne-Phillips/CIPS)      
 [Wald - Data Fusion. Definitions and Architectures - Fusion of Images of Different Spatial Resolutions](https://hal.science/hal-00464703)  
-[Glassner - Principles of Digital Image Synthesis](https://www.glassner.com/portfolio/principles-of-digital-image-synthesis/)
-[Briggs, Carnevali - Embedding Methods for Image Search](https://www.pinecone.io/learn/image-search/)  
+[Glassner - Principles of Digital Image Synthesis](https://www.glassner.com/portfolio/principles-of-digital-image-synthesis/)   
+[Briggs, Carnevali - Embedding Methods for Image Search](https://www.pinecone.io/learn/image-search/)   
 
 ### Information Retrieval
 [Manning et al. - Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)  
