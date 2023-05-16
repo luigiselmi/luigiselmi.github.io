@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: May 11th, 2023.  
+Last update: May 16th, 2023.  
 
 # Subject Index  
 
@@ -18,6 +18,7 @@ Last update: May 11th, 2023.
     * [Quantum Mechanics and Computing](#quantum-mechanics-and-computing)  
     * [Statistical Mechanics](#statistical-mechanics)  
     * [Nuclear Physics](#nuclear-physics)  
+    * [Medical Physics](#medical-physics)
 * [Mathematics](#mathematics)  
     * [Foundations and Logic](#foundations-and-logic)  
     * [Algebra](#algebra)  
@@ -127,7 +128,6 @@ Last update: May 11th, 2023.
 ### Quantum Mechanics and Computing
 [Watrous - The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/)  
 [Skinner - Principles of Quantum Mechanics](http://www.damtp.cam.ac.uk/user/dbs26/PQM.html)  
-[Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
 [Matuschak, Nielsen - Quantum computing for the very curious](https://quantum.country/)  
 [Wong - Introduction to Classical and Quantum Computing](http://www.thomaswong.net/)  
 [Rovelli et al. - Covariant Loop Quantum Gravity](http://www.cpt.univ-mrs.fr/~rovelli/IntroductionLQG.pdf)  
@@ -145,6 +145,10 @@ Last update: May 11th, 2023.
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.1](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v1)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.2](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v2)  
+
+### Medical Physics
+[Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
+[Podgorsak - Radiation Oncology Physics](https://www.iaea.org/publications/7086/radiation-oncology-physics)  
 
 ## Mathematics
    ***
