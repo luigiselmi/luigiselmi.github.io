@@ -145,9 +145,10 @@ Last update: May 16th, 2023.
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.1](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v1)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.2](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v2)  
+[Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
+[Roberts - Nuclear Magnetic Resonance: Applications to Organic Chemistry](http://authors.library.caltech.edu/25026/1/NMR_1959.pdf)  
 
 ### Medical Physics
-[Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
 [Podgorsak - Radiation Oncology Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/7086/radiation-oncology-physics)  
 [Bailey, Humm, Todd-Pokropek, van Aswegen - Nuclear Medicine Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/10368/nuclear-medicine-physics)  
 [Dance, Christofides, Maidment, McLean, Ng - Diagnostic Radiology Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/8841/diagnostic-radiology-physics)  
