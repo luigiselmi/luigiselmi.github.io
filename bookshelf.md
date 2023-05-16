@@ -148,7 +148,9 @@ Last update: May 16th, 2023.
 
 ### Medical Physics
 [Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)  
-[Podgorsak - Radiation Oncology Physics](https://www.iaea.org/publications/7086/radiation-oncology-physics)  
+[Podgorsak - Radiation Oncology Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/7086/radiation-oncology-physics)  
+[Bailey, Humm, Todd-Pokropek, van Aswegen - Nuclear Medicine Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/10368/nuclear-medicine-physics)  
+[Dance, Christofides, Maidment, McLean, Ng - Diagnostic Radiology Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/8841/diagnostic-radiology-physics)  
 
 ## Mathematics
    ***
