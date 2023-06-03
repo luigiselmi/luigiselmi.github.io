@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: May 16th, 2023.  
+Last update: June 3rd, 2023.  
 
 # Subject Index  
 
@@ -239,6 +239,7 @@ Last update: May 16th, 2023.
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
+[Pearl - Causal Inference in Statistics: A Primer](http://bayes.cs.ucla.edu/PRIMER/)  
 [Hernan - Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)  
 [Peters - Elements of Causal Inference](http://web.math.ku.dk/~peters/elements.html)  
 [Sharma et al. - Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)  
