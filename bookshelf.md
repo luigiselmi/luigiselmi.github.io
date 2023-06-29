@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: June 24th, 2023.  
+Last update: June 29th, 2023.  
 
 # Subject Index  
 
@@ -419,6 +419,8 @@ Last update: June 24th, 2023.
 [Mitchell - Machine Learning](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)  
 [Wilber et al. - MLU-Explain: Visual explanation of core machine learning concepts](https://mlu-explain.github.io/)  
 [Shapire, Freund - Boosting: Foundations and Algorithms](https://direct.mit.edu/books/oa-monograph/5342/BoostingFoundations-and-Algorithms)  
+[Lindholm, Wahlström, Lindsten, Schön - Machine Learning: A First Course for Engineers and Scientists](http://smlbook.org/)  
+[Prince - Understanding Deep Learning](https://udlbook.github.io/udlbook/)  
 
 ### Neural Networks, Deep Learning, and Reinforcement Learning
 [Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
