@@ -420,7 +420,6 @@ Last update: June 29th, 2023.
 [Wilber et al. - MLU-Explain: Visual explanation of core machine learning concepts](https://mlu-explain.github.io/)  
 [Shapire, Freund - Boosting: Foundations and Algorithms](https://direct.mit.edu/books/oa-monograph/5342/BoostingFoundations-and-Algorithms)  
 [Lindholm, Wahlström, Lindsten, Schön - Machine Learning: A First Course for Engineers and Scientists](http://smlbook.org/)  
-[Prince - Understanding Deep Learning](https://udlbook.github.io/udlbook/)  
 
 ### Neural Networks, Deep Learning, and Reinforcement Learning
 [Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
@@ -444,6 +443,7 @@ Last update: June 29th, 2023.
 [Akkus et al. - Multimodal Deep Learning](https://arxiv.org/abs/2301.04856)  
 [Kingma, Welling - An Introduction to variational Autoencoders](https://arxiv.org/abs/1906.02691)  
 [Wu, Cui, Pei, Zhao - Graph Neural Networks: Foundations, Frontiers, and Applications](https://graph-neural-networks.github.io/index.html)  
+[Prince - Understanding Deep Learning](https://udlbook.github.io/udlbook/)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
