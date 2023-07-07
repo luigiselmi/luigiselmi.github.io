@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: June 29th, 2023.  
+Last update: July 7th, 2023.  
 
 # Subject Index  
 
@@ -522,6 +522,7 @@ Last update: June 29th, 2023.
 [Wikle, Zammit-Mangion, Cressie - Spatio-Temporal Statistics with R](https://spacetimewithr.org/)  
 [Campbell, Shin - Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)
 [Di Biase - The Nature of Geographic Information](https://www.e-education.psu.edu/natureofgeoinfo/)  
+[Longley, Goodchild, Maguire, Rhind - Geographical Information Systems: Principles, Techniques, Management and Applications, Abridged Edition](https://www.geos.ed.ac.uk/~gisteac/gis_book_abridged/)
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
