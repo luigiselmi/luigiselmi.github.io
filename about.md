@@ -9,7 +9,7 @@ I work as a scientific software engineer at my own company [datiaperti](https://
 
 ## Work experience
 #### 2023-06-01 - Present: Institute for Atmospheric Pollution Research, Italy
-Research grant for the development of machine learning models for climate and atmospheric processes in the artic region under the supervision of Dr. Antonello Pasini of the [Institute for Atmospheric Pollution Research](https://en.iia.cnr.it/) of the Italian National Research Council. The research grant is partly funded by the European Commission for the [Artic Passion](https://arcticpassion.eu/) project.
+Research grant for the development of machine learning models of climate and atmospheric processes in the arctic region under the supervision of Dr. Antonello Pasini of the [Institute for Atmospheric Pollution Research](https://en.iia.cnr.it/) of the Italian National Research Council. The research grant is partly funded by the European Commission for the [Artic Passion](https://arcticpassion.eu/) project.
 #### 2022-12-19 - Present: Joint Research Center, Italy
 Deep Learning and Image Processing Expert at the [Joint Research Center](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/joint-research-centre_en) of the European Commission for the development of methods to infer rooftop types from very high resolution satellite imagery.
 #### 2019-12-01 - Present: datiaperti
