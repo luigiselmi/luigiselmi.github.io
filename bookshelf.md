@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: July 7th, 2023.  
+Last update: July 24th, 2023.  
 
 # Subject Index  
 
@@ -110,7 +110,10 @@ Last update: July 7th, 2023.
 [Gordon - Physical Principles of Ocean Color Remote Sensing](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
 [Mobley et al. - The Oceanic Optics Book](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
 [Canada Centre for Mapping and Earth Observation - Fundamentals of Remote Sensing](https://natural-resources.canada.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)  
-[Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)
+[Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
+[Döös, Lundberg, Campino - Basic Numerical Methods in Meteorology and Oceanography](https://doi.org/10.16993/bbs)  
+[Roed - Fundamentals of Atmospheres and Oceans on Computers](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF4510/h08/undervisningsmateriale/GEF4510.pdf)
+
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
