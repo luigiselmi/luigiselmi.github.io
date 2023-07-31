@@ -11,7 +11,7 @@ Physicist and scientific software developer interested in artificial intelligenc
 ## Long description
 I work as a scientific software engineer at my own company [datiaperti](https://www.datiaperti.it) based in Rome, Italy. Before taking the leap from being an employee to being self-employed, I worked as a software engineer in many public and private organizations in Italy, Switzerland and Germany. In Germany I worked at the [Fraunhofer Institute for Intelligent Analysis and Information Systems](https://www.iais.fraunhofer.de/en.html) in EU and German funded research projects and industry research projects related to Semantic Web, Machine Learning and Big Data technologies. In Switzerland, I worked as a research associate and software engineer in two FP7 research projects about data integration using Semantic Web technologies at the E-Government Institute of the [Bern University of Applied Sciences](https://www.bfh.ch/en/). Before moving abroad I worked in Italy as a consultant in software development projects at various multinational companies such as Ericsson, Marconi Communications, Accenture, and Italian government institutions. I hold an M.Sc. in Physics from the [Sapienza University of Rome](https://www.phys.uniroma1.it/fisica/en) with a thesis on Atmospheric Physics and Laser Radar Remote Sensing under the supervision of [Prof. Giorgio Fiocco](https://en.wikipedia.org/wiki/Giorgio_Fiocco). I have co-authored papers on Semantic Web, E-Government and Remote Sensing. My main interests are artificial intelligence, algorithms, computer vision, earth observation and remote sensing, open source software development and open data.
 
-## Work experience
+### Work experience
 #### 2023-06-01 - Present: Institute for Atmospheric Pollution Research, Italy
 Research grant for the development of machine learning models of climate and atmospheric processes in the arctic region under the supervision of Dr. Antonello Pasini of the [Institute for Atmospheric Pollution Research](https://en.iia.cnr.it/) of the Italian National Research Council. The research grant is partly funded by the European Commission for the [Artic Passion](https://arcticpassion.eu/) project.
 #### 2022-12-19 - Present: Joint Research Center, Italy
@@ -34,7 +34,7 @@ I designed the architecture and wrote the project proposal of a software system 
 #### 1999 - 2010: Sistemi Informativi Avanzati S.r.l, Italy
 I worked as an IT consultant, on behalf of a small IT company in Rome, at various large companies and Italian and international organizations such as Ericsson Telecomunicazioni S.p.A, Selex Communications S.p.A., Food and Agriculture Organization of the United Nations (FAO), Accenture, Istituto Nazionale di Previdenza e assistenza per i Dipendenti dell’Amministrazione Pubblica (INPDAP).
 
-## Publications
+### Publications
 * L. Selmi - Flood mapping using the Sentinel-1 imagery and the ESA SNAP S1 Toolbox, 2021, ESA SNAP Tutorials ([link](https://step.esa.int/main/doc/tutorials/))  
 * Josep Maria Salanova Grau, Evangelos Mitsakis, Panagiotis Tzenos, Iraklis Stamos, Luigi Selmi, Georgia Aifadopoulou - Multisource Data Framework for Road Traffic State Estimation, Journal of Advanced Transportation, Hindawi ([link](https://doi.org/10.1155/2018/9078547))  
 * Ivan Ermilov, Axel-Cyrille Ngonga Ngomo, Aad Versteden, Hajira Jabeen, Gezim Sejdiu, Giorgos Argyriou, Luigi Selmi, Jürgen Jakobitsch, Jens Lehmann - Managing Lifecycle of Big Data Applications, International Conference on Knowledge Engineering and the Semantic Web, Springer ([link](https://link.springer.com/chapter/10.1007/978-3-319-69548-8_18))  
@@ -42,7 +42,7 @@ I worked as an IT consultant, on behalf of a small IT company in Rome, at variou
 * M. Kaschesky, L. Selmi - Fusepool R5 linked data framework: concepts, methodologies, and tools for linked data, Proceedings of the 14th Annual International Conference on Digital Government Research ([link](https://doi.org/10.1145/2479724.2479748))  
 * P. Castracane, L. Selmi, S. Casadio, M. Cacciani and G. Fiocco - Ground-based remote sensing of wind, temperature and aerosol backscattering in an urban environment during different atmospheric stability conditions, Ed. Physics and chemistry of the earth. Part B: Hydrology, oceans and atmosphere, Elsevier Science ([link](https://doi.org/10.1016/S1464-1909(00)00246-X))  
 
-## Presentations and awards
+### Presentations and awards
 * 30th November 2022 PyData Rome: Deep Learning for Land Use and Land Cover classification ([slides](assets/pydata_rome/Deep_Learning_for_LULC_Classification_PyData_Rome_Meeting_30_Nov.2022.pdf))
 * 19-21 October 2022 - SISC2022: Governing the Future. 10th Annual SISC Conference, Rome, Italy ([Certificate of Attendance](assets/cv/SISC2022_Conference.pdf))
 * 19th October 2022 - [3rd Prize](assets/cv/Wekeo_JNC_2022_Luigi_Selmi.pdf) of the Wekeo Jupyter Notebook Competition  
@@ -51,7 +51,7 @@ I worked as an IT consultant, on behalf of a small IT company in Rome, at variou
 * 2nd European Semantic Web Conference Summer School 2012 [Student Project 1st Prize](assets/semweb/2nd_ESWC_2012_1st_Prize.jpg)
 * 2010-12-20 I have co-organized the conference [Io partecipo! La democrazia nell’era di Internet](https://agenda.infn.it/event/3196/) on e-democracy. The conference took place at the Physics Department of the Sapienza University of Rome, with [Prof. Stefano Rodota](https://it.wikipedia.org/wiki/Stefano_Rodot%C3%A0) as invited speaker.
 
-## Courses and Certifications
+### Courses and Certifications
 * 2023-03-22 The Mediterranean System: a hotspot for climate change and adaptation, Accademia dei Lincei, Rome ([Certificate of Attendance](assets/cv/lincei_cert.jpg))
 * 2022-09-21 [Monitoring and Modeling Floods using Earth Observations](assets/cv/nasa_arset_flood_monitoring_cert.jpg), NASA Applied Remote Sensing Training Program
 * 2022-09-20 [Selecting Climate Change Projection Sets for Mitigation, Adaptation and Risk Management Applications](assets/cv/nasa_arset_risk_management_cert.jpg), NASA Applied Remote Sensing Training Program
@@ -77,8 +77,8 @@ introduction to Logic. It covers the encoding of information as logical sentence
 * 2010-05-14 Semantic Technology Specialist Course - STI International, Vienna, Austria ([Certificate of Attendance](assets/cv/semsphere_cert.jpg))
 * 2006-04-06 Sun Microsystems Certified Programmer for the Java Platform 1.4 ([link](assets/cv/sun_programmer_cert.jpg))
 
-## Languages
+### Languages
 Italian is my mother tongue. I speak English fluently as it's the language I use the most since 2010. I can understand quite a bit of German, French and Portuguese. I got a [Cambridge First Certificate English](assets/cv/cambridge_esol_certificate.jpg) (Level B2 of the EU Reference for Languages) in 2010, and a [telc Zertifikat Deutsch B1](assets/cv/telc_Deutsch_B1.jpg) in 2017.
 
-## Other skills
+### Other skills
 I am the founder and one of the organizers of the [PyData Rome](https://www.meetup.com/pydata-rome/) Meetup group, the Rome chapter of [PyData](https://pydata.org/), a community for developers and users of open source data tools and open data. When I am not at work I like being in the nature, most often in the Apennine Mountains in Central Italy, not far from Rome. I have a 1° degree FIPSAS/CMAS [diver](https://www.flickr.com/photos/susterru/7939836234) license and I have been practicing [mountain climbing](https://www.flickr.com/photos/susterru/293369805) and [skiing](https://www.flickr.com/photos/susterru/2149914032).
