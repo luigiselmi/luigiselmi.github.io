@@ -113,7 +113,7 @@ Last update: July 28th, 2023.
 [Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
 [Döös, Lundberg, Campino - Basic Numerical Methods in Meteorology and Oceanography](https://doi.org/10.16993/bbs)  
 [Roed - Fundamentals of Atmospheres and Oceans on Computers](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF4510/h08/undervisningsmateriale/GEF4510.pdf)  
-[Evensen, Vossepoel, van LLeeuwen - Data Assimilation Fundamentals](https://link.springer.com/book/10.1007/978-3-030-96709-3)  
+[Evensen, Vossepoel, van Leeuwen - Data Assimilation Fundamentals](https://link.springer.com/book/10.1007/978-3-030-96709-3)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
