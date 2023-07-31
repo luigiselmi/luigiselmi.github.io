@@ -5,10 +5,10 @@ permalink: /about
 ---
 <img style="float: right; padding-left: 1.5em; padding-bottom: 1.0em;" src="assets/luigi_che_small.jpg">
 
-## Short description
+## Short Bio
 Physicist and scientific software developer interested in artificial intelligence applied to geoscience and remote sensing.
 
-## Long description
+## Long Bio
 I work as a scientific software engineer at my own company [datiaperti](https://www.datiaperti.it) based in Rome, Italy. Before taking the leap from being an employee to being self-employed, I worked as a software engineer in many public and private organizations in Italy, Switzerland and Germany. In Germany I worked at the [Fraunhofer Institute for Intelligent Analysis and Information Systems](https://www.iais.fraunhofer.de/en.html) in EU and German funded research projects and industry research projects related to Semantic Web, Machine Learning and Big Data technologies. In Switzerland, I worked as a research associate and software engineer in two FP7 research projects about data integration using Semantic Web technologies at the E-Government Institute of the [Bern University of Applied Sciences](https://www.bfh.ch/en/). Before moving abroad I worked in Italy as a consultant in software development projects at various multinational companies such as Ericsson, Marconi Communications, Accenture, and Italian government institutions. I hold an M.Sc. in Physics from the [Sapienza University of Rome](https://www.phys.uniroma1.it/fisica/en) with a thesis on Atmospheric Physics and Laser Radar Remote Sensing under the supervision of [Prof. Giorgio Fiocco](https://en.wikipedia.org/wiki/Giorgio_Fiocco). I have co-authored papers on Semantic Web, E-Government and Remote Sensing. My main interests are artificial intelligence, algorithms, computer vision, earth observation and remote sensing, open source software development and open data.
 
 ### Work experience
