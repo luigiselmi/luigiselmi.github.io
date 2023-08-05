@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 4th, 2023.  
+Last update: August 5th, 2023.  
 
 # Subject Index  
 
@@ -114,6 +114,7 @@ Last update: August 4th, 2023.
 [Döös, Lundberg, Campino - Basic Numerical Methods in Meteorology and Oceanography](https://doi.org/10.16993/bbs)  
 [Roed - Fundamentals of Atmospheres and Oceans on Computers](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF4510/h08/undervisningsmateriale/GEF4510.pdf)  
 [Evensen, Vossepoel, van Leeuwen - Data Assimilation Fundamentals](https://link.springer.com/book/10.1007/978-3-030-96709-3)  
+[Menzel - Remote Sensing Applications with Meteorological Satellites](https://cimss.ssec.wisc.edu/rss/brienza/source/AppMetSat12.pdf)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
