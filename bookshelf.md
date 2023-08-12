@@ -526,7 +526,7 @@ Last update: August 5th, 2023.
 [ESRI - Understanding Map Projections](http://downloads2.esri.com/support/documentation/ao_/710understanding_map_projections.pdf)  
 [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/)  
 [Wikle, Zammit-Mangion, Cressie - Spatio-Temporal Statistics with R](https://spacetimewithr.org/)  
-[Campbell, Shin - Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)
+[Campbell, Shin - Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)  
 [Di Biase - The Nature of Geographic Information](https://www.e-education.psu.edu/natureofgeoinfo/)  
 [Longley, Goodchild, Maguire, Rhind - Geographical Information Systems: Principles, Techniques, Management and Applications, Abridged Edition](https://www.geos.ed.ac.uk/~gisteac/gis_book_abridged/)
 
