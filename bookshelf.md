@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 5th, 2023.  
+Last update: August 15th, 2023.  
 
 # Subject Index  
 
@@ -138,6 +138,7 @@ Last update: August 5th, 2023.
 [Hughes et al. - Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4)  
 [Aaronson - Introduction to Quantum Information Science: Lecture Notes](https://www.scottaaronson.com/qclec.pdf)   
 [Girvin - Circuit QED: Superconducting Qubits Coupled to Microwave Photons](http://www.capri-school.eu/lectureres/master_cqed_les_houches.pdf)  
+[Shor - Lecture Notes on Quantum Computation](https://math.mit.edu/~shor/435-LN/)  
 
 ### Statistical Mechanics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
@@ -573,6 +574,7 @@ Last update: August 5th, 2023.
 [Fama - Foundations of Finance](https://faculty.chicagobooth.edu/eugene.fama/research/)  
 [BEA - NIPA Handbook: Concepts and Methods of the U.S. National Income and Product Accounts](https://www.bea.gov/resources/methodologies/nipa-handbook)  
 [Murphy - Understanding Money Mechanics](https://mises.org/library/understanding-money-mechanics-3)  
+[Knight - Risk, Uncertainty and Profit](https://fraser.stlouisfed.org/title/risk-uncertainty-profit-110)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
