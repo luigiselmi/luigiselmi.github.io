@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 15th, 2023.  
+Last update: August 17th, 2023.  
 
 # Subject Index  
 
@@ -127,7 +127,8 @@ Last update: August 15th, 2023.
 [Lienhard IV et al. - A Heat Transfer Textbook, 5th Ed.](https://ahtt.mit.edu/)  
 [Greenshields et al. - Notes on Computational Fluid Dynamics: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)  
 [Hall - An Elementary Introduction to Groups and Representations](https://arxiv.org/abs/math-ph/0005032)  
-[Onofri - Lezioni di Metodi Probabilistici della Fisica (in Italian)](https://eoinfnpr.it/#MPF)
+[Onofri - Lezioni di Metodi Probabilistici della Fisica (in Italian)](https://eoinfnpr.it/#MPF)  
+[Aström, Murray - Feedback Systems: An Introduction for Scientists and Engineers](https://www.cds.caltech.edu/~murray/amwiki/index.php)      
 
 ### Quantum Mechanics and Computing
 [Watrous - The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/)  
