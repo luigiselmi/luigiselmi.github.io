@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 17th, 2023.  
+Last update: August 24th, 2023.  
 
 # Subject Index  
 
@@ -451,6 +451,7 @@ Last update: August 17th, 2023.
 [Wu, Cui, Pei, Zhao - Graph Neural Networks: Foundations, Frontiers, and Applications](https://graph-neural-networks.github.io/index.html)  
 [Prince - Understanding Deep Learning](https://udlbook.github.io/udlbook/)  
 [Fleuret - The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)  
+[Janzamin, Ge, Kossaifi, Anandkumar - Spectral Learning on Matrices and Tensors](https://arxiv.org/abs/2004.07984)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
