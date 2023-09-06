@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 5th, 2023.  
+Last update: September 6th, 2023.  
 
 # Subject Index  
 
@@ -610,6 +610,7 @@ Last update: September 5th, 2023.
 [Bonita et al. - Basic Epidemiology, 2nd Ed.](https://apps.who.int/iris/handle/10665/43541)  
 [Frank - Immunology and Evolution of Infectious Disease](https://stevefrank.org/antiVar/antiVar.html)  
 [Frank - Dynamics of Cancer](https://stevefrank.org/cancer/cancer.html)  
+[Kellis - Computational Biology](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.))  
 ### Neuroscience
 [Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
 [Rolls - Cerebral Cortex: Principles of Operation](https://www.oxcns.org/b12text.html)  
