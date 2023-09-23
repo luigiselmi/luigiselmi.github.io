@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 8th, 2023.  
+Last update: September 23rd, 2023.  
 
 # Subject Index  
 
@@ -277,6 +277,7 @@ Last update: September 8th, 2023.
 [Bubeck - Convex Optimization: Algorithms and Complexity](http://sbubeck.com/book.html)  
 [Absil, Mahony, Sepulchre - Optimization Algorithms on Matrix Manifolds](https://sites.uclouvain.be/absil/amsbook/)  
 [Bottou, Curtis, Nocedal - Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838)  
+[Kall, Wallace - Stochastic Programming, 2nd Edition](https://www.stoprog.org/sites/default/files/files/manujw.pdf)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
