@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 23rd, 2023.  
+Last update: September 27th, 2023.  
 
 # Subject Index  
 
@@ -115,6 +115,7 @@ Last update: September 23rd, 2023.
 [Roed - Fundamentals of Atmospheres and Oceans on Computers](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF4510/h08/undervisningsmateriale/GEF4510.pdf)  
 [Evensen, Vossepoel, van Leeuwen - Data Assimilation Fundamentals](https://link.springer.com/book/10.1007/978-3-030-96709-3)  
 [Menzel - Remote Sensing Applications with Meteorological Satellites](https://cimss.ssec.wisc.edu/rss/brienza/source/AppMetSat12.pdf)  
+[ECMWF - Numerical Weather Prediction: Lecture Notes](https://www.ecmwf.int/en/learning/education-material/lecture-notes)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
@@ -471,6 +472,7 @@ Last update: September 23rd, 2023.
 [Peyre' - The Discrete Algebra of the Fourier Transform](https://mathematical-tours.github.io/daft/)  
 [O'Haver - A Pragmatic Introduction to Signal Processing with applications in scientific measurements](https://terpconnect.umd.edu/~toh/spectrum/TOC.html)  
 [Polyanskiy, Wu - Information Theory: From Coding to Learning, 1st Ed.](https://people.lids.mit.edu/yp/homepage/papers.html)  
+[Richardson, Urbanke - Modern Coding Theory](https://ipgold.epfl.ch/_media/en/publications/mct-new.pdf)  
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
