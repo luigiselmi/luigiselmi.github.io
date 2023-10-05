@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 27th, 2023.  
+Last update: October 5th, 2023.  
 
 # Subject Index  
 
@@ -116,6 +116,7 @@ Last update: September 27th, 2023.
 [Evensen, Vossepoel, van Leeuwen - Data Assimilation Fundamentals](https://link.springer.com/book/10.1007/978-3-030-96709-3)  
 [Menzel - Remote Sensing Applications with Meteorological Satellites](https://cimss.ssec.wisc.edu/rss/brienza/source/AppMetSat12.pdf)  
 [ECMWF - Numerical Weather Prediction: Lecture Notes](https://www.ecmwf.int/en/learning/education-material/lecture-notes)  
+[Food and Agriculture Organizationg of the United Nations - Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
