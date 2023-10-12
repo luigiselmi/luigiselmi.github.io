@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The (scientific) worker"
+title:  "The scientific worker"
 date: "2023-05-01"
 categories: science, work
 permalink: /science/the_scientific_worker.html
