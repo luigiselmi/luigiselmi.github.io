@@ -119,6 +119,7 @@ Last update: October 24th, 2023.
 [Food and Agriculture Organizationg of the United Nations - Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)  
 [Wald - Basics in Solar Radiation at Earth Surface](https://hal.science/hal-02175988/)  
 [Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
+[Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
