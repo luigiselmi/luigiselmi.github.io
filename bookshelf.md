@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 19th, 2023.  
+Last update: October 24th, 2023.  
 
 # Subject Index  
 
@@ -118,6 +118,7 @@ Last update: October 19th, 2023.
 [ECMWF - Numerical Weather Prediction: Lecture Notes](https://www.ecmwf.int/en/learning/education-material/lecture-notes)  
 [Food and Agriculture Organizationg of the United Nations - Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)  
 [Wald - Basics in Solar Radiation at Earth Surface](https://hal.science/hal-02175988/)  
+[Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
