@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 24th, 2023.  
+Last update: October 26th, 2023.  
 
 # Subject Index  
 
@@ -477,6 +477,7 @@ Last update: October 24th, 2023.
 [O'Haver - A Pragmatic Introduction to Signal Processing with applications in scientific measurements](https://terpconnect.umd.edu/~toh/spectrum/TOC.html)  
 [Polyanskiy, Wu - Information Theory: From Coding to Learning, 1st Ed.](https://people.lids.mit.edu/yp/homepage/papers.html)  
 [Richardson, Urbanke - Modern Coding Theory](https://ipgold.epfl.ch/_media/en/publications/mct-new.pdf)  
+[McFee - Digital Signals Theory](https://brianmcfee.net/dstbook-site)
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
