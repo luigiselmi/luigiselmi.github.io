@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 26th, 2023.  
+Last update: October 31st, 2023.  
 
 # Subject Index  
 
@@ -120,6 +120,7 @@ Last update: October 26th, 2023.
 [Wald - Basics in Solar Radiation at Earth Surface](https://hal.science/hal-02175988/)  
 [Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
 [Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)  
+[Japan Meteorological Agency - Analysis and Use of Meteorological Satellite Images](https://rammb.cira.colostate.edu/wmovl/VRL/Texts/general_texts.htm)    
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
@@ -173,8 +174,8 @@ Last update: October 26th, 2023.
 [Magnus - forallX - An Introduction to Formal Logic](https://www.fecundity.com/logic/index.html)  
 [Abelson et al. - Turtle Geometry: The Computer as a Medium for Exploring Mathematics](https://doi.org/10.7551/mitpress/6933.001.0001)  
 [Smith - Beginning Mathematical Logic: A Study Guide](https://www.logicmatters.net/tyl/)  
-[Smith - An Introduction to Formal Logic, 2nd Edition](https://www.logicmatters.net/ifl/)  
-[Hammack - Book of Proof, 3rd Ed](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+[Smith - An Introduction to Formal Logic, 2nd Ed.](https://www.logicmatters.net/ifl/)  
+[Hammack - Book of Proof, 3rd Ed.](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 
 ### Algebra
 [Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
@@ -184,6 +185,7 @@ Last update: October 26th, 2023.
 [Boyd et al. - Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)  
 [Ash - Abstract Algebra: The Basic Graduate Year](https://faculty.math.illinois.edu/~r-ash/)  
 [O’Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
+[Axler - Linear Algebra Done Right, 4th Ed.](https://linear.axler.net/)  
 
 ### Calculus
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
@@ -218,7 +220,7 @@ Last update: October 26th, 2023.
 
 
 ### Probability and Statistics
-[Gelman et al. - Bayesian Data Analysis, 3rd edition](http://www.stat.columbia.edu/~gelman/book/)  
+[Gelman et al. - Bayesian Data Analysis, 3rd Ed.](http://www.stat.columbia.edu/~gelman/book/)  
 [Lattimore et al. - Bandit Algorithms](https://banditalgs.com/)  
 [Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
 [Vershynin - High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)    
@@ -233,7 +235,7 @@ Last update: October 26th, 2023.
 [Hyndman et al. - Forecasting: Principles and Practice, 3rd Ed.](https://otexts.com/fpp3/)  
 [Martin et al. - Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  
 [Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
-[Wilf - generatingfunctionology, 2nd Edition](https://www2.math.upenn.edu/~wilf/DownldGF.html)  
+[Wilf - generatingfunctionology, 2nd Ed.](https://www2.math.upenn.edu/~wilf/DownldGF.html)  
 [Popov - Two-Dimensional Random Walk](https://www.ime.unicamp.br/~popov/2srw.pdf)  
 [Gallager - Discrete Stochastic Processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)  
 [Taleb - Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemoloy, and Applications](https://arxiv.org/abs/2001.10488)  
@@ -282,7 +284,7 @@ Last update: October 26th, 2023.
 [Bubeck - Convex Optimization: Algorithms and Complexity](http://sbubeck.com/book.html)  
 [Absil, Mahony, Sepulchre - Optimization Algorithms on Matrix Manifolds](https://sites.uclouvain.be/absil/amsbook/)  
 [Bottou, Curtis, Nocedal - Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838)  
-[Kall, Wallace - Stochastic Programming, 2nd Edition](https://www.stoprog.org/sites/default/files/files/manujw.pdf)  
+[Kall, Wallace - Stochastic Programming, 2nd Ed.](https://www.stoprog.org/sites/default/files/files/manujw.pdf)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
@@ -439,7 +441,7 @@ Last update: October 26th, 2023.
 [Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
 [Karpathy  - CS231n Convolutional Neural Network for Visual Recognition](https://cs231n.github.io/)  
 [Rojas - Neural Networks - A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/)  
-[Hagan et al. - Neural Network Design, 2nd edition](https://hagan.okstate.edu/nnd.html)  
+[Hagan et al. - Neural Network Design, 2nd Ed.](https://hagan.okstate.edu/nnd.html)  
 [Zhang et al. - Dive into Deep Learning](http://d2l.ai/index.html)  
 [Hamilton - Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)  
 [Howard et al. - Practical Deep Learning for Coders](https://course.fast.ai/)  
@@ -490,7 +492,7 @@ Last update: October 26th, 2023.
 [McGuire - The Graphics Code](https://graphicscodex.courses.nvidia.com/app.html)  
 [Dodgson - Image Resampling](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-261.pdf)  
 [Dunn, Parbery - 3D Math Primer for Graphics and Game Development](https://www.gamemath.com/)  
-[Phillips - Image Processing in C, 2nd Edition](https://github.com/Dwayne-Phillips/CIPS)      
+[Phillips - Image Processing in C, 2nd Ed.](https://github.com/Dwayne-Phillips/CIPS)      
 [Wald - Data Fusion. Definitions and Architectures - Fusion of Images of Different Spatial Resolutions](https://hal.science/hal-00464703)  
 [Glassner - Principles of Digital Image Synthesis](https://www.glassner.com/portfolio/principles-of-digital-image-synthesis/)   
 [Briggs, Carnevali - Embedding Methods for Image Search](https://www.pinecone.io/learn/image-search/)   
@@ -567,7 +569,7 @@ Last update: October 26th, 2023.
 [Hogan et al. - Knowledge Graphs](https://kgbook.org/)
 
 ### Cryptography and Information Security
-[Anderson - Security Engineering, 2nd Edition](https://www.cl.cam.ac.uk/~rja14/book.html)  
+[Anderson - Security Engineering, 2nd Ed.](https://www.cl.cam.ac.uk/~rja14/book.html)  
 [Nakov - Practical Cryptography for Developers](https://cryptobook.nakov.com/)  
 [Van Houtven - Crypto 101](https://www.crypto101.io/)  
 [Boneh et al. - A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)  
@@ -576,7 +578,7 @@ Last update: October 26th, 2023.
 
 ## Finance and Economics
    ***
-[Welch - Corporate Finance, 4th Edition](https://book.ivo-welch.info/read/)  
+[Welch - Corporate Finance, 4th Ed.](https://book.ivo-welch.info/read/)  
 [Heller - The Birth of Capitalism: A 21st Century Perspective](https://www.jstor.org/stable/j.ctt183p671)  
 [Lengwiler - Microfoundations of Financial Economics - An Introduction to General Equilibrium Asset Pricing](https://microfoundations.org/asset-pricing-book/)  
 [The Core Team - The Economy](https://www.core-econ.org/the-economy/)  
