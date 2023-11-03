@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 31st, 2023.  
+Last update: November 3rd, 2023.  
 
 # Subject Index  
 
@@ -321,6 +321,7 @@ Last update: October 31st, 2023.
 [Erickson - Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book)  
 [Di Pierro - Annotated Algorithms in Python](https://github.com/mdipierro/nlib)  
 [Flajolet et al. - Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/AnaCombi/)  
+[Keller, Trotter - Applied Combinatorics, 2017 Edition](https://www.appliedcombinatorics.org/appcomb/get-the-book/)  
 [Barack - Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html)  
 [Wigderson - Mathematics and Computation](https://www.math.ias.edu/avi/book)  
 [Schloss et al. - Algorithm Archive](https://www.algorithm-archive.org/)  
