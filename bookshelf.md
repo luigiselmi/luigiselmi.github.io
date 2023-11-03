@@ -249,6 +249,7 @@ Last update: November 3rd, 2023.
 [Marden - Multivariate Statistics: Old School](http://stat.istics.net/Multivariate/)  
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
 [United Nations - Handbook on Management and Organization of National Statistical Systems](https://unstats.un.org/capacity-development/handbook/)  
+[Gumbel - Statistical Theory of Extreme Values and Some Practical Applications](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
