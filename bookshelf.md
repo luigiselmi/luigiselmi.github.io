@@ -7,13 +7,17 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 3rd, 2023.  
+Last update: November 17th, 2023.  
 
 # Subject Index  
 
 * [Physics](#physics)
     * [Classical Physics](#classical-physics)  
-    * [Geophysics and Remote Sensing](#geophysics-and-remote-sensing)  
+    * [Geophysics](#geophysics)  
+        * [Atmospheric Physics](#atmospheric-physics)  
+        * [Oceanography](#oceanography)  
+        * [Earth Observation and Remote Sensing](#earth-observation-and-remote-sensing)  
+        * [Seismology](#seismology)  
     * [Mathematical and Computational Physics](#mathematical-and-computational-physics)  
     * [Quantum Mechanics and Computing](#quantum-mechanics-and-computing)  
     * [Statistical Mechanics](#statistical-mechanics)  
@@ -76,51 +80,58 @@ Last update: November 3rd, 2023.
 [Cline - Variational Principles in Classical Mechanics, 3rd Ed.](http://classicalmechanics.lib.rochester.edu/)  
 [Abraham, Marsden - Foundations of Mechanics](https://authors.library.caltech.edu/25029/)  
 
-### Geophysics and Remote Sensing
-[Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
+### Geophysics
 [Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
+[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
+[Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
+[LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
+[Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
+[Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
+[Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
+
+#### Atmospheric Physics
+[Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
 [Stocker - Introduction to Climate Modeling](https://climatehomes.unibe.ch/~stocker/publications21.html)  
 [Goosse et al. - Introduction to climate dynamics and climate modeling](http://www.climate.be/textbook/ebook.html)   
 [Rose - The Climate Laboratory](https://brian-rose.github.io/ClimateLaboratoryBook/home.html)      
 [Mann et al. - Meteo 469 - From Meteorology to Mitigation: Understanding Global Warming](https://www.e-education.psu.edu/meteo469/)  
 [Grainger - A Primer on Atmospheric Radiative Transfer](http://eodg.atm.ox.ac.uk/user/grainger/research/book/index.html)  
-[Earth Observation Australia - Earth Observation: Data, Processing and Applications, Vol.1,2,3](https://www.eoa.org.au/earth-observation-textbooks)  
-[ESRI - The ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book/)  
+[Stull - Practical Meteorology: An Algebra-based Survey of Atmospheric Science](https://www.eoas.ubc.ca/books/Practical_Meteorology/)  
+[Hanna et al. - Handbook on Atmospheric Diffusion](https://www.osti.gov/biblio/5591108/)  
+[Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)    
+[Lalic et al. - Agricultural Meteorology and Climatology](https://books.fupress.com/catalogue/agricultural-meteorology-and-climatology/3808)  
+[Sozzi - La Micrometeorologia e la Dispersione degli Inquinanti in Aria (Italian)](http://www.arpat.toscana.it/temi-ambientali/aria/modellistica-per-la-qualita-dellaria/linee-guida/apat-micrometeorologia.pdf)  
+[Döös, Lundberg, Campino - Basic Numerical Methods in Meteorology and Oceanography](https://doi.org/10.16993/bbs)  
+[Roed - Fundamentals of Atmospheres and Oceans on Computers](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF4510/h08/undervisningsmateriale/GEF4510.pdf)  
+[Evensen, Vossepoel, van Leeuwen - Data Assimilation Fundamentals](https://link.springer.com/book/10.1007/978-3-030-96709-3)  
+[ECMWF - Numerical Weather Prediction: Lecture Notes](https://www.ecmwf.int/en/learning/education-material/lecture-notes)  
+[Wald - Basics in Solar Radiation at Earth Surface](https://hal.science/hal-02175988/)  
+[Lehkonen - Synoptic Meteorology](https://eumetrain.org/sites/default/files/2020-05/synoptic_textbook.pdf)  
+
+#### Oceanography  
 [Stewart - Introduction to Physical Oceanography](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)  
+[Newman - Marine Hydrodynamics, 40th Anniversary Ed.](https://mitpress.mit.edu/books/marine-hydrodynamics-40th-anniversary-edition)  
+[Bosboom et al. - Coastal Dynamics](https://open.umn.edu/opentextbooks/textbooks/coastal-dynamics)  
+
+#### Earth Observation and Remote Sensing  
+[ESRI - The ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book/)  
+[Japan Meteorological Agency - Analysis and Use of Meteorological Satellite Images](https://rammb.cira.colostate.edu/wmovl/VRL/Texts/general_texts.htm)    
+[Earth Observation Australia - Earth Observation: Data, Processing and Applications, Vol.1,2,3](https://www.eoa.org.au/earth-observation-textbooks)  
+[Food and Agriculture Organizationg of the United Nations - Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)  
 [Van Zyl et al. - Synthetic Aperture Radar Polarimetry](https://descanso.jpl.nasa.gov/SciTechBook/st_series2_chapter.html#)  
 [Jackson - Synthetic Aperture Radar - Marine User’s Manual](https://www.sarusersmanual.com/)  
 [Miller - Applied Radar Meteorology](https://vortex.plymouth.edu/~stmiller/stmiller_content/Publications/AppRadarMet_V1.5.2.pdf)  
 [Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
-[Bosboom et al. - Coastal Dynamics](https://open.umn.edu/opentextbooks/textbooks/coastal-dynamics)  
-[Stull - Practical Meteorology: An Algebra-based Survey of Atmospheric Science](https://www.eoas.ubc.ca/books/Practical_Meteorology/)  
-[Newman - Marine Hydrodynamics, 40th Anniversary Ed.](https://mitpress.mit.edu/books/marine-hydrodynamics-40th-anniversary-edition)  
-[Hanna et al. - Handbook on Atmospheric Diffusion](https://www.osti.gov/biblio/5591108/)  
-[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
-[Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
-[LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
-[Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
-[Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)    
-[Lalic et al. - Agricultural Meteorology and Climatology](https://books.fupress.com/catalogue/agricultural-meteorology-and-climatology/3808)  
-[Sozzi - La Micrometeorologia e la Dispersione degli Inquinanti in Aria (Italian)](http://www.arpat.toscana.it/temi-ambientali/aria/modellistica-per-la-qualita-dellaria/linee-guida/apat-micrometeorologia.pdf)  
-[Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
-[Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
+[Menzel - Remote Sensing Applications with Meteorological Satellites](https://cimss.ssec.wisc.edu/rss/brienza/source/AppMetSat12.pdf)  
 [Camara et al. - Satellite Image Time Series Analysis on Earth Observation Data Cubes](https://e-sensing.github.io/sitsbook/index.html)  
 [Meijerink et al. - Remote Sensing Applications to Groundwater](https://unesdoc.unesco.org/ark:/48223/pf0000156300)  
 [Gordon - Physical Principles of Ocean Color Remote Sensing](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
 [Mobley et al. - The Oceanic Optics Book](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
 [Canada Centre for Mapping and Earth Observation - Fundamentals of Remote Sensing](https://natural-resources.canada.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)  
+
+#### Seismology  
 [Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
-[Döös, Lundberg, Campino - Basic Numerical Methods in Meteorology and Oceanography](https://doi.org/10.16993/bbs)  
-[Roed - Fundamentals of Atmospheres and Oceans on Computers](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF4510/h08/undervisningsmateriale/GEF4510.pdf)  
-[Evensen, Vossepoel, van Leeuwen - Data Assimilation Fundamentals](https://link.springer.com/book/10.1007/978-3-030-96709-3)  
-[Menzel - Remote Sensing Applications with Meteorological Satellites](https://cimss.ssec.wisc.edu/rss/brienza/source/AppMetSat12.pdf)  
-[ECMWF - Numerical Weather Prediction: Lecture Notes](https://www.ecmwf.int/en/learning/education-material/lecture-notes)  
-[Food and Agriculture Organizationg of the United Nations - Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)  
-[Wald - Basics in Solar Radiation at Earth Surface](https://hal.science/hal-02175988/)  
-[Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
-[Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)  
-[Japan Meteorological Agency - Analysis and Use of Meteorological Satellite Images](https://rammb.cira.colostate.edu/wmovl/VRL/Texts/general_texts.htm)    
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
@@ -548,6 +559,8 @@ Last update: November 3rd, 2023.
 [Di Biase - The Nature of Geographic Information](https://www.e-education.psu.edu/natureofgeoinfo/)  
 [Longley, Goodchild, Maguire, Rhind - Geographical Information Systems: Principles, Techniques, Management and Applications, Abridged Edition](https://www.geos.ed.ac.uk/~gisteac/gis_book_abridged/)  
 [National Academies - Spatial Statistics and Digital Image Analysis](https://nap.nationalacademies.org/catalog/1783/spatial-statistics-and-digital-image-analysis)
+[Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
+[Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)  
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
