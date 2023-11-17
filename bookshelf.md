@@ -14,7 +14,7 @@ Last update: November 17th, 2023.
 * [Physics](#physics)
     * [Classical Physics](#classical-physics)  
     * [Geophysics](#geophysics)  
-        * [Atmospheric Physics](#atmospheric-physics)  
+        * [Atmospheric Physics and Meteorology](#atmospheric-physics-and-meteorology)    
         * [Oceanography](#oceanography)  
         * [Earth Observation and Remote Sensing](#earth-observation-and-remote-sensing)  
         * [Seismology](#seismology)  
@@ -89,7 +89,7 @@ Last update: November 17th, 2023.
 [Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
 [Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
 
-#### Atmospheric Physics
+#### Atmospheric Physics and Meteorology  
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
 [Stocker - Introduction to Climate Modeling](https://climatehomes.unibe.ch/~stocker/publications21.html)  
