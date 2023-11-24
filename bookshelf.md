@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 17th, 2023.  
+Last update: November 24th, 2023.  
 
 # Subject Index  
 
@@ -349,6 +349,7 @@ Last update: November 17th, 2023.
 [Livermore Computing Center - Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial)  
 [Severance - High Performance Computing](https://cnx.org/contents/u4IVVH92@5.2:bEZZukPR@1/Introduction-to-the-Connexions-Edition)  
 [Slotin - Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)  
+[Reinders et al. - Data Parallel C++ - Mastering DPC++ for Programming of Heterogeneous System using C++ and SYCL](https://link.springer.com/book/10.1007/978-1-4842-5574-2)  
 
 ### Computer Programming
 [Abelson et al. - Structure and Interpretation of Computer Programs, JavaScript Ed.](https://sourceacademy.org/sicpjs/index)  
