@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 24th, 2023.  
+Last update: November 28th, 2023.  
 
 # Subject Index  
 
@@ -163,6 +163,7 @@ Last update: November 24th, 2023.
 [Goodstein - States of Matter](http://xn--webducation-dbb.com/book-states-of-matter-by-david-l-goodstein-pdf/)  
 [Tong - Lectures on Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys.html)  
 [Sethna - Statistical Mechanics: Entropy, Order Parameters, and Complexity, 2nd Ed.](https://sethna.lassp.cornell.edu/StatMech/)  
+[Friedli, Velenik - Statistical Mechanics of Lattice Systems](https://www.unige.ch/math/folks/velenik/smbook/)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
