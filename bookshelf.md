@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 28th, 2023.  
+Last update: December 10th, 2023.  
 
 # Subject Index  
 
@@ -108,6 +108,7 @@ Last update: November 28th, 2023.
 [ECMWF - Numerical Weather Prediction: Lecture Notes](https://www.ecmwf.int/en/learning/education-material/lecture-notes)  
 [Wald - Basics in Solar Radiation at Earth Surface](https://hal.science/hal-02175988/)  
 [Lehkonen - Synoptic Meteorology](https://eumetrain.org/sites/default/files/2020-05/synoptic_textbook.pdf)  
+[Gettelman, Rood - Demistifying Climate Models: A User Guide to Earth System Models](https://link.springer.com/book/10.1007/978-3-662-48959-8)  
 
 #### Oceanography  
 [Stewart - Introduction to Physical Oceanography](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)  
