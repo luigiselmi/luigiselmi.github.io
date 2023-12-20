@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 10th, 2023.  
+Last update: December 20th, 2023.  
 
 # Subject Index  
 
@@ -263,6 +263,7 @@ Last update: December 10th, 2023.
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
 [United Nations - Handbook on Management and Organization of National Statistical Systems](https://unstats.un.org/capacity-development/handbook/)  
 [Gumbel - Statistical Theory of Extreme Values and Some Practical Applications](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)  
+[Särkkä, Solin - Applied Stochastic Differential Equations](https://users.aalto.fi/~asolin/publications/#books)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
