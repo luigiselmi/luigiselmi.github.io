@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 28th, 2023.  
+Last update: December 30th, 2023.  
 
 # Subject Index  
 
@@ -265,6 +265,7 @@ Last update: December 28th, 2023.
 [Gumbel - Statistical Theory of Extreme Values and Some Practical Applications](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)  
 [Särkkä, Solin - Applied Stochastic Differential Equations](https://users.aalto.fi/~asolin/publications/#books)  
 [Belzile - Time Series](https://lbelzile.github.io/timeseRies/)  
+[Gray - Probability, Random Processes, and Ergodic Properties](https://ee.stanford.edu/~gray/arp.html)  
 
 ### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
