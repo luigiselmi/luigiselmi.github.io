@@ -597,7 +597,7 @@ Last update: December 1st, 2024.
 [Van Houtven - Crypto 101](https://www.crypto101.io/)  
 [Boneh et al. - A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)  
 [Menezes - Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)  
-[Kohel - Cryptography](http://iml.univ-mrs.fr/~kohel/tch/M2-CryptoSymetrique/crypto.pdf)  
+[Kohel - Cryptography](https://www.i2m.univ-amu.fr/perso/david.kohel/pub/crypto.pdf)  
 
 ## Finance and Economics
    ***
