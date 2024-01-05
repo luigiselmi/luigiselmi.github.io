@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 3rd, 2024.  
+Last update: December 5th, 2024.  
 
 # Subject Index  
 
@@ -620,6 +620,7 @@ Last update: December 3rd, 2024.
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
+[Puccetti - Matematica per il Corso di Economia e Management (in Italian)]https://libri.unimi.it/index.php/milanoup/catalog/book/112)  
 [Sheppard - Financial Econometrics Notes](https://www.kevinsheppard.com/teaching/mfe/notes/)  
 [Würtz, Setz, Chalabi, Lam, Ellis - Basic R for Finance](https://www.rmetrics.org/ebooks-basicr)  
 [Würtz, Setz, Chalabi, Chen, Ellis - Portfolio Optimization with R/Rmetrics](https://www.rmetrics.org/ebooks-portfolio)  
