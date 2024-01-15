@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 5th, 2024.  
+Last update: December 15th, 2024.  
 
 # Subject Index  
 
@@ -271,6 +271,8 @@ Last update: December 5th, 2024.
 [Durrett - Essential of Stochastic Processes](https://services.math.duke.edu/~rtd/EOSP/eosp.html)  
 [Särkkä, Solin - Applied Stochastic Differential Equations](https://users.aalto.fi/~asolin/publications/#books)  
 [Belzile - Time Series](https://lbelzile.github.io/timeseRies/)  
+[Diebold - Forecasting in Economics, Business, Finance and Beyond](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
+[Diebold - Time-Series Econometrics: A Concise Course](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
 
 #### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
@@ -629,6 +631,7 @@ Last update: December 5th, 2024.
 [Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
 [Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
 [Hanck, Arnold, Gerber, Schmelzer - Introduction to Econometrics with R](https://www.econometrics-with-r.org/)  
+[Diebold - Econometric Data Science](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
 
 ## Climate Change and Environmental Sustainability
    ***
