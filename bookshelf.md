@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 24th, 2024.  
+Last update: January 29th, 2024.  
 
 # Subject Index  
 
@@ -633,6 +633,7 @@ Last update: January 24th, 2024.
 [Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
 [Hanck, Arnold, Gerber, Schmelzer - Introduction to Econometrics with R](https://www.econometrics-with-r.org/)  
 [Diebold - Econometric Data Science](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
+[Heiss, Brunner - Using R, Python and Julia for Introductory Econometrics](http://upfie.net/)    
 
 ## Climate Change and Environmental Sustainability
    ***
