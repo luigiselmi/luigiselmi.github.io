@@ -492,6 +492,7 @@ Last update: February 7th, 2024.
 [Fleuret - The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html)  
 [Janzamin, Ge, Kossaifi, Anandkumar - Spectral Learning on Matrices and Tensors](https://arxiv.org/abs/2004.07984)  
 [Gal - Uncertainty in Deep Learning](https://www.cs.ox.ac.uk/people/yarin.gal/website/thesis/thesis.pdf)  
+[Bishop, Bishop - Deep Learning: Foundations and Concepts](https://www.bishopbook.com/)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
