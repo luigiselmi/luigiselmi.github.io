@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 29th, 2024.  
+Last update: February 7th, 2024.  
 
 # Subject Index  
 
@@ -233,7 +233,7 @@ Last update: January 29th, 2024.
 [Bradley et al. - Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)  
 [Dey et al. - Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html)  
 [Edelsbrunner et al. - Computational Topology: An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf)  
-
+[Cipolla, Giblin - Visual Motion of Curves and Surfaces](https://mi.eng.cam.ac.uk/~cipolla/publications_books.htm#2000)  
 
 ### Probability and Statistics
 [Gelman et al. - Bayesian Data Analysis, 3rd Ed.](http://www.stat.columbia.edu/~gelman/book/)  
