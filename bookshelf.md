@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 11th, 2024.  
+Last update: March 4th, 2024.  
 
 # Subject Index  
 
@@ -625,6 +625,7 @@ Last update: February 11th, 2024.
 [Murphy - Understanding Money Mechanics](https://mises.org/library/understanding-money-mechanics-3)  
 [Knight - Risk, Uncertainty and Profit](https://fraser.stlouisfed.org/title/risk-uncertainty-profit-110)  
 [Markowitz - Portfolio Selection: Efficient Diversiﬁcation of Investments](https://cowles.yale.edu/research/cfm-16-portfolio-selection-efficient-diversification-investments)  
+[The Federal Reserve - The Fed Explained: What the Central Bank Does, 11th Ed.](https://www.federalreserve.gov/aboutthefed/the-fed-explained.htm)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
