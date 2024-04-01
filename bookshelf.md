@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: March 4th, 2024.  
+Last update: April 1st, 2024.  
 
 # Subject Index  
 
@@ -275,6 +275,7 @@ Last update: March 4th, 2024.
 [Belzile - Time Series](https://lbelzile.github.io/timeseRies/)  
 [Diebold - Forecasting in Economics, Business, Finance and Beyond](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
 [Diebold - Time-Series Econometrics: A Concise Course](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
+[Labbe - Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)  
 
 #### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
