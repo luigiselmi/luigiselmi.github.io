@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: April 1st, 2024.  
+Last update: May 13th, 2024.  
 
 # Subject Index  
 
@@ -261,7 +261,6 @@ Last update: April 1st, 2024.
 [Stan Development Team - Stan User's Guide](https://mc-stan.org/docs/2_18/stan-users-guide/index.html)  
 [Marden - Multivariate Statistics: Old School](http://stat.istics.net/Multivariate/)  
 [United Nations - Handbook on Management and Organization of National Statistical Systems](https://unstats.un.org/capacity-development/handbook/)  
-[Gumbel - Statistical Theory of Extreme Values and Some Practical Applications](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)  
 [Gray - Probability, Random Processes, and Ergodic Properties](https://ee.stanford.edu/~gray/arp.html)  
 [Baldini, Di Lalla, Razzano, Sgro' - Introduzione all'analisi dei dati](https://bitbucket.org/lbaldini/statnotes/wiki/Home)  
 [Furrer - Introduction to Statistics: A Tour in 14 Weeks](https://user.math.uzh.ch/furrer/download/intro2stat/script_sta120.pdf)  
@@ -276,6 +275,8 @@ Last update: April 1st, 2024.
 [Diebold - Forecasting in Economics, Business, Finance and Beyond](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
 [Diebold - Time-Series Econometrics: A Concise Course](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
 [Labbe - Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)  
+[Gumbel - Statistical Theory of Extreme Values and Some Practical Applications](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)  
+[Naess - Applied Extreme Value Statistics including the ACER method](https://folk.ntnu.no/arvidn/AN/BOOK_260523.pdf)  
 
 #### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
