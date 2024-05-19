@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: May 13th, 2024.  
+Last update: May 19th, 2024.  
 
 # Subject Index  
 
@@ -136,6 +136,7 @@ Last update: May 13th, 2024.
 
 #### Seismology  
 [Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
+[Porter - A Beginner’s Guide to Fragility, Vulnerability, and Risk](https://www.sparisk.com/pubs/Porter-beginners-guide.pdf)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
