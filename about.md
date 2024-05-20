@@ -43,6 +43,7 @@ I worked as an IT consultant, on behalf of a small IT company in Rome, at variou
 * P. Castracane, L. Selmi, S. Casadio, M. Cacciani and G. Fiocco - Ground-based remote sensing of wind, temperature and aerosol backscattering in an urban environment during different atmospheric stability conditions, Ed. Physics and chemistry of the earth. Part B: Hydrology, oceans and atmosphere, Elsevier Science ([link](https://doi.org/10.1016/S1464-1909(00)00246-X))  
 
 ### Presentations and awards
+* 2024-05-04 - Invited speaker at Galileo Festival della Scienza e Innovazione - [Panel on Decarbonization and the Environment](https://www.galileofestival.it/relatori/luigi-selmi/)  
 * 30th November 2022 PyData Rome: Deep Learning for Land Use and Land Cover classification ([slides](assets/pydata_rome/Deep_Learning_for_LULC_Classification_PyData_Rome_Meeting_30_Nov.2022.pdf))
 * 19-21 October 2022 - SISC2022: Governing the Future. 10th Annual SISC Conference, Rome, Italy ([Certificate of Attendance](assets/cv/SISC2022_Conference.pdf))
 * 19th October 2022 - [3rd Prize](assets/cv/Wekeo_JNC_2022_Luigi_Selmi.pdf) of the Wekeo Jupyter Notebook Competition  
@@ -52,6 +53,8 @@ I worked as an IT consultant, on behalf of a small IT company in Rome, at variou
 * 2010-12-20 I have co-organized the conference [Io partecipo! La democrazia nell’era di Internet](https://agenda.infn.it/event/3196/) on e-democracy. The conference took place at the Physics Department of the Sapienza University of Rome, with [Prof. Stefano Rodota](https://it.wikipedia.org/wiki/Stefano_Rodot%C3%A0) as invited speaker.
 
 ### Courses and Certifications
+* 2023-10-23 - 2023-12-03 Synoptic and Mesoscale Analysis of Satellite Images 2023 - EUMeTrain ([Course Certificate](assets/smasi2023/SMASI2023_Luigi_Selmi.pdf))
+* 2023-11-20 Advanced School on HPC Computing with GPU Accellerators - Cineca ([Certificate of Attendance](assets/cineca/Cineca_Advanced_School_on_HPC_Computing_with_GPU_Accelerators_2023.pdf))
 * 2023-03-22 The Mediterranean System: a hotspot for climate change and adaptation, Accademia dei Lincei, Rome ([Certificate of Attendance](assets/cv/lincei_cert.jpg))
 * 2022-09-21 [Monitoring and Modeling Floods using Earth Observations](assets/cv/nasa_arset_flood_monitoring_cert.jpg), NASA Applied Remote Sensing Training Program
 * 2022-09-20 [Selecting Climate Change Projection Sets for Mitigation, Adaptation and Risk Management Applications](assets/cv/nasa_arset_risk_management_cert.jpg), NASA Applied Remote Sensing Training Program
