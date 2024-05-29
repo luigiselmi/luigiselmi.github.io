@@ -7,14 +7,14 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: May 19th, 2024.  
+Last update: May 29th, 2024.  
 
 # Subject Index  
 
 * [Physics](#physics)
     * [Classical Physics](#classical-physics)  
     * [Geophysics](#geophysics)  
-        * [Atmospheric Physics and Meteorology](#atmospheric-physics-and-meteorology)    
+        * [Atmospheric Physics, Meteorology, and Climate](#atmospheric-physics-meteorology-and-climate)    
         * [Oceanography](#oceanography)  
         * [Earth Observation and Remote Sensing](#earth-observation-and-remote-sensing)  
         * [Seismology](#seismology)  
@@ -92,7 +92,7 @@ Last update: May 19th, 2024.
 [Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
 [Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
 
-#### Atmospheric Physics and Meteorology  
+#### Atmospheric Physics, Meteorology, and Climate  
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
 [Stocker - Introduction to Climate Modeling](https://climatehomes.unibe.ch/~stocker/publications21.html)  
@@ -112,6 +112,8 @@ Last update: May 19th, 2024.
 [Wald - Basics in Solar Radiation at Earth Surface](https://hal.science/hal-02175988/)  
 [Lehkonen - Synoptic Meteorology](https://eumetrain.org/sites/default/files/2020-05/synoptic_textbook.pdf)  
 [Gettelman, Rood - Demistifying Climate Models: A User Guide to Earth System Models](https://link.springer.com/book/10.1007/978-3-662-48959-8)  
+[von Storch, Zwiers - Statistical Analysis in Climate Research](http://hvonstorch.de/klima/books/block/sz.pdf)  
+[von Storch, Navarra - Analysis of Climate Variability - Application of Statistical Techniques](http://hvonstorch.de/klima/books/SNBOOK/springer.pdf)  
 
 #### Oceanography  
 [Stewart - Introduction to Physical Oceanography](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)  
@@ -644,8 +646,7 @@ Last update: May 19th, 2024.
 [Diebold - Econometric Data Science](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
 [Heiss, Brunner - Using R, Python and Julia for Introductory Econometrics](http://upfie.net/)    
 
-## Climate Change and Environmental Sustainability
-   ***
+### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
 [Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
 [Brundtland et al. - Our Common Future](https://www.are.admin.ch/are/en/home/media/publications/sustainable-development/brundtland-report.html)  
