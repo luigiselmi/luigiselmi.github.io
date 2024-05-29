@@ -68,7 +68,6 @@ Last update: May 29th, 2024.
 * [Finance and Economics](#finance-and-economics)  
     * [Econometrics and Quantitative Finance](#econometrics-and-quantitative-finance)  
     * [Environmental, Social, and Governance](#environmental-social-and-governance)
-* [Climate Change and Environmental Sustainability](#climate-change-and-environmental-sustainability)  
 * [Entrepreneurship, Project Management and Marketing](#entrepreneurship-project-management-and-marketing)  
 * [Biology](#biology)  
     * [Neuroscience](#neuroscience)
