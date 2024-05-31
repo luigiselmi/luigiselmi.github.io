@@ -228,6 +228,7 @@ Last update: May 31st, 2024.
 [Hennig, Osborne, Kersting - Probabilistic Numerics: Computation as Machine Learning](https://www.probabilistic-numerics.org/textbooks/)  
 [Brugnano - Modelli Numerici per la Simulazione](http://web.math.unifi.it/users/brugnano/Corsi/anno_accademico/a.a.%202016-2017/Prog-MNS.htm)  
 [Linge, Langtangen - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python or MATLAB/Octave](https://hplgit.github.io/prog4comp/index.html)  
+[Novak - Numerical Methods for Scientific Computing, 2nd Ed.](https://www.equalsharepress.com/media/NMFSC.pdf)  
 
 ### Computational Geometry and Topology
 [Goodman, O'Rourke, Tóth - Handbook of Discrete and Computational Geometry, 3rd Ed.](https://www.csun.edu/~ctoth/Handbook/HDCG3.html)  
