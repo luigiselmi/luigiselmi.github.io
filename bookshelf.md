@@ -89,8 +89,6 @@ Last update: May 31st, 2024.
 [Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
 [LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
 [Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
-[Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
-[Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
 
 #### Atmospheric Physics, Meteorology, and Climate  
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
@@ -653,6 +651,8 @@ Last update: May 31st, 2024.
 [Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
 [Brundtland et al. - Our Common Future](https://www.are.admin.ch/are/en/home/media/publications/sustainable-development/brundtland-report.html)  
 [Beard - Smart Grids for Dummies](https://www.smartgrid.gov/document/smart_grids_dummies)  
+[Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
+[Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
