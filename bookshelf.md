@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: June 28th, 2024.  
+Last update: July 7th, 2024.  
 
 # Subject Index  
 
@@ -654,6 +654,7 @@ Last update: June 28th, 2024.
 [Beard - Smart Grids for Dummies](https://www.smartgrid.gov/document/smart_grids_dummies)  
 [Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
 [Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
+[Wilcox, Kolosz, Freeman - Carbon Dioxide Removal Primer](https://cdrprimer.org/)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
