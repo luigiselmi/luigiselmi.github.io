@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: July 7th, 2024.  
+Last update: July 15th, 2024.  
 
 # Subject Index  
 
@@ -656,7 +656,8 @@ Last update: July 7th, 2024.
 [Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
 [Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
 [Wilcox, Kolosz, Freeman - Carbon Dioxide Removal Primer](https://cdrprimer.org/)  
-[National Academies - Negative Emissions Technologies and Reliable Sequestration](https://nap.nationalacademies.org/catalog/25259/negative-emissions-technologies-and-reliable-sequestration-a-research-agenda)
+[National Academies - Negative Emissions Technologies and Reliable Sequestration](https://nap.nationalacademies.org/catalog/25259/negative-emissions-technologies-and-reliable-sequestration-a-research-agenda)  
+[Klinger - Rare Earth Frontiers](https://library.oapen.org/handle/20.500.12657/30764)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
