@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: July 15th, 2024.  
+Last update: July 22th, 2024.  
 
 # Subject Index  
 
@@ -318,6 +318,7 @@ Last update: July 15th, 2024.
 [Bottou, Curtis, Nocedal - Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838)  
 [Kall, Wallace - Stochastic Programming, 2nd Ed.](https://www.stoprog.org/sites/default/files/files/manujw.pdf)  
 [Sargent, Stachurski - Dynamic Programming](https://dp.quantecon.org/)  
+[Williamson, Shmoys - The Design of Approximation Algorithms](https://www.designofapproxalgs.com/)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
