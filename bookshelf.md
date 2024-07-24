@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: July 22th, 2024.  
+Last update: July 24th, 2024.  
 
 # Subject Index  
 
@@ -89,6 +89,7 @@ Last update: July 22th, 2024.
 [Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
 [LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
 [Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
+[Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
 
 #### Atmospheric Physics, Meteorology, and Climate  
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
