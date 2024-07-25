@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: July 24th, 2024.  
+Last update: July 25th, 2024.  
 
 # Subject Index  
 
@@ -113,6 +113,7 @@ Last update: July 24th, 2024.
 [Gettelman, Rood - Demistifying Climate Models: A User Guide to Earth System Models](https://link.springer.com/book/10.1007/978-3-662-48959-8)  
 [von Storch, Zwiers - Statistical Analysis in Climate Research](http://hvonstorch.de/klima/books/block/sz.pdf)  
 [von Storch, Navarra - Analysis of Climate Variability - Application of Statistical Techniques](http://hvonstorch.de/klima/books/SNBOOK/springer.pdf)  
+[NOAA - Climate Science Special Report](https://science2017.globalchange.gov/)  
 
 #### Oceanography  
 [Stewart - Introduction to Physical Oceanography](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)  
@@ -674,6 +675,8 @@ Last update: July 24th, 2024.
 [Frank - Immunology and Evolution of Infectious Disease](https://stevefrank.org/antiVar/antiVar.html)  
 [Frank - Dynamics of Cancer](https://stevefrank.org/cancer/cancer.html)  
 [Kellis - Computational Biology](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.))  
+[Rost, Barbour, Stocking, Murphy - Plant Biology](https://labs.plb.ucdavis.edu/courses/bis/1c/text/PLANTBIOLOGY1.htm)  
+
 ### Neuroscience
 [Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
 [Rolls - Cerebral Cortex: Principles of Operation](https://www.oxcns.org/b12text.html)  
