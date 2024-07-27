@@ -7,12 +7,13 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: July 25th, 2024.  
+Last update: July 27th, 2024.  
 
 # Subject Index  
 
 * [Physics](#physics)
-    * [Classical Physics](#classical-physics)  
+    * [Classical Mechanics](#classical-mechanics)  
+    * [Electromagnetism](#electromagnetism)
     * [Geophysics](#geophysics)  
         * [Atmospheric Physics, Meteorology, and Climate](#atmospheric-physics-meteorology-and-climate)    
         * [Oceanography](#oceanography)  
@@ -79,9 +80,13 @@ Last update: July 25th, 2024.
    ***
 [Feynman et al. - The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)  
 
-### Classical Physics
+### Classical Mechanics
 [Cline - Variational Principles in Classical Mechanics, 3rd Ed.](http://classicalmechanics.lib.rochester.edu/)  
 [Abraham, Marsden - Foundations of Mechanics](https://authors.library.caltech.edu/25029/)  
+
+### Electromagnetism
+[Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
+[Lundstrom - Fundamentals of Nanotransistors](https://nanohub.org/resources/35865/about)  
 
 ### Geophysics
 [Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
@@ -128,8 +133,7 @@ Last update: July 25th, 2024.
 [Food and Agriculture Organizationg of the United Nations - Handbook on remote sensing for agricultural statistics](https://www.fao.org/3/ca6394en/ca6394en.pdf)  
 [Van Zyl et al. - Synthetic Aperture Radar Polarimetry](https://descanso.jpl.nasa.gov/SciTechBook/st_series2_chapter.html#)  
 [Jackson - Synthetic Aperture Radar - Marine User’s Manual](https://www.sarusersmanual.com/)  
-[Miller - Applied Radar Meteorology](https://vortex.plymouth.edu/~stmiller/stmiller_content/Publications/AppRadarMet_V1.5.2.pdf)  
-[Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
+[Miller - Applied Radar Meteorology](https://vortex.plymouth.edu/~stmiller/stmiller_content/Publications/AppRadarMet_V1.5.2.pdf)    
 [Menzel - Remote Sensing Applications with Meteorological Satellites](https://cimss.ssec.wisc.edu/rss/brienza/source/AppMetSat12.pdf)  
 [Camara et al. - Satellite Image Time Series Analysis on Earth Observation Data Cubes](https://e-sensing.github.io/sitsbook/index.html)  
 [Meijerink et al. - Remote Sensing Applications to Groundwater](https://unesdoc.unesco.org/ark:/48223/pf0000156300)  
