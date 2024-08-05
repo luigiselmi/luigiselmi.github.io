@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: July 29th, 2024.  
+Last update: August 5th, 2024.  
 
 # Subject Index  
 
@@ -89,13 +89,7 @@ Last update: July 29th, 2024.
 [Lundstrom - Fundamentals of Nanotransistors](https://nanohub.org/resources/35865/about)  
 
 ### Geophysics
-[Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
-[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
-[Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
 [LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
-[Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
-[Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
-[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
 
 #### Atmospheric Physics, Meteorology, and Climate  
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
@@ -145,6 +139,15 @@ Last update: July 29th, 2024.
 #### Seismology  
 [Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
 [Porter - A Beginner’s Guide to Fragility, Vulnerability, and Risk](https://www.sparisk.com/pubs/Porter-beginners-guide.pdf)  
+
+### Geology
+[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
+[Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
+[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
+[Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
+[Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
+[Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
+[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
