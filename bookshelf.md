@@ -66,6 +66,7 @@ Last update: August 5th, 2024.
     * [Operating Systems](#operating-systems)  
     * [Knowledge Representation, Semantic Web, and Linked Data](#knowledge-representation-semantic-web-and-linked-data)  
     * [Cryptography and Information Security](#cryptography-and-information-security)  
+* [Geology](#geology)
 * [Finance and Economics](#finance-and-economics)  
     * [Econometrics and Quantitative Finance](#econometrics-and-quantitative-finance)  
     * [Environmental, Social, and Governance](#environmental-social-and-governance)
@@ -140,14 +141,6 @@ Last update: August 5th, 2024.
 [Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
 [Porter - A Beginner’s Guide to Fragility, Vulnerability, and Risk](https://www.sparisk.com/pubs/Porter-beginners-guide.pdf)  
 
-### Geology
-[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
-[Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
-[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
-[Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
-[Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
-[Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
-[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
 
 ### Mathematical and Computational Physics
 [Herman - An Introduction to Mathematical Physics](http://people.uncw.edu/hermanr/phy311/MathPhysBook/)  
@@ -627,6 +620,16 @@ Last update: August 5th, 2024.
 [Boneh et al. - A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)  
 [Menezes - Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)  
 [Kohel - Cryptography](https://www.i2m.univ-amu.fr/perso/david.kohel/pub/crypto.pdf)  
+
+## Geology
+   ***
+[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
+[Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
+[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
+[Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
+[Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
+[Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
+[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
 
 ## Finance and Economics
    ***
