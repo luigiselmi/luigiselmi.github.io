@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 5th, 2024.  
+Last update: August 7th, 2024.  
 
 # Subject Index  
 
@@ -697,7 +697,8 @@ Last update: August 5th, 2024.
 [Rolls, Deco - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
 [Rolls, Treves - Neural Networks and Brain Functions](https://www.oxcns.org/b3_text.html)  
 
-## Medicine
+## Health and Medicine
    ***
 [Betts et al. - Anatomy and Physiology](https://openstax.org/details/books/anatomy-and-physiology)  
 [World Health Organization - Manual of diagnostic ultrasound](https://www.who.int/publications/i/item/9241544619)  
+[World Health Organization - Air Quality Guidelines for Europe, 2nd Ed.](https://www.who.int/publications/i/item/9789289013581)  
