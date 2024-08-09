@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 7th, 2024.  
+Last update: August 9th, 2024.  
 
 # Subject Index  
 
@@ -244,6 +244,8 @@ Last update: August 7th, 2024.
 
 ### Probability and Statistics
 [Gelman et al. - Bayesian Data Analysis, 3rd Ed.](http://www.stat.columbia.edu/~gelman/book/)  
+[Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
+[Gelman, Vehtari - Active Statistics](https://avehtari.github.io/ActiveStatistics/)  
 [Lattimore et al. - Bandit Algorithms](https://banditalgs.com/)  
 [Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
 [Vershynin - High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)    
@@ -256,7 +258,6 @@ Last update: August 7th, 2024.
 [Tanizaky - Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/cv-e.htm)  
 [Johnson - Bayes Rules ! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)  
 [Martin et al. - Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)  
-[Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
 [Wilf - generatingfunctionology, 2nd Ed.](https://www2.math.upenn.edu/~wilf/DownldGF.html)  
 [Popov - Two-Dimensional Random Walk](https://www.ime.unicamp.br/~popov/2srw.pdf)  
 [Taleb - Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemoloy, and Applications](https://arxiv.org/abs/2001.10488)  
