@@ -444,6 +444,7 @@ Last update: August 9th, 2024.
 [Wickham - ggplot2: Elegant Graphics for Data Analysis, 2nd Ed.](https://ggplot2-book.org/)    
 [Dougherty - Hands-On Data Visualization](https://handsondataviz.org/)  
 [Spencer - Data in Wonderland](https://ssp3nc3r.github.io/data_in_wonderland/)  
+[Rougier - Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)  
 
 ### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
