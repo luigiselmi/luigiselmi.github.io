@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 9th, 2024.  
+Last update: August 11th, 2024.  
 
 # Subject Index  
 
@@ -272,6 +272,7 @@ Last update: August 9th, 2024.
 [Gray - Probability, Random Processes, and Ergodic Properties](https://ee.stanford.edu/~gray/arp.html)  
 [Baldini, Di Lalla, Razzano, Sgro' - Introduzione all'analisi dei dati](https://bitbucket.org/lbaldini/statnotes/wiki/Home)  
 [Furrer - Introduction to Statistics: A Tour in 14 Weeks](https://user.math.uzh.ch/furrer/download/intro2stat/script_sta120.pdf)  
+[Olive - Applied Robust Statistics](http://parker.ad.siu.edu/Olive/ol-bookp.htm)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
