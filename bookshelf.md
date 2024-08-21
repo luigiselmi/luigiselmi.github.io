@@ -186,6 +186,10 @@ Last update: August 21st, 2024.
 [Bailey, Humm, Todd-Pokropek, van Aswegen - Nuclear Medicine Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/10368/nuclear-medicine-physics)  
 [Dance, Christofides, Maidment, McLean, Ng - Diagnostic Radiology Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/8841/diagnostic-radiology-physics)  
 
+## Chemistry
+   ***
+[Gubler - Electrochemistry: Fundamentals, Cells & Applications - Lecture Notes 2023](https://www.psi.ch/en/cee/elc)  
+
 ## Mathematics
    ***
 ### Foundations and Logic
