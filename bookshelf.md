@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 21st, 2024.  
+Last update: August 26th, 2024.  
 
 # Subject Index  
 
@@ -328,6 +328,7 @@ Last update: August 21st, 2024.
 [Kall, Wallace - Stochastic Programming, 2nd Ed.](https://www.stoprog.org/sites/default/files/files/manujw.pdf)  
 [Sargent, Stachurski - Dynamic Programming](https://dp.quantecon.org/)  
 [Williamson, Shmoys - The Design of Approximation Algorithms](https://www.designofapproxalgs.com/)  
+[Rawlings, Mayne, Diehl - Model Predictive Control: Theory, Computation, and Design, 2nd Ed.](https://sites.engineering.ucsb.edu/~jbraw/mpc/)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
