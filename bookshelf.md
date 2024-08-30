@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 26th, 2024.  
+Last update: August 30th, 2024.  
 
 # Subject Index  
 
@@ -267,6 +267,7 @@ Last update: August 26th, 2024.
 [Taleb - Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemoloy, and Applications](https://arxiv.org/abs/2001.10488)  
 [NIST/SEMATECH - e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/)  
 [Durrett - Elementary Probability for Applications](https://services.math.duke.edu/~rtd/EP4A/EP4A.html)  
+[Durrett - Probability: Theory and Examples, 5th Ed.](https://services.math.duke.edu/~rtd/PTE/pte.html)  
 [Neal - Probabilistic Inference using Markov Chain Monte Carlo Methods](https://glizen.com/radfordneal/review.abstract.html)  
 [Betancourt - A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)  
 [Betancourt - Probabilistic Modeling with Stan](https://betanalpha.github.io/writing/)  
@@ -339,7 +340,8 @@ Last update: August 26th, 2024.
 [Lovasz - Large networks and graph limits](https://web.cs.elte.hu/~lovasz/kurzusok/hombook-almost-final.pdf)  
 [van Steen - Graph Theory and Complex Networks](https://www.distributed-systems.net/index.php/books/gtcn/)  
 [Frieze, Karonski - Introduction to Random Graphs](https://www.math.cmu.edu/~af1p/Book.html)  
-[Diestel - Graph Theory, 5th Ed.](https://diestel-graph-theory.com/basic.html)
+[Diestel - Graph Theory, 5th Ed.](https://diestel-graph-theory.com/basic.html)  
+[van der Hofstad - Random Graphs and Complex Networks, Volume I and II](https://www.win.tue.nl/~rhofstad/)  
 
 ### Game Theory
 [Dresher - Games of Strategy - Theory and Applications](https://www.rand.org/content/dam/rand/pubs/commercial_books/2007/RAND_CB149-1.pdf)  
