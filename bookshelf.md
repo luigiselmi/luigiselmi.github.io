@@ -342,6 +342,7 @@ Last update: August 30th, 2024.
 [Frieze, Karonski - Introduction to Random Graphs](https://www.math.cmu.edu/~af1p/Book.html)  
 [Diestel - Graph Theory, 5th Ed.](https://diestel-graph-theory.com/basic.html)  
 [van der Hofstad - Random Graphs and Complex Networks, Volume I and II](https://www.win.tue.nl/~rhofstad/)  
+[Durrett - Dynamics on Graphs](https://services.math.duke.edu/~rtd/DoG/DoG.html)  
 
 ### Game Theory
 [Dresher - Games of Strategy - Theory and Applications](https://www.rand.org/content/dam/rand/pubs/commercial_books/2007/RAND_CB149-1.pdf)  
