@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 30th, 2024.  
+Last update: August 31st, 2024.  
 
 # Subject Index  
 
@@ -101,8 +101,7 @@ Last update: August 30th, 2024.
 [Mann et al. - Meteo 469 - From Meteorology to Mitigation: Understanding Global Warming](https://www.e-education.psu.edu/meteo469/)  
 [Grainger - A Primer on Atmospheric Radiative Transfer](http://eodg.atm.ox.ac.uk/user/grainger/research/book/index.html)  
 [Stull - Practical Meteorology: An Algebra-based Survey of Atmospheric Science](https://www.eoas.ubc.ca/books/Practical_Meteorology/)  
-[Hanna et al. - Handbook on Atmospheric Diffusion](https://www.osti.gov/biblio/5591108/)  
-[Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)    
+[Hanna et al. - Handbook on Atmospheric Diffusion](https://www.osti.gov/biblio/5591108/)    
 [Lalic et al. - Agricultural Meteorology and Climatology](https://books.fupress.com/catalogue/agricultural-meteorology-and-climatology/3808)  
 [Sozzi - La Micrometeorologia e la Dispersione degli Inquinanti in Aria (Italian)](http://www.arpat.toscana.it/temi-ambientali/aria/modellistica-per-la-qualita-dellaria/linee-guida/apat-micrometeorologia.pdf)  
 [Döös, Lundberg, Campino - Basic Numerical Methods in Meteorology and Oceanography](https://doi.org/10.16993/bbs)  
@@ -115,6 +114,10 @@ Last update: August 30th, 2024.
 [von Storch, Zwiers - Statistical Analysis in Climate Research](http://hvonstorch.de/klima/books/block/sz.pdf)  
 [von Storch, Navarra - Analysis of Climate Variability - Application of Statistical Techniques](http://hvonstorch.de/klima/books/SNBOOK/springer.pdf)  
 [NOAA - Climate Science Special Report](https://science2017.globalchange.gov/)  
+
+#### Inverse Theory
+[Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
+[Scales, Smith, Treitel - Introductory Geophysical Inverse Theory](https://samizdat.mines.edu/geophysical-inverse-theory-by-john-scales-martin-smith-and-sven-treitel/)
 
 #### Oceanography  
 [Stewart - Introduction to Physical Oceanography](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)  
