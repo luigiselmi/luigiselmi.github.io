@@ -16,6 +16,7 @@ Last update: August 31st, 2024.
     * [Electromagnetism](#electromagnetism)
     * [Geophysics](#geophysics)  
         * [Atmospheric Physics, Meteorology, and Climate](#atmospheric-physics-meteorology-and-climate)    
+        * [Inverse Theory](#inverse-theory)
         * [Oceanography](#oceanography)  
         * [Earth Observation and Remote Sensing](#earth-observation-and-remote-sensing)  
         * [Seismology](#seismology)  
