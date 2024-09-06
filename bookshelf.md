@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 31st, 2024.  
+Last update: September 6th, 2024.  
 
 # Subject Index  
 
@@ -140,6 +140,7 @@ Last update: August 31st, 2024.
 [Gordon - Physical Principles of Ocean Color Remote Sensing](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
 [Mobley et al. - The Oceanic Optics Book](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
 [Canada Centre for Mapping and Earth Observation - Fundamentals of Remote Sensing](https://natural-resources.canada.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)  
+[NASA SERVIR et al. - The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/resources/sar-handbook)  
 
 #### Seismology  
 [Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
