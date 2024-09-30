@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 27th, 2024.  
+Last update: September 30th, 2024.  
 
 # Subject Index  
 
@@ -240,6 +240,7 @@ Last update: September 27th, 2024.
 [Hennig, Osborne, Kersting - Probabilistic Numerics: Computation as Machine Learning](https://www.probabilistic-numerics.org/textbooks/)  
 [Brugnano - Modelli Numerici per la Simulazione](http://web.math.unifi.it/users/brugnano/Corsi/anno_accademico/a.a.%202016-2017/Prog-MNS.htm)  
 [Linge, Langtangen - Programming for Computations - A Gentle Introduction to Numerical Simulations with Python or MATLAB/Octave](https://hplgit.github.io/prog4comp/index.html)  
+[Langtangen, Logg - Solving PDEs in Python - The FEniCS Tutorial I](https://link.springer.com/book/10.1007/978-3-319-52462-7)  
 [Novak - Numerical Methods for Scientific Computing, 2nd Ed.](https://www.equalsharepress.com/media/NMFSC.pdf)  
 [Spencer, Ware, Colton - Partial Differential Equations - Python Edition](https://physics.byu.edu/courses/computational/phys430)  
 
