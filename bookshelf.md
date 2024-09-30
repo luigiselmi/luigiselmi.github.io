@@ -524,7 +524,8 @@ Last update: September 30th, 2024.
 [Janzamin, Ge, Kossaifi, Anandkumar - Spectral Learning on Matrices and Tensors](https://arxiv.org/abs/2004.07984)  
 [Gal - Uncertainty in Deep Learning](https://www.cs.ox.ac.uk/people/yarin.gal/website/thesis/thesis.pdf)  
 [Bishop, Bishop - Deep Learning: Foundations and Concepts](https://www.bishopbook.com/)  
-[Scardapane - Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
+[Scardapane - Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)  
+[Kidger - On Neural Differential Equations](https://arxiv.org/abs/2202.02435)
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
