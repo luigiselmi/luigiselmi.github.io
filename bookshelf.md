@@ -286,6 +286,7 @@ Last update: September 30th, 2024.
 [Baldini, Di Lalla, Razzano, Sgro' - Introduzione all'analisi dei dati](https://bitbucket.org/lbaldini/statnotes/wiki/Home)  
 [Furrer - Introduction to Statistics: A Tour in 14 Weeks](https://user.math.uzh.ch/furrer/download/intro2stat/script_sta120.pdf)  
 [Olive - Applied Robust Statistics](http://parker.ad.siu.edu/Olive/ol-bookp.htm)  
+[Honkela - Computational Statistics I](https://www.cs.helsinki.fi/u/ahonkela/teaching/compstats1/book/index.html)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
@@ -525,7 +526,8 @@ Last update: September 30th, 2024.
 [Gal - Uncertainty in Deep Learning](https://www.cs.ox.ac.uk/people/yarin.gal/website/thesis/thesis.pdf)  
 [Bishop, Bishop - Deep Learning: Foundations and Concepts](https://www.bishopbook.com/)  
 [Scardapane - Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)  
-[Kidger - On Neural Differential Equations](https://arxiv.org/abs/2202.02435)
+[Kidger - On Neural Differential Equations](https://arxiv.org/abs/2202.02435)  
+[Maclaurin - Autograd - automatic differentiation with Python](https://dougalmaclaurin.com/projects.html)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
