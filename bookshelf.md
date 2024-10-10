@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 30th, 2024.  
+Last update: October 10th, 2024.  
 
 # Subject Index  
 
@@ -119,7 +119,8 @@ Last update: September 30th, 2024.
 
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
-[Scales, Smith, Treitel - Introductory Geophysical Inverse Theory](https://samizdat.mines.edu/geophysical-inverse-theory-by-john-scales-martin-smith-and-sven-treitel/)
+[Scales, Smith, Treitel - Introductory Geophysical Inverse Theory](https://samizdat.mines.edu/geophysical-inverse-theory-by-john-scales-martin-smith-and-sven-treitel/)  
+[Clason - Regularization of Inverse Problems](https://arxiv.org/abs/2001.00617)  
 
 #### Oceanography  
 [Stewart - Introduction to Physical Oceanography](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)  
@@ -287,6 +288,7 @@ Last update: September 30th, 2024.
 [Furrer - Introduction to Statistics: A Tour in 14 Weeks](https://user.math.uzh.ch/furrer/download/intro2stat/script_sta120.pdf)  
 [Olive - Applied Robust Statistics](http://parker.ad.siu.edu/Olive/ol-bookp.htm)  
 [Honkela - Computational Statistics I](https://www.cs.helsinki.fi/u/ahonkela/teaching/compstats1/book/index.html)  
+[Ross - An Introduction to Bayesian Reasoning and Methods](https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
