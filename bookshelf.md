@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 10th, 2024.  
+Last update: October 11th, 2024.  
 
 # Subject Index  
 
@@ -121,6 +121,7 @@ Last update: October 10th, 2024.
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
 [Scales, Smith, Treitel - Introductory Geophysical Inverse Theory](https://samizdat.mines.edu/geophysical-inverse-theory-by-john-scales-martin-smith-and-sven-treitel/)  
 [Clason - Regularization of Inverse Problems](https://arxiv.org/abs/2001.00617)  
+[van Leeuwen, Brune - 10 Lectures on Inverse Problems and Imaging](https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html)  
 
 #### Oceanography  
 [Stewart - Introduction to Physical Oceanography](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)  
