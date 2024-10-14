@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 11th, 2024.  
+Last update: October 14th, 2024.  
 
 # Subject Index  
 
@@ -290,6 +290,7 @@ Last update: October 11th, 2024.
 [Olive - Applied Robust Statistics](http://parker.ad.siu.edu/Olive/ol-bookp.htm)  
 [Honkela - Computational Statistics I](https://www.cs.helsinki.fi/u/ahonkela/teaching/compstats1/book/index.html)  
 [Ross - An Introduction to Bayesian Reasoning and Methods](https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/)  
+[van de Meent, Paige, Yang, Wood - An Introduction to Probabilistic Programming](https://arxiv.org/abs/1809.10756)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
@@ -617,6 +618,7 @@ Last update: October 11th, 2024.
 [National Academies - Spatial Statistics and Digital Image Analysis](https://nap.nationalacademies.org/catalog/1783/spatial-statistics-and-digital-image-analysis)
 [Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
 [Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)  
+[Hoffimann - Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)  
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
