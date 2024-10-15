@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 14th, 2024.  
+Last update: October 15th, 2024.  
 
 # Subject Index  
 
@@ -291,6 +291,7 @@ Last update: October 14th, 2024.
 [Honkela - Computational Statistics I](https://www.cs.helsinki.fi/u/ahonkela/teaching/compstats1/book/index.html)  
 [Ross - An Introduction to Bayesian Reasoning and Methods](https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/)  
 [van de Meent, Paige, Yang, Wood - An Introduction to Probabilistic Programming](https://arxiv.org/abs/1809.10756)  
+[Chacon, Duong - Multivariate Kernel Smoothing and Its Applications](https://www.mvstat.net/mvksa/)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
