@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 15th, 2024.  
+Last update: October 16th, 2024.  
 
 # Subject Index  
 
@@ -305,6 +305,7 @@ Last update: October 15th, 2024.
 [Labbe - Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)  
 [Gumbel - Statistical Theory of Extreme Values and Some Practical Applications](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)  
 [Naess - Applied Extreme Value Statistics including the ACER method](https://folk.ntnu.no/arvidn/AN/BOOK_260523.pdf)  
+[Wiener - Extrapolation, Interpolation, and Smoothing of Stationary Time Series: With Engineering Applications](https://direct.mit.edu/books/oa-monograph/4361/Extrapolation-Interpolation-and-Smoothing-of)   
 
 #### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
