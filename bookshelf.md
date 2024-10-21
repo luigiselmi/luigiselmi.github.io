@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 16th, 2024.  
+Last update: October 21st, 2024.  
 
 # Subject Index  
 
@@ -619,8 +619,9 @@ Last update: October 16th, 2024.
 [Longley, Goodchild, Maguire, Rhind - Geographical Information Systems: Principles, Techniques, Management and Applications, Abridged Edition](https://www.geos.ed.ac.uk/~gisteac/gis_book_abridged/)  
 [National Academies - Spatial Statistics and Digital Image Analysis](https://nap.nationalacademies.org/catalog/1783/spatial-statistics-and-digital-image-analysis)
 [Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
-[Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)  
+[Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)    
 [Hoffimann - Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)  
+[Moraga - Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/)  
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
