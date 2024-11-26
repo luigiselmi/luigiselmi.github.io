@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 21st, 2024.  
+Last update: November 26th, 2024.  
 
 # Subject Index  
 
@@ -680,6 +680,8 @@ Last update: October 21st, 2024.
 [Markowitz - Portfolio Selection: Efficient Diversiﬁcation of Investments](https://cowles.yale.edu/research/cfm-16-portfolio-selection-efficient-diversification-investments)  
 [The Federal Reserve - The Fed Explained: What the Central Bank Does, 11th Ed.](https://www.federalreserve.gov/aboutthefed/the-fed-explained.htm)  
 [OECD - Handbook on Constructing Composite Indicators: Methodology and User Guide](https://doi.org/10.1787/9789264043466-en)  
+[Draghi - The future of European competitiveness](https://commission.europa.eu/topics/strengthening-european-competitiveness/eu-competitiveness-looking-ahead_en)  
+[James - The IMF and the European Debt Crisis](https://www.imf.org/en/Publications/Books/Issues/2024/01/09/The-IMF-and-the-European-Debt-Crisis-529235)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
