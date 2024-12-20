@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 28th, 2024.  
+Last update: December 20th, 2024.  
 
 # Subject Index  
 
@@ -556,7 +556,7 @@ Last update: November 28th, 2024.
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
-[Prince - Computer Vision: Models, Learning and Inference](http://www.computervisionmodels.com/)  
+[Prince - Computer Vision: Models, Learning and Inference](https://udlbook.github.io/cvbook/)  
 [Hyvärinen et al. - Natural Image Statistics](https://www.cs.helsinki.fi/u/ahyvarin/natimgsx/)  
 [Solem - Programming Computer Vision with Python](http://programmingcomputervision.com/)  
 [Pharr et al. - Physically Based Rendering: From Theory to Implementation, 3rd Ed.](https://www.pbr-book.org/)  
