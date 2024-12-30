@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 20th, 2024.  
+Last update: December 30th, 2024.  
 
 # Subject Index  
 
@@ -683,6 +683,7 @@ Last update: December 20th, 2024.
 [Draghi - The future of European competitiveness](https://commission.europa.eu/topics/strengthening-european-competitiveness/eu-competitiveness-looking-ahead_en)  
 [James - The IMF and the European Debt Crisis](https://www.imf.org/en/Publications/Books/Issues/2024/01/09/The-IMF-and-the-European-Debt-Crisis-529235)  
 [IMF - World Economic Outlook](https://www.imf.org/en/Publications/WEO/)  
+[Hermanson, Edwards, Maher - Accounting Principles: A Business Perspective](https://open.umn.edu/opentextbooks/textbooks/383)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
