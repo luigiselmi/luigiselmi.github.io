@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 2nd, 2025.  
+Last update: January 3rd, 2025.  
 
 # Subject Index  
 
@@ -685,6 +685,7 @@ Last update: January 2nd, 2025.
 [James - The IMF and the European Debt Crisis](https://www.imf.org/en/Publications/Books/Issues/2024/01/09/The-IMF-and-the-European-Debt-Crisis-529235)  
 [IMF - World Economic Outlook](https://www.imf.org/en/Publications/WEO/)  
 [Hermanson, Edwards, Maher - Accounting Principles: A Business Perspective](https://open.umn.edu/opentextbooks/textbooks/383)  
+[Haslem - Mutual Funds: Risk and Performance Analysis for Decision Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637632)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
