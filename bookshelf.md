@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 30th, 2024.  
+Last update: January 2nd, 2025.  
 
 # Subject Index  
 
@@ -174,6 +174,7 @@ Last update: December 30th, 2024.
 [Aaronson - Introduction to Quantum Information Science: Lecture Notes](https://www.scottaaronson.com/qclec.pdf)   
 [Girvin - Circuit QED: Superconducting Qubits Coupled to Microwave Photons](http://www.capri-school.eu/lectureres/master_cqed_les_houches.pdf)  
 [Shor - Lecture Notes on Quantum Computation](https://math.mit.edu/~shor/435-LN/)  
+[Styer - Invitation to Quantum Mechanics](https://www2.oberlin.edu/physics/dstyer/InvitationToQM/)  
 
 ### Statistical Mechanics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
