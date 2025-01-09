@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 5th, 2025.  
+Last update: January 9th, 2025.  
 
 # Subject Index  
 
@@ -85,6 +85,7 @@ Last update: January 5th, 2025.
 ### Classical Mechanics
 [Cline - Variational Principles in Classical Mechanics, 3rd Ed.](http://classicalmechanics.lib.rochester.edu/)  
 [Abraham, Marsden - Foundations of Mechanics](https://authors.library.caltech.edu/25029/)  
+[Sussman, Wisdom - Structure and Interpretation of Classical Mechanics](https://library.oapen.org/handle/20.500.12657/26048)  
 
 ### Electromagnetism
 [Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
