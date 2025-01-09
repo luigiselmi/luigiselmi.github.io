@@ -505,6 +505,7 @@ Last update: January 9th, 2025.
 [Shapire, Freund - Boosting: Foundations and Algorithms](https://direct.mit.edu/books/oa-monograph/5342/BoostingFoundations-and-Algorithms)  
 [Lindholm, Wahlström, Lindsten, Schön - Machine Learning: A First Course for Engineers and Scientists](http://smlbook.org/)  
 [Louppe - Understanding Random Forests: From Theory to Practice](https://arxiv.org/abs/1407.7502)  
+[Hutter, Kotthoff, Vanschoren, eds - Automated Machine Learning](https://link.springer.com/book/10.1007/978-3-030-05318-5)  
 
 ### Neural Networks, Deep Learning, and Reinforcement Learning
 [Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
