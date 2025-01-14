@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 11th, 2025.  
+Last update: January 14th, 2025.  
 
 # Subject Index  
 
@@ -539,6 +539,7 @@ Last update: January 11th, 2025.
 [Scardapane - Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)  
 [Kidger - On Neural Differential Equations](https://arxiv.org/abs/2202.02435)  
 [Maclaurin - Autograd - automatic differentiation with Python](https://dougalmaclaurin.com/projects.html)  
+[Kingma, Welling - An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
