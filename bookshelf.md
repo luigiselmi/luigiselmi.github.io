@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 14th, 2025.  
+Last update: January 21st, 2025.  
 
 # Subject Index  
 
@@ -117,6 +117,7 @@ Last update: January 14th, 2025.
 [von Storch, Navarra - Analysis of Climate Variability - Application of Statistical Techniques](http://hvonstorch.de/klima/books/SNBOOK/springer.pdf)  
 [NOAA - Climate Science Special Report](https://science2017.globalchange.gov/)  
 [Benestad, Chen, Hanssen-Bauer - Empirical-Statistical Downscaling](https://www.researchgate.net/publication/344650430_Empirical-Statistical_Downscaling)  
+[Zannetti - Air Pollution Modeling](https://www.envirocomp.com/pops/airpollution.html)  
 
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
