@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 24th, 2025.  
+Last update: January 26th, 2025.  
 
 # Subject Index  
 
@@ -376,7 +376,7 @@ Last update: January 24th, 2025.
 ### Category Theory
 [Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
 [Fong et al. - Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
-[Leinster - Basic category Theory](https://arxiv.org/abs/1612.09375)  
+[Leinster - Basic Category Theory](https://arxiv.org/abs/1612.09375)  
 [Smith - Beginning Category Theory](https://www.logicmatters.net/categories/)  
 [Riehl - Category Theory in Context](https://emilyriehl.github.io/books/)  
 
