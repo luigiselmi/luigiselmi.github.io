@@ -523,7 +523,7 @@ Last update: February 3rd, 2025.
 [Bronstein et al. Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)  
 [Roberts et al. - The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)  
 [Sutton et al. - Reinforcement Learning, 2nd Ed.](http://incompleteideas.net/book/the-book-2nd.html)  
-[Francois-Lavet et al. - An Introduction to Deep Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html)  
+[Francois-Lavet et al. - An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560)    
 [Nielsen - Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)  
 [Bertsekas - Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control](http://web.mit.edu/dimitrib/www/RLbook.html)  
 [Kashani et al. - Deep Learning Inteviews: Hundreds of fully solved questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)  
