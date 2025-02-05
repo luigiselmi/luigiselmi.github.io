@@ -606,7 +606,7 @@ Last update: February 5th, 2025.
 
 ### Geographic Information Systems
 [Lovelace et al. - Geocomputation with R](https://geocompr.robinlovelace.net/)  
-[ Dorman, Graser, Nowosad, Lovelace - Geocomputation with Python](https://py.geocompx.org/)  
+[Dorman, Graser, Nowosad, Lovelace - Geocomputation with Python](https://py.geocompx.org/)  
 [Bartlein - Geographic Data Analysis (with R)](https://pjbartlein.github.io/GeogDataAnalysis/index.html)  
 [Donnelly et al. - Introduction to GIS with QGIS](https://atcoordinates.files.wordpress.com/2021/06/intro_qgis_june2021.pdf)  
 [Hijmans - Spatial Data Science with R](https://rspatial.org/raster/index.html)  
