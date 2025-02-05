@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 3rd, 2025.  
+Last update: February 5th, 2025.  
 
 # Subject Index  
 
@@ -223,6 +223,7 @@ Last update: February 3rd, 2025.
 [Ash - Abstract Algebra: The Basic Graduate Year](https://faculty.math.illinois.edu/~r-ash/)  
 [O’Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
 [Axler - Linear Algebra Done Right, 4th Ed.](https://linear.axler.net/)  
+[Margalit, Rabinoff, Williams - Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)  
 
 ### Calculus
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
@@ -605,6 +606,7 @@ Last update: February 3rd, 2025.
 
 ### Geographic Information Systems
 [Lovelace et al. - Geocomputation with R](https://geocompr.robinlovelace.net/)  
+[ Dorman, Graser, Nowosad, Lovelace - Geocomputation with Python](https://py.geocompx.org/)  
 [Bartlein - Geographic Data Analysis (with R)](https://pjbartlein.github.io/GeogDataAnalysis/index.html)  
 [Donnelly et al. - Introduction to GIS with QGIS](https://atcoordinates.files.wordpress.com/2021/06/intro_qgis_june2021.pdf)  
 [Hijmans - Spatial Data Science with R](https://rspatial.org/raster/index.html)  
