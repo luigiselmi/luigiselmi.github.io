@@ -739,6 +739,7 @@ Last update: February 8th, 2025.
 [Frank - Dynamics of Cancer](https://stevefrank.org/cancer/cancer.html)  
 [Kellis - Computational Biology](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.))  
 [Rost, Barbour, Stocking, Murphy - Plant Biology](https://labs.plb.ucdavis.edu/courses/bis/1c/text/PLANTBIOLOGY1.htm)  
+[Kelly - Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://kk.org/mt-files/outofcontrol/index.php)  
 
 ### Neuroscience
 [Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
