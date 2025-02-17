@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 8th, 2025.  
+Last update: February 17th, 2025.  
 
 # Subject Index  
 
@@ -546,6 +546,7 @@ Last update: February 8th, 2025.
 [Lambert - A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)  
 [Plaat - Learning to Play](https://learningtoplay.net/)       
 [Plaat - Deep Reinforcement Learning](https://deep-reinforcement-learning.net/)  
+[Mehlig - Machine learning with neural networks](https://arxiv.org/abs/1901.05639)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
