@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 17th, 2025.  
+Last update: February 21st, 2025.  
 
 # Subject Index  
 
@@ -160,7 +160,7 @@ Last update: February 17th, 2025.
 [Shiffman - The Nature of Code](https://natureofcode.com/)      
 [Wolfram - A New Kind of Science](https://www.wolframscience.com/nks/)  
 [Zanghi - Appunti di Metodi Matematici della Fisica (in Italian)](https://www.ge.infn.it/~zanghi/metodi/mm2015.html)  
-[Lienhard IV et al. - A Heat Transfer Textbook, 5th Ed.](https://ahtt.mit.edu/)  
+[Lienhard IV et al. - A Heat Transfer Textbook, 6th Ed.](https://ahtt.mit.edu/)  
 [Greenshields et al. - Notes on Computational Fluid Dynamics: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)  
 [Hall - An Elementary Introduction to Groups and Representations](https://arxiv.org/abs/math-ph/0005032)  
 [Onofri - Lezioni di Metodi Probabilistici della Fisica (in Italian)](https://eoinfnpr.it/#MPF)  
