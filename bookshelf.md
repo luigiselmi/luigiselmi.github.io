@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 21st, 2025.  
+Last update: February 25th, 2025.  
 
 # Subject Index  
 
@@ -186,6 +186,7 @@ Last update: February 21st, 2025.
 [Sethna - Statistical Mechanics: Entropy, Order Parameters, and Complexity, 2nd Ed.](https://sethna.lassp.cornell.edu/StatMech/)  
 [Friedli, Velenik - Statistical Mechanics of Lattice Systems](https://www.unige.ch/math/folks/velenik/smbook/)  
 [Malthe-Sørenssen - Percolation Theory Using Python](https://link.springer.com/book/10.1007/978-3-031-59900-2)  
+[Gallavotti - Statistical Mechanics - Short Treatise](https://ipparco.roma1.infn.it/pagine/deposito/1998/libro.pdf)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
