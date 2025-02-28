@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 25th, 2025.  
+Last update: February 28th, 2025.  
 
 # Subject Index  
 
@@ -314,6 +314,7 @@ Last update: February 25th, 2025.
 [Gumbel - Statistical Theory of Extreme Values and Some Practical Applications](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB175818.xhtml)  
 [Naess - Applied Extreme Value Statistics including the ACER method](https://folk.ntnu.no/arvidn/AN/BOOK_260523.pdf)  
 [Wiener - Extrapolation, Interpolation, and Smoothing of Stationary Time Series: With Engineering Applications](https://direct.mit.edu/books/oa-monograph/4361/Extrapolation-Interpolation-and-Smoothing-of)   
+[PennState University - STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)  
 
 #### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
