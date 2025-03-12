@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 28th, 2025.  
+Last update: March 12th, 2025.  
 
 # Subject Index  
 
@@ -106,6 +106,7 @@ Last update: February 28th, 2025.
 [Hanna et al. - Handbook on Atmospheric Diffusion](https://www.osti.gov/biblio/5591108/)    
 [Lalic et al. - Agricultural Meteorology and Climatology](https://books.fupress.com/catalogue/agricultural-meteorology-and-climatology/3808)  
 [Sozzi - La Micrometeorologia e la Dispersione degli Inquinanti in Aria (Italian)](http://www.arpat.toscana.it/temi-ambientali/aria/modellistica-per-la-qualita-dellaria/linee-guida/apat-micrometeorologia.pdf)  
+[Sozzi, Georgiadis, Valentini - Introduzione alla Turbolenza Atmosferica: Concetti, Stime e Misure](https://atmos.difa.unibo.it/LabFA/utils/MATERIALE/STAZIONI_METEO/Libro_Georgiadis_Intro_Turbolenza.pdf)  
 [Döös, Lundberg, Campino - Basic Numerical Methods in Meteorology and Oceanography](https://doi.org/10.16993/bbs)  
 [Roed - Fundamentals of Atmospheres and Oceans on Computers](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF4510/h08/undervisningsmateriale/GEF4510.pdf)  
 [Evensen, Vossepoel, van Leeuwen - Data Assimilation Fundamentals](https://link.springer.com/book/10.1007/978-3-030-96709-3)  
@@ -346,7 +347,7 @@ Last update: February 28th, 2025.
 [Lucchetti - Convexity and Well-Posed Problems](http://www.robertolucchetti.com/public/uploads/2018/09/Lucchetti-R.-Convexity-and-Well-Posed-Problems2005328.pdf)  
 [Hazan - Introduction to Online Convex Optimization](https://arxiv.org/abs/1909.05207)  
 [Lusby, Stidsen - Mathematical Programming with Julia](https://www.man.dtu.dk/MathProgrammingWithJulia)  
-[Kwon - Julia Programming for Operation Research. 2nd Ed.](https://juliabook.chkwon.net/book/)  
+[Kwon - Julia Programming for Operation Research. 2nd Ed.](https://www.chkwon.net/julia/juliabook/juliabook2.html)    
 [Bubeck - Convex Optimization: Algorithms and Complexity](http://sbubeck.com/book.html)  
 [Absil, Mahony, Sepulchre - Optimization Algorithms on Matrix Manifolds](https://sites.uclouvain.be/absil/amsbook/)  
 [Bottou, Curtis, Nocedal - Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838)  
