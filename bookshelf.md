@@ -324,6 +324,7 @@ Last update: March 16th, 2025.
 [Peters - Elements of Causal Inference](http://web.math.ku.dk/~peters/elements.html)  
 [Sharma et al. - Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)  
 [Facure Alves - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
+[Cunningham - Causal Inference: The Mixtape](https://mixtape.scunning.com/)  
 
 ### Number Theory
 [Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
