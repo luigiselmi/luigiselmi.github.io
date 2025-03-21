@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: March 16th, 2025.  
+Last update: March 21st, 2025.  
 
 # Subject Index  
 
@@ -704,6 +704,7 @@ Last update: March 16th, 2025.
 [Hermanson, Edwards, Maher - Accounting Principles: A Business Perspective](https://open.umn.edu/opentextbooks/textbooks/383)  
 [Haslem - Mutual Funds: Risk and Performance Analysis for Decision Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637632)  
 [Schoenmaker, Schramade - Corporate Finance for Long-Term Value](https://link.springer.com/book/10.1007/978-3-031-35009-2)  
+[Siegel - Insights into the Global Financial Crisis](https://rpc.cfainstitute.org/research/foundation/2009/insights-into-the-global-financial-crisis-full-book)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
