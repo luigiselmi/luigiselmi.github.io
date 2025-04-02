@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: March 21st, 2025.  
+Last update: April 2nd, 2025.  
 
 # Subject Index  
 
@@ -95,6 +95,7 @@ Last update: March 21st, 2025.
 [LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
 
 #### Atmospheric Physics, Meteorology, and Climate  
+[World Meteorological Organization - Guide to Instruments and Methods of Observation (8 volumes)](https://library.wmo.int/records/item/41650-guide-to-instruments-and-methods-of-observation)
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
 [Stocker - Introduction to Climate Modeling](https://climatehomes.unibe.ch/~stocker/publications21.html)  
