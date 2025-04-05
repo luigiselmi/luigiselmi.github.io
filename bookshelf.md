@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: April 2nd, 2025.  
+Last update: April 5th, 2025.  
 
 # Subject Index  
 
@@ -25,6 +25,7 @@ Last update: April 2nd, 2025.
     * [Statistical Mechanics](#statistical-mechanics)  
     * [Nuclear Physics](#nuclear-physics)  
     * [Medical Physics](#medical-physics)
+* [Geology](#geology)
 * [Mathematics](#mathematics)  
     * [Foundations and Logic](#foundations-and-logic)  
     * [Algebra](#algebra)  
@@ -67,7 +68,6 @@ Last update: April 2nd, 2025.
     * [Operating Systems](#operating-systems)  
     * [Knowledge Representation, Semantic Web, and Linked Data](#knowledge-representation-semantic-web-and-linked-data)  
     * [Cryptography and Information Security](#cryptography-and-information-security)  
-* [Geology](#geology)
 * [Finance and Economics](#finance-and-economics)  
     * [Econometrics and Quantitative Finance](#econometrics-and-quantitative-finance)  
     * [Environmental, Social, and Governance](#environmental-social-and-governance)
@@ -201,6 +201,16 @@ Last update: April 2nd, 2025.
 [Podgorsak - Radiation Oncology Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/7086/radiation-oncology-physics)  
 [Bailey, Humm, Todd-Pokropek, van Aswegen - Nuclear Medicine Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/10368/nuclear-medicine-physics)  
 [Dance, Christofides, Maidment, McLean, Ng - Diagnostic Radiology Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/8841/diagnostic-radiology-physics)  
+## Geology
+   ***
+[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
+[Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
+[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
+[Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
+[Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
+[Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
+[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
+[Anderson - Theory of the Earth](https://authors.library.caltech.edu/records/aggx4-1hg90)  
 
 ## Chemistry
    ***
@@ -671,16 +681,6 @@ Last update: April 2nd, 2025.
 [Boneh et al. - A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)  
 [Menezes - Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)  
 [Kohel - Cryptography](https://www.i2m.univ-amu.fr/perso/david.kohel/pub/crypto.pdf)  
-
-## Geology
-   ***
-[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
-[Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
-[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
-[Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
-[Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
-[Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
-[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
 
 ## Finance and Economics
    ***
