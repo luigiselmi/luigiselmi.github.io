@@ -205,6 +205,7 @@ Last update: April 5th, 2025.
 
 ## Chemistry
    ***
+[Gray - Chemical Bonds: An Introduction to Atomic and Molecular Structure](https://authors.library.caltech.edu/records/9a8mg-92j96)  
 [Gubler - Electrochemistry: Fundamentals, Cells & Applications - Lecture Notes 2023](https://www.psi.ch/en/cee/elc)  
 
 ## Geology
