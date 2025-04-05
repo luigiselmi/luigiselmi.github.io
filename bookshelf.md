@@ -209,9 +209,8 @@ Last update: April 5th, 2025.
 
 ## Geology
    ***
-[Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
 [Earle - Physical Geology, 2nd Ed.](https://opentextbc.ca/physicalgeology2ed/)  
-[Luethi et al. - Physics of Glaciers](http://people.ee.ethz.ch/~luethim/teaching.html)  
+[Lüthi, Walter, Werder - Physics of Glaciers](https://people.ee.ethz.ch/~fwalter/download/pdf/pdg_1_3.pdf)  
 [Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
 [Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
 [Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
