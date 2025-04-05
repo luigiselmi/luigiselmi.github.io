@@ -215,7 +215,7 @@ Last update: April 5th, 2025.
 [Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
 [Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
 [Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
-[Anderson - Theory of the Earth](https://authors.library.caltech.edu/records/aggx4-1hg90)  
+[Anderson - New Theory of the Earth](https://authors.library.caltech.edu/records/v1ca8-zj672)  
 
 ## Mathematics
    ***
