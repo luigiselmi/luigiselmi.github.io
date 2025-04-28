@@ -649,7 +649,7 @@ Last update: April 26th, 2025.
 [Campbell, Shin - Essentials of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)  
 [Di Biase - The Nature of Geographic Information](https://www.e-education.psu.edu/natureofgeoinfo/)  
 [Longley, Goodchild, Maguire, Rhind - Geographical Information Systems: Principles, Techniques, Management and Applications, Abridged Edition](https://www.geos.ed.ac.uk/~gisteac/gis_book_abridged/)  
-[National Academies - Spatial Statistics and Digital Image Analysis](https://nap.nationalacademies.org/catalog/1783/spatial-statistics-and-digital-image-analysis)
+[National Academies - Spatial Statistics and Digital Image Analysis](https://nap.nationalacademies.org/catalog/1783/spatial-statistics-and-digital-image-analysis)  
 [Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
 [Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)    
 [Hoffimann - Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)  
