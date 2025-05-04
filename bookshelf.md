@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: April 26th, 2025.  
+Last update: May 4th, 2025.  
 
 # Subject Index  
 
@@ -718,6 +718,7 @@ Last update: April 26th, 2025.
 [Würtz, Setz, Chalabi, Lam, Ellis - Basic R for Finance](https://www.rmetrics.org/ebooks-basicr)  
 [Würtz, Setz, Chalabi, Chen, Ellis - Portfolio Optimization with R/Rmetrics](https://www.rmetrics.org/ebooks-portfolio)  
 [Stachurski, Sargent - Economic Networks - Theory and Computation](https://networks.quantecon.org/)  
+[Stachurski - Economic Dynamics: Theory and Computation, 2nd Ed.](https://johnstachurski.net/edtc)  
 [Sargent et al. - Quantitative Economics with Python](https://python.quantecon.org/intro.html)  
 [Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
 [Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
