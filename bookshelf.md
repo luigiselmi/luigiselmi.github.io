@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: May 4th, 2025.  
+Last update: May 17th, 2025.  
 
 # Subject Index  
 
@@ -191,6 +191,7 @@ Last update: May 4th, 2025.
 [Friedli, Velenik - Statistical Mechanics of Lattice Systems](https://www.unige.ch/math/folks/velenik/smbook/)  
 [Malthe-Sørenssen - Percolation Theory Using Python](https://link.springer.com/book/10.1007/978-3-031-59900-2)  
 [Gallavotti - Statistical Mechanics - Short Treatise](https://ipparco.roma1.infn.it/pagine/deposito/1998/libro.pdf)  
+[Arovas - Lecture Notes on Thermodynamics and Statistical Mechanics (A Work in Progress)](https://courses.physics.ucsd.edu/2010/Spring/physics210a/LECTURES/210_COURSE.pdf)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
@@ -330,6 +331,7 @@ Last update: May 4th, 2025.
 [Naess - Applied Extreme Value Statistics including the ACER method](https://folk.ntnu.no/arvidn/AN/BOOK_260523.pdf)  
 [Wiener - Extrapolation, Interpolation, and Smoothing of Stationary Time Series: With Engineering Applications](https://direct.mit.edu/books/oa-monograph/4361/Extrapolation-Interpolation-and-Smoothing-of)   
 [PennState University - STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)  
+[Nair, Wierman, Zwart - The Fundamentals of Heavy Tails (Draft)](https://adamwierman.com/book/)  
 
 #### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
