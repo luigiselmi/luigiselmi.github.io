@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: May 16th, 2025.  
+Last update: May 17th, 2025.  
 
 # Subject Index  
 
@@ -70,6 +70,7 @@ Last update: May 16th, 2025.
     * [Knowledge Representation, Semantic Web, and Linked Data](#knowledge-representation-semantic-web-and-linked-data)  
     * [Cryptography and Information Security](#cryptography-and-information-security)  
 * [Finance and Economics](#finance-and-economics)  
+    * [Macroeconomics](#macroeconomics)
     * [Econometrics and Quantitative Finance](#econometrics-and-quantitative-finance)  
     * [Environmental, Social, and Governance](#environmental-social-and-governance)
 * [Entrepreneurship, Project Management and Marketing](#entrepreneurship-project-management-and-marketing)  
@@ -712,6 +713,10 @@ Last update: May 16th, 2025.
 [Schoenmaker, Schramade - Corporate Finance for Long-Term Value](https://link.springer.com/book/10.1007/978-3-031-35009-2)  
 [Siegel - Insights into the Global Financial Crisis](https://rpc.cfainstitute.org/research/foundation/2009/insights-into-the-global-financial-crisis-full-book)  
 [Irwin - Clashing over Commerce: A History of US Trade Policy](https://www.nber.org/books-and-chapters/clashing-over-commerce-history-us-trade-policy)  
+
+### Macroeconomics
+[Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
+[Garin, Lester, Sims - Intermediate Macroeconomics](https://juliogarin.com/textbook/)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
