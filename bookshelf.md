@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: May 17th, 2025.  
+Last update: May 28th, 2025.  
 
 # Subject Index  
 
@@ -430,6 +430,7 @@ Last update: May 17th, 2025.
 [Severance - High Performance Computing](https://cnx.org/contents/u4IVVH92@5.2:bEZZukPR@1/Introduction-to-the-Connexions-Edition)  
 [Slotin - Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)  
 [Reinders et al. - Data Parallel C++ - Mastering DPC++ for Programming of Heterogeneous System using C++ and SYCL](https://link.springer.com/book/10.1007/978-1-4842-5574-2)  
+[Arora, Barak - Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/)
 
 ### Computer Programming
 [Abelson et al. - Structure and Interpretation of Computer Programs, JavaScript Ed.](https://sourceacademy.org/sicpjs/index)  
