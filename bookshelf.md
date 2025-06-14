@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: May 28th, 2025.  
+Last update: June 14th, 2025.  
 
 # Subject Index  
 
@@ -32,7 +32,10 @@ Last update: May 28th, 2025.
     * [Algebra](#algebra)  
     * [Calculus](#calculus)  
     * [Numerical Methods](#numerical-methods)  
-    * [Computational Geometry and Topology](#computational-geometry-and-topology)  
+    * [Geometry](#geometry)
+        * [Differential Geometry](#differential-geometry)
+        * [Topology](#topology)  
+        * [Computational Geometry](#computational-geometry)
     * [Probability and Statistics](#probability-and-statistics)  
         * [Stochastic Processes and Time Series](#stochastic-processes-and-time-series)
         * [Causal Inference](#causal-inference)  
@@ -247,12 +250,9 @@ Last update: May 28th, 2025.
 ### Calculus
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
 [Axler - Measure, Integration & Real Analysis](https://measure.axler.net/)  
-[Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/9780262019347/functional-differential-geometry/)    
-[Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
 [Dawkins - Paul's Online Math Notes](https://tutorial.math.lamar.edu/)  
 [Heinbockel - Introduction to Tensor Calculus and Continuum Mechanics](https://vtk.ugent.be/w/images/9/96/Wiskundige_ingenieurstechnieken_-_Introduction_to_Tensor_Calculus.pdf)  
 [Tao - An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)  
-[Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
 [Grady, Polimeni - Discrete Calculus: Applied Analysis on Graphs for Computational Science](http://leogrady.net/publications/)    
 [Acquistapace - Appunti di Analisi 1 e 2 e Analisi Funzionale (in Italian)](https://people.dm.unipi.it/acquistp/)  
 [Tricomi - Funzioni Analitiche (in Italian)](https://matematicaitaliana.sns.it/opere/315/)  
@@ -270,8 +270,13 @@ Last update: May 28th, 2025.
 [Novak - Numerical Methods for Scientific Computing, 2nd Ed.](https://www.equalsharepress.com/media/NMFSC.pdf)  
 [Spencer, Ware, Colton - Partial Differential Equations - Python Edition](https://physics.byu.edu/courses/computational/phys430)  
 
-### Computational Geometry and Topology
-[Goodman, O'Rourke, Tóth - Handbook of Discrete and Computational Geometry, 3rd Ed.](https://www.csun.edu/~ctoth/Handbook/HDCG3.html)  
+### Geometry
+#### Differential Geometry
+[Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/9780262019347/functional-differential-geometry/)    
+[Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
+[Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
+[Henderson - Differential Geometry: A Geometric Introduction](https://projecteuclid.org/eBooks/books-by-independent-authors/Differential-Geometry-A-Geometric-Introduction/toc/10.3792/euclid/9781429799843)  
+#### Topology
 [Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
 [Morris - Topology without tears](https://www.topologywithouttears.net/)  
 [Hatcher - Algebraic Topology](https://pi.math.cornell.edu/~hatcher/)  
@@ -279,6 +284,8 @@ Last update: May 28th, 2025.
 [Dey et al. - Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html)  
 [Edelsbrunner et al. - Computational Topology: An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf)  
 [Cipolla, Giblin - Visual Motion of Curves and Surfaces](https://mi.eng.cam.ac.uk/~cipolla/publications_books.htm#2000)  
+#### Computational Geometry
+[Goodman, O'Rourke, Tóth - Handbook of Discrete and Computational Geometry, 3rd Ed.](https://www.csun.edu/~ctoth/Handbook/HDCG3.html)  
 
 ### Probability and Statistics
 [Gelman et al. - Bayesian Data Analysis, 3rd Ed.](http://www.stat.columbia.edu/~gelman/book/)  
@@ -569,6 +576,7 @@ Last update: May 28th, 2025.
 [Plaat - Learning to Play](https://learningtoplay.net/)       
 [Plaat - Deep Reinforcement Learning](https://deep-reinforcement-learning.net/)  
 [Mehlig - Machine learning with neural networks](https://arxiv.org/abs/1901.05639)  
+[Petersen, Zech - Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
