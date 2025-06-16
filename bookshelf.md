@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: June 14th, 2025.  
+Last update: June 16th, 2025.  
 
 # Subject Index  
 
@@ -257,6 +257,7 @@ Last update: June 14th, 2025.
 [Acquistapace - Appunti di Analisi 1 e 2 e Analisi Funzionale (in Italian)](https://people.dm.unipi.it/acquistp/)  
 [Tricomi - Funzioni Analitiche (in Italian)](https://matematicaitaliana.sns.it/opere/315/)  
 [Jones - Computational Complex Analysis](https://math.rice.edu/~fjones/)
+[Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
@@ -269,12 +270,12 @@ Last update: June 14th, 2025.
 [Langtangen, Logg - Solving PDEs in Python - The FEniCS Tutorial I](https://link.springer.com/book/10.1007/978-3-319-52462-7)  
 [Novak - Numerical Methods for Scientific Computing, 2nd Ed.](https://www.equalsharepress.com/media/NMFSC.pdf)  
 [Spencer, Ware, Colton - Partial Differential Equations - Python Edition](https://physics.byu.edu/courses/computational/phys430)  
+[Sundnes - Solving Ordinary Differential Equations in Python](https://link.springer.com/book/10.1007/978-3-031-46768-4)  
 
 ### Geometry
 #### Differential Geometry
 [Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/9780262019347/functional-differential-geometry/)    
 [Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
-[Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
 [Henderson - Differential Geometry: A Geometric Introduction](https://projecteuclid.org/eBooks/books-by-independent-authors/Differential-Geometry-A-Geometric-Introduction/toc/10.3792/euclid/9781429799843)  
 #### Topology
 [Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
