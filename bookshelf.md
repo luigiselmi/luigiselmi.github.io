@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: June 16th, 2025.  
+Last update: June 19th, 2025.  
 
 # Subject Index  
 
@@ -103,7 +103,7 @@ Last update: June 16th, 2025.
 [World Meteorological Organization - Guide to Instruments and Methods of Observation (8 volumes)](https://library.wmo.int/records/item/41650-guide-to-instruments-and-methods-of-observation)
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
-[Stocker - Introduction to Climate Modeling](https://climatehomes.unibe.ch/~stocker/publications21.html)  
+[Stocker - Introduction to Climate Modelling](https://climatehomes.unibe.ch/%7Estocker/lecturenotes.html)  
 [Goosse et al. - Introduction to climate dynamics and climate modeling](http://www.climate.be/textbook/ebook.html)   
 [Rose - The Climate Laboratory](https://brian-rose.github.io/ClimateLaboratoryBook/home.html)      
 [Mann et al. - Meteo 469 - From Meteorology to Mitigation: Understanding Global Warming](https://www.e-education.psu.edu/meteo469/)  
