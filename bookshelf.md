@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: June 21st, 2025.  
+Last update: June 23rd, 2025.  
 
 # Subject Index  
 
@@ -272,6 +272,7 @@ Last update: June 21st, 2025.
 [Novak - Numerical Methods for Scientific Computing, 2nd Ed.](https://www.equalsharepress.com/media/NMFSC.pdf)  
 [Spencer, Ware, Colton - Partial Differential Equations - Python Edition](https://physics.byu.edu/courses/computational/phys430)  
 [Sundnes - Solving Ordinary Differential Equations in Python](https://link.springer.com/book/10.1007/978-3-031-46768-4)  
+[Butler - Numerical Methods and Machine Learning for Differential Equations with Applications in Python](https://john-s-butler-dit.github.io/NM_ML_DE_source/index.html#)  
 
 ### Geometry
 #### Differential Geometry
