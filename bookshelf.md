@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 9th, 2025.  
+Last update: August 15th, 2025.  
 
 # Subject Index  
 
@@ -730,6 +730,7 @@ Last update: August 9th, 2025.
 ### Macroeconomics
 [Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
 [Garin, Lester, Sims - Intermediate Macroeconomics](https://juliogarin.com/textbook/)  
+[Schumpeter - Business Cycles: A Theoretical, Historical and Statistical Analysis of the Capitalist Process](https://www.mises.at/static/literatur/Buch/schumpeter-business-cycles-a-theoretical-historical-and-statistical-analysis-of-the-capitalist-process.pdf)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
@@ -757,6 +758,7 @@ Last update: August 9th, 2025.
 [Wilcox, Kolosz, Freeman - Carbon Dioxide Removal Primer](https://cdrprimer.org/)  
 [National Academies - Negative Emissions Technologies and Reliable Sequestration](https://nap.nationalacademies.org/catalog/25259/negative-emissions-technologies-and-reliable-sequestration-a-research-agenda)  
 [Klinger - Rare Earth Frontiers](https://library.oapen.org/handle/20.500.12657/30764)  
+[Schoenmaker, Schramade - Corporate Finance for Long-Term Value](https://link.springer.com/book/10.1007/978-3-031-35009-2)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
