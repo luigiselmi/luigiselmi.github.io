@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 15th, 2025.  
+Last update: August 16th, 2025.  
 
 # Subject Index  
 
@@ -747,6 +747,7 @@ Last update: August 15th, 2025.
 [Diebold - Econometric Data Science](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
 [Heiss, Brunner - Using R, Python and Julia for Introductory Econometrics](http://upfie.net/)    
 [Chen - Essentials of Technical Analysis for Financial Markets](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119204213)  
+[Palomar - Portfolio Optimization: Theory and Application](https://portfoliooptimizationbook.com/)  
 
 ### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
