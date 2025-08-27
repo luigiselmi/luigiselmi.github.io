@@ -761,6 +761,7 @@ Last update: August 27th, 2025.
 [National Academies - Negative Emissions Technologies and Reliable Sequestration](https://nap.nationalacademies.org/catalog/25259/negative-emissions-technologies-and-reliable-sequestration-a-research-agenda)  
 [Klinger - Rare Earth Frontiers](https://library.oapen.org/handle/20.500.12657/30764)  
 [Schoenmaker, Schramade - Corporate Finance for Long-Term Value](https://link.springer.com/book/10.1007/978-3-031-35009-2)  
+[Bryant, Webber - Climate Finance: Taking a Position on Climate Futures](https://www.agendapub.com/page/detail/climate-finance/?k=9781788214629)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
