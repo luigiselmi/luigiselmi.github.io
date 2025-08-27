@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 16th, 2025.  
+Last update: August 27th, 2025.  
 
 # Subject Index  
 
@@ -731,6 +731,7 @@ Last update: August 16th, 2025.
 [Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
 [Garin, Lester, Sims - Intermediate Macroeconomics](https://juliogarin.com/textbook/)  
 [Schumpeter - Business Cycles: A Theoretical, Historical and Statistical Analysis of the Capitalist Process](https://www.mises.at/static/literatur/Buch/schumpeter-business-cycles-a-theoretical-historical-and-statistical-analysis-of-the-capitalist-process.pdf)  
+[Campante, Sturzenegger, Velasco - Advanced Macroeconomics: An Easy Guide](https://press.lse.ac.uk/books/m/10.31389/lsepress.ame)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
