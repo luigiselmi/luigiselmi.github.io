@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 27th, 2025.  
+Last update: August 28th, 2025.  
 
 # Subject Index  
 
@@ -397,6 +397,7 @@ Last update: August 27th, 2025.
 [Diestel - Graph Theory, 5th Ed.](https://diestel-graph-theory.com/basic.html)  
 [van der Hofstad - Random Graphs and Complex Networks, Volume I and II](https://www.win.tue.nl/~rhofstad/)  
 [Durrett - Dynamics on Graphs](https://services.math.duke.edu/~rtd/DoG/DoG.html)  
+[Bender, Williamson - Lists, Decisions and Graphs - With an Introduction to Probability](https://cseweb.ucsd.edu/~gill/BWLectSite/)    
 
 ### Game Theory
 [Dresher - Games of Strategy - Theory and Applications](https://www.rand.org/content/dam/rand/pubs/commercial_books/2007/RAND_CB149-1.pdf)  
