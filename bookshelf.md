@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: August 30th, 2025.  
+Last update: September 1st, 2025.  
 
 # Subject Index  
 
@@ -407,7 +407,7 @@ Last update: August 30th, 2025.
 [Osborne - Introduction to Game Theory](https://www.economics.utoronto.ca/osborne/igt/)  
 [Bonanno - Game Theory](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)  
 [Lucchetti - A Primer in Game Theory](http://www.robertolucchetti.com/public/uploads/2018/09/Esculapio18Ottobre.pdf)  
-
+[Shapley, Shubik - Game Theory in Economics](https://www.rand.org/pubs/reports/R0904z1.html)  
 
 ### Category Theory
 [Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
