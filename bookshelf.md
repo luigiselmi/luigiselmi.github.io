@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 1st, 2025.  
+Last update: September 11th, 2025.  
 
 # Subject Index  
 
@@ -444,6 +444,7 @@ Last update: September 1st, 2025.
 [Slotin - Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)  
 [Reinders et al. - Data Parallel C++ - Mastering DPC++ for Programming of Heterogeneous System using C++ and SYCL](https://link.springer.com/book/10.1007/978-1-4842-5574-2)  
 [Arora, Barak - Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/)
+[McKenney - Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)    
 
 ### Computer Programming
 [Abelson et al. - Structure and Interpretation of Computer Programs, JavaScript Ed.](https://sourceacademy.org/sicpjs/index)  
@@ -453,6 +454,7 @@ Last update: September 1st, 2025.
 
 #### C/C++
 [Banahan, Brady, Doran - The C Book](https://publications.gbdirect.co.uk/c_book/)  
+[Gustedt - Modern C](https://inria.hal.science/hal-02383654v2/)  
 
 #### R
 [Wickham - Advanced R, 2nd Ed.](https://adv-r.hadley.nz/index.html)  
@@ -672,6 +674,7 @@ Last update: September 1st, 2025.
 [Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)    
 [Hoffimann - Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)  
 [Moraga - Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/)  
+[Goovaerts - Geostatistics	for Natural Resources Evaluation](https://osf.io/swzm8)
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
