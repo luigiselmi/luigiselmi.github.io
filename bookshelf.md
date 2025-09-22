@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 11th, 2025.  
+Last update: September 22nd, 2025.  
 
 # Subject Index  
 
@@ -319,7 +319,6 @@ Last update: September 11th, 2025.
 [Stan Development Team - Stan User's Guide](https://mc-stan.org/docs/2_18/stan-users-guide/index.html)  
 [Marden - Multivariate Statistics: Old School](http://stat.istics.net/Multivariate/)  
 [United Nations - Handbook on Management and Organization of National Statistical Systems](https://unstats.un.org/capacity-development/handbook/)  
-[Gray - Probability, Random Processes, and Ergodic Properties](https://ee.stanford.edu/~gray/arp.html)  
 [Baldini, Di Lalla, Razzano, Sgro' - Introduzione all'analisi dei dati](https://bitbucket.org/lbaldini/statnotes/wiki/Home)  
 [Furrer - Introduction to Statistics: A Tour in 14 Weeks](https://user.math.uzh.ch/furrer/download/intro2stat/script_sta120.pdf)  
 [Olive - Applied Robust Statistics](http://parker.ad.siu.edu/Olive/ol-bookp.htm)  
@@ -344,6 +343,9 @@ Last update: September 11th, 2025.
 [Wiener - Extrapolation, Interpolation, and Smoothing of Stationary Time Series: With Engineering Applications](https://direct.mit.edu/books/oa-monograph/4361/Extrapolation-Interpolation-and-Smoothing-of)   
 [PennState University - STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/)  
 [Nair, Wierman, Zwart - The Fundamentals of Heavy Tails (Draft)](https://adamwierman.com/book/)  
+[Gray - Probability, Random Processes, and Ergodic Properties](https://ee.stanford.edu/~gray/arp.html)  
+[Livan, Novaes, Vivo - Introduction to Random Matrices - Theory and Practice](https://arxiv.org/abs/1712.07903)  
+[Tropp - An Introduction to Matrix Concentration Inequalities](https://arxiv.org/abs/1501.01571)  
 
 #### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
