@@ -733,6 +733,7 @@ Last update: September 22nd, 2025.
 [Schoenmaker, Schramade - Corporate Finance for Long-Term Value](https://link.springer.com/book/10.1007/978-3-031-35009-2)  
 [Siegel - Insights into the Global Financial Crisis](https://rpc.cfainstitute.org/research/foundation/2009/insights-into-the-global-financial-crisis-full-book)  
 [Irwin - Clashing over Commerce: A History of US Trade Policy](https://www.nber.org/books-and-chapters/clashing-over-commerce-history-us-trade-policy)  
+[Debreu - Theory of Value: An Axiomatic Analysis of Economic Equilibrium](https://cowles.yale.edu/sites/default/files/2022-09/m17-all.pdf)  
 
 ### Macroeconomics
 [Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
