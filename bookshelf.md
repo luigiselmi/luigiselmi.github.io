@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 22nd, 2025.  
+Last update: September 27th, 2025.  
 
 # Subject Index  
 
@@ -48,7 +48,7 @@ Last update: September 22nd, 2025.
     * [Algorithms and Data Structures](#algorithms-and-data-structures)  
     * [Distributed Systems and High Performance Computing](#distributed-systems-and-high-performance-computing)  
     * [Computer Programming](#computer-programming)  
-        * [C/C++](#c/c++)  
+        * [C/C++](#c-and-c++)  
         * [R](#r)  
         * [JavaScript](#javascript)  
         * [Haskell](#haskell)  
@@ -454,7 +454,7 @@ Last update: September 22nd, 2025.
 [Stepanov et al. - Elements of Programming](http://elementsofprogramming.com/)  
 [Papert - Mindstorm - Children, Computers, and Powerful Ideas](https://mindstorms.media.mit.edu/)  
 
-#### C/C++
+#### C and C++
 [Banahan, Brady, Doran - The C Book](https://publications.gbdirect.co.uk/c_book/)  
 [Gustedt - Modern C](https://inria.hal.science/hal-02383654v2/)  
 
@@ -757,6 +757,7 @@ Last update: September 22nd, 2025.
 [Heiss, Brunner - Using R, Python and Julia for Introductory Econometrics](http://upfie.net/)    
 [Chen - Essentials of Technical Analysis for Financial Markets](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119204213)  
 [Palomar - Portfolio Optimization: Theory and Application](https://portfoliooptimizationbook.com/)  
+[Bennett - Trading Volatility](https://www.trading-volatility.com/)  
 
 ### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
