@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: September 27th, 2025.  
+Last update: September 29th, 2025.  
 
 # Subject Index  
 
@@ -587,6 +587,7 @@ Last update: September 27th, 2025.
 [Plaat - Deep Reinforcement Learning](https://deep-reinforcement-learning.net/)  
 [Mehlig - Machine learning with neural networks](https://arxiv.org/abs/1901.05639)  
 [Petersen, Zech - Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)  
+[Xiao, Zhu - Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)  
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
