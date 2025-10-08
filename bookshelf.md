@@ -762,7 +762,8 @@ Last update: October 8th, 2025.
 [Chen - Essentials of Technical Analysis for Financial Markets](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119204213)  
 [Palomar - Portfolio Optimization: Theory and Application](https://portfoliooptimizationbook.com/)  
 [Bennett - Trading Volatility](https://www.trading-volatility.com/)  
-[Vorobets - Portfolio Construction and Risk Management](https://github.com/fortitudo-tech/pcrm-book)  
+[Vorobets - Portfolio Construction and Risk Management](https://github.com/fortitudo-tech/pcrm-book)
+[Markovitz - Portfolio Selection: Eﬀicient Diversiﬁcation of Investments](https://cowles.yale.edu/research/cfm-16-portfolio-selection-efficient-diversification-investments)   
 
 ### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
