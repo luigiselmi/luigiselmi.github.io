@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 7th, 2025.  
+Last update: October 8th, 2025.  
 
 # Subject Index  
 
@@ -388,6 +388,7 @@ Last update: October 7th, 2025.
 [Rawlings, Mayne, Diehl - Model Predictive Control: Theory, Computation, and Design, 2nd Ed.](https://sites.engineering.ucsb.edu/~jbraw/mpc/)  
 [Suh - Convex Optimization for Machine Learning](https://www.nowpublishers.com/article/BookDetails/9781638280521)  
 [Postek, Zocca, Gromicho, Kantor - Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html)  
+[Bellman, Dreyfus - Applied Dynamic Programming](https://www.rand.org/pubs/reports/R352.html)  
 
 ### Graph Theory
 [Barabasi - Network Science](http://networksciencebook.com/)  
