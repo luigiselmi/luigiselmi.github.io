@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 8th, 2025.  
+Last update: October 9th, 2025.  
 
 # Subject Index  
 
@@ -326,7 +326,8 @@ Last update: October 8th, 2025.
 [Ross - An Introduction to Bayesian Reasoning and Methods](https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/)  
 [van de Meent, Paige, Yang, Wood - An Introduction to Probabilistic Programming](https://arxiv.org/abs/1809.10756)  
 [Chacon, Duong - Multivariate Kernel Smoothing and Its Applications](https://www.mvstat.net/mvksa/)  
-[Devroye - Non-Uniform Random Variate Generation](https://luc.devroye.org/books-luc.html)
+[Devroye - Non-Uniform Random Variate Generation](https://luc.devroye.org/books-luc.html)  
+[Nair, Wierman, Zwart - The Fundamentals of Heavy Tails: Properties, Emergence, and Estimation (Draft)](https://adamwierman.com/book/)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
@@ -763,6 +764,7 @@ Last update: October 8th, 2025.
 [Palomar - Portfolio Optimization: Theory and Application](https://portfoliooptimizationbook.com/)  
 [Bennett - Trading Volatility](https://www.trading-volatility.com/)  
 [Vorobets - Portfolio Construction and Risk Management](https://github.com/fortitudo-tech/pcrm-book)  
+[Holton - Value-at-Risk: Theory and Practice, 2nd Ed.](https://www.value-at-risk.net/)  
 
 ### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
