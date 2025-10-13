@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 9th, 2025.  
+Last update: October 13th, 2025.  
 
 # Subject Index  
 
@@ -204,6 +204,7 @@ Last update: October 9th, 2025.
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.2](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v2)   
 [Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)   
 [Roberts - Nuclear Magnetic Resonance: Applications to Organic Chemistry](http://authors.library.caltech.edu/25026/1/NMR_1959.pdf)   
+[Claus, Boris - Particle Detectors, 2nd Edition](https://library.oapen.org/handle/20.500.12657/64013)  
 
 ### Medical Physics
 [Podgorsak - Radiation Oncology Physics: A Handbook for Teachers and Students](https://www.iaea.org/publications/7086/radiation-oncology-physics)  
@@ -280,6 +281,7 @@ Last update: October 9th, 2025.
 [Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/9780262019347/functional-differential-geometry/)    
 [Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
 [Henderson - Differential Geometry: A Geometric Introduction](https://projecteuclid.org/eBooks/books-by-independent-authors/Differential-Geometry-A-Geometric-Introduction/toc/10.3792/euclid/9781429799843)  
+[Pinkall, Gross - Differential Geometry: From Elastic Curves to Willmore Surfaces](https://link.springer.com/book/10.1007/978-3-031-39838-4)  
 #### Topology
 [Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
 [Morris - Topology without tears](https://www.topologywithouttears.net/)  
