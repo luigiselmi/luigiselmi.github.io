@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 13th, 2025.  
+Last update: October 16th, 2025.  
 
 # Subject Index  
 
@@ -741,6 +741,7 @@ Last update: October 13th, 2025.
 [Siegel - Insights into the Global Financial Crisis](https://rpc.cfainstitute.org/research/foundation/2009/insights-into-the-global-financial-crisis-full-book)  
 [Irwin - Clashing over Commerce: A History of US Trade Policy](https://www.nber.org/books-and-chapters/clashing-over-commerce-history-us-trade-policy)  
 [Debreu - Theory of Value: An Axiomatic Analysis of Economic Equilibrium](https://cowles.yale.edu/sites/default/files/2022-09/m17-all.pdf)  
+[Kapp - The Social Cost of Business Enterprise](https://www.kwilliam-kapp.de/documents/SCOBE_000.pdf)  
 
 ### Macroeconomics
 [Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
