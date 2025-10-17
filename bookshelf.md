@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 16th, 2025.  
+Last update: October 17th, 2025.  
 
 # Subject Index  
 
@@ -369,7 +369,7 @@ Last update: October 16th, 2025.
 [Kochenderfer et al. - Algorithms for Optimization](https://algorithmsbook.com/optimization/#)  
 [Kochenderfer et al. - Algorithms for Decision Making](https://algorithmsbook.com/)  
 [Kochenderfer et al. - Decision Making Under Uncertainty](https://mykel.kochenderfer.com/textbooks/)  
-[Fourer et al. - AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)  
+[Fourer, Gay, Kernighan - AMPL: A Modeling Language for Mathematical Programming, 2nd Edition](https://ampl.com/resources/the-ampl-book/)  
 [Sallan et al. - Modeling and solving linear programming with R](https://upcommons.upc.edu/handle/2117/78335)  
 [Liberti - Mathematical Programming](https://www.lix.polytechnique.fr/~liberti/teaching/dix/inf580-15/mathprog.pdf)  
 [Boyd et al. - Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)  
