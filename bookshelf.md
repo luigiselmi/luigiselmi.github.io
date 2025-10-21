@@ -770,6 +770,7 @@ Last update: October 21st, 2025.
 [Bennett - Trading Volatility](https://www.trading-volatility.com/)  
 [Vorobets - Portfolio Construction and Risk Management](https://github.com/fortitudo-tech/pcrm-book)  
 [Holton - Value-at-Risk: Theory and Practice, 2nd Ed.](https://www.value-at-risk.net/)  
+[Krause - An Introduction to Market Microstructure Theory](https://people.bath.ac.uk/mnsak/Microstructure.pdf)
 
 ### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
