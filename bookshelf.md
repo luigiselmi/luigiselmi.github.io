@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 17th, 2025.  
+Last update: October 21st, 2025.  
 
 # Subject Index  
 
@@ -215,6 +215,7 @@ Last update: October 17th, 2025.
    ***
 [Gray - Chemical Bonds: An Introduction to Atomic and Molecular Structure](https://authors.library.caltech.edu/records/9a8mg-92j96)  
 [Gubler - Electrochemistry: Fundamentals, Cells & Applications - Lecture Notes 2023](https://www.psi.ch/en/cee/elc)  
+[Lekkerkerker, Tuinier , Vis - Colloids and the Depletion Interaction, 2nd Edition](https://link.springer.com/book/10.1007/978-3-031-52131-7)  
 
 ## Geology
    ***
