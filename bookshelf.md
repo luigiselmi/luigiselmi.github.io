@@ -743,6 +743,7 @@ Last update: October 21st, 2025.
 [Irwin - Clashing over Commerce: A History of US Trade Policy](https://www.nber.org/books-and-chapters/clashing-over-commerce-history-us-trade-policy)  
 [Debreu - Theory of Value: An Axiomatic Analysis of Economic Equilibrium](https://cowles.yale.edu/sites/default/files/2022-09/m17-all.pdf)  
 [Kapp - The Social Cost of Business Enterprise](https://www.kwilliam-kapp.de/documents/SCOBE_000.pdf)  
+[Ozenbas , Pagano , Schwartz , Weber - Liquidity, Markets and Trading in Action: An Interdisciplinary Perspective](https://link.springer.com/book/10.1007/978-3-030-74817-3)  
 
 ### Macroeconomics
 [Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
