@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 21st, 2025.  
+Last update: October 27th, 2025.  
 
 # Subject Index  
 
@@ -359,6 +359,7 @@ Last update: October 21st, 2025.
 [Sharma et al. - Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)  
 [Facure Alves - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
 [Cunningham - Causal Inference: The Mixtape](https://mixtape.scunning.com/)  
+[Neal - Introduction to Causal Inference: from a Machine Learning Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)  
 
 ### Number Theory
 [Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
