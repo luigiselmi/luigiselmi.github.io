@@ -351,6 +351,7 @@ Last update: October 29th, 2025.
 [Gray - Probability, Random Processes, and Ergodic Properties](https://ee.stanford.edu/~gray/arp.html)  
 [Livan, Novaes, Vivo - Introduction to Random Matrices - Theory and Practice](https://arxiv.org/abs/1712.07903)  
 [Tropp - An Introduction to Matrix Concentration Inequalities](https://arxiv.org/abs/1501.01571)  
+[Knill - Probability Theory and Stochastic Processes with Applications](https://people.math.harvard.edu/~knill/books/index.html)   
 
 #### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
