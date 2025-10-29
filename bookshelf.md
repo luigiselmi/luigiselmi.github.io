@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: October 28th, 2025.  
+Last update: October 29th, 2025.  
 
 # Subject Index  
 
@@ -187,6 +187,7 @@ Last update: October 28th, 2025.
 [Shor - Lecture Notes on Quantum Computation](https://math.mit.edu/~shor/435-LN/)  
 [Styer - Invitation to Quantum Mechanics](https://www2.oberlin.edu/physics/dstyer/InvitationToQM/)  
 [Hoofnagle, Garfinkel - Law and Policy for the Quantum Age](https://doi.org/10.1017/9781108883719)  
+[Kleinert - Path Integrals in Quantum Mechanics, Statistics, Polymer Physics, and Financial Markets](https://hagenkleinert.de/documents/pi/HagenKleinert_PathIntegrals.pdf)  
 
 ### Statistical Mechanics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
