@@ -748,6 +748,7 @@ Last update: November 1st, 2025.
 [Kapp - The Social Cost of Business Enterprise](https://www.kwilliam-kapp.de/documents/SCOBE_000.pdf)  
 [Ozenbas, Pagano, Schwartz, Weber - Liquidity, Markets and Trading in Action: An Interdisciplinary Perspective](https://link.springer.com/book/10.1007/978-3-030-74817-3)  
 [Schumacher - Introduction to Financial Derivatives: modeling, pricing and hedging](https://research.tilburguniversity.edu/en/publications/introduction-to-financial-derivatives-modeling-pricing-and-hedgin/)  
+[French - Early Speculative Bubbles and Increases in the Supply of Money](https://mises.org/library/book/early-speculative-bubbles-and-increases-supply-money)  
 
 ### Macroeconomics
 [Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
