@@ -332,6 +332,7 @@ Last update: November 1st, 2025.
 [Chacon, Duong - Multivariate Kernel Smoothing and Its Applications](https://www.mvstat.net/mvksa/)  
 [Devroye - Non-Uniform Random Variate Generation](https://luc.devroye.org/books-luc.html)  
 [Nair, Wierman, Zwart - The Fundamentals of Heavy Tails: Properties, Emergence, and Estimation (Draft)](https://adamwierman.com/book/)  
+[Pascucci - Probabilità e Calcolo Statistico](https://sites.google.com/view/andrea-pascucci/home/la-dispensa)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
