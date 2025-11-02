@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 1st, 2025.  
+Last update: November 2nd, 2025.  
 
 # Subject Index  
 
@@ -599,6 +599,7 @@ Last update: November 1st, 2025.
 [Mehlig - Machine learning with neural networks](https://arxiv.org/abs/1901.05639)  
 [Petersen, Zech - Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)  
 [Xiao, Zhu - Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)  
+[Lai, Song, Kim, Mitsufuji, Ermon - The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)
 
 ### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
@@ -653,6 +654,7 @@ Last update: November 1st, 2025.
 [Nilsson - The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/)  
 [Cangelosi et al. - Cognitive Robotics](https://direct.mit.edu/books/oa-edited-volume/5331/Cognitive-Robotics)  
 [Summerfield - How to build a brain from scratch](https://humaninformationprocessing.com/teaching/)  
+[Capuano, Pascal, Zouitine, Wolf, Aractingi - Robot Learning: A Tutorial](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)  
 
 ### Databases
 [Abiteboul - Foundation of Databases](http://webdam.inria.fr/Alice/)  
@@ -778,6 +780,7 @@ Last update: November 1st, 2025.
 [Holton - Value-at-Risk: Theory and Practice, 2nd Ed.](https://www.value-at-risk.net/)  
 [Krause - An Introduction to Market Microstructure Theory](https://people.bath.ac.uk/mnsak/Microstructure.pdf)  
 [Favero - Applied Macroeconometrics](https://www.researchgate.net/publication/23775352_APPLIED_MACROECONOMETRICS_Carlo_A_Favero_Oxford_University_Press_2001)  
+[Lucchetti - Basic Econometrics](https://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf)  
 
 ### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
