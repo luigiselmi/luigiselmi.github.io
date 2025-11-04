@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 3rd, 2025.  
+Last update: November 4th, 2025.  
 
 # Subject Index  
 
@@ -260,8 +260,7 @@ Last update: November 3rd, 2025.
 [Grady, Polimeni - Discrete Calculus: Applied Analysis on Graphs for Computational Science](http://leogrady.net/publications/)    
 [Acquistapace - Appunti di Analisi 1 e 2 e Analisi Funzionale (in Italian)](https://people.dm.unipi.it/acquistp/)  
 [Tricomi - Funzioni Analitiche (in Italian)](https://matematicaitaliana.sns.it/opere/315/)  
-[Jones - Computational Complex Analysis](https://math.rice.edu/~fjones/)
-[Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
+[Jones - Computational Complex Analysis](https://math.rice.edu/~fjones/)  
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
@@ -353,6 +352,8 @@ Last update: November 3rd, 2025.
 [Livan, Novaes, Vivo - Introduction to Random Matrices - Theory and Practice](https://arxiv.org/abs/1712.07903)  
 [Tropp - An Introduction to Matrix Concentration Inequalities](https://arxiv.org/abs/1501.01571)  
 [Knill - Probability Theory and Stochastic Processes with Applications](https://people.math.harvard.edu/~knill/books/index.html)   
+[Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
+
 
 #### Causal Inference
 [Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
