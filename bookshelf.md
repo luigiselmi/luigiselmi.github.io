@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 4th, 2025.  
+Last update: November 6th, 2025.  
 
 # Subject Index  
 
@@ -754,6 +754,7 @@ Last update: November 4th, 2025.
 [Schumacher - Introduction to Financial Derivatives: modeling, pricing and hedging](https://research.tilburguniversity.edu/en/publications/introduction-to-financial-derivatives-modeling-pricing-and-hedgin/)  
 [French - Early Speculative Bubbles and Increases in the Supply of Money](https://mises.org/library/book/early-speculative-bubbles-and-increases-supply-money)  
 [Whaley - Derivatives: Markets, Valuation, Risk Management](https://www.whaley.info/copy-of-books)  
+[MacKay - Memoirs of Extraordinary Popular Delusions and the Madness of Crowds](https://ia600405.us.archive.org/28/items/memoirsofextraor01mack/memoirsofextraor01mack.pdf)   
 
 ### Macroeconomics
 [Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
