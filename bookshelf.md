@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 6th, 2025.  
+Last update: November 7th, 2025.  
 
 # Subject Index  
 
@@ -784,6 +784,7 @@ Last update: November 6th, 2025.
 [Krause - An Introduction to Market Microstructure Theory](https://people.bath.ac.uk/mnsak/Microstructure.pdf)  
 [Favero - Applied Macroeconometrics](https://www.researchgate.net/publication/23775352_APPLIED_MACROECONOMETRICS_Carlo_A_Favero_Oxford_University_Press_2001)  
 [Lucchetti - Basic Econometrics](https://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf)  
+[Moreira - Quantitative Investing](https://amoreira2.github.io/quantitativeinvesting/chapters/intro.html)  
 
 ### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
