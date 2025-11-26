@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 7th, 2025.  
+Last update: November 26th, 2025.  
 
 # Subject Index  
 
@@ -332,6 +332,7 @@ Last update: November 7th, 2025.
 [Devroye - Non-Uniform Random Variate Generation](https://luc.devroye.org/books-luc.html)  
 [Nair, Wierman, Zwart - The Fundamentals of Heavy Tails: Properties, Emergence, and Estimation (Draft)](https://adamwierman.com/book/)  
 [Pascucci - Probabilità e Calcolo Statistico](https://sites.google.com/view/andrea-pascucci/home/la-dispensa)  
+[Downey - Think Bayes, 2nd Ed.](https://greenteapress.com/wp/think-bayes/)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
