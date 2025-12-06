@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: November 26th, 2025.  
+Last update: December 6th, 2025.  
 
 # Subject Index  
 
@@ -291,6 +291,8 @@ Last update: November 26th, 2025.
 [Dey et al. - Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html)  
 [Edelsbrunner et al. - Computational Topology: An Introduction](https://www.maths.ed.ac.uk/~v1ranick/papers/edelcomp.pdf)  
 [Cipolla, Giblin - Visual Motion of Curves and Surfaces](https://mi.eng.cam.ac.uk/~cipolla/publications_books.htm#2000)  
+[Boissonnat, Chazal, Yvinec - Geometric and Topological Inference](https://inria.hal.science/hal-01615863/)  
+
 #### Computational Geometry
 [Goodman, O'Rourke, Tóth - Handbook of Discrete and Computational Geometry, 3rd Ed.](https://www.csun.edu/~ctoth/Handbook/HDCG3.html)  
 
@@ -799,6 +801,8 @@ Last update: November 26th, 2025.
 [Klinger - Rare Earth Frontiers](https://library.oapen.org/handle/20.500.12657/30764)  
 [Schoenmaker, Schramade - Corporate Finance for Long-Term Value](https://link.springer.com/book/10.1007/978-3-031-35009-2)  
 [Bryant, Webber - Climate Finance: Taking a Position on Climate Futures](https://www.agendapub.com/page/detail/climate-finance/?k=9781788214629)  
+[Grubb, Hourcade, Neuhoff - Planetary Economics: Energy, climate change and the three
+domains of sustainable development](https://climatestrategies.org/publication/planetary-economics/)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
