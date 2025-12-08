@@ -3,9 +3,10 @@ layout: page
 title: About
 permalink: /about
 ---
-<img style="float: right; padding-left: 1.5em; padding-bottom: 1.0em;" src="assets/luigi_che_small.jpg">
+<img src="{{site.baseurl}}/assets/luigi_che_small.jpg" style="float: right; padding-left: 1.5em; padding-bottom: 1.0em;">
 
 ### Short Bio
+
 Physicist and scientific software developer interested in artificial intelligence applied to geoscience and remote sensing.
 
 ### Long Bio
