@@ -5,7 +5,7 @@ categories: self-publishing, GitHub, Jekyll
 permalink: /how_to_build_your_jekyll_website.html
 ---
 ## Why bother ?
-There are many good reasons to have your own website(s) online. For example to communicate with friends, let your enemies know you are alive and kicking, write about your last trip. Nowadays a website is not just for fun it's somewhat similar to a bank account, or better a reputation account. If you write something interesting and useful it might represent your best investment of time: low risks and high ~~returns~~ visibility. A website or a blog is like a (human) Capital Accumulation Plan.
+There are many good reasons to have your own website(s) online. For example to communicate with friends, let your enemies know you are alive and kicking, write about your last trip. Nowadays a website is not just for fun it's somewhat similar to a bank account, or better a reputation account. If you write something interesting and useful it might represent your best investment of time: low risks and high ~~returns~~ visibility. A website or a blog is like a (human) Capital Accumulation Plan. It is a fundamental piece of your business infrastructure, whatever your business is.
 
 ## Options to create and publish a website
 You can easily build and publish a website with [WordPress](https://wordpress.com/), [Google Sites](https://sites.google.com/) or [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html), this last one with some more technical skill. My opinion is that [GitHub Pages](https://docs.github.com/en/pages) is better suited for scientists and software developers who know what a version control system is, in particular [git](https://git-scm.com/), and are comfortable using a command line interface.
@@ -104,22 +104,22 @@ $ bundle exec jekyll serve -P 4001
 If you open your web browser pointing to http://localhost:4000 you should see something similar to [this](https://jekyll.github.io/minima/).
 
 ## Themes
-A theme is a collection of templates and stylesheets that control the look and layout of a website. There are several themes available that can be used with GitHub Pages. Each theme is based on one or more Ruby gems. Jekyll uses Sass to build CSS stylesheets. We will see two of the most used Minima and Minimal Mistakes
+A theme is a collection of templates and stylesheets that control the look and layout of a website. There are several themes for Jekyll that can be used with GitHub Pages. Each theme is based on one or more Ruby gems. Jekyll uses Sass to build CSS stylesheets. We will see two of the most used Minima and Minimal Mistakes
 
 ### Minima
 This theme is supported by GitHub Pages and is very simple to configure and manage. It is the default theme of the web site you have just created with Jekyll.
 
-### The structure of a Jekyll website
-A Jekyll-based site has a defined structure and must contains some mandatory files and folders. This is the *theoretical minimum*:
+#### The structure of a Jekyll website
+A Jekyll-based site has a defined structure and must contains some mandatory files and folders. This is the structure of the website you have just created with Jenkins:
 
 * _posts/
 * _site/
 * _config.yml
 * Gemfile
-* index.md
+* index.md  
 
 #### The configuration file
-**_config.yml** is the only configuration file and, depending on the chosen theme, contains information such as the title of the website, a short description, its base URL, the theme, and the plugins, aka Ruby gems, used to build the website.
+**_config.yml** is the only configuration file and, depending on the chosen theme, contains information such as the title of the website, a short description, its base URL, the theme, and the plugins, aka Ruby gems used to build the website.
 
 #### The plugins file
 **Gemfile** contains a list of Ruby plugins, called gems, to be installed and run in order to build the website. The main gems are *jekyll* that implements the commands to be used to start a local web server for our web site, and *minima* that implements the default theme.  The Gemfile contains the list of Ruby packages, called gems, used to build the site, with Jekyll being the default.
@@ -135,7 +135,7 @@ permalink: /about/
 ---
 ```
 
-#### The _posts folder
+#### The _posts/ folder
 A Jekyll website usually contains blog posts and the **_posts** folder is there exactly for that purpose. The name of a post file starts with a date in the form YYYY-MM-DD-. So if you want to write your opinion about Jekyll you may create a file in the _posts/ folder naming it, e.g. *2025-12-11-welcome_to_jekyll.md*. The head of the file must contain some details like in the following example
 
 ```
