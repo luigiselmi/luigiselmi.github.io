@@ -111,7 +111,7 @@ A theme is a collection of templates and stylesheets that control the look and l
 ### Minima
 This theme is supported by GitHub Pages and is very simple to configure and manage. It is the default theme of the web site you have just created with Jekyll.
 
-#### The structure of a Jekyll website
+### The structure of a Jekyll website
 A Jekyll-based site must contains some mandatory files and folders. The two main types of resources are pages and posts. Posts are kept in a separate folder while pages can be found in the repository root folder. The structure of a Jekyll website depends on the theme. This is the structure of the website based on the *minima* theme, version 2.5 or newer, that you have just created with Jenkins:
 
 * _posts/
@@ -134,7 +134,7 @@ A Jekyll-based site must contains some mandatory files and folders. The two main
 A Jekyll website usually contains blog posts and the **_posts** folder is there exactly for that purpose. The name of a post file starts with a date in the form YYYY-MM-DD-.
 
 #### The _site/ folder
-This folder contains the HTML and CSS files created by Jekyll from the original markdown files. It is created locally from scratch every time you start the Jekyll's local web server so there is no need to edit or change anything in this folder. You do not need to push this folder to your GitHub repository. The GitHub Pages workflow will use Jekyll to create the HTML and CSS files for your website exactly in the same way you do it locally.
+This folder contains the HTML and CSS files created by Jekyll from the original markdown files. It is created locally from scratch every time you start the Jekyll's local web server so there is no need to edit or change anything in this folder. You do not need to push this folder to your GitHub repository. The GitHub Pages workflow will use Jekyll to create the HTML and CSS files for your website exactly in the same way you do it locally with your Jekyll gem.
 
 ### Configuring your website
 The first thing you may want to change is the name shown on the upper left-hand of the website landing page. You only need to open the *_config.yml* file and update the title, e.g. to *Mr. Edward Hyde*.
@@ -195,3 +195,6 @@ git push -u origin main
 ```
 
 Now you should be able to see your website on GitHub with the same pages and posts that you see locally using the URL *[https://mrhyde.github.io](https://mrhyde.github.io)*.
+
+## Conclusion
+There is a lot of information out there about how to build a website with Jekyll and GitHub pages, maybe too much with a lot of details that might be confusing. In this post I wrote a recipe with the ingredients that you have to ~~buy~~ install and what is their role in achieving the result. I hope it will also be useful to someone else. In one of the next post I will write about using other Jekyll themes, e.g. [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
