@@ -49,7 +49,7 @@ $ gem -v
 ```
 
 ### Bundler
-[Bundler](https://bundler.io/) is a software packages management system for Ruby. It is used to install, update, and execute Ruby packages, aka gems. It can be used instead of gem, the default system. It is itself a Ruby package and can be installed using the command
+[Bundler](https://bundler.io/) is a software packages management system for Ruby. It is used to install, update, and execute Ruby packages, aka gems. If a Ruby gem is not already installed in your local environment Bundler will download it from [RubyGems](https://rubygems.org/) and install in your local environment. Bundler can be used instead of gem, the default system. It is itself a Ruby package and can be installed using the command
 
 ```
 $ gem install bundler
@@ -63,7 +63,7 @@ $ bundle -v
 4.0.1
 ```
 ### Jekyll
-Jekyll is a Ruby gem that contains a web server that can be used to test your website during its development. It can be installed using the default Ruby gems management system
+Jekyll is a Ruby gem that contains a web server that you can use to create and test your website during its development. It can be installed using the default Ruby gems management system
 
 ```
 $ gem install jekyll
@@ -76,16 +76,18 @@ $ jekyll -v
 jekyll 4.4.1
 
 ```
+For more commands available with Jekyll see also [here](https://jekyllrb.com/docs/usage/)
+
 ## The text editor
 You don't need a full fledged Integrated Development Environment such as Visual Studio Code to write your markdown files but a text editor with some features like syntax highlighting can help. I still use [Atom](https://atom-editor.cc/), originally developed for Git users and now replaced by VS Code. Any bash terminal provides *nano* that is also available in Git Bash for Windows.
 
 ## Let's get started
-We are now ready to build a first version of our website. We only have to open a terminal, Git Bash for MS Windows, and run Jekyll with the name of your website repository, e.g.:
+We are now ready to build the scaffold for a first version of our website. We only have to open a terminal, e.g. Git Bash for MS Windows, and run Jekyll with the name of your website repository. Let's say your user name on GitHub is *mrhyde*, the command to create your local repository is  
 
 ```
 $ jekyll new mrhyde.github.io
 ```
-You will replace the *mrhyde* part with your user name on GitHub. It can also be the name of an organization that you have created on GitHub. The default theme is *minima*. You have just created a directory mrhyde.github.io. If you move inside it
+If you are not Mr. Hyde you will replace the *mrhyde* part with your user name on GitHub. It can also be the name of an organization that you have created on GitHub. The default theme is *minima*. You have just created a directory mrhyde.github.io. If you move inside it
 
  ```
  $ cd mrhyde.github.io
@@ -104,53 +106,92 @@ $ bundle exec jekyll serve -P 4001
 If you open your web browser pointing to http://localhost:4000 you should see something similar to [this](https://jekyll.github.io/minima/).
 
 ## Themes
-A theme is a collection of templates and stylesheets that control the look and layout of a website. There are several themes for Jekyll that can be used with GitHub Pages. Each theme is based on one or more Ruby gems. Jekyll uses Sass to build CSS stylesheets. We will see two of the most used Minima and Minimal Mistakes
+A theme is a collection of templates and stylesheets that control the look and layout of a website. There are several themes for Jekyll available online that can be used with GitHub Pages. Each theme is based on one or more Ruby gems. In this post we will only look at the default one, *minima*.
 
 ### Minima
 This theme is supported by GitHub Pages and is very simple to configure and manage. It is the default theme of the web site you have just created with Jekyll.
 
 #### The structure of a Jekyll website
-A Jekyll-based site has a defined structure and must contains some mandatory files and folders. This is the structure of the website you have just created with Jenkins:
+A Jekyll-based site must contains some mandatory files and folders. The two main types of resources are pages and posts. Posts are kept in a separate folder while pages can be found in the repository root folder. The structure of a Jekyll website depends on the theme. This is the structure of the website based on the *minima* theme, version 2.5 or newer, that you have just created with Jenkins:
 
 * _posts/
 * _site/
 * _config.yml
 * Gemfile
 * index.md  
+* about.md
 
 #### The configuration file
-**_config.yml** is the only configuration file and, depending on the chosen theme, contains information such as the title of the website, a short description, its base URL, the theme, and the plugins, aka Ruby gems used to build the website.
+**_config.yml** is the only configuration file and, depending on the chosen theme, contains information such as the title of the website, a short description, its base URL, the theme, and the plugins, aka Ruby gems used to build the website with that theme.
 
 #### The plugins file
-**Gemfile** contains a list of Ruby plugins, called gems, to be installed and run in order to build the website. The main gems are *jekyll* that implements the commands to be used to start a local web server for our web site, and *minima* that implements the default theme.  The Gemfile contains the list of Ruby packages, called gems, used to build the site, with Jekyll being the default.
+**Gemfile** contains a list of Ruby plugins, called gems, to be installed and run in order to build the website. The main gems are *jekyll* that implements the commands to be used to start a local web server for our web site, and *minima* that implements the default theme.
 
 #### The index page
-**index.md** is the landing page of your website. Written in simple markdown, is the page visitors will see when they follow the URL of your GitHub repository. You can add other pages, such as an about page to inform visitors what the site is about, by adding a markdown file in the root folder. For example you can create the *about.md* file adding the following details at the beginning
+**index.md** is the landing page of your website. Written in simple markdown, is the page visitors will see when they follow the URL of your GitHub repository. You can add other pages, such as the default *About* page, by adding a markdown file in the root folder.
+
+#### The _posts/ folder
+A Jekyll website usually contains blog posts and the **_posts** folder is there exactly for that purpose. The name of a post file starts with a date in the form YYYY-MM-DD-.
+
+#### The _site/ folder
+This folder contains the HTML and CSS files created by Jekyll from the original markdown files. It is created locally from scratch every time you start the Jekyll's local web server so there is no need to edit or change anything in this folder. You do not need to push this folder to your GitHub repository. The GitHub Pages workflow will use Jekyll to create the HTML and CSS files for your website exactly in the same way you do it locally.
+
+### Configuring your website
+The first thing you may want to change is the name shown on the upper left-hand of the website landing page. You only need to open the *_config.yml* file and update the title, e.g. to *Mr. Edward Hyde*.
+
+```
+title: Mr. Edward Hyde
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+```
+In order to see a change made in the configuration file to take effect you have to restart Jekyll.
+
+### Adding a page
+Adding a page to the *minima* scaffold is just about creating a new markdown file in the root folder. For example it can be your resume, e.g. resume.md, with a content like this
 
 ```
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 ---
+I am a part-time medical doctor based in Soho, in London's West End, United Kingdom.
 ```
+You don't have to restart Jekyll to see the effect when you create or change a page or a post. You should see the link to the new *Resume* page on the website menu, next to the default *About* page.
 
-#### The _posts/ folder
-A Jekyll website usually contains blog posts and the **_posts** folder is there exactly for that purpose. The name of a post file starts with a date in the form YYYY-MM-DD-. So if you want to write your opinion about Jekyll you may create a file in the _posts/ folder naming it, e.g. *2025-12-11-welcome_to_jekyll.md*. The head of the file must contain some details like in the following example
+### Writing a post
+As said before the file name for a post must begin with a date otherwise it will not be shown. Let's say you are Mr. Hyde and want to write your opinion about Dr. Jekyll and publish your post on December 25th 2025. You create a markdown file, e.g. *2025-12-15-dr.-jekyll.md*. The - sign is used as a space. Then you add the following content and save the file.
 
 ```
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-12-11
+title:  "The evil Dr. Jekyll!"
+date:   2025-12-15
 categories: jekyll website blogs
 ---
+I really can’t stand Dr. Jekyll.
 ```
-#### The _site/ folder
-This folder contains the HTML and CSS files created by Jekyll from the original markdown files. It is created locally from scratch every time you start the Jekyll's local web server so there is no need to edit or change anything in this folder. You do not need to push this folder to your GitHub repository. The GitHub Pages workflow will use Jekyll to create the HTML and CSS files for your website exactly in the same way you do it locally.
+If you refresh your local website you should see a new post added to the list shown in the landing page.
+
+### Pushing your website to GitHub
+Once you are done with your local website you need to create a repository in you GitHub account. As said before the name of the repository must begin with your user name. For instance let's say your user name is *mrhyde*. In your GitHub account you click on the "New" button to open a page to create a new repository. You write *mrhyde.github.io* as the repository name and click on the "Create repository" button. At this point the repository is created and you can push your local website with a few git commands.
 
 ```
-$ jekyll new my-awesome-site
+git remote add origin git@github.com:mrhyde/mrhyde.github.io.git
+git branch -M main
+git push -u origin main
 ```
 
-### Minimal Mistake
+Now you should be able to see your website on GitHub with the same pages and posts that you see locally using the URL *[https://mrhyde.github.io](https://mrhyde.github.io)*.
