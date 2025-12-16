@@ -4,6 +4,7 @@ title:  "How to build your static website with Jekyll and GitHub Pages"
 categories: self-publishing, GitHub, Jekyll
 permalink: /how_to_build_your_jekyll_website.html
 ---
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Dr_Jekyll_and_Mr_Hyde_poster.png" alt="Dr. Jekyll and Mr. Hyde"/>
 ## Why bother ?
 There are many good reasons to have your own website(s) online. For example to communicate with friends, let your enemies know you are alive and kicking, write about your last trip. Nowadays a website is not just for fun it's somewhat similar to a bank account, or better a reputation account. If you write something interesting and useful it might represent your best investment of time: low risks and high ~~returns~~ visibility. A website or a blog is like a (human) Capital Accumulation Plan. It is a fundamental piece of your business infrastructure, whatever your business is.
 
