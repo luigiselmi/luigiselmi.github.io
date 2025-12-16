@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 6th, 2025.  
+Last update: December 16th, 2025.  
 
 # Subject Index  
 
@@ -425,6 +425,8 @@ Last update: December 6th, 2025.
 [Bonanno - Game Theory](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)  
 [Lucchetti - A Primer in Game Theory](http://www.robertolucchetti.com/public/uploads/2018/09/Esculapio18Ottobre.pdf)  
 [Shapley, Shubik - Game Theory in Economics](https://www.rand.org/pubs/reports/R0904z1.html)  
+[Shoham, Leyton-Brown - Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations](https://masfoundations.org/)  
+[Epstein, Axtell - Growing Artificial Societies: Social Science from the Bottom Up](https://complexityexplorer.s3.amazonaws.com/Mesa+ABM/epstein_axtell.pdf)  
 
 ### Category Theory
 [Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
