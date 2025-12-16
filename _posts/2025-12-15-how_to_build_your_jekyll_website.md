@@ -27,7 +27,7 @@ In order to get started you have to have installed the following software
 Here I write a short description of the tools. For more details and information on how to install them follow the instructions on the tool's website.
 
 ### Git
-Git is a version control system that allows a team of people to share and work on documents in a consistent way. It is a fundamental tool for software developers. Git implements a workflow. You start by creating or editing one or more documents, then you use your local git client to add them to a list of documents that you want to commit in order to be shared and finally you push the commit to the server. Once a document is in the remote repository other people can clone or fork your documents, make changes and push the modified version, if they have the rights to do so. The [Git website](https://git-scm.com/install/) provides information to install a Git client in any *NIX environments equipped with terminals such as bash by default. The [MS Windows version](https://gitforwindows.org/) comes with Git Bash, a bash terminal emulator for Windows. Once you are done installing Git you should be able to see its version by running the following command from the terminal, in this example from Git Bash for MS Windows.
+Git is a version control system, based on a client-server architecture, that allows a team of people to share and work on documents in a consistent way. It is a fundamental tool for software developers. Git implements a workflow. You start by creating or editing one or more documents, then you use your local git client to add them to a list of documents that you want to commit in order to be shared and finally you push the commit to the server. Once a document is in the remote repository other people can clone or fork your documents, make changes and push the modified version, if they have been granted the rights to do so. The [Git website](https://git-scm.com/install/) provides information to install a Git client in any *NIX environments equipped with terminals such as bash by default. The [MS Windows version](https://gitforwindows.org/) comes with Git Bash, a bash terminal emulator for Windows. Once you are done installing Git you should be able to see its version by running the following command from the terminal, in this example from Git Bash for MS Windows.
 
 ```
 $ git -v
@@ -171,6 +171,16 @@ I am a part-time medical doctor based in Soho, in London's West End, United King
 ```
 You don't have to restart Jekyll to see the effect when you create or change a page or a post. You should see the link to the new *Resume* page on the website menu, next to the default *About* page.
 
+### Adding a picture
+You may want to add a picture to a page or post, for example in your website landing page, e.g. *mrhyde.jpg*. You have just to create an **assets/** folder, put the image there, and add a link to it in the *index.md* file.
+
+```
+---
+layout: home
+---
+<img src="assets/mrhyde.jpg" alt="Mr. Hyde">
+```
+
 ### Writing a post
 As said before the file name for a post must begin with a date otherwise it will not be shown. Let's say you are Mr. Hyde and want to write your opinion about Dr. Jekyll and publish your post on December 25th 2025. You create a markdown file, e.g. *2025-12-15-dr.-jekyll.md*. The - sign is used as a space. Then you add the following content and save the file.
 
@@ -183,7 +193,12 @@ categories: jekyll website blogs
 ---
 I really can’t stand Dr. Jekyll.
 ```
-If you refresh your local website you should see a new post added to the list shown in the landing page.
+If you refresh your local website you should see a new post added to the list shown in the landing page. If you are not sure about when you will publish your post and just want to get started with a first draft you may create a **_drafts** folder and create your draft file there. In this case there is no need to put a date at the beginning of the file name. If you want to see your draft when you run Jekyll you have to start it using the *--drafts* option
+
+```
+$ bundle exec jekyll serve --drafts
+```
+
 
 ### Pushing your website to GitHub
 Once you are done with your local website you need to create a repository in you GitHub account. As said before the name of the repository must begin with your user name. For instance let's say your user name is *mrhyde*. In your GitHub account you click on the "New" button to open a page to create a new repository. You write *mrhyde.github.io* as the repository name and click on the "Create repository" button. At this point the repository is created and you can push your local website with a few git commands.
