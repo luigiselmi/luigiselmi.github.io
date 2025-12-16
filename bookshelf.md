@@ -599,7 +599,7 @@ Last update: December 16th, 2025.
 [Kidger - On Neural Differential Equations](https://arxiv.org/abs/2202.02435)  
 [Maclaurin - Autograd - automatic differentiation with Python](https://dougalmaclaurin.com/projects.html)  
 [Kingma, Welling - An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)  
-[Lambert - A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)  
+[Lambert - Reinforcement Learning from Human Feedback](https://rlhfbook.com/)  
 [Plaat - Learning to Play](https://learningtoplay.net/)       
 [Plaat - Deep Reinforcement Learning](https://deep-reinforcement-learning.net/)  
 [Mehlig - Machine learning with neural networks](https://arxiv.org/abs/1901.05639)  
