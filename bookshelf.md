@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 16th, 2025.  
+Last update: December 17th, 2025.  
 
 # Subject Index  
 
@@ -22,7 +22,7 @@ Last update: December 16th, 2025.
         * [Seismology](#seismology)  
     * [Mathematical and Computational Physics](#mathematical-and-computational-physics)  
     * [Quantum Mechanics and Computing](#quantum-mechanics-and-computing)  
-    * [Statistical Mechanics](#statistical-mechanics)  
+    * [Thermodynamics and Statistical Physics](#thermodynamics-and-statistical-physics)  
     * [Nuclear Physics](#nuclear-physics)  
     * [Medical Physics](#medical-physics)
 * [Chemistry](#chemistry)
@@ -189,7 +189,7 @@ Last update: December 16th, 2025.
 [Hoofnagle, Garfinkel - Law and Policy for the Quantum Age](https://doi.org/10.1017/9781108883719)  
 [Kleinert - Path Integrals in Quantum Mechanics, Statistics, Polymer Physics, and Financial Markets](https://hagenkleinert.de/documents/pi/HagenKleinert_PathIntegrals.pdf)  
 
-### Statistical Mechanics
+### Thermodynamics and Statistical Physics
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
 [Goodstein - States of Matter](http://xn--webducation-dbb.com/book-states-of-matter-by-david-l-goodstein-pdf/)  
 [Tong - Lectures on Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys.html)  
@@ -198,6 +198,7 @@ Last update: December 16th, 2025.
 [Malthe-Sørenssen - Percolation Theory Using Python](https://link.springer.com/book/10.1007/978-3-031-59900-2)  
 [Gallavotti - Statistical Mechanics - Short Treatise](https://ipparco.roma1.infn.it/pagine/deposito/1998/libro.pdf)  
 [Arovas - Lecture Notes on Thermodynamics and Statistical Mechanics (A Work in Progress)](https://courses.physics.ucsd.edu/2010/Spring/physics210a/LECTURES/210_COURSE.pdf)  
+[Nishimori, Ortiz - Elements of Phase Transitions and Critical Phenomena](https://library.oapen.org/handle/20.500.12657/76440)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
