@@ -12,9 +12,9 @@ In a [previous post](https://www.luigiselmi.eu/how_to_build_your_jekyll_website.
 We assume we have all the required software as described in the previous post. We will create a website for pets' lovers starting from a Jekyll scaffold. Since we want our website to be hosted on a GitHub repository we follow its naming rule. We open a bash terminal (Git Bash for MS Windows) and run the command
 
 ```
-$ jekyll new petslovers.github.io
+$ jekyll new pets-lovers.github.io
 ```
-You should see a new directory *petslovers.github.io* with the standard Jekyll files: *_config.yml*, *Gemfile*, two pages *index.markdown* and *about.markdown* in the repository root folder, and a *_post/* folder with one post.  
+You should see a new directory *pets-lovers.github.io* with the standard Jekyll files: *_config.yml*, *Gemfile*, two pages *index.markdown* and *about.markdown* in the repository root folder, and a *_post/* folder with one post.  
 
 ![PetLovers folder](/assets/petslovers/petslovers_folder.jpg)
 
@@ -237,31 +237,31 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/petlover"
+      url: "https://x.com/pets-lover"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/petlover"
+      url: "https://github.com/pets-lover"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/petlover"
+      url: "https://www.linkedin.com/in/pets-lover"
 ```
 Now we can restart our Jekyll server to use the updated configuration file. If everything is in the right place you should see your landing page similar to this
 
 ![Landing page](/assets/petslovers/final_landing_page.jpg)  
 
 ## Pushing your website to GitHub
-Once you are done with your local website you need to create a repository in you GitHub account. The name of the repository on GitHub must begin with your user or organization name, in this example **petslovers.github.io**. In your GitHub account you click on the “New” button to open a page to create a new repository. You write petslovers.github.io as the repository name and click on the “Create repository” button. At this point the repository is created and you can push your local website with a few git commands (changing the user name).
+Once you are done with your local website you need to create a repository in you GitHub account. The name of the repository on GitHub must begin with your user or organization name, in this example **pets-lovers.github.io**. In your GitHub account you click on the “New” button to open a page to create a new repository. You write petslovers.github.io as the repository name and click on the “Create repository” button. At this point the repository is created and you can push your local website with a few git commands (changing the user name).
 
 ```
-echo "# petslovers.github.io" >> README.md
+echo "# pets-lovers.github.io" >> README.md
 git init
-git add README.md
+git add --all
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:petslover/petslovers.github.io.git
-git push -u origin main```
+git remote add origin git@github.com:pets-lover/pets-lovers.github.io.git
+git push -u origin main
 ```
-
+The website is immediately online at the URL [https://pets-lovers.github.io/](https://pets-lovers.github.io/)
 ## Conclusion
 We have built a scaffold for our new PetsLovers website based on the *Minimal Mistakes* theme. We can add more pages, images, posts, and other elements by using more layouts or developing some new ones from scratch as described in the [theme website](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). The markup code and the images used to create the PetsLovers website for this post is available on [my website](https://github.com/luigiselmi/petslovers.github.io.git). Just clone the repository
 
