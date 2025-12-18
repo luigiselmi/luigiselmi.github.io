@@ -263,9 +263,9 @@ git push -u origin main
 ```
 The website is immediately online at the URL [https://pets-lovers.github.io/](https://pets-lovers.github.io/)
 ## Conclusion
-We have built a scaffold for our new PetsLovers website based on the *Minimal Mistakes* theme. We can add more pages, images, posts, and other elements by using more layouts or developing some new ones from scratch as described in the [theme website](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). The markup code and the images used to create the PetsLovers website for this post is available on [my website](https://github.com/luigiselmi/petslovers.github.io.git). Just clone the repository
+We have built a scaffold for our new PetsLovers website based on the *Minimal Mistakes* theme. We can add more pages, images, posts, and other elements by using more layouts or developing some new ones from scratch as described in the [theme website](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). The markup code and the images used to create the PetsLovers website for this post is available on [Pets-Lovers repository](https://github.com/pets-lovers/pets-lovers.github.io). Just clone the repository
 
 ```
-$ git clone https://github.com/luigiselmi/petslovers.github.io.git
+$ git clone https://github.com/pets-lovers/pets-lovers.github.io.git
 ```
 and start your Jekyll server. Have fun!
