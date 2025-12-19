@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 17th, 2025.  
+Last update: December 19th, 2025.  
 
 # Subject Index  
 
@@ -722,7 +722,7 @@ Last update: December 17th, 2025.
 [Hogan et al. - Knowledge Graphs](https://kgbook.org/)
 
 ### Cryptography and Information Security
-[Anderson - Security Engineering, 2nd Ed.](https://www.cl.cam.ac.uk/~rja14/book.html)  
+[Anderson - Security Engineering, 3rd Ed.](https://www.cl.cam.ac.uk/~rja14/book.html)  
 [Nakov - Practical Cryptography for Developers](https://cryptobook.nakov.com/)  
 [Van Houtven - Crypto 101](https://www.crypto101.io/)  
 [Boneh et al. - A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)  
