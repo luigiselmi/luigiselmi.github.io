@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 19th, 2025.  
+Last update: December 21st, 2025.  
 
 # Subject Index  
 
@@ -417,6 +417,7 @@ Last update: December 19th, 2025.
 [Durrett - Dynamics on Graphs](https://services.math.duke.edu/~rtd/DoG/DoG.html)  
 [Bender, Williamson - Lists, Decisions and Graphs - With an Introduction to Probability](https://cseweb.ucsd.edu/~gill/BWLectSite/)    
 [Coscia - The Atlas for the Aspiring Network Scientist](https://www.networkatlas.eu/)  
+[Grimmett - Probability on Graphs, 2nd Ed.](https://www.statslab.cam.ac.uk/~grg1000/books/pgs.html)
 
 ### Game Theory
 [Dresher - Games of Strategy - Theory and Applications](https://www.rand.org/content/dam/rand/pubs/commercial_books/2007/RAND_CB149-1.pdf)  
