@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ECRS 2022 Best Presentation Award"
+title:  "ECRS 2022 Best Presentation Award on Synthetic Aperture Radar Data Processing"
 date: "2022-07-27"
 categories: Remote Sensing, SAR, Synthetic Aperture Radar, Copernicus, Sentinel-1, Climate Change, Flooding
 permalink: /copernicus/ecrs2022-best-presentation-award.html
@@ -31,4 +31,4 @@ I have given many presentations in my work but I never had the feeling to be goo
 ### Conclusion
 SAR is a powerful technology with many applications and an increasing number of users with different backgrounds eager to use the data and the tools made available by the Copernicus programme. Each application exploits different properties of the electromagnetic radiation and of its interaction with the Earth's surface that might be difficult to grasp without a long training on electromagnetic theory and digital image processing. The learning curve can be made much less steep by developing tutorials that contain the practical information on how to use a tool with the contextual information about the theory relevant to the specific application.  
 
-My slides for the presentation are available [here](../assets/copernicus/ECRS2022_Wed_Selmi_055614.pdf). You can look for my tutorial on the ESA STEP website, section [Sentinel-1 Toolbox](http://step.esa.int/main/doc/tutorials/) (SAR Applications): Flood mapping using the Sentinel-1 imagery and the ESA SNAP S1-Toolbox, October 2021, or [download it](../assets/sentinel-1/flood_mapping_using_sentinel-1_imagery_v1.pdf) directly from my website A new version of the tutorial will be available soon. 
+My slides for the presentation are available [here](../assets/copernicus/ECRS2022_Wed_Selmi_055614.pdf). You can look for my tutorial on the ESA STEP website, section [Sentinel-1 Toolbox](http://step.esa.int/main/doc/tutorials/) (SAR Applications): Flood mapping using the Sentinel-1 imagery and the ESA SNAP S1-Toolbox, October 2021, or [download it](../assets/sentinel-1/flood_mapping_using_sentinel-1_imagery_v1.pdf) directly from my website A new version of the tutorial will be available soon.
