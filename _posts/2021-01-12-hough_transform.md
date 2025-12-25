@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "The Hough Transform"
 date:   2021-01-12
 categories: digital image processing, computer vision
