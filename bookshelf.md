@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 25th, 2025.  
+Last update: December 27th, 2025.  
 
 # Subject Index  
 
@@ -277,6 +277,7 @@ Last update: December 25th, 2025.
 [Spencer, Ware, Colton - Partial Differential Equations - Python Edition](https://physics.byu.edu/courses/computational/phys430)  
 [Sundnes - Solving Ordinary Differential Equations in Python](https://link.springer.com/book/10.1007/978-3-031-46768-4)  
 [Butler - Numerical Methods and Machine Learning for Differential Equations with Applications in Python](https://john-s-butler-dit.github.io/NM_ML_DE_source/index.html#)  
+[Engel, Davison - Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)   
 
 ### Geometry
 #### Differential Geometry
@@ -500,6 +501,7 @@ Last update: December 25th, 2025.
 [Hill - Learning Scientific Programming with Python](https://scipython.com/)  
 [Sargent et al. - Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)  
 [Sheppard - Introduction to Python for Econometrics, Statistics and Numerical Analysis, 4th Ed.](https://www.kevinsheppard.com/teaching/python/notes/)  
+[Sheehy - A First Course on Data Structures in Python](https://donsheehy.github.io/datastructures/)  
 
 #### Rust
 [Klabnik, Nichols - The Rust Programming Language](https://doc.rust-lang.org/book/)
