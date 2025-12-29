@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-<img src="{{site.baseurl}}/assets/luigi_che_small.jpg" style="float: right; padding-left: 1.5em; padding-bottom: 1.0em;">
+<img src="{{site.baseurl}}/assets/luigi_pyramide_du_tacul.jpg" style="float: right; padding-left: 1.5em; padding-bottom: 1.0em;">
 
 ### Short Bio
 
