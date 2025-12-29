@@ -12,6 +12,7 @@ Physicist and scientific software developer interested in artificial intelligenc
 ### Long Bio
 I work as a scientific software engineer at my own company [Selmilab](https://www.selmilab.eu/) based in Rome, Italy. Before taking the leap from being an employee to being self-employed, I worked as a software engineer in many public and private organizations in Italy, Switzerland and Germany. In Germany I worked at the [Fraunhofer Institute for Intelligent Analysis and Information Systems](https://www.iais.fraunhofer.de/en.html) in EU and German funded research projects and industry research projects related to Semantic Web, Machine Learning and Big Data technologies. In Switzerland, I worked as a research associate and software engineer in two FP7 research projects about data integration using Semantic Web technologies at the E-Government Institute of the [Bern University of Applied Sciences](https://www.bfh.ch/en/). Before moving abroad I worked in Italy as a consultant in software development projects at various multinational companies such as Ericsson, Marconi Communications, Accenture, and Italian government institutions. I have co-authored papers on Semantic Web, E-Government and Remote Sensing. My main interests are artificial intelligence, algorithms, computer vision, earth observation and remote sensing, open source software development and open data.
 ### Education
+<img src="{{site.baseurl}}/assets/lidar_g24_half.jpg" style="float: right; padding-left: 1.5em; padding-bottom: 1.0em;">
 I hold an M.Sc. in Physics from the [Sapienza University of Rome](https://www.phys.uniroma1.it/fisica/en) with a thesis on Atmospheric Physics and Laser Radar Remote Sensing under the supervision of [Prof. Giorgio Fiocco](https://en.wikipedia.org/wiki/Giorgio_Fiocco). A pdf copy of my master thesis, in Italian, "Caratterizzazione dei bassi strati atmosferici mediante telemisure simultanee" is available [here](assets/cv/Luigi_Selmi_Master_Thesis_Physics.pdf). It may still be useful to those interested in Lidar systems and atmospheric remote sensing.
 
 ### Work experience
@@ -38,6 +39,10 @@ I designed the architecture and wrote the project proposal of a software system 
 
 #### 1999 - 2010: Sistemi Informativi Avanzati S.r.l, Italy
 I worked as an IT consultant, on behalf of a small IT company in Rome, at various large companies and Italian and international organizations such as Ericsson Telecomunicazioni S.p.A, Selex Communications S.p.A., Food and Agriculture Organization of the United Nations (FAO), Accenture, Istituto Nazionale di Previdenza e assistenza per i Dipendenti dell’Amministrazione Pubblica (INPDAP).
+
+#### 1986-1987: Military service
+<img alt="Christian Wolff" src="{{site.baseurl}}/assets/hawk_cwar_radar.jpg" style="float: right; padding-left: 1.5em; padding-bottom: 1.0em;">
+I fulfilled my duty for the military service as a CWAR radar operator in the 4th Anti-Aircraft Missile Artillery Regiment of the Italian Army.
 
 ### Publications
 * L. Selmi - Flood mapping using the Sentinel-1 imagery and the ESA SNAP S1 Toolbox, 2021, ESA SNAP Tutorials ([link](https://step.esa.int/main/doc/tutorials/))  
