@@ -1,19 +1,20 @@
 ---
 layout: post
-title:  "X.509 Certificates"
+title:  "Public key infrastructure"
 date:   2019-02-17
-categories: security, x.509, pki
+categories: security, x.509, pki, cryptography
 ---
-Public-key cryptography enables two persons to exchange messages without being eavesdropped
+Public-key cryptography enables two certified persons to exchange messages without being eavesdropped.
 
-Blog post on X.509 certificate (from CA-signed or self-signed)
-About
-1. how to create a chain of a root-ca and a sub-ca
-2. create CA-signed certificates
-3. create a self-signed certificate
+Blog post on PKI and X.509 certificates (from CA-signed or self-signed)
+
+## Work plan
+1. Create a chain of a root-ca and a sub-ca
+2. Create CA-signed certificates
+3. Create a self-signed certificate
 4. Use a free CA authority: Let's Encrypt
 
-Using a certificate is a good way to prevent “man-in-the-middle” attacks. (see Schneider about man-in-the-midde attack)
+Using a certificate is a good way to prevent “man-in-the-middle” attacks. (see Schneider about man-in-the-middle attack)
 
 ## Roles
 * Certification Authority: is the issuer of a certificate. Certification authorities form a chain, from the root to the leaf. The path from the leaf can be traced back to the root from the certificate.
@@ -44,128 +45,128 @@ A certificate contains a public key with additional information of a subject, a 
  TODO: discuss the difference between creating the key of the root CA from the command line or using a configuration file.
  The typical key for securing web sites uses the RSA cryptosystem with a key size of 2048 bits. The generation
  of a private key based on RSA is pretty straightforward with OpenSSL
-{% highlight bash %}
+```
 $ openssl genrsa -aes256 -out fd.key 2048
-{% endhighlight %}
+```
 The private key generated is in the PEM format. Its structure can be see using the command
-{% highlight bash %}
+```
 $ openssl rsa -text -in fd.key
-{% endhighlight %}
+```
 The public key can be computed from the private one
-{% highlight bash %}
+```
 $ openssl rsa -in fd.key -pubout -out fd-public.key
-{% endhighlight %}
+```
 Creating a Certificate Signing Request (CSR) is more delicate since many information must be provided in the request and that will be in the certificate for the authority to issue a certificate. They are:
 country, province and locality name, organization, unit, common name and email, optionally a company name.
-{% highlight bash %}
+```
 $ openssl req -new -key fd.key -out fd.csr
-{% endhighlight %}
+```
 After the certificate signing request has been created it can be checked
-{% highlight bash %}
+```
 $ openssl req -text -in fd.csr -noout
-{% endhighlight %}
+```
 1. Generate key and Certificate Signing Request (CSR)
-{% highlight bash %}
+```
 $ openssl req -new -config root-ca.conf -out root-ca.csr -keyout private/root-ca.k
-{% endhighlight %}
+```
 PEM pass phrase: roma caput mundi
 
 2. Create self-signed certificate
-{% highlight bash %}
+```
 $ openssl ca -selfsign -config root-ca.conf -in root-ca.csr -out root-ca.crt -extensions ca_ext
-{% endhighlight %}
+```
 Enter pass phrase: roma caput mundi
 
 3. Generate a Certificate Revocation List (CRL)
-{% highlight bash %}
+```
 $ openssl ca -gencrl -config root-ca.conf -out root-ca.crl
-{% endhighlight %}
+```
 Enter pass phrase for ./private/root-ca.key: roma caput mundi
 
 ## Root CA Operations
 
 1. Issue a certificate for a sub certification authority
-{% highlight bash %}
+```
 $ openssl ca -config root-ca.conf -in sub-ca.csr -out sub-ca.crt -extensions sub_ca_ext
-{% endhighlight %}
+```
 2. Revoke a certificate of a sub certification authority
-{% highlight bash %}
+```
 $ openssl ca -config root-ca.conf -revoke certs/1002.pem -crl_reason keyCompromise
-{% endhighlight %}
+```
 ## Create a certficate for Online Certificate Signing Protocol (OCSP) signing
 
 1. Create key and CSR
-{% highlight bash %}
+```
 $ openssl req -new -newkey rsa:2048 -subj "/C=GB/O=Example/CN=OCSP Root Responder" -keyout private/root-ocsp.key -out root-ocsp.csr
-{% endhighlight %}
+```
 Enter PEM pass phrase: roma caput mundi
 
 2. Issue a certificate
-{% highlight bash %}
+```
 $ openssl ca -config root-ca.conf -in root-ocsp.csr -out root-ocsp.crt -extensions ocsp_ext -days 30
-{% endhighlight %}
+```
 3. Start the OCSP responder
-{% highlight bash %}
+```
 $ openssl ocsp -port 9080 -index db/index -rsigner root-ocsp.crt -rkey private/root-ocsp.key -CA root-ca.crt -text
-{% endhighlight %}
+```
 4. Test the OCSP server from another shell
-{% highlight bash %}
+```
 $ openssl ocsp -issuer root-ca.crt -CAfile root-ca.crt -cert root-ocsp.crt -url http://127.0.0.1:9080
-{% endhighlight %}
+```
 ## Creating a Subordinate CA
 
 1. Prepare a configuration file for the subordinate CA using the root CA configuration file as a template
 
 2. Subordinate CA generation: generate key and CSR
-{% highlight bash %}
+```
 $ openssl req -new -config sub-ca.conf -out sub-ca.csr -keyout private/sub-ca.key
-{% endhighlight %}
+```
 3. Issue a certificate for the subordinate CA by the root CA
-{% highlight bash %}
+```
 $ openssl ca -config root-ca.conf -in sub-ca.csr -out sub-ca.crt -extensions sub_ca_ext
-{% endhighlight %}
+```
 ## Subordinate CA Operations
 
 1. Issue a server certificate (missing server.csr)
   a. Create a private key for the server
-{% highlight bash %}
+```
 $ openssl genpkey -algorithm RSA -out private/server.key -pkeyopt rsa_keygen_bits:2048
-{% endhighlight %}
+```
 
   b. Generate the Certificate Signing Request (CSR) for the server to be sent to the subauthority
-{% highlight bash %}
+```
 $ openssl req -new -key private/server.key -out server.csr
-{% endhighlight %}
+```
 c) The subauthority signs a certificate for the server from the request
-{% highlight bash %}
+```
 $ openssl ca -config sub-ca.conf -in server.csr -out server.crt -extensions server_ext
-{% endhighlight %}
+```
 2) Issue a client certificate (missing client.csr)
 
 a) Create a private key for the client
-{% highlight bash %}
+```
 $ $ openssl genpkey -algorithm RSA -out private/client.key -pkeyopt rsa_keygen_bits:2048
-{% endhighlight %}
+```
 b) Generate the Certificate Signing Request (CSR) for the client to be sent to the subauthority
-{% highlight bash %}
+```
 $ openssl req -new -key private/client.key -out client.csr
-{% endhighlight %}
+```
 c) The subauthority signs a client certificate from the request
-{% highlight bash %}
+```
 $ openssl ca -config sub-ca.conf -in client.csr -out client.crt -extensions client_ext
-{% endhighlight %}
+```
 
 ## Signing Your Own Certificate
 
 You might want to create a self-signed certificate without sending any request to a certification authority. For example a certificate
 for the server
-{% highlight bash %}
+```
 $ openssl req -new -x509 -days 365 -key private/server.key -out server.crt
-{% endhighlight %}
+```
 ## Examining your certificate
-{% highlight bash %}
+```
 $ openssl x509 -text -in server.crt -noout
-{% endhighlight %}
+```
 A self-signed certificate will have the property
  X509v3 Basic Constraints:
                 CA:TRUE
@@ -177,35 +178,35 @@ certificate the Authority Key Identifier value must be the same as the Subject K
 ## Verify the certificates chain
 In the certificates chain, from our certificate to the root CA certificate and any intermediate certificate, the
 issuer of our certificate must match with the subject of the root CA or the intermediate CA, the sub CA in our example. The same is valid between the root CA certificate and its sub CA certificate, the issuer of the sub CA certificate must match with the subject of the root certificate. The chain can be verified using a single command
-{% highlight bash %}
+```
 $ openssl verify -CAfile ../ca/rootca.crt -untrusted ../ca/subca.crt mycertificate.crt
-{% endhighlight %}
+```
 ## Certificate Management
 The private key and the certificate can be put together in a keystore. There are different types of keystores. One type that can be created with OpenSSL is the PKCS#12. One other keystore that is used often with Java can be created at the command line with keytool that is always available in any Java environment.
 ### PKCS#12 keystore
 The private key and the certificate can be put into a PKCS#12 keystore. The public key is already in the certificate so it doesn't need to be included.  
 1) Import the private key and the certificate in the pkcs#12 keystore
-{% highlight bash %}
+```
 $ openssl pkcs12 -export -inkey client.key -in client.cert -out client.p12
-{% endhighlight %}
+```
 The output, client.p12, is a binary file.  
 2) Extract the certificate from the pkcs#12 file. The output is a PEM format file encoded in Base64
-{% highlight bash %}
+```
 $ openssl pkcs12 -in mykeystore.p12 -nokeys -out mycertificate.pem
-{% endhighlight %}
+```
 3) Transform the certificate from Base64 to text
-{% highlight bash %}
+```
 $ openssl x509 -text -in mycertificate.pem > mycertificate.crt
-{% endhighlight %}
+```
 ### Java keystore
 Once the pkcs#12 keystore has been created it can be easily put into a java keystore.
-{% highlight bash %}
+```
 $ keytool -v -importkeystore -srckeystore consumer.p12 -srcstoretype PKCS12 -destkeystore consumer-keystore.jks -deststoretype JKS
-{% endhighlight %}
+```
 Java needs also the certificates of the CA authorities, root CA and sub CA, that must be put in a different keystore, called truststore.
-{% highlight bash %}
+```
 $ keytool -keystore $1-truststore.jks -importcert -alias ca -file ca/rootca.cert
 $ keytool -keystore $1-truststore.jks -importcert -alias subca -file ca/subca.cert
-{% endhighlight %}
+```
 ## References
 1. Ristic, Bulletproof SSL and TLS, p.382
