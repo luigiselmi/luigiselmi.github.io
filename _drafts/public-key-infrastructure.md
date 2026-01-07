@@ -4,7 +4,7 @@ title:  "Public key infrastructure"
 date:   2019-02-17
 categories: security, x.509, pki, cryptography
 ---
-Public-key cryptography enables two certified persons to exchange messages without being eavesdropped.
+A public-key infrastructure enables two certified persons to exchange messages without being eavesdropped.
 
 Blog post on PKI and X.509 certificates (from CA-signed or self-signed)
 
