@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: December 27th, 2025.  
+Last update: January 2nd, 2026.  
 
 # Subject Index  
 
@@ -251,6 +251,7 @@ Last update: December 27th, 2025.
 [O’Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
 [Axler - Linear Algebra Done Right, 4th Ed.](https://linear.axler.net/)  
 [Margalit, Rabinoff, Williams - Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)  
+[Kang, Cho - Linear Algebra for Data Science](https://drive.google.com/file/d/1pLrhXT_wBeQNJegbkVbC2fll9z_ykXzD/view)  
 
 ### Calculus
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
