@@ -101,7 +101,7 @@ Last update: January 2nd, 2026.
 
 #### Atmospheric Physics, Meteorology, and Climate  
 [World Meteorological Organization - Guide to Instruments and Methods of Observation (8 volumes)](https://library.wmo.int/records/item/41650-guide-to-instruments-and-methods-of-observation)
-[Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education/introduction-atmospheric-chemistry)  
+[Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education-introduction-atmospheric-chemistry/)  
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
 [Stocker - Introduction to Climate Modelling](https://climatehomes.unibe.ch/%7Estocker/lecturenotes.html)  
 [Goosse et al. - Introduction to climate dynamics and climate modeling](http://www.climate.be/textbook/ebook.html)   
