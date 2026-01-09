@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 2nd, 2026.  
+Last update: January 9th, 2026.  
 
 # Subject Index  
 
@@ -193,6 +193,7 @@ Last update: January 2nd, 2026.
 [Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
 [Goodstein - States of Matter](http://xn--webducation-dbb.com/book-states-of-matter-by-david-l-goodstein-pdf/)  
 [Tong - Lectures on Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys.html)  
+[Tong - Lectures on Kinetic Theory](https://www.damtp.cam.ac.uk/user/tong/kintheory/)  
 [Sethna - Statistical Mechanics: Entropy, Order Parameters, and Complexity, 2nd Ed.](https://sethna.lassp.cornell.edu/StatMech/)  
 [Friedli, Velenik - Statistical Mechanics of Lattice Systems](https://www.unige.ch/math/folks/velenik/smbook/)  
 [Malthe-Sørenssen - Percolation Theory Using Python](https://link.springer.com/book/10.1007/978-3-031-59900-2)  
