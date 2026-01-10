@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 9th, 2026.  
+Last update: January 10th, 2026.  
 
 # Subject Index  
 
@@ -41,7 +41,7 @@ Last update: January 9th, 2026.
         * [Causal Inference](#causal-inference)  
     * [Number Theory](#number-theory)  
     * [Optimization and Linear Programming](#optimization-and-linear-programming)  
-    * [Graph Theory](#graph-theory)  
+    * [Graph Theory and Network Science](#graph-theory-and-network-science)  
     * [Game Theory](#game-theory)  
     * [Category Theory](#category-theory)  
 * [Computer Science](#computer-science)  
@@ -406,7 +406,7 @@ Last update: January 9th, 2026.
 [Postek, Zocca, Gromicho, Kantor - Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html)  
 [Bellman, Dreyfus - Applied Dynamic Programming](https://www.rand.org/pubs/reports/R352.html)  
 
-### Graph Theory
+### Graph Theory and Network Science
 [Barabasi - Network Science](http://networksciencebook.com/)  
 [Easley et al. - Network, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)  
 [Lyons et al. - Probability on Trees and Networks](https://www.uni-due.de/~hm0110/book.pdf)  
