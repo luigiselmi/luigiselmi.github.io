@@ -371,7 +371,7 @@ Last update: January 10th, 2026.
 [Facure Alves - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
 [Cunningham - Causal Inference: The Mixtape](https://mixtape.scunning.com/)  
 [Neal - Introduction to Causal Inference: from a Machine Learning Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)  
-[Barenboim - Causal Artificial Intelligence](https://causalai-book.net/)    
+[Bareinboim - Causal Artificial Intelligence](https://causalai-book.net/)    
 
 ### Number Theory
 [Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
