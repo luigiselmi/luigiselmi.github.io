@@ -668,6 +668,7 @@ Last update: January 10th, 2026.
 [Cangelosi et al. - Cognitive Robotics](https://direct.mit.edu/books/oa-edited-volume/5331/Cognitive-Robotics)  
 [Summerfield - How to build a brain from scratch](https://humaninformationprocessing.com/teaching/)  
 [Capuano, Pascal, Zouitine, Wolf, Aractingi - Robot Learning: A Tutorial](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)  
+[Hyvärinen - Painful intelligence: What AI can tell us about human suffering](https://www.cs.helsinki.fi/u/ahyvarin/painintl/)  
 
 ### Databases
 [Abiteboul - Foundation of Databases](http://webdam.inria.fr/Alice/)  
