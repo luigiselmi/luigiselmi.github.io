@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 10th, 2026.  
+Last update: January 15th, 2026.  
 
 # Subject Index  
 
@@ -339,6 +339,7 @@ Last update: January 10th, 2026.
 [Nair, Wierman, Zwart - The Fundamentals of Heavy Tails: Properties, Emergence, and Estimation (Draft)](https://adamwierman.com/book/)  
 [Pascucci - Probabilità e Calcolo Statistico](https://sites.google.com/view/andrea-pascucci/home/la-dispensa)  
 [Downey - Think Bayes, 2nd Ed.](https://greenteapress.com/wp/think-bayes/)  
+[Roch - Modern Discrete Probability: An Essential Toolkit](https://people.math.wisc.edu/~roch/mdp/index.html)
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
