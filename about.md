@@ -45,7 +45,7 @@ I designed the architecture and wrote the project proposal of a software system 
 I worked as an IT consultant, on behalf of a small IT company in Rome, at various large companies and Italian and international organizations such as Ericsson Telecomunicazioni S.p.A, Selex Communications S.p.A., Food and Agriculture Organization of the United Nations (FAO), Accenture, Istituto Nazionale di Previdenza e assistenza per i Dipendenti dell’Amministrazione Pubblica (INPDAP).
 
 #### 1986-1987: Military service
-<img alt="Christian Wolff" src="{{site.baseurl}}/assets/hawk_cwar_radar.jpg" style="float: right; padding-left: 1.5em; padding-bottom: 1.0em;">
+<img alt="Christian Wolff" src="{{site.baseurl}}/assets/hawk-cwar-small.jpg" style="float: right; padding-left: 1.5em; padding-bottom: 1.0em;">
 I fulfilled my duty for the military service as a CWAR radar operator in the 4th Anti-Aircraft Missile Artillery Regiment of the Italian Army.
 
 ### Publications
