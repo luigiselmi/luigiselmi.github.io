@@ -38,7 +38,6 @@ Last update: January 21st, 2026.
         * [Computational Geometry](#computational-geometry)
     * [Probability and Statistics](#probability-and-statistics)  
         * [Stochastic Processes and Time Series](#stochastic-processes-and-time-series)
-        * [Causal Inference](#causal-inference)  
     * [Number Theory](#number-theory)  
     * [Optimization and Linear Programming](#optimization-and-linear-programming)  
     * [Graph Theory and Network Science](#graph-theory-and-network-science)  
@@ -50,7 +49,8 @@ Last update: January 21st, 2026.
         * [Machine Learning](#machine-learning)  
         * [Neural Networks, Deep Learning, and Reinforcement Learning](#neural-networks-deep-learning-and-reinforcement-learning)  
         * [Natural Language Processing](#natural-language-processing)  
-        * [Knowledge Graphs, Semantic Web, and Linked Data](#knowledge-graphs-semantic-web-and-linked-data)    
+        * [Knowledge Graphs, Semantic Web, and Linked Data](#knowledge-graphs-semantic-web-and-linked-data)   
+        * [Causal Inference](#causal-inference)  
         * [Genetic Programming](#genetic-programming)  
     * [Distributed Systems and High Performance Computing](#distributed-systems-and-high-performance-computing)  
     * [Computer Programming](#computer-programming)  
@@ -362,17 +362,6 @@ Last update: January 21st, 2026.
 [Knill - Probability Theory and Stochastic Processes with Applications](https://people.math.harvard.edu/~knill/books/index.html)   
 [Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
 
-
-#### Causal Inference
-[Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
-[Pearl - Causal Inference in Statistics: A Primer](http://bayes.cs.ucla.edu/PRIMER/)  
-[Hernan, Robins - Causal Inference: What If](https://miguelhernan.org/whatifbook)  
-[Peters - Elements of Causal Inference](http://web.math.ku.dk/~peters/elements.html)  
-[Sharma et al. - Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)  
-[Facure Alves - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
-[Cunningham - Causal Inference: The Mixtape](https://mixtape.scunning.com/)  
-[Neal - Introduction to Causal Inference: from a Machine Learning Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)  
-
 ### Number Theory
 [Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
 [Shoup - A Computational Introduction to Number Theory and Algebra, 2nd Ed.](https://shoup.net/ntb/)  
@@ -465,7 +454,6 @@ Last update: January 21st, 2026.
 [Summerfield - How to build a brain from scratch](https://humaninformationprocessing.com/teaching/)  
 [Capuano, Pascal, Zouitine, Wolf, Aractingi - Robot Learning: A Tutorial](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)  
 [Hyvärinen - Painful intelligence: What AI can tell us about human suffering](https://www.cs.helsinki.fi/u/ahyvarin/painintl/)  
-[Bareinboim - Causal Artificial Intelligence](https://causalai-book.net/)    
 
 #### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
@@ -554,6 +542,17 @@ Last update: January 21st, 2026.
 [Heath et al. - Linked Data: Evolving the Web into a Global Data Space](http://linkeddatabook.com/editions/1.0/)  
 [Dodds et al. - Linked Data Patterns](https://patterns.dataincubator.org/book/)  
 [Hogan et al. - Knowledge Graphs](https://kgbook.org/)
+
+#### Causal Inference
+[Pearl - Causality](http://bayes.cs.ucla.edu/BOOK-99/book-toc.html)  
+[Pearl - Causal Inference in Statistics: A Primer](http://bayes.cs.ucla.edu/PRIMER/)  
+[Hernan, Robins - Causal Inference: What If](https://miguelhernan.org/whatifbook)  
+[Peters - Elements of Causal Inference](http://web.math.ku.dk/~peters/elements.html)  
+[Sharma et al. - Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)  
+[Facure Alves - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
+[Cunningham - Causal Inference: The Mixtape](https://mixtape.scunning.com/)  
+[Neal - Introduction to Causal Inference: from a Machine Learning Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)  
+[Bareinboim - Causal Artificial Intelligence](https://causalai-book.net/)    
 
 #### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
