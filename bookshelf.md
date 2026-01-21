@@ -372,7 +372,6 @@ Last update: January 21st, 2026.
 [Facure Alves - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)  
 [Cunningham - Causal Inference: The Mixtape](https://mixtape.scunning.com/)  
 [Neal - Introduction to Causal Inference: from a Machine Learning Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)  
-[Bareinboim - Causal Artificial Intelligence](https://causalai-book.net/)    
 
 ### Number Theory
 [Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
@@ -466,6 +465,7 @@ Last update: January 21st, 2026.
 [Summerfield - How to build a brain from scratch](https://humaninformationprocessing.com/teaching/)  
 [Capuano, Pascal, Zouitine, Wolf, Aractingi - Robot Learning: A Tutorial](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)  
 [Hyvärinen - Painful intelligence: What AI can tell us about human suffering](https://www.cs.helsinki.fi/u/ahyvarin/painintl/)  
+[Bareinboim - Causal Artificial Intelligence](https://causalai-book.net/)    
 
 #### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
