@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 15th, 2026.  
+Last update: January 21st, 2026.  
 
 # Subject Index  
 
