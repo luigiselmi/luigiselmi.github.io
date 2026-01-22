@@ -524,7 +524,8 @@ Last update: January 21st, 2026.
 [Mehlig - Machine learning with neural networks](https://arxiv.org/abs/1901.05639)  
 [Petersen, Zech - Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)  
 [Xiao, Zhu - Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)  
-[Lai, Song, Kim, Mitsufuji, Ermon - The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)
+[Lai, Song, Kim, Mitsufuji, Ermon - The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)  
+[Chollet, Watson - Deep Learning with Python, 3rd Ed.](https://deeplearningwithpython.io/)
 
 #### Natural Language Processing
 [Jurafsky et al. - Speech and Language Processing, 3r Ed. draft](https://web.stanford.edu/~jurafsky/slp3/)  
