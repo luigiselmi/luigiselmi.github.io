@@ -97,7 +97,6 @@ Last update: January 21st, 2026.
 [Lundstrom - Fundamentals of Nanotransistors](https://nanohub.org/resources/35865/about)  
 
 ### Geophysics
-[LaCasce - Geophysical Fluid Dynamics](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF3450/h17/dynbook7.pdf)  
 
 #### Atmospheric Physics, Meteorology, and Climate  
 [World Meteorological Organization - Guide to Instruments and Methods of Observation (8 volumes)](https://library.wmo.int/records/item/41650-guide-to-instruments-and-methods-of-observation)
