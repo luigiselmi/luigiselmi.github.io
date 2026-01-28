@@ -253,6 +253,7 @@ Last update: January 28th, 2026.
 [Margalit, Rabinoff, Williams - Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)  
 [Kang, Cho - Linear Algebra for Data Science](https://drive.google.com/file/d/1pLrhXT_wBeQNJegbkVbC2fll9z_ykXzD/view)  
 [Gallier - Linear Algebra for Computer Vision, Robotics, and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)  
+[Hefferon - Linear Algebra, 4th Ed.](https://hefferon.net/linearalgebra/)  
 
 ### Calculus
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
