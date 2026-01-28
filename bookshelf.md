@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 21st, 2026.  
+Last update: January 28th, 2026.  
 
 # Subject Index  
 
@@ -535,7 +535,8 @@ Last update: January 21st, 2026.
 [Liu, Lin, Sun - Representation Learning for Natural Language Processing](https://arxiv.org/abs/2102.03732)  
 [Bird, Klein, Loper - Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)  
 [Koehn - Neural Machine Translation (draft)](http://mt-class.org/jhu/assets/nmt-book.pdf)  
-[Gibson - Syntax: A cognitive approach](https://tedlab.mit.edu/tedlab_website/researchpapers/Syntax_Gibson_MITPress_2025.pdf)
+[Gibson - Syntax: A cognitive approach](https://tedlab.mit.edu/tedlab_website/researchpapers/Syntax_Gibson_MITPress_2025.pdf)   
+[Bratanic, Hane - Essential GraphRAG - Knowledge Graph-Enahnced RAG](https://neo4j.com/essential-graphrag/)  
 
 #### Knowledge Graphs, Semantic Web, and Linked Data
 [Bergman - A Knowledge Representation Practionary](https://www.mkbergman.com/a-knowledge-representation-practionary/)  
