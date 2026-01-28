@@ -242,7 +242,7 @@ Last update: January 28th, 2026.
 [Hammack - Book of Proof, 3rd Ed.](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 
 ### Algebra
-[Ström et al. - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
+[Ström et al. - Immersive](http://immersivemath.com/ila/index.html)  
 [Thomas - Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)  
 [Cherney et al. - Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
 [Treil - Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)  
@@ -252,6 +252,7 @@ Last update: January 28th, 2026.
 [Axler - Linear Algebra Done Right, 4th Ed.](https://linear.axler.net/)  
 [Margalit, Rabinoff, Williams - Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)  
 [Kang, Cho - Linear Algebra for Data Science](https://drive.google.com/file/d/1pLrhXT_wBeQNJegbkVbC2fll9z_ykXzD/view)  
+[Gallier - Linear Algebra for Computer Vision, Robotics, and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)  
 
 ### Calculus
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
@@ -394,6 +395,7 @@ Last update: January 28th, 2026.
 [Suh - Convex Optimization for Machine Learning](https://www.nowpublishers.com/article/BookDetails/9781638280521)  
 [Postek, Zocca, Gromicho, Kantor - Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html)  
 [Bellman, Dreyfus - Applied Dynamic Programming](https://www.rand.org/pubs/reports/R352.html)  
+[Gallier - Fundamentals of Optimization Theory with Applications to Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)  
 
 ### Graph Theory and Network Science
 [Barabasi - Network Science](http://networksciencebook.com/)  
