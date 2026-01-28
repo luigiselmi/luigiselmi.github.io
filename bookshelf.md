@@ -453,6 +453,7 @@ Last update: January 28th, 2026.
 [Summerfield - How to build a brain from scratch](https://humaninformationprocessing.com/teaching/)  
 [Capuano, Pascal, Zouitine, Wolf, Aractingi - Robot Learning: A Tutorial](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)  
 [Hyvärinen - Painful intelligence: What AI can tell us about human suffering](https://www.cs.helsinki.fi/u/ahyvarin/painintl/)  
+[Gans - The Microeconomics of Artificial Intelligence](https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence)  
 
 #### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
