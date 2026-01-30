@@ -90,7 +90,7 @@ Last update: January 28th, 2026.
 ### Classical Mechanics
 [Cline - Variational Principles in Classical Mechanics, 3rd Ed.](http://classicalmechanics.lib.rochester.edu/)  
 [Abraham, Marsden - Foundations of Mechanics](https://authors.library.caltech.edu/25029/)  
-[Sussman, Wisdom - Structure and Interpretation of Classical Mechanics](https://library.oapen.org/handle/20.500.12657/26048)  
+[Sussman, Wisdom - Structure and Interpretation of Classical Mechanics, 1st Ed.](https://library.oapen.org/handle/20.500.12657/26048), [2nd Ed.](https://tgvaughan.github.io/sicm/toc.html)  
 
 ### Electromagnetism
 [Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
@@ -248,7 +248,7 @@ Last update: January 28th, 2026.
 [Treil - Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)  
 [Boyd et al. - Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)  
 [Ash - Abstract Algebra: The Basic Graduate Year](https://faculty.math.illinois.edu/~r-ash/)  
-[O’Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
+[O'Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
 [Axler - Linear Algebra Done Right, 4th Ed.](https://linear.axler.net/)  
 [Margalit, Rabinoff, Williams - Interactive Linear Algebra](https://personal.math.ubc.ca/~tbjw/ila/index.html)  
 [Kang, Cho - Linear Algebra for Data Science](https://drive.google.com/file/d/1pLrhXT_wBeQNJegbkVbC2fll9z_ykXzD/view)  
