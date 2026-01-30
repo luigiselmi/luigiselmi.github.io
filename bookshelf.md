@@ -90,7 +90,7 @@ Last update: January 28th, 2026.
 ### Classical Mechanics
 [Cline - Variational Principles in Classical Mechanics, 3rd Ed.](http://classicalmechanics.lib.rochester.edu/)  
 [Abraham, Marsden - Foundations of Mechanics](https://authors.library.caltech.edu/25029/)  
-[Sussman, Wisdom - Structure and Interpretation of Classical Mechanics, 1st Ed.](https://library.oapen.org/handle/20.500.12657/26048), [2nd Ed.](https://tgvaughan.github.io/sicm/toc.html)  
+[Sussman, Wisdom - Structure and Interpretation of Classical Mechanics, 1st Ed.](https://library.oapen.org/handle/20.500.12657/26048), [2nd Ed. (html)](https://tgvaughan.github.io/sicm/toc.html)  
 
 ### Electromagnetism
 [Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
