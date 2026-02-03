@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: January 28th, 2026.  
+Last update: February 3rd, 2026.  
 
 # Subject Index  
 
@@ -239,7 +239,8 @@ Last update: January 28th, 2026.
 [Abelson et al. - Turtle Geometry: The Computer as a Medium for Exploring Mathematics](https://doi.org/10.7551/mitpress/6933.001.0001)  
 [Smith - Beginning Mathematical Logic: A Study Guide](https://www.logicmatters.net/tyl/)  
 [Smith - An Introduction to Formal Logic, 2nd Ed.](https://www.logicmatters.net/ifl/)  
-[Hammack - Book of Proof, 3rd Ed.](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+[Hammack - Book of Proof, 3rd Ed.](https://www.people.vcu.edu/~rhammack/BookOfProof/)  
+[Whitehead - An Introduction to Mathematics](https://www.gutenberg.org/ebooks/41568)  
 
 ### Algebra
 [Ström et al. - Immersive](http://immersivemath.com/ila/index.html)  
