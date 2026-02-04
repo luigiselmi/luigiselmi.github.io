@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 3rd, 2026.  
+Last update: February 4th, 2026.  
 
 # Subject Index  
 
@@ -266,6 +266,7 @@ Last update: February 3rd, 2026.
 [Acquistapace - Appunti di Analisi 1 e 2 e Analisi Funzionale (in Italian)](https://people.dm.unipi.it/acquistp/)  
 [Tricomi - Funzioni Analitiche (in Italian)](https://matematicaitaliana.sns.it/opere/315/)  
 [Jones - Computational Complex Analysis](https://math.rice.edu/~fjones/)  
+[Elsgolts - Differential Equations and the Calculus of Variations](https://archive.org/details/ElsgoltsDifferentialEquationsAndTheCalculusOfVariations)
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
@@ -341,7 +342,8 @@ Last update: February 3rd, 2026.
 [Nair, Wierman, Zwart - The Fundamentals of Heavy Tails: Properties, Emergence, and Estimation (Draft)](https://adamwierman.com/book/)  
 [Pascucci - Probabilità e Calcolo Statistico](https://sites.google.com/view/andrea-pascucci/home/la-dispensa)  
 [Downey - Think Bayes, 2nd Ed.](https://greenteapress.com/wp/think-bayes/)  
-[Roch - Modern Discrete Probability: An Essential Toolkit](https://people.math.wisc.edu/~roch/mdp/index.html)
+[Roch - Modern Discrete Probability: An Essential Toolkit](https://people.math.wisc.edu/~roch/mdp/index.html)  
+[Gnedenko - The Theory of Probability](https://archive.org/details/GnedenkoTheoryOfProbability/mode/2up)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
