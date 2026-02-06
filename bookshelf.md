@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 4th, 2026.  
+Last update: February 6th, 2026.  
 
 # Subject Index  
 
@@ -198,6 +198,7 @@ Last update: February 4th, 2026.
 [Malthe-Sørenssen - Percolation Theory Using Python](https://link.springer.com/book/10.1007/978-3-031-59900-2)  
 [Gallavotti - Statistical Mechanics - Short Treatise](https://ipparco.roma1.infn.it/pagine/deposito/1998/libro.pdf)  
 [Arovas - Lecture Notes on Thermodynamics and Statistical Mechanics (A Work in Progress)](https://courses.physics.ucsd.edu/2010/Spring/physics210a/LECTURES/210_COURSE.pdf)  
+[Nishimori - Statistical Physics of Spin Glasses and Information Processing](https://library.oapen.org/handle/20.500.12657/76439)  
 [Nishimori, Ortiz - Elements of Phase Transitions and Critical Phenomena](https://library.oapen.org/handle/20.500.12657/76440)  
 
 ### Nuclear Physics
