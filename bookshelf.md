@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 6th, 2026.  
+Last update: February 10th, 2026.  
 
 # Subject Index  
 
@@ -511,6 +511,7 @@ Last update: February 6th, 2026.
 [Francois-Lavet et al. - An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560)    
 [Nielsen - Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)  
 [Bertsekas - Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control](http://web.mit.edu/dimitrib/www/RLbook.html)  
+[Bertsekas - A Course in Reinforcement Learning, 2nd Ed.](https://web.mit.edu/dimitrib/www/RLbook.html)  
 [Kashani et al. - Deep Learning Inteviews: Hundreds of fully solved questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650)  
 [Rao, Jelvis - Foundations of Reinforcement Learning with Applications in Finance](https://stanford.edu/~ashlearn/)  
 [Nikolenko - Synthetic Data for Deep Learning](https://synthesis.ai/synthetic-data-for-deep-learning/)  
