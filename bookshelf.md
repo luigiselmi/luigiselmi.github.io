@@ -173,6 +173,7 @@ Last update: February 10th, 2026.
 [Hall - An Elementary Introduction to Groups and Representations](https://arxiv.org/abs/math-ph/0005032)  
 [Onofri - Lezioni di Metodi Probabilistici della Fisica (in Italian)](https://eoinfnpr.it/#MPF)  
 [Aström, Murray - Feedback Systems: An Introduction for Scientists and Engineers, 2nd Ed.](https://fbswiki.org/wiki/index.php/Main_Page)      
+[Gould, Tobochnik, Christian - An Introduction to Computer Simulation Methods, 3rd Ed.](https://www.compadre.org/osp/items/detail.cfm?ID=7375)  
 
 ### Quantum Mechanics and Computing
 [Watrous - The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/)  
