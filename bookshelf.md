@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 10th, 2026.  
+Last update: February 11th, 2026.  
 
 # Subject Index  
 
@@ -669,6 +669,7 @@ Last update: February 10th, 2026.
 [Richardson, Urbanke - Modern Coding Theory](https://ipgold.epfl.ch/_media/en/publications/mct-new.pdf)  
 [McFee - Digital Signals Theory](https://brianmcfee.net/dstbook-site)  
 [Orfanidis - Applied Optimum Signal Processing](https://eceweb1.rutgers.edu/~orfanidi/aosp/)  
+[McFee - Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)  
 
 ### Computer Vision and Computer Graphics
 [Szeliski - Computer Vision: Algorithms and Applications, 2nd Ed.](http://szeliski.org/Book/)  
