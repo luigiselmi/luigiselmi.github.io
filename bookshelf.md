@@ -288,6 +288,8 @@ Last update: February 12th, 2026.
 [Engel, Davison - Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)   
 
 ### Geometry
+[Clader, Ross - Beginning in Algebraic Geometry](https://link.springer.com/book/10.1007/978-3-031-88819-9)  
+
 #### Differential Geometry
 [Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/9780262019347/functional-differential-geometry/)    
 [Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
