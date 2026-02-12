@@ -125,7 +125,7 @@ Last update: February 12th, 2026.
 [Benestad, Chen, Hanssen-Bauer - Empirical-Statistical Downscaling](https://www.researchgate.net/publication/344650430_Empirical-Statistical_Downscaling)  
 [Zannetti - Air Pollution Modeling](https://www.envirocomp.com/pops/airpollution.html)  
 [Lovejoy - Weather, Macroweather, and the Climate: Our Random Yet Predictable Atmosphere](https://www.researchgate.net/publication/346824581_Weather_Macroweather_and_the_Climate_Our_Random_Yet_Predictable_AtmosphereOur_Random_Yet_Predictable_Atmosphere)  
-[Buglia - Introduction to the Theory of Atmospheric Radiative Transfer](https://ntrs.nasa.gov/citations/19860018367)
+[Buglia - Introduction to the Theory of Atmospheric Radiative Transfer](https://ntrs.nasa.gov/citations/19860018367)  
 [Mishchenko, Travis, Lacis - Scattering, Absorption, and Emission of Light by Small Particles](https://www.giss.nasa.gov/staff/mmishchenko/books/)  
 
 #### Inverse Theory
