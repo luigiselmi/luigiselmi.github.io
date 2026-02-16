@@ -168,8 +168,7 @@ Last update: February 16th, 2026.
 [Downey - Modeling and Simulation in Python](https://allendowney.github.io/ModSimPy/index.html)  
 [Shiffman - The Nature of Code](https://natureofcode.com/)      
 [Wolfram - A New Kind of Science](https://www.wolframscience.com/nks/)  
-[Zanghi - Appunti di Metodi Matematici della Fisica (in Italian)](https://www.ge.infn.it/~zanghi/metodi/mm2015.html)  
-[Lienhard IV et al. - A Heat Transfer Textbook, 6th Ed.](https://ahtt.mit.edu/)  
+[Zanghi - Appunti di Metodi Matematici della Fisica (in Italian)](https://www.ge.infn.it/~zanghi/metodi/mm2015.html)    
 [Greenshields et al. - Notes on Computational Fluid Dynamics: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)  
 [Hall - An Elementary Introduction to Groups and Representations](https://arxiv.org/abs/math-ph/0005032)  
 [Onofri - Lezioni di Metodi Probabilistici della Fisica (in Italian)](https://eoinfnpr.it/#MPF)  
@@ -202,6 +201,7 @@ Last update: February 16th, 2026.
 [Arovas - Lecture Notes on Thermodynamics and Statistical Mechanics (A Work in Progress)](https://courses.physics.ucsd.edu/2010/Spring/physics210a/LECTURES/210_COURSE.pdf)  
 [Nishimori - Statistical Physics of Spin Glasses and Information Processing](https://library.oapen.org/handle/20.500.12657/76439)  
 [Nishimori, Ortiz - Elements of Phase Transitions and Critical Phenomena](https://library.oapen.org/handle/20.500.12657/76440)  
+[Lienhard V, Lienhard IV - A Heat Transfer Textbook, 6th Ed.](https://ahtt.mit.edu/)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
