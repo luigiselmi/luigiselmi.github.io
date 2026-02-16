@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 12th, 2026.  
+Last update: February 16th, 2026.  
 
 # Subject Index  
 
@@ -370,6 +370,7 @@ Last update: February 12th, 2026.
 [Tropp - An Introduction to Matrix Concentration Inequalities](https://arxiv.org/abs/1501.01571)  
 [Knill - Probability Theory and Stochastic Processes with Applications](https://people.math.harvard.edu/~knill/books/index.html)   
 [Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
+[Ibri, Slimane - Probability, Stochastic Processes, and Simulation In Python](https://www.researchgate.net/publication/360767027_Probability_Stochastic_Processes_and_Simulation_In_Python_en)  
 
 ### Number Theory
 [Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
