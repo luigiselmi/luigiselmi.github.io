@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 16th, 2026.  
+Last update: February 22nd, 2026.  
 
 # Subject Index  
 
@@ -314,7 +314,7 @@ Last update: February 16th, 2026.
 [Gelman, Vehtari - Active Statistics](https://avehtari.github.io/ActiveStatistics/)  
 [Lattimore et al. - Bandit Algorithms](https://banditalgs.com/)  
 [Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
-[Vershynin - High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)    
+[Vershynin - High-Dimensional Probability - An Introduction with Applications in Data Science, 2nd Ed.](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)    
 [Clyde et al. - An Introduction to Bayesian Thinking](https://statswithr.github.io/book/)  
 [Blitzstein - Introduction to Probability, 2nd Ed.](https://projects.iq.harvard.edu/stat110/home)  
 [Kadane - Principles of Uncertainty, 2nd Ed.](http://www.stat.cmu.edu/~kadane/)  
@@ -371,6 +371,9 @@ Last update: February 16th, 2026.
 [Knill - Probability Theory and Stochastic Processes with Applications](https://people.math.harvard.edu/~knill/books/index.html)   
 [Särkkä - Applied Stochastic Differential Equations](https://users.aalto.fi/~ssarkka/#bio)  
 [Ibri, Slimane - Probability, Stochastic Processes, and Simulation In Python](https://www.researchgate.net/publication/360767027_Probability_Stochastic_Processes_and_Simulation_In_Python_en)  
+[Sztrik - Basic Queueing Theory](https://irh.inf.unideb.hu/user/jsztrik/)  
+[Zuckerman - Introduction to Queueing Theory and Stochastic Teletraffic Models](https://arxiv.org/abs/1307.2968)  
+[Cooper - Introduction to Queueing Theory, 2nd Ed.](https://www.cse.fau.edu/~bob/publications/IntroToQueueingTheory_Cooper.pdf)  
 
 ### Number Theory
 [Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
@@ -539,7 +542,8 @@ Last update: February 16th, 2026.
 [Petersen, Zech - Mathematical theory of deep learning](https://arxiv.org/abs/2407.18384)  
 [Xiao, Zhu - Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)  
 [Lai, Song, Kim, Mitsufuji, Ermon - The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)  
-[Chollet, Watson - Deep Learning with Python, 3rd Ed.](https://deeplearningwithpython.io/)
+[Chollet, Watson - Deep Learning with Python, 3rd Ed.](https://deeplearningwithpython.io/)  
+[White - Deep Learning for Molecules and Materials](https://dmol.pub/)  
 
 #### Natural Language Processing
 [Jurafsky et al. - Speech and Language Processing, 3r Ed. draft](https://web.stanford.edu/~jurafsky/slp3/)  
