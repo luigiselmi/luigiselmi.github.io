@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 22nd, 2026.  
+Last update: February 23rd, 2026.  
 
 # Subject Index  
 
@@ -443,6 +443,7 @@ Last update: February 22nd, 2026.
 [Leinster - Basic Category Theory](https://arxiv.org/abs/1612.09375)  
 [Smith - Beginning Category Theory](https://www.logicmatters.net/categories/)  
 [Riehl - Category Theory in Context](https://emilyriehl.github.io/books/)  
+[Asperti, Longo - Categories Types and Structures - An Introduction to Category Theory for the working computer scientist](https://www.di.ens.fr/users/longo/files/CategTypesStructures/book.pdf)  
 
 ## Computer Science
    ***
