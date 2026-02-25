@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 23rd, 2026.  
+Last update: February 25th, 2026.  
 
 # Subject Index  
 
@@ -840,6 +840,7 @@ domains of sustainable development](https://climatestrategies.org/publication/pl
 ## Entrepreneurship, Project Management and Marketing
    ***
 [Fandrey - Academic Slide Design](http://www.academicslidedesign.org/)  
+[Valve - Handbook for New Employees](https://www.valvesoftware.com/en/publications)  
 
 ## Biology
    ***
