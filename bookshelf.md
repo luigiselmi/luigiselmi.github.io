@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 25th, 2026.  
+Last update: February 27th, 2026.  
 
 # Subject Index  
 
@@ -791,6 +791,7 @@ Last update: February 25th, 2026.
 [French - Early Speculative Bubbles and Increases in the Supply of Money](https://mises.org/library/book/early-speculative-bubbles-and-increases-supply-money)  
 [Whaley - Derivatives: Markets, Valuation, Risk Management](https://www.whaley.info/copy-of-books)  
 [MacKay - Memoirs of Extraordinary Popular Delusions and the Madness of Crowds](https://ia600405.us.archive.org/28/items/memoirsofextraor01mack/memoirsofextraor01mack.pdf)   
+[Verhofen - Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2415741)  
 
 ### Macroeconomics
 [Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
