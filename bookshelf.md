@@ -7,13 +7,13 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 27th, 2026.  
+Last update: February 28th, 2026.  
 
 # Subject Index  
 
 * [Physics](#physics)
     * [Classical Mechanics](#classical-mechanics)  
-    * [Electromagnetism](#electromagnetism)
+    * [Electromagnetism and Electronics](#electromagnetism-and-electronics)
     * [Geophysics](#geophysics)  
         * [Atmospheric Physics, Meteorology, and Climate](#atmospheric-physics-meteorology-and-climate)    
         * [Inverse Theory](#inverse-theory)
@@ -92,9 +92,10 @@ Last update: February 27th, 2026.
 [Abraham, Marsden - Foundations of Mechanics](https://authors.library.caltech.edu/25029/)  
 [Sussman, Wisdom - Structure and Interpretation of Classical Mechanics, 1st Ed.](https://library.oapen.org/handle/20.500.12657/26048), [2nd Ed. (html)](https://tgvaughan.github.io/sicm/)  
 
-### Electromagnetism
+### Electromagnetism and Electronics
 [Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
 [Lundstrom - Fundamentals of Nanotransistors](https://nanohub.org/resources/35865/about)  
+[Hansard, Lee, Choi, Horaud - Time of Flight Cameras: Principles, Methods, and Applications](https://inria.hal.science/hal-00725654v1)  
 
 ### Geophysics
 
