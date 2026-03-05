@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: February 28th, 2026.  
+Last update: March 5th, 2026.  
 
 # Subject Index  
 
@@ -546,6 +546,7 @@ Last update: February 28th, 2026.
 [Lai, Song, Kim, Mitsufuji, Ermon - The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)  
 [Chollet, Watson - Deep Learning with Python, 3rd Ed.](https://deeplearningwithpython.io/)  
 [White - Deep Learning for Molecules and Materials](https://dmol.pub/)  
+[Buchanan, Pai, Wang, Ma - Principles and Practice of Deep Representation Learning - Or A Mathematical Theory of Memory](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
 
 #### Natural Language Processing
 [Jurafsky et al. - Speech and Language Processing, 3r Ed. draft](https://web.stanford.edu/~jurafsky/slp3/)  
