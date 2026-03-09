@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: March 5th, 2026.  
+Last update: March 9th, 2026.  
 
 # Subject Index  
 
@@ -111,7 +111,9 @@ Last update: March 5th, 2026.
 [Stull - Practical Meteorology: An Algebra-based Survey of Atmospheric Science](https://www.eoas.ubc.ca/books/Practical_Meteorology/)  
 [Hanna et al. - Handbook on Atmospheric Diffusion](https://www.osti.gov/biblio/5591108/)    
 [Lalic et al. - Agricultural Meteorology and Climatology](https://books.fupress.com/catalogue/agricultural-meteorology-and-climatology/3808)  
-[Sozzi - La Micrometeorologia e la Dispersione degli Inquinanti in Aria (Italian)](http://www.arpat.toscana.it/temi-ambientali/aria/modellistica-per-la-qualita-dellaria/linee-guida/apat-micrometeorologia.pdf)  
+[Sozzi, Bennati, Casasanta, Invernizzi - Teoria, misure e modelli della turbolenza e della dispersione nello strato limite atmosferico - Volume n. 1 - Teoria e modelli dello strato limite atmosferico (Italian)](https://www.arpalazio.it/documents/20124/68913f60-dee8-8ed1-4b41-3af6f4f89e46)
+[Sozzi, Bennati, Casasanta, Invernizzi - Teoria, misure e modelli della turbolenza e della dispersione nello strato limite atmosferico - Volume n. 2 - Misura e stima delle variabili caratteristiche (Italian)](https://www.arpalazio.it/documents/20124/8be1f0c1-82c5-9869-6023-d7d0bfd3216f)
+[Sozzi, Bennati, Casasanta, Invernizzi - Teoria, misure e modelli della turbolenza e della dispersione nello strato limite atmosferico - Volume n. 3 - Modelli di dispersione degli inquinanti in aria (Italian)](https://www.arpalazio.it/documents/20124/3f5311e8-7f1d-1426-5bbb-4b877457f829)  
 [Sozzi, Georgiadis, Valentini - Introduzione alla Turbolenza Atmosferica: Concetti, Stime e Misure](https://atmos.difa.unibo.it/LabFA/utils/MATERIALE/STAZIONI_METEO/Libro_Georgiadis_Intro_Turbolenza.pdf)  
 [Döös, Lundberg, Campino - Basic Numerical Methods in Meteorology and Oceanography](https://doi.org/10.16993/bbs)  
 [Roed - Fundamentals of Atmospheres and Oceans on Computers](https://www.uio.no/studier/emner/matnat/geofag/nedlagte-emner/GEF4510/h08/undervisningsmateriale/GEF4510.pdf)  
@@ -406,7 +408,7 @@ Last update: March 5th, 2026.
 [Sargent, Stachurski - Dynamic Programming](https://dp.quantecon.org/)  
 [Williamson, Shmoys - The Design of Approximation Algorithms](https://www.designofapproxalgs.com/)  
 [Rawlings, Mayne, Diehl - Model Predictive Control: Theory, Computation, and Design, 2nd Ed.](https://sites.engineering.ucsb.edu/~jbraw/mpc/)  
-[Suh - Convex Optimization for Machine Learning](https://www.nowpublishers.com/article/BookDetails/9781638280521)  
+[Suh - Convex Optimization for Machine Learning](https://library.oapen.org/handle/20.500.12657/60495)  
 [Postek, Zocca, Gromicho, Kantor - Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html)  
 [Bellman, Dreyfus - Applied Dynamic Programming](https://www.rand.org/pubs/reports/R352.html)  
 [Gallier - Fundamentals of Optimization Theory with Applications to Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)  
