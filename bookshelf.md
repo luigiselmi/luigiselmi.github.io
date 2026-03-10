@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: March 9th, 2026.  
+Last update: March 10th, 2026.  
 
 # Subject Index  
 
@@ -69,6 +69,8 @@ Last update: March 9th, 2026.
     * [Information Retrieval](#information-retrieval)  
     * [Databases](#databases)  
     * [Geographic Information Systems](#geographic-information-systems)  
+        * [Geostatistics](#geostatisstics)  
+        * [Geodesy](#geodesy)
     * [Software Engineering](#software-engineering)  
     * [Operating Systems](#operating-systems)  
     * [Cryptography and Information Security](#cryptography-and-information-security)  
@@ -717,9 +719,6 @@ Last update: March 9th, 2026.
 [QGIS - A Gentle Introduction to GIS](https://docs.qgis.org/3.16/en/docs/gentle_gis_introduction/index.html)  
 [Saylor Academy - Essential of Geographic Information Systems](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html)  
 [Rey et al. - Geographic Data Science with Python](https://geographicdata.science/book/intro)  
-[Vermeer - Geodesy](https://users.aalto.fi/~mvermeer/geodesy.pdf)  
-[Vermeer - Physical Geodesy](https://users.aalto.fi/~mvermeer/fys-en.pdf)  
-[Vermeer - Methods of Navigation](https://users.aalto.fi/~mvermeer/nav-en.pdf)    
 [Vermeer et al. - Digital Aerial Mapping: A Hands-On Course](https://users.aalto.fi/~mvermeer/book.pdf)  
 [Gimond - Introduction to GIS and Spatial Analysis (with R)](https://mgimond.github.io/Spatial/index.html)  
 [Graham et al. - Geographies of Digital Exclusion](https://www.oii.ox.ac.uk/research/publications/geographies-of-digital-exclusion-data-and-inequality/)  
@@ -733,11 +732,18 @@ Last update: March 9th, 2026.
 [Di Biase - The Nature of Geographic Information](https://www.e-education.psu.edu/natureofgeoinfo/)  
 [Longley, Goodchild, Maguire, Rhind - Geographical Information Systems: Principles, Techniques, Management and Applications, Abridged Edition](https://www.geos.ed.ac.uk/~gisteac/gis_book_abridged/)  
 [National Academies - Spatial Statistics and Digital Image Analysis](https://nap.nationalacademies.org/catalog/1783/spatial-statistics-and-digital-image-analysis)  
-[Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
-[Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)    
 [Hoffimann - Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)  
+
+#### Geostatistics
+[Clark - Practical Geostatistics](https://www.kriging.com/PG1979/PG1979_pdf.html)  
+[Hengl - A Practical Guide to Geostatistical Mapping of Environmental Variables](https://publications.jrc.ec.europa.eu/repository/handle/JRC38153)  
 [Moraga - Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/)  
-[Goovaerts - Geostatistics	for Natural Resources Evaluation](https://osf.io/swzm8)
+[Goovaerts - Geostatistics	for Natural Resources Evaluation](https://osf.io/swzm8)  
+
+#### Geodesy
+[Vermeer - Geodesy](https://users.aalto.fi/~mvermeer/geodesy.pdf)  
+[Vermeer - Physical Geodesy](https://users.aalto.fi/~mvermeer/fys-en.pdf)  
+[Vermeer - Methods of Navigation](https://users.aalto.fi/~mvermeer/nav-en.pdf)  
 
 ### Software Engineering
 [Felleisen et al. - How to Design Programs](https://htdp.org/)  
