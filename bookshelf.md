@@ -26,7 +26,8 @@ Last update: March 10th, 2026.
     * [Nuclear Physics](#nuclear-physics)  
     * [Medical Physics](#medical-physics)
 * [Chemistry](#chemistry)
-* [Geology](#geology)
+* [Geology](#geology)  
+    * [Hydrology](#hydrology)  
 * [Mathematics](#mathematics)  
     * [Foundations and Logic](#foundations-and-logic)  
     * [Algebra](#algebra)  
@@ -233,9 +234,11 @@ Last update: March 10th, 2026.
 [Lüthi, Walter, Werder - Physics of Glaciers](https://people.ee.ethz.ch/~fwalter/download/pdf/pdg_1_3.pdf)  
 [Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
 [Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
+[Anderson - New Theory of the Earth](https://authors.library.caltech.edu/records/v1ca8-zj672)  
+
+### Hydrology
 [Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
 [Freeze, Cherry - Groundwater](https://gw-project.org/books/groundwater/)  
-[Anderson - New Theory of the Earth](https://authors.library.caltech.edu/records/v1ca8-zj672)  
 
 ## Mathematics
    ***
