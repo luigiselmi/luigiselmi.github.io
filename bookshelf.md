@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: March 10th, 2026.  
+Last update: March 12th, 2026.  
 
 # Subject Index  
 
@@ -788,6 +788,7 @@ Last update: March 10th, 2026.
 [Knight - Risk, Uncertainty and Profit](https://fraser.stlouisfed.org/title/risk-uncertainty-profit-110)  
 [Markowitz - Portfolio Selection: Efficient Diversiﬁcation of Investments](https://cowles.yale.edu/research/cfm-16-portfolio-selection-efficient-diversification-investments)  
 [The Federal Reserve - The Fed Explained: What the Central Bank Does, 11th Ed.](https://www.federalreserve.gov/aboutthefed/the-fed-explained.htm)  
+[Ugolini - The Evolution of Central Banking: Theory and History](https://hal.science/hal-01717861)
 [OECD - Handbook on Constructing Composite Indicators: Methodology and User Guide](https://doi.org/10.1787/9789264043466-en)  
 [Draghi - The future of European competitiveness](https://commission.europa.eu/topics/strengthening-european-competitiveness/eu-competitiveness-looking-ahead_en)  
 [James - The IMF and the European Debt Crisis](https://www.imf.org/en/Publications/Books/Issues/2024/01/09/The-IMF-and-the-European-Debt-Crisis-529235)  
