@@ -7,7 +7,7 @@ permalink: /bookshelf
 
 I am addicted to science and technology. Fortunately, there are many authors that kindly have made their textbooks available online for free.
 
-Last update: March 12th, 2026.  
+Last update: March 13th, 2026.  
 
 # Subject Index  
 
@@ -294,6 +294,7 @@ Last update: March 12th, 2026.
 [Sundnes - Solving Ordinary Differential Equations in Python](https://link.springer.com/book/10.1007/978-3-031-46768-4)  
 [Butler - Numerical Methods and Machine Learning for Differential Equations with Applications in Python](https://john-s-butler-dit.github.io/NM_ML_DE_source/index.html#)  
 [Engel, Davison - Exploring Mathematics with Python](https://coe.psu.ac.th/ad/explore/)   
+[Scott, Tuma - Algorithms for Sparse Linear Systems](https://link.springer.com/book/10.1007/978-3-031-25820-6)  
 
 ### Geometry
 [Clader, Ross - Beginning in Algebraic Geometry](https://link.springer.com/book/10.1007/978-3-031-88819-9)  
@@ -478,6 +479,7 @@ Last update: March 12th, 2026.
 [Capuano, Pascal, Zouitine, Wolf, Aractingi - Robot Learning: A Tutorial](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)  
 [Hyvärinen - Painful intelligence: What AI can tell us about human suffering](https://www.cs.helsinki.fi/u/ahyvarin/painintl/)  
 [Gans - The Microeconomics of Artificial Intelligence](https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence)  
+[Tedrake - Underactuated Robotics](https://underactuated.csail.mit.edu/)  
 
 #### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
