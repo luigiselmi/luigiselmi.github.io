@@ -21,7 +21,7 @@ Last update: March 13th, 2026.
         * [Earth Observation and Remote Sensing](#earth-observation-and-remote-sensing)  
         * [Seismology](#seismology)  
     * [Mathematical and Computational Physics](#mathematical-and-computational-physics)  
-    * [Quantum Mechanics and Computing](#quantum-mechanics-and-computing)  
+    * [Quantum Physics and Computing](#quantum-physics-and-computing)  
     * [Thermodynamics and Statistical Physics](#thermodynamics-and-statistical-physics)  
     * [Nuclear Physics](#nuclear-physics)  
     * [Medical Physics](#medical-physics)
@@ -181,7 +181,8 @@ Last update: March 13th, 2026.
 [Aström, Murray - Feedback Systems: An Introduction for Scientists and Engineers, 2nd Ed.](https://fbswiki.org/wiki/index.php/Main_Page)      
 [Gould, Tobochnik, Christian - An Introduction to Computer Simulation Methods, 3rd Ed.](https://www.compadre.org/osp/items/detail.cfm?ID=7375)  
 
-### Quantum Mechanics and Computing
+### Quantum Physics and Computing
+[de Broglie - Recherches sur la théorie des Quanta](https://theses.hal.science/tel-00006807/)
 [Watrous - The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/)  
 [Skinner - Principles of Quantum Mechanics](http://www.damtp.cam.ac.uk/user/dbs26/PQM.html)  
 [Matuschak, Nielsen - Quantum computing for the very curious](https://quantum.country/)  
@@ -358,6 +359,7 @@ Last update: March 13th, 2026.
 [Downey - Think Bayes, 2nd Ed.](https://greenteapress.com/wp/think-bayes/)  
 [Roch - Modern Discrete Probability: An Essential Toolkit](https://people.math.wisc.edu/~roch/mdp/index.html)  
 [Gnedenko - The Theory of Probability](https://archive.org/details/GnedenkoTheoryOfProbability/mode/2up)  
+[Mayo - Statistical Inference as Severe Testing](https://phil-stat-wars.com/wp-content/uploads/2022/09/sist-uncorrected-proofs_title-itinerary-preface_ex1-6red.pdf)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
@@ -513,6 +515,7 @@ Last update: March 13th, 2026.
 [Lindholm, Wahlström, Lindsten, Schön - Machine Learning: A First Course for Engineers and Scientists](http://smlbook.org/)  
 [Louppe - Understanding Random Forests: From Theory to Practice](https://arxiv.org/abs/1407.7502)  
 [Hutter, Kotthoff, Vanschoren, eds - Automated Machine Learning](https://link.springer.com/book/10.1007/978-3-030-05318-5)  
+[Brunton, Kutz - Data-Driven Science & Engineering](http://databookuw.com/databook.pdf)  
 
 #### Neural Networks, Deep Learning, and Reinforcement Learning
 [Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
@@ -661,7 +664,6 @@ Last update: March 13th, 2026.
 [Peyre' - Mathematical Foundations of Data Science](https://mathematical-tours.github.io/book/)  
 [Peyre' - An Introduction to Data Sciences](https://mathematical-tours.github.io/book-basics/)  
 [Baumer, Kaplan, Horton - Modern Data Science with R, 2nd Ed.](http://mdsr-book.github.io/)  
-[Brunton, Kutz - Data-Driven Science & Engineering](http://databookuw.com/databook.pdf)  
 [Spector, Norvig, Wiggins, Wing - Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/)  
 [Damji, Wenig, Das, Lee - Learning Spark, 2nd Ed.](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)  
 
