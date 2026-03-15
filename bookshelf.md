@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Luigi's Bookshelf
+title: Luigi's Antilibrary
 permalink: /bookshelf
 ---
 ![Luigi's Antilibrary](assets/bookshelf.jpg)
 
-I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but we will be able to know. 
+I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but we will be able to know.
 
 Last update: March 13th, 2026.  
 
