@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Luigi's Antilibrary
-permalink: /bookshelf
+permalink: /antilibrary
 ---
 ![Luigi's Antilibrary](assets/bookshelf.jpg)
 
