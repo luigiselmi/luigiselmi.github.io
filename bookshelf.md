@@ -845,7 +845,7 @@ Last update: March 13th, 2026.
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
 [Matthews et al. - Life Cycle Assessment: Quantitative Approaches for Decisions that Matter](https://www.lcatextbook.com/)  
 [Brundtland et al. - Our Common Future](https://www.are.admin.ch/are/en/home/media/publications/sustainable-development/brundtland-report.html)  
-[Beard - Smart Grids for Dummies](https://www.smartgrid.gov/document/smart_grids_dummies)  
+[Beard - Smart Grids for Dummies](https://www.cgi.com/uk/en-gb/smart-grids-for-dummies)  
 [Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
 [Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
 [Wilcox, Kolosz, Freeman - Carbon Dioxide Removal Primer](https://cdrprimer.org/)  
