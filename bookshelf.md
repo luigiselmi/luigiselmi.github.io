@@ -226,7 +226,6 @@ Last update: March 13th, 2026.
 ## Chemistry
    ***
 [Gray - Chemical Bonds: An Introduction to Atomic and Molecular Structure](https://authors.library.caltech.edu/records/9a8mg-92j96)  
-[Gubler - Electrochemistry: Fundamentals, Cells & Applications - Lecture Notes 2023](https://www.psi.ch/en/cee/elc)  
 [Lekkerkerker, Tuinier , Vis - Colloids and the Depletion Interaction, 2nd Edition](https://link.springer.com/book/10.1007/978-3-031-52131-7)  
 
 ## Geology
