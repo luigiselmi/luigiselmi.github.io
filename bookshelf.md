@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: March 13th, 2026.  
+Last update: March 17th, 2026.  
 
 # Subject Index  
 
@@ -209,6 +209,8 @@ Last update: March 13th, 2026.
 [Nishimori - Statistical Physics of Spin Glasses and Information Processing](https://library.oapen.org/handle/20.500.12657/76439)  
 [Nishimori, Ortiz - Elements of Phase Transitions and Critical Phenomena](https://library.oapen.org/handle/20.500.12657/76440)  
 [Lienhard V, Lienhard IV - A Heat Transfer Textbook, 6th Ed.](https://ahtt.mit.edu/)  
+[Bauerschmidt, Brydges, Slade - Introduction to a renormalisation group method](https://arxiv.org/abs/1907.05474)  
+[Collins - Renormalization](https://library.oapen.org/handle/20.500.12657/64008)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
