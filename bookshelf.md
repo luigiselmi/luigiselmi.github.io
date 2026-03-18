@@ -857,6 +857,7 @@ Last update: March 18th, 2026.
 [Bryant, Webber - Climate Finance: Taking a Position on Climate Futures](https://www.agendapub.com/page/detail/climate-finance/?k=9781788214629)  
 [Grubb, Hourcade, Neuhoff - Planetary Economics: Energy, climate change and the three
 domains of sustainable development](https://climatestrategies.org/publication/planetary-economics/)  
+[Hafner, Luciani (eds) - The Palgrave Handbook of International Energy Economics](https://link.springer.com/book/10.1007/978-3-030-86884-0)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
