@@ -218,7 +218,6 @@ Last update: March 18th, 2026.
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.1](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v1)  
 [US Department of Energy - Nuclear Physics and Reactor Theory, Vol.2](https://www.standards.doe.gov/standards-documents/1000/1019-bhdbk-1993-v2)   
 [Keeler - Understanding NMR Spectroscopy](http://www-keeler.ch.cam.ac.uk/lectures/Irvine/)   
-[Roberts - Nuclear Magnetic Resonance: Applications to Organic Chemistry](http://authors.library.caltech.edu/25026/1/NMR_1959.pdf)   
 [Claus, Boris - Particle Detectors, 2nd Edition](https://library.oapen.org/handle/20.500.12657/64013)  
 
 ### Medical Physics
@@ -230,6 +229,8 @@ Last update: March 18th, 2026.
    ***
 [Gray - Chemical Bonds: An Introduction to Atomic and Molecular Structure](https://authors.library.caltech.edu/records/9a8mg-92j96)  
 [Lekkerkerker, Tuinier , Vis - Colloids and the Depletion Interaction, 2nd Edition](https://link.springer.com/book/10.1007/978-3-031-52131-7)  
+[Roberts - Nuclear Magnetic Resonance: Applications to Organic Chemistry](http://authors.library.caltech.edu/25026/1/NMR_1959.pdf)   
+[Reetz - Fertilizers and their Efficient Use](https://www.fertilizer.org/wp-content/uploads/2023/01/2016_ifa_reetz.pdf)  
 
 ## Geology
    ***
