@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: March 18th, 2026.  
+Last update: March 20th, 2026.  
 
 # Subject Index  
 
@@ -590,6 +590,7 @@ Last update: March 18th, 2026.
 [Cunningham - Causal Inference: The Mixtape](https://mixtape.scunning.com/)  
 [Neal - Introduction to Causal Inference: from a Machine Learning Perspective](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)  
 [Bareinboim - Causal Artificial Intelligence](https://causalai-book.net/)    
+[Halpern - Actual Causality](https://www.cs.cornell.edu/home/halpern/papers/causalitybook-ch1-3.html)  
 
 #### Genetic Programming
 [Poli - A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf)    
