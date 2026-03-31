@@ -260,9 +260,9 @@ Last update: March 31st, 2026.
 ### Algebra
 [Ström, Åström, Akenine-Möller - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
 [Thomas - Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)  
-[Cherney et al. - Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
+[Cherney, Denton, Thomas, Waldron - Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
 [Treil - Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)  
-[Boyd et al. - Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)  
+[Boyd, Vandenberghe - Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)  
 [Ash - Abstract Algebra: The Basic Graduate Year](https://faculty.math.illinois.edu/~r-ash/)  
 [O'Donnell - Analysis of Boolean Functions](http://www.cs.cmu.edu/~odonnell/papers/Analysis-of-Boolean-Functions-by-Ryan-ODonnell.pdf)  
 [Axler - Linear Algebra Done Right, 4th Ed.](https://linear.axler.net/)  
