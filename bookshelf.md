@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: March 20th, 2026.  
+Last update: March 31st, 2026.  
 
 # Subject Index  
 
@@ -270,6 +270,7 @@ Last update: March 20th, 2026.
 [Kang, Cho - Linear Algebra for Data Science](https://drive.google.com/file/d/1pLrhXT_wBeQNJegbkVbC2fll9z_ykXzD/view)  
 [Gallier - Linear Algebra for Computer Vision, Robotics, and Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)  
 [Hefferon - Linear Algebra, 4th Ed.](https://hefferon.net/linearalgebra/)  
+[Voight - Quaternion Algebras](https://link.springer.com/book/10.1007/978-3-030-56694-4)  
 
 ### Calculus
 [Keisler - Elementary Calculus: An Infinitesimal Approach](https://people.math.wisc.edu/~keisler/calc.html)  
