@@ -258,7 +258,7 @@ Last update: March 31st, 2026.
 [Whitehead - An Introduction to Mathematics](https://www.gutenberg.org/ebooks/41568)  
 
 ### Algebra
-[Ström et al. - Immersive](http://immersivemath.com/ila/index.html)  
+[Ström, Åström, Akenine-Möller - Immersive Linear Algebra](http://immersivemath.com/ila/index.html)  
 [Thomas - Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)  
 [Cherney et al. - Linear Algebra](https://www.math.ucdavis.edu/~linear/)  
 [Treil - Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)  
