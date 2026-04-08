@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: April 3rd, 2026.  
+Last update: April 8th, 2026.  
 
 # Subject Index  
 
@@ -861,6 +861,7 @@ Last update: April 3rd, 2026.
 [Grubb, Hourcade, Neuhoff - Planetary Economics: Energy, climate change and the three
 domains of sustainable development](https://climatestrategies.org/publication/planetary-economics/)  
 [Hafner, Luciani (eds) - The Palgrave Handbook of International Energy Economics](https://link.springer.com/book/10.1007/978-3-030-86884-0)  
+[Stern - Stern Review on the Economics of Climate Change](https://webarchive.nationalarchives.gov.uk/ukgwa/20100407172811/http://www.hm-treasury.gov.uk/stern_review_report.htm)  
 
 ## Entrepreneurship, Project Management and Marketing
    ***
