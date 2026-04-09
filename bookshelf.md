@@ -196,7 +196,6 @@ Last update: April 9th, 2026.
 [Kleinert - Path Integrals in Quantum Mechanics, Statistics, Polymer Physics, and Financial Markets](https://hagenkleinert.de/documents/pi/HagenKleinert_PathIntegrals.pdf)  
 
 ### Thermodynamics and Statistical Physics
-[Cvitanovic et al. - Chaos: Classical and Quantum](https://chaosbook.org/)  
 [Goodstein - States of Matter](http://xn--webducation-dbb.com/book-states-of-matter-by-david-l-goodstein-pdf/)  
 [Tong - Lectures on Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys.html)  
 [Tong - Lectures on Kinetic Theory](https://www.damtp.cam.ac.uk/user/tong/kintheory/)  
@@ -287,6 +286,7 @@ Last update: April 9th, 2026.
 [Aström, Murray - Feedback Systems: An Introduction for Scientists and Engineers, 2nd Ed.](https://fbswiki.org/wiki/index.php/Main_Page)     
 [Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
 [Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)   
+[Cvitanovic, Artuso, Mainieri,Tanner, Vattay - Chaos: Classical and Quantum](https://chaosbook.org/)  
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
