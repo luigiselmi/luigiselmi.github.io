@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: April 8th, 2026.  
+Last update: April 9th, 2026.  
 
 # Subject Index  
 
@@ -178,7 +178,6 @@ Last update: April 8th, 2026.
 [Greenshields et al. - Notes on Computational Fluid Dynamics: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)  
 [Hall - An Elementary Introduction to Groups and Representations](https://arxiv.org/abs/math-ph/0005032)  
 [Onofri - Lezioni di Metodi Probabilistici della Fisica (in Italian)](https://eoinfnpr.it/#MPF)  
-[Aström, Murray - Feedback Systems: An Introduction for Scientists and Engineers, 2nd Ed.](https://fbswiki.org/wiki/index.php/Main_Page)      
 [Gould, Tobochnik, Christian - An Introduction to Computer Simulation Methods, 3rd Ed.](https://www.compadre.org/osp/items/detail.cfm?ID=7375)  
 
 ### Quantum Physics and Computing
@@ -283,6 +282,11 @@ Last update: April 8th, 2026.
 [Tricomi - Funzioni Analitiche (in Italian)](https://matematicaitaliana.sns.it/opere/315/)  
 [Jones - Computational Complex Analysis](https://math.rice.edu/~fjones/)  
 [Elsgolts - Differential Equations and the Calculus of Variations](https://archive.org/details/ElsgoltsDifferentialEquationsAndTheCalculusOfVariations)
+
+### Dynamical Systems
+[Aström, Murray - Feedback Systems: An Introduction for Scientists and Engineers, 2nd Ed.](https://fbswiki.org/wiki/index.php/Main_Page)     
+[Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
+[Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)   
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
@@ -686,8 +690,6 @@ Last update: April 8th, 2026.
 [Smith - The Scientist and Engineer’s Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)  
 [Vetterli - Foundation of Signal Processing](https://fourierandwavelets.org/)  
 [Prandoni et al. - Signal Processing for Communications](https://www.sp4comm.org/index.html)  
-[Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
-[Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)  
 [Kak et al. - Principles of Computerized Tomographic Imaging](http://www.slaney.org/pct/pct-toc.html)  
 [Gallager - Principles of Digital Communication](https://ocw.mit.edu/courses/6-450-principles-of-digital-communications-i-fall-2006/)  
 [Peyre' - The Discrete Algebra of the Fourier Transform](https://mathematical-tours.github.io/daft/)  
