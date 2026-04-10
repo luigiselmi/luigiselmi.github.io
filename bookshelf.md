@@ -510,7 +510,7 @@ Last update: April 10th, 2026.
 [Rasmussen - Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)  
 [Murphy - Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/)  
 [Thakur - Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)  
-[Hardt et al. - Pattern, Predictions, and Actions](https://mlstory.org/index.html)  
+[Hardt, Recht - Pattern, Predictions, and Actions](https://mlstory.org/index.html)  
 [Treveil et al. - Introducing MLOp](https://pages.dataiku.com/oreilly-introducing-mlops)  
 [Azencott - Introduction au Machine Learning](http://cazencott.info/)  
 [Mohri et al. - Foundations of Machine Learning, 2nd Ed.](https://cs.nyu.edu/~mohri/mlbook/)  
