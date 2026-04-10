@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: April 9th, 2026.  
+Last update: April 10th, 2026.  
 
 # Subject Index  
 
@@ -288,6 +288,7 @@ Last update: April 9th, 2026.
 [Frank - Control Theory Tutorial](https://stevefrank.org/control/control.html)  
 [Francis - Classical Control](http://www.scg.utoronto.ca/~francis/Classical_Control.pdf)   
 [Cvitanovic, Artuso, Mainieri,Tanner, Vattay - Chaos: Classical and Quantum](https://chaosbook.org/)  
+[Bacaër, Felice, Flora, Castin, Iannelli, Affili, Buonomo, Margheri, Poletto, Rossi, Venturino - Una breve storia matematica della dinamica delle popolazioni](https://hal.science/hal-03313544v1/)  
 
 ### Numerical Methods
 [Solomon - Numerical Algorithms](https://people.csail.mit.edu/jsolomon/#book)  
