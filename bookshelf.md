@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: April 14th, 2026.  
+Last update: April 17th, 2026.  
 
 # Subject Index  
 
@@ -134,6 +134,7 @@ Last update: April 14th, 2026.
 [Lovejoy - Weather, Macroweather, and the Climate: Our Random Yet Predictable Atmosphere](https://www.researchgate.net/publication/346824581_Weather_Macroweather_and_the_Climate_Our_Random_Yet_Predictable_AtmosphereOur_Random_Yet_Predictable_Atmosphere)  
 [Buglia - Introduction to the Theory of Atmospheric Radiative Transfer](https://ntrs.nasa.gov/citations/19860018367)  
 [Mishchenko, Travis, Lacis - Scattering, Absorption, and Emission of Light by Small Particles](https://www.giss.nasa.gov/staff/mmishchenko/books/)  
+[Randall - An Introduction to Atmospheric Modeling](https://hogback.atmos.colostate.edu/group/dave/at604.html)  
 
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
