@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: April 17th, 2026.  
+Last update: April 24th, 2026.  
 
 # Subject Index  
 
@@ -98,6 +98,7 @@ Last update: April 17th, 2026.
 
 ### Electromagnetism and Electronics
 [Orfanidis - Electromagnetic Waves and Antennas](http://eceweb1.rutgers.edu/~orfanidi/ewa/)  
+[Ellingson - Electromagnetics, Volume 1 & 2](http://hdl.handle.net/10919/84164)
 [Lundstrom - Fundamentals of Nanotransistors](https://nanohub.org/resources/35865/about)  
 [Hansard, Lee, Choi, Horaud - Time of Flight Cameras: Principles, Methods, and Applications](https://inria.hal.science/hal-00725654v1)  
 
