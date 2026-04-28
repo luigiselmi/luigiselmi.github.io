@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: April 26th, 2026.  
+Last update: April 28th, 2026.  
 
 # Subject Index  
 
@@ -136,6 +136,7 @@ Last update: April 26th, 2026.
 [Buglia - Introduction to the Theory of Atmospheric Radiative Transfer](https://ntrs.nasa.gov/citations/19860018367)  
 [Mishchenko, Travis, Lacis - Scattering, Absorption, and Emission of Light by Small Particles](https://www.giss.nasa.gov/staff/mmishchenko/books/)  
 [Randall - An Introduction to Atmospheric Modeling](https://hogback.atmos.colostate.edu/group/dave/at604.html)  
+[Lalic, Eitzinger, Foken, Weidinger - Micrometeorological Measurements - An Introduction for Beginners](https://link.springer.com/book/10.1007/978-3-032-03884-5)  
 
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
@@ -373,6 +374,7 @@ Last update: April 26th, 2026.
 [Roch - Modern Discrete Probability: An Essential Toolkit](https://people.math.wisc.edu/~roch/mdp/index.html)  
 [Gnedenko - The Theory of Probability](https://archive.org/details/GnedenkoTheoryOfProbability/mode/2up)  
 [Mayo - Statistical Inference as Severe Testing](https://phil-stat-wars.com/wp-content/uploads/2022/09/sist-uncorrected-proofs_title-itinerary-preface_ex1-6red.pdf)  
+[Alquier - User-friendly introduction to PAC-Bayes bounds](https://arxiv.org/abs/2110.11216)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
@@ -887,6 +889,7 @@ domains of sustainable development](https://climatestrategies.org/publication/pl
 [Kellis - Computational Biology](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.))  
 [Rost, Barbour, Stocking, Murphy - Plant Biology](https://labs.plb.ucdavis.edu/courses/bis/1c/text/PLANTBIOLOGY1.htm)  
 [Kelly - Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://kk.org/mt-files/outofcontrol/index.php)  
+[Picard, Saint-André, Henry - Manual for building tree volume and biomass allometric equations](https://openknowledge.fao.org/items/b82da473-4871-48a3-8ed8-bfff013c4886)  
 
 ### Neuroscience
 [Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
