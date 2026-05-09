@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: May 8th, 2026.  
+Last update: May 9th, 2026.  
 
 # Subject Index  
 
@@ -314,6 +314,8 @@ Last update: May 8th, 2026.
 
 ### Geometry
 [Clader, Ross - Beginning in Algebraic Geometry](https://link.springer.com/book/10.1007/978-3-031-88819-9)  
+[Bezem, Buchholtz, Cagne, Dundas, Grayson - Symmetry](https://ncatlab.org/nlab/show/symmetry)  
+[Kari - Tiling and Patterns](https://users.utu.fi/jkari/tilings2025/)
 
 #### Differential Geometry
 [Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/9780262019347/functional-differential-geometry/)    
