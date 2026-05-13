@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: May 12th, 2026.  
+Last update: May 13th, 2026.  
 
 # Subject Index  
 
@@ -150,6 +150,7 @@ Last update: May 12th, 2026.
 [Newman - Marine Hydrodynamics, 40th Anniversary Ed.](https://mitpress.mit.edu/books/marine-hydrodynamics-40th-anniversary-edition)  
 [Bosboom et al. - Coastal Dynamics](https://open.umn.edu/opentextbooks/textbooks/coastal-dynamics)  
 [Mobley et al. - Ocean Optics Web Book](https://www.oceanopticsbook.info/)  
+[Stommel - The Gulf Stream: A Physical and Dynamical Description](https://archive.org/details/gulfstreamphysic00stom)   
 
 #### Earth Observation and Remote Sensing  
 [ESRI - The ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book/)  
