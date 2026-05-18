@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: May 13th, 2026.  
+Last update: May 18th, 2026.  
 
 # Subject Index  
 
@@ -286,7 +286,8 @@ Last update: May 13th, 2026.
 [Acquistapace - Appunti di Analisi 1 e 2 e Analisi Funzionale (in Italian)](https://people.dm.unipi.it/acquistp/)  
 [Tricomi - Funzioni Analitiche (in Italian)](https://matematicaitaliana.sns.it/opere/315/)  
 [Jones - Computational Complex Analysis](https://math.rice.edu/~fjones/)  
-[Elsgolts - Differential Equations and the Calculus of Variations](https://archive.org/details/ElsgoltsDifferentialEquationsAndTheCalculusOfVariations)
+[Elsgolts - Differential Equations and the Calculus of Variations](https://archive.org/details/ElsgoltsDifferentialEquationsAndTheCalculusOfVariations)  
+[Aleksandrov, Kolmogorov, Lavrent'ev - Mathematics, its Content, Methods, and Meaning](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/)  
 
 ### Dynamical Systems
 [Aström, Murray - Feedback Systems: An Introduction for Scientists and Engineers, 2nd Ed.](https://fbswiki.org/wiki/index.php/Main_Page)     
