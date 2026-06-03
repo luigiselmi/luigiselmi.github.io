@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: june 1st, 2026.  
+Last update: June 3rd, 2026.  
 
 # Subject Index  
 
@@ -139,6 +139,7 @@ Last update: june 1st, 2026.
 [Lalic, Eitzinger, Foken, Weidinger - Micrometeorological Measurements - An Introduction for Beginners](https://link.springer.com/book/10.1007/978-3-032-03884-5)  
 [Schneider, Novak - Physics of Earth’s Climate](https://climate-dynamics.org/group-publications/)  
 [NOAA - US Standard Atmosphere, 1976](https://www.ngdc.noaa.gov/stp/space-weather/online-publications/miscellaneous/us-standard-atmosphere-1976/)  
+[Fujita - The Downburst, Microburst, and Macroburst](https://swco-ir.tdl.org/items/500757a4-6919-4c78-a19d-6e16f7327653)  
 
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
