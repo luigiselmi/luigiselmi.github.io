@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: June 3rd, 2026.  
+Last update: June 4th, 2026.  
 
 # Subject Index  
 
@@ -493,6 +493,7 @@ Last update: June 3rd, 2026.
 [Needham et al. - Graph Algorithms](https://neo4j.com/graph-algorithms-book/)  
 [Arndt - Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtpage.html)  
 [Sanders et al. - Sequential and Parallel Algorithms and Data Structures](https://people.mpi-inf.mpg.de/~mehlhorn/ToolboxNew.html)  
+[Widgerson - Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf)  
 
 ### Artificial Intelligence and Robotics
 [Lynch et al. - Modern Robotics - Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)  
