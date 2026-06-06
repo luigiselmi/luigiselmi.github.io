@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: June 4th, 2026.  
+Last update: June 6th, 2026.  
 
 # Subject Index  
 
@@ -105,7 +105,7 @@ Last update: June 4th, 2026.
 ### Geophysics
 
 #### Atmospheric Physics, Meteorology, and Climate  
-[World Meteorological Organization - Guide to Instruments and Methods of Observation (8 volumes)](https://library.wmo.int/records/item/41650-guide-to-instruments-and-methods-of-observation)
+[World Meteorological Organization - Guide to Instruments and Methods of Observation (8 volumes)](https://library.wmo.int/records/item/41650-guide-to-instruments-and-methods-of-observation)  
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education-introduction-atmospheric-chemistry/)  
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
 [Stocker - Introduction to Climate Modelling](https://climatehomes.unibe.ch/%7Estocker/lecturenotes.html)  
@@ -867,6 +867,7 @@ Last update: June 4th, 2026.
 [Favero - Applied Macroeconometrics](https://www.researchgate.net/publication/23775352_APPLIED_MACROECONOMETRICS_Carlo_A_Favero_Oxford_University_Press_2001)  
 [Lucchetti - Basic Econometrics](https://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf)  
 [Moreira - Quantitative Investing](https://amoreira2.github.io/quantitativeinvesting/chapters/intro.html)  
+[Haugh - Lecture Notes on Quantitative Risk Management](https://martin-haugh.github.io/teaching/qrm/)  
 
 ### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
