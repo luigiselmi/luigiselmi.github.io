@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: June 6th, 2026.  
+Last update: June 15th, 2026.  
 
 # Subject Index  
 
@@ -38,7 +38,7 @@ Last update: June 6th, 2026.
         * [Differential Geometry](#differential-geometry)
         * [Topology](#topology)  
         * [Computational Geometry](#computational-geometry)
-    * [Probability and Statistics](#probability-and-statistics)  
+      * [Probability and Statistics](#probability-and-statistics)  
         * [Stochastic Processes and Time Series](#stochastic-processes-and-time-series)
     * [Number Theory](#number-theory)  
     * [Optimization and Linear Programming](#optimization-and-linear-programming)  
@@ -153,6 +153,8 @@ Last update: June 6th, 2026.
 [Bosboom et al. - Coastal Dynamics](https://open.umn.edu/opentextbooks/textbooks/coastal-dynamics)  
 [Mobley et al. - Ocean Optics Web Book](https://www.oceanopticsbook.info/)  
 [Stommel - The Gulf Stream: A Physical and Dynamical Description](https://archive.org/details/gulfstreamphysic00stom)   
+[Webb - Introduction to Oceanography](https://rwu.pressbooks.pub/webboceanography/)  
+[Marshall - Oceanography: An Observer's Guide](https://ian.umces.edu/publications/oceanography-an-observers-guide/)  
 
 #### Earth Observation and Remote Sensing  
 [ESRI - The ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book/)  
@@ -383,6 +385,7 @@ Last update: June 6th, 2026.
 [Gnedenko - The Theory of Probability](https://archive.org/details/GnedenkoTheoryOfProbability/mode/2up)  
 [Mayo - Statistical Inference as Severe Testing](https://phil-stat-wars.com/wp-content/uploads/2022/09/sist-uncorrected-proofs_title-itinerary-preface_ex1-6red.pdf)  
 [Alquier - User-friendly introduction to PAC-Bayes bounds](https://arxiv.org/abs/2110.11216)  
+[Pishro-Nik - Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
