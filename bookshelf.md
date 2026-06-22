@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: June 15th, 2026.  
+Last update: June 22nd, 2026.  
 
 # Subject Index  
 
@@ -140,6 +140,7 @@ Last update: June 15th, 2026.
 [Schneider, Novak - Physics of Earth’s Climate](https://climate-dynamics.org/group-publications/)  
 [NOAA - US Standard Atmosphere, 1976](https://www.ngdc.noaa.gov/stp/space-weather/online-publications/miscellaneous/us-standard-atmosphere-1976/)  
 [Fujita - The Downburst, Microburst, and Macroburst](https://swco-ir.tdl.org/items/500757a4-6919-4c78-a19d-6e16f7327653)  
+[Air Weather Service - The Use of the Skew T, Log P Diagram in Analysis and Forecasting](https://apps.dtic.mil/sti/html/tr/ADA221842/index.html)   
 
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
@@ -220,6 +221,8 @@ Last update: June 15th, 2026.
 [Bauerschmidt, Brydges, Slade - Introduction to a renormalisation group method](https://arxiv.org/abs/1907.05474)  
 [Collins - Renormalization](https://library.oapen.org/handle/20.500.12657/64008)  
 [Bernard - Statistical Field Theory and Applications : An Introduction for (and by) Amateurs](https://www.phys.ens.fr/~dbernard/Documents/Teaching/Lectures_Stat_Field_Theory_vnew.pdf)  
+[Kardar - Statistical Mechanics I: Statistical Mechanics of Particles](https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/)  
+[Kardar - Statistical Mechanics II: Statistical Physics of Fields](https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
