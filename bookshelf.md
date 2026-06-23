@@ -15,7 +15,7 @@ Last update: June 23rd, 2026.
     * [Classical Mechanics](#classical-mechanics)  
     * [Electromagnetism and Electronics](#electromagnetism-and-electronics)
     * [Geophysics](#geophysics)  
-        * [Atmospheric Physics, Meteorology, and Climate Science](#atmospheric-physics-meteorology-and-climate)    
+        * [Atmospheric Physics, Meteorology, and Climate Science](#atmospheric-physics-meteorology-and-climate-science)    
         * [Inverse Theory](#inverse-theory)
         * [Oceanography](#oceanography)  
         * [Earth Observation and Remote Sensing](#earth-observation-and-remote-sensing)  
@@ -104,7 +104,7 @@ Last update: June 23rd, 2026.
 
 ### Geophysics
 
-#### Atmospheric Physics, Meteorology, and Climate  
+#### Atmospheric Physics, Meteorology, and Climate Science  
 [World Meteorological Organization - Guide to Instruments and Methods of Observation (8 volumes)](https://library.wmo.int/records/item/41650-guide-to-instruments-and-methods-of-observation)  
 [Jacob - Introduction to Atmospheric Chemistry](https://acmg.seas.harvard.edu/education-introduction-atmospheric-chemistry/)  
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
