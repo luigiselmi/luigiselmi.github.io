@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: June 22nd, 2026.  
+Last update: June 23rd, 2026.  
 
 # Subject Index  
 
@@ -15,7 +15,7 @@ Last update: June 22nd, 2026.
     * [Classical Mechanics](#classical-mechanics)  
     * [Electromagnetism and Electronics](#electromagnetism-and-electronics)
     * [Geophysics](#geophysics)  
-        * [Atmospheric Physics, Meteorology, and Climate](#atmospheric-physics-meteorology-and-climate)    
+        * [Atmospheric Physics, Meteorology, and Climate Science](#atmospheric-physics-meteorology-and-climate)    
         * [Inverse Theory](#inverse-theory)
         * [Oceanography](#oceanography)  
         * [Earth Observation and Remote Sensing](#earth-observation-and-remote-sensing)  
@@ -141,6 +141,8 @@ Last update: June 22nd, 2026.
 [NOAA - US Standard Atmosphere, 1976](https://www.ngdc.noaa.gov/stp/space-weather/online-publications/miscellaneous/us-standard-atmosphere-1976/)  
 [Fujita - The Downburst, Microburst, and Macroburst](https://swco-ir.tdl.org/items/500757a4-6919-4c78-a19d-6e16f7327653)  
 [Air Weather Service - The Use of the Skew T, Log P Diagram in Analysis and Forecasting](https://apps.dtic.mil/sti/html/tr/ADA221842/index.html)   
+[Abernathey - An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)  
+[Abernathey - Introduction to Physical Oceanography](https://rabernat.github.io/intro_to_physical_oceanography/intro.html)  
 
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
