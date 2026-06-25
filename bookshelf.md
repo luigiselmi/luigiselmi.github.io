@@ -186,6 +186,7 @@ Last update: June 25th, 2026.
 [Gordon - Physical Principles of Ocean Color Remote Sensing](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
 [Canada Centre for Mapping and Earth Observation - Fundamentals of Remote Sensing](https://natural-resources.canada.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)  
 [NASA SERVIR et al. - The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar-handbook)  
+[Paperin - Cloud Structures](https://www.brockmann-consult.de/CloudStructures/introduction.htm)  
 
 #### Seismology  
 [Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
