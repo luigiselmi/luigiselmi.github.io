@@ -18,6 +18,7 @@ Last update: June 25th, 2026.
         * [Atmospheric Physics](#atmospheric-physics)    
         * [Meteorology](#meteorology)
         * [Climate Science](#climate-science)
+        * [Geophysical Fluid Dynamics](#geophysical-fluid-dynamics)
         * [Inverse Theory](#inverse-theory)
         * [Oceanography](#oceanography)  
         * [Earth Observation and Remote Sensing](#earth-observation-and-remote-sensing)  
@@ -150,6 +151,11 @@ Last update: June 25th, 2026.
 [NOAA - Climate Science Special Report](https://science2017.globalchange.gov/)  
 [Schneider, Novak - Physics of Earth’s Climate](https://climate-dynamics.org/group-publications/)  
 
+#### Geophysical Fluid Dynamics
+[Cushman-Roisin - Environmental Fluid Mechanics](https://cushman.host.dartmouth.edu/books/EFM.html)  
+[Cushman-Roisin - Practical Fluid Mechanics: From Everyday Experience to Rockets](https://cushman.host.dartmouth.edu/books/PracticalFM.html)  
+[Greenshields et al. - Notes on Computational Fluid Dynamics: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)  
+
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
 [Scales, Smith, Treitel - Introductory Geophysical Inverse Theory](https://samizdat.mines.edu/geophysical-inverse-theory-by-john-scales-martin-smith-and-sven-treitel/)  
@@ -194,7 +200,6 @@ Last update: June 25th, 2026.
 [Shiffman - The Nature of Code](https://natureofcode.com/)      
 [Wolfram - A New Kind of Science](https://www.wolframscience.com/nks/)  
 [Zanghi - Appunti di Metodi Matematici della Fisica (in Italian)](https://www.ge.infn.it/~zanghi/metodi/mm2015.html)    
-[Greenshields et al. - Notes on Computational Fluid Dynamics: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)  
 [Hall - An Elementary Introduction to Groups and Representations](https://arxiv.org/abs/math-ph/0005032)  
 [Onofri - Lezioni di Metodi Probabilistici della Fisica (in Italian)](https://eoinfnpr.it/#MPF)  
 [Gould, Tobochnik, Christian - An Introduction to Computer Simulation Methods, 3rd Ed.](https://www.compadre.org/osp/items/detail.cfm?ID=7375)  
