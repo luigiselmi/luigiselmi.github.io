@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: June 23rd, 2026.  
+Last update: June 25th, 2026.  
 
 # Subject Index  
 
@@ -128,6 +128,7 @@ Last update: June 23rd, 2026.
 
 #### Meteorology
 [World Meteorological Organization - Guide to Instruments and Methods of Observation (8 volumes)](https://library.wmo.int/records/item/41650-guide-to-instruments-and-methods-of-observation)  
+[World Meteorological Organization - International Cloud Atlas - Manual on the Observation of Clouds and Other Meteors](https://cloudatlas.wmo.int/en/home.html)  
 [Stull - Practical Meteorology: An Algebra-based Survey of Atmospheric Science](https://www.eoas.ubc.ca/books/Practical_Meteorology/)  
 [Lalic et al. - Agricultural Meteorology and Climatology](https://books.fupress.com/catalogue/agricultural-meteorology-and-climatology/3808)  
 [Döös, Lundberg, Campino - Basic Numerical Methods in Meteorology and Oceanography](https://doi.org/10.16993/bbs)  
@@ -230,7 +231,8 @@ Last update: June 23rd, 2026.
 [Collins - Renormalization](https://library.oapen.org/handle/20.500.12657/64008)  
 [Bernard - Statistical Field Theory and Applications : An Introduction for (and by) Amateurs](https://www.phys.ens.fr/~dbernard/Documents/Teaching/Lectures_Stat_Field_Theory_vnew.pdf)  
 [Kardar - Statistical Mechanics I: Statistical Mechanics of Particles](https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/)  
-[Kardar - Statistical Mechanics II: Statistical Physics of Fields](https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)
+[Kardar - Statistical Mechanics II: Statistical Physics of Fields](https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)  
+[Styer - Statistical Mechanics](https://www2.oberlin.edu/physics/dstyer/StatMech/)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
@@ -250,7 +252,8 @@ Last update: June 23rd, 2026.
 [Lekkerkerker, Tuinier , Vis - Colloids and the Depletion Interaction, 2nd Edition](https://link.springer.com/book/10.1007/978-3-031-52131-7)  
 [Roberts - Nuclear Magnetic Resonance: Applications to Organic Chemistry](http://authors.library.caltech.edu/25026/1/NMR_1959.pdf)   
 [Reetz - Fertilizers and their Efficient Use](https://www.fertilizer.org/wp-content/uploads/2023/01/2016_ifa_reetz.pdf)  
-[Mills, Cvitas, Homann, Kallay, Kuchitsu - Quantities, Units and Symbols in Physical Chemistry, 2nd Ed.](https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)
+[Mills, Cvitas, Homann, Kallay, Kuchitsu - Quantities, Units and Symbols in Physical Chemistry, 2nd Ed.](https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)  
+[Simons - An Introduction to Theoretical Chemistry, 2nd Ed.](https://simons.hec.utah.edu/ITCSecondEdition/TableofContents.html)  
 
 ## Geology
    ***
