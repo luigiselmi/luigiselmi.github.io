@@ -160,7 +160,7 @@ Last update: June 25th, 2026.
 [Stewart - Introduction to Physical Oceanography](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)  
 [Newman - Marine Hydrodynamics, 40th Anniversary Ed.](https://mitpress.mit.edu/books/marine-hydrodynamics-40th-anniversary-edition)  
 [Bosboom et al. - Coastal Dynamics](https://open.umn.edu/opentextbooks/textbooks/coastal-dynamics)  
-[Mobley et al. - Ocean Optics Web Book](https://www.oceanopticsbook.info/)  
+[Mobley, Boss, Roesler - Ocean Optics Web Book](https://www.oceanopticsbook.info/)  
 [Stommel - The Gulf Stream: A Physical and Dynamical Description](https://archive.org/details/gulfstreamphysic00stom)   
 [Webb - Introduction to Oceanography](https://rwu.pressbooks.pub/webboceanography/)  
 [Marshall - Oceanography: An Observer's Guide](https://ian.umces.edu/publications/oceanography-an-observers-guide/)  
@@ -178,7 +178,6 @@ Last update: June 25th, 2026.
 [Camara et al. - Satellite Image Time Series Analysis on Earth Observation Data Cubes](https://e-sensing.github.io/sitsbook/index.html)  
 [Meijerink et al. - Remote Sensing Applications to Groundwater](https://unesdoc.unesco.org/ark:/48223/pf0000156300)  
 [Gordon - Physical Principles of Ocean Color Remote Sensing](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
-[Mobley et al. - The Oceanic Optics Book](https://ioccg.org/what-we-do/training-and-education/educational-links-and-resources/)  
 [Canada Centre for Mapping and Earth Observation - Fundamentals of Remote Sensing](https://natural-resources.canada.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)  
 [NASA SERVIR et al. - The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar-handbook)  
 
