@@ -253,12 +253,11 @@ Last update: June 29th, 2026.
 
 ## Chemistry
    ***
-[IUPAC - The Green Book: Quantities, Units and Symbols in Physical Chemistry - Abridged Version](https://iupac.org/what-we-do/books/greenbook/)  
+[IUPAC - The Green Book: Quantities, Units and Symbols in Physical Chemistry](https://iupac.org/what-we-do/books/greenbook/)  
 [Gray - Chemical Bonds: An Introduction to Atomic and Molecular Structure](https://authors.library.caltech.edu/records/9a8mg-92j96)  
 [Lekkerkerker, Tuinier , Vis - Colloids and the Depletion Interaction, 2nd Edition](https://link.springer.com/book/10.1007/978-3-031-52131-7)  
 [Roberts - Nuclear Magnetic Resonance: Applications to Organic Chemistry](http://authors.library.caltech.edu/25026/1/NMR_1959.pdf)   
 [Reetz - Fertilizers and their Efficient Use](https://www.fertilizer.org/wp-content/uploads/2023/01/2016_ifa_reetz.pdf)  
-[Mills, Cvitas, Homann, Kallay, Kuchitsu - Quantities, Units and Symbols in Physical Chemistry, 2nd Ed.](https://goldbook.iupac.org/files/pdf/green_book_2ed.pdf)  
 [Simons - An Introduction to Theoretical Chemistry, 2nd Ed.](https://simons.hec.utah.edu/ITCSecondEdition/TableofContents.html)  
 
 ## Geology
