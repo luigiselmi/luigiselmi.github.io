@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: June 25th, 2026.  
+Last update: June 29th, 2026.  
 
 # Subject Index  
 
@@ -253,6 +253,7 @@ Last update: June 25th, 2026.
 
 ## Chemistry
    ***
+[IUPAC - The Green Book: Quantities, Units and Symbols in Physical Chemistry - Abridged Version](https://iupac.org/what-we-do/books/greenbook/)  
 [Gray - Chemical Bonds: An Introduction to Atomic and Molecular Structure](https://authors.library.caltech.edu/records/9a8mg-92j96)  
 [Lekkerkerker, Tuinier , Vis - Colloids and the Depletion Interaction, 2nd Edition](https://link.springer.com/book/10.1007/978-3-031-52131-7)  
 [Roberts - Nuclear Magnetic Resonance: Applications to Organic Chemistry](http://authors.library.caltech.edu/25026/1/NMR_1959.pdf)   
