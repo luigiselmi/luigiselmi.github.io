@@ -203,6 +203,7 @@ Last update: July 1st, 2026.
 [Wolfram - A New Kind of Science](https://www.wolframscience.com/nks/)  
 [Zanghi - Appunti di Metodi Matematici della Fisica (in Italian)](https://www.ge.infn.it/~zanghi/metodi/mm2015.html)    
 [Hall - An Elementary Introduction to Groups and Representations](https://arxiv.org/abs/math-ph/0005032)  
+[Cvitanovic - Group Theory: Birdtracks, Lie's, and Exceptional Groups](https://birdtracks.eu/)   
 [Onofri - Lezioni di Metodi Probabilistici della Fisica (in Italian)](https://eoinfnpr.it/#MPF)  
 [Gould, Tobochnik, Christian - An Introduction to Computer Simulation Methods, 3rd Ed.](https://www.compadre.org/osp/items/detail.cfm?ID=7375)  
 
