@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: July 6th, 2026.   
+Last update: July 15th, 2026.   
 
 # Subject Index  
 
@@ -156,6 +156,7 @@ Last update: July 6th, 2026.
 [Cushman-Roisin - Environmental Fluid Mechanics](https://cushman.host.dartmouth.edu/books/EFM.html)  
 [Cushman-Roisin - Practical Fluid Mechanics: From Everyday Experience to Rockets](https://cushman.host.dartmouth.edu/books/PracticalFM.html)  
 [Greenshields et al. - Notes on Computational Fluid Dynamics: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)  
+[Herbert - An Introduction to Fluid Turbulence](https://perso.ens-lyon.fr/corentin.herbert/docs/turbulence_course.pdf)  
 
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
@@ -240,6 +241,8 @@ Last update: July 6th, 2026.
 [Kardar - Statistical Mechanics I: Statistical Mechanics of Particles](https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/)  
 [Kardar - Statistical Mechanics II: Statistical Physics of Fields](https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)  
 [Styer - Statistical Mechanics](https://www2.oberlin.edu/physics/dstyer/StatMech/)  
+[Weinan - Principles of Multiscale Modeling](https://web.math.princeton.edu/~weinan/book.shtml)  
+[Niemeyer - Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
