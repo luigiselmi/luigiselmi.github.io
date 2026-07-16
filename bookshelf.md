@@ -12,7 +12,7 @@ Last update: July 16th, 2026.
 # Subject Index  
 
 * [Physics](#physics)
-    * [Astrophysics and Space Science](astrophysics-and-space-science)
+    * [Astrophysics and Space Science](#astrophysics-and-space-science)
     * [Classical Mechanics](#classical-mechanics)  
     * [Electromagnetism and Electronics](#electromagnetism-and-electronics)
     * [Geophysics](#geophysics)  
