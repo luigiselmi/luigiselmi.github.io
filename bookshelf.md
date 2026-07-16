@@ -7,11 +7,12 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: July 15th, 2026.   
+Last update: July 16th, 2026.   
 
 # Subject Index  
 
 * [Physics](#physics)
+    * [Astrophysics and Space Science](astrophysics-and-space-science)
     * [Classical Mechanics](#classical-mechanics)  
     * [Electromagnetism and Electronics](#electromagnetism-and-electronics)
     * [Geophysics](#geophysics)  
@@ -94,6 +95,9 @@ Last update: July 15th, 2026.
    ***
 [Feynman et al. - The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)  
 [Der Karlsruher Physikkurs](https://www.karlsruher-physikkurs.de/)  
+
+### Astrophysics and Space Science
+[Morbidelli - Modern Celestial Mechanics: Aspects of Solar System Dynamics](https://www-n.oca.eu/morby/celmech.pdf)  
 
 ### Classical Mechanics
 [Cline - Variational Principles in Classical Mechanics, 3rd Ed.](http://classicalmechanics.lib.rochester.edu/)  
