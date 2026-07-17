@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: July 16th, 2026.   
+Last update: July 17th, 2026.   
 
 # Subject Index  
 
@@ -143,6 +143,7 @@ Last update: July 16th, 2026.
 [Lalic, Eitzinger, Foken, Weidinger - Micrometeorological Measurements - An Introduction for Beginners](https://link.springer.com/book/10.1007/978-3-032-03884-5)  
 [Fujita - The Downburst, Microburst, and Macroburst](https://swco-ir.tdl.org/items/500757a4-6919-4c78-a19d-6e16f7327653)  
 [Air Weather Service - The Use of the Skew T, Log P Diagram in Analysis and Forecasting](https://apps.dtic.mil/sti/html/tr/ADA221842/index.html)   
+[Pielke - Hurricanes: their Nature and Impacts on Society](Pielke - Hurricanes - Their Nature and Impacts on Society)  
 
 #### Climate Science
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
