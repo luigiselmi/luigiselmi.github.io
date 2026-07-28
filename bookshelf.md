@@ -877,6 +877,7 @@ Last update: July 28th, 2026.
 [Garin, Lester, Sims - Intermediate Macroeconomics](https://juliogarin.com/textbook/)  
 [Schumpeter - Business Cycles: A Theoretical, Historical and Statistical Analysis of the Capitalist Process](https://www.mises.at/static/literatur/Buch/schumpeter-business-cycles-a-theoretical-historical-and-statistical-analysis-of-the-capitalist-process.pdf)  
 [Campante, Sturzenegger, Velasco - Advanced Macroeconomics: An Easy Guide](https://press.lse.ac.uk/books/m/10.31389/lsepress.ame)  
+[Cochrane - Inflation](https://www.johnhcochrane.com/research-all/inflation)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
