@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: July 17th, 2026.   
+Last update: July 28th, 2026.   
 
 # Subject Index  
 
@@ -95,6 +95,7 @@ Last update: July 17th, 2026.
    ***
 [Feynman et al. - The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)  
 [Der Karlsruher Physikkurs](https://www.karlsruher-physikkurs.de/)  
+[Perrin - Atoms](https://archive.org/details/atomsper00perruoft/atomsper00perruoft/)  
 
 ### Astrophysics and Space Science
 [Morbidelli - Modern Celestial Mechanics: Aspects of Solar System Dynamics](https://www-n.oca.eu/morby/celmech.pdf)  
@@ -269,6 +270,7 @@ Last update: July 17th, 2026.
 [Roberts - Nuclear Magnetic Resonance: Applications to Organic Chemistry](http://authors.library.caltech.edu/25026/1/NMR_1959.pdf)   
 [Reetz - Fertilizers and their Efficient Use](https://www.fertilizer.org/wp-content/uploads/2023/01/2016_ifa_reetz.pdf)  
 [Simons - An Introduction to Theoretical Chemistry, 2nd Ed.](https://simons.hec.utah.edu/ITCSecondEdition/TableofContents.html)  
+[Ostwald - Solutions](https://archive.org/details/solutions00ostwrich/page/n7/mode/2up)  
 
 ## Geology
    ***
