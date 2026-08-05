@@ -477,6 +477,7 @@ Last update: August 4th, 2026.
 [Postek, Zocca, Gromicho, Kantor - Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html)  
 [Bellman, Dreyfus - Applied Dynamic Programming](https://www.rand.org/pubs/reports/R352.html)  
 [Gallier - Fundamentals of Optimization Theory with Applications to Machine Learning](https://www.cis.upenn.edu/~jean/gbooks/linalg.html)  
+[Brunton - Optimization - A Bootcamp for Machine Learning, Inverse Problems, and Control](https://faculty.washington.edu/sbrunton/OptimizationBootcamp.pdf)  
 
 ### Graph Theory and Network Science
 [Barabasi - Network Science](http://networksciencebook.com/)  
@@ -573,7 +574,7 @@ Last update: August 4th, 2026.
 [Lindholm, Wahlström, Lindsten, Schön - Machine Learning: A First Course for Engineers and Scientists](http://smlbook.org/)  
 [Louppe - Understanding Random Forests: From Theory to Practice](https://arxiv.org/abs/1407.7502)  
 [Hutter, Kotthoff, Vanschoren, eds - Automated Machine Learning](https://link.springer.com/book/10.1007/978-3-030-05318-5)  
-[Brunton, Kutz - Data-Driven Science & Engineering](http://databookuw.com/databook.pdf)  
+[Brunton, Kutz - Data-Driven Science & Engineering, 2nd Edition](https://databookuw.com/databookV2.pdf)  
 
 #### Neural Networks, Deep Learning, and Reinforcement Learning
 [Goodfellow et al. - Deep Learning Book](https://www.deeplearningbook.org/)  
