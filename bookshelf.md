@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: August 5th, 2026.   
+Last update: August 6th, 2026.   
 
 # Subject Index  
 
@@ -510,7 +510,7 @@ Last update: August 5th, 2026.
 [Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
 [Fong et al. - Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://www.brendanfong.com/)  
 [Leinster - Basic Category Theory](https://arxiv.org/abs/1612.09375)  
-[Smith - Beginning Category Theory](https://www.logicmatters.net/categories/)  
+[Smith - Introducing Category Theory](https://www.logicmatters.net/categories/)  
 [Riehl - Category Theory in Context](https://emilyriehl.github.io/books/)  
 [Asperti, Longo - Categories Types and Structures - An Introduction to Category Theory for the working computer scientist](https://www.di.ens.fr/users/longo/files/CategTypesStructures/book.pdf)  
 
