@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: August 6th, 2026.   
+Last update: August 9th, 2026.   
 
 # Subject Index  
 
@@ -417,6 +417,7 @@ Last update: August 6th, 2026.
 [Mayo - Statistical Inference as Severe Testing](https://phil-stat-wars.com/wp-content/uploads/2022/09/sist-uncorrected-proofs_title-itinerary-preface_ex1-6red.pdf)  
 [Alquier - User-friendly introduction to PAC-Bayes bounds](https://arxiv.org/abs/2110.11216)  
 [Pishro-Nik - Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)  
+[Polyanskiy - Fundamentals of Probability](https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
@@ -747,7 +748,7 @@ Last update: August 6th, 2026.
 [Gallager - Principles of Digital Communication](https://ocw.mit.edu/courses/6-450-principles-of-digital-communications-i-fall-2006/)  
 [Peyre' - The Discrete Algebra of the Fourier Transform](https://mathematical-tours.github.io/daft/)  
 [O'Haver - A Pragmatic Introduction to Signal Processing with applications in scientific measurements](https://terpconnect.umd.edu/~toh/spectrum/TOC.html)  
-[Polyanskiy, Wu - Information Theory: From Coding to Learning, 1st Ed.](https://people.lids.mit.edu/yp/homepage/papers.html)  
+[Polyanskiy, Wu - Information Theory: From Coding to Learning, 1st Ed.](https://people.lids.mit.edu/yp/homepage/papers.shtml)    
 [Richardson, Urbanke - Modern Coding Theory](https://ipgold.epfl.ch/_media/en/publications/mct-new.pdf)  
 [McFee - Digital Signals Theory](https://brianmcfee.net/dstbook-site)  
 [Orfanidis - Applied Optimum Signal Processing](https://eceweb1.rutgers.edu/~orfanidi/aosp/)  
