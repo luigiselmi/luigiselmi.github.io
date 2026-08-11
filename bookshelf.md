@@ -42,7 +42,7 @@ Last update: August 9th, 2026.
         * [Differential Geometry](#differential-geometry)
         * [Topology](#topology)  
         * [Computational Geometry](#computational-geometry)
-      * [Probability and Statistics](#probability-and-statistics)  
+    * [Probability and Statistics](#probability-and-statistics)  
         * [Stochastic Processes and Time Series](#stochastic-processes-and-time-series)
     * [Number Theory](#number-theory)  
     * [Optimization and Linear Programming](#optimization-and-linear-programming)  
