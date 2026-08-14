@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: August 9th, 2026.   
+Last update: August 14th, 2026.   
 
 # Subject Index  
 
@@ -377,6 +377,7 @@ Last update: August 9th, 2026.
 [Gelman et al. - Bayesian Data Analysis, 3rd Ed.](http://www.stat.columbia.edu/~gelman/book/)  
 [Gelman et al. - Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)  
 [Gelman, Vehtari - Active Statistics](https://avehtari.github.io/ActiveStatistics/)  
+[Gelman, Vehtari, McElreath - Bayesian Workflow](https://avehtari.github.io/Bayesian-Workflow/)  
 [Lattimore et al. - Bandit Algorithms](https://banditalgs.com/)  
 [Owen - Monte Carlo theory, methods and examples](https://artowen.su.domains/mc/)  
 [Vershynin - High-Dimensional Probability - An Introduction with Applications in Data Science, 2nd Ed.](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)    
