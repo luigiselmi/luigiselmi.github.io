@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: August 14th, 2026.   
+Last update: August 29th, 2026.   
 
 # Subject Index  
 
@@ -279,6 +279,7 @@ Last update: August 14th, 2026.
 [Greve - Dynamics of Ice Sheets and Glaciers](https://ocw.hokudai.ac.jp/wp-content/uploads/2016/02/DynamicsOfIce-2005-Note-all.pdf)  
 [Ray et al. - Landslides: Investigations and Monitoring](https://www.intechopen.com/books/8180)  
 [Anderson - New Theory of the Earth](https://authors.library.caltech.edu/records/v1ca8-zj672)  
+[Guzzetti - Landslide Hazard and Risk Assessment](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/2644)
 
 ### Hydrology
 [Kresic - Hydrology 101 - Introduction to Groundwater Science and Engineering](https://un-igrac.org/resource/hydrogeology-101-introduction-groundwater-science-and-engineering)  
