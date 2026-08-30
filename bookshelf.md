@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: August 29th, 2026.   
+Last update: August 30th, 2026.   
 
 # Subject Index  
 
@@ -361,6 +361,9 @@ Last update: August 29th, 2026.
 [Crane - Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/)  
 [Henderson - Differential Geometry: A Geometric Introduction](https://projecteuclid.org/eBooks/books-by-independent-authors/Differential-Geometry-A-Geometric-Introduction/toc/10.3792/euclid/9781429799843)  
 [Pinkall, Gross - Differential Geometry: From Elastic Curves to Willmore Surfaces](https://link.springer.com/book/10.1007/978-3-031-39838-4)  
+[Sochi - Introduction to Differential Geometry of Space Curves and Surfaces](https://vixra.org/abs/2501.0039)  
+[Sochi - Solutions of Exercises of Introduction to Differential Geometry of Space Curves and Surfaces](https://www.researchgate.net/publication/382142907_Solutions_of_Exercises_of_Introduction_to_Differential_Geometry_of_Space_Curves_and_Surfaces)  
+
 #### Topology
 [Ghrist - Elementary Applied Topology](https://www2.math.upenn.edu/~ghrist/notes.html)  
 [Morris - Topology without tears](https://www.topologywithouttears.net/)  
