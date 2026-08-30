@@ -325,6 +325,8 @@ Last update: August 30th, 2026.
 [Jones - Computational Complex Analysis](https://math.rice.edu/~fjones/)  
 [Elsgolts - Differential Equations and the Calculus of Variations](https://archive.org/details/ElsgoltsDifferentialEquationsAndTheCalculusOfVariations)  
 [Aleksandrov, Kolmogorov, Lavrent'ev - Mathematics, its Content, Methods, and Meaning](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/)  
+[Sochi - Tensor Calculus Made Simple](https://vixra.org/abs/2501.0040)  
+[Sochi - Solutions of Exercises of Tensor Calculus Made Simple](https://www.researchgate.net/publication/319307737_Solutions_of_Exercises_of_Tensor_Calculus_Made_Simple_Taha_Sochi)  
 
 ### Dynamical Systems
 [Aström, Murray - Feedback Systems: An Introduction for Scientists and Engineers, 2nd Ed.](https://fbswiki.org/wiki/index.php/Main_Page)     
