@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: August 30th, 2026.   
+Last update: September 3rd, 2026.   
 
 # Subject Index  
 
@@ -882,6 +882,7 @@ Last update: August 30th, 2026.
 [Flynn - Men of Wealth: The Story of Twelve Significant Fortunes from the Renaissance to the Present Day](https://mises.org/library/book/men-wealth-story-twelve-significant-fortunes-renaissance-present-day)  
 [van Greuning, Darrel, Terblanche - International financial reporting standards : a practical guide, 6th Ed.](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/520891468139494304)  
 [Bolton, Despres, Pereira Da Silva, Samama, Svartzman - The green swan](https://www.bis.org/publ/othp31.pdf)  
+[Harvey - The ABC of Contemporary Capital](https://davidharvey.org/reading-capital/#abc)  
 
 ### Macroeconomics
 [Doepke, Lehnert, Sellgren - Macroeconomics](https://faculty.wcas.northwestern.edu/mdo738/book.htm)  
