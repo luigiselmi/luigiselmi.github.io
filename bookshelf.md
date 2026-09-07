@@ -32,7 +32,7 @@ Last update: September 7th, 2026.
 * [Chemistry](#chemistry)
 * [Biology](#biology)  
     * [Neuroscience](#neuroscience)
-* [Medicine](#health-and-medicine)  
+* [Health and Medicine](#health-and-medicine)  
 * [Geology](#geology)  
     * [Hydrology](#hydrology)  
 * [Mathematics](#mathematics)  
