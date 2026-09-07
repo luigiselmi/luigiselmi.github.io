@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 3rd, 2026.   
+Last update: September 7th, 2026.   
 
 # Subject Index  
 
@@ -951,6 +951,8 @@ domains of sustainable development](https://climatestrategies.org/publication/pl
 [Rost, Barbour, Stocking, Murphy - Plant Biology](https://labs.plb.ucdavis.edu/courses/bis/1c/text/PLANTBIOLOGY1.htm)  
 [Kelly - Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://kk.org/mt-files/outofcontrol/index.php)  
 [Picard, Saint-André, Henry - Manual for building tree volume and biomass allometric equations](https://openknowledge.fao.org/items/b82da473-4871-48a3-8ed8-bfff013c4886)  
+[Leinster - Entropy and Diversity: The Axiomatic Approach](https://arxiv.org/abs/2012.02113)  
+[Mattick, Amaral - RNA - The Epicenter of Genetic Information](https://www.taylorfrancis.com/books/oa-mono/10.1201/9781003109242/rna-epicenter-genetic-information-john-mattick-paulo-amaral)  
 
 ### Neuroscience
 [Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
