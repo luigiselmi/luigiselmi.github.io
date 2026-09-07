@@ -30,6 +30,9 @@ Last update: September 7th, 2026.
     * [Nuclear Physics](#nuclear-physics)  
     * [Medical Physics](#medical-physics)
 * [Chemistry](#chemistry)
+* [Biology](#biology)  
+    * [Neuroscience](#neuroscience)
+* [Medicine](#health-and-medicine)  
 * [Geology](#geology)  
     * [Hydrology](#hydrology)  
 * [Mathematics](#mathematics)  
@@ -85,9 +88,6 @@ Last update: September 7th, 2026.
     * [Econometrics and Quantitative Finance](#econometrics-and-quantitative-finance)  
     * [Environmental, Social, and Governance](#environmental-social-and-governance)
 * [Entrepreneurship, Project Management and Marketing](#entrepreneurship-project-management-and-marketing)  
-* [Biology](#biology)  
-    * [Neuroscience](#neuroscience)
-* [Medicine](#medicine)  
 
    ***
    ***
@@ -271,6 +271,36 @@ Last update: September 7th, 2026.
 [Reetz - Fertilizers and their Efficient Use](https://www.fertilizer.org/wp-content/uploads/2023/01/2016_ifa_reetz.pdf)  
 [Simons - An Introduction to Theoretical Chemistry, 2nd Ed.](https://simons.hec.utah.edu/ITCSecondEdition/TableofContents.html)  
 [Ostwald - Solutions](https://archive.org/details/solutions00ostwrich/page/n7/mode/2up)  
+
+## Biology
+   ***
+[Ingalls - Mathematical Modeling in Systems Biology: An Introduction](https://uwaterloo.ca/scholar/bingalls/online-textbook)  
+[Batra et al. - The Epidemiologist R Handbook ](https://epirhandbook.com/en/)  
+[Milo et al. - Cell Biology by the Numbers](http://book.bionumbers.org/)  
+[Bonita et al. - Basic Epidemiology, 2nd Ed.](https://apps.who.int/iris/handle/10665/43541)  
+[Frank - Immunology and Evolution of Infectious Disease](https://stevefrank.org/antiVar/antiVar.html)  
+[Frank - Dynamics of Cancer](https://stevefrank.org/cancer/cancer.html)  
+[Kellis - Computational Biology](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.))  
+[Rost, Barbour, Stocking, Murphy - Plant Biology](https://labs.plb.ucdavis.edu/courses/bis/1c/text/PLANTBIOLOGY1.htm)  
+[Kelly - Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://kk.org/mt-files/outofcontrol/index.php)  
+[Picard, Saint-André, Henry - Manual for building tree volume and biomass allometric equations](https://openknowledge.fao.org/items/b82da473-4871-48a3-8ed8-bfff013c4886)  
+[Leinster - Entropy and Diversity: The Axiomatic Approach](https://arxiv.org/abs/2012.02113)  
+[Mattick, Amaral - RNA - The Epicenter of Genetic Information](https://www.taylorfrancis.com/books/oa-mono/10.1201/9781003109242/rna-epicenter-genetic-information-john-mattick-paulo-amaral)  
+
+### Neuroscience
+[Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
+[Rolls - Cerebral Cortex: Principles of Operation](https://www.oxcns.org/b12text.html)  
+[Rolls, Deco - The Noisy Brain - Stochastic Dynamics as a Principle of Brain Function](https://www.oxcns.org/b9_text.html)  
+[Rolls - Neuroculture - On the Implications of Brain Science](https://www.oxcns.org/b10_text.html)  
+[Rolls - Memory, Attention, and Decision-Making: a unifying computational neuroscience approach](https://www.oxcns.org/b8_text.html)  
+[Rolls, Deco - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
+[Rolls, Treves - Neural Networks and Brain Functions](https://www.oxcns.org/b3_text.html)  
+
+## Health and Medicine
+   ***
+[Betts et al. - Anatomy and Physiology](https://openstax.org/details/books/anatomy-and-physiology)  
+[World Health Organization - Manual of diagnostic ultrasound](https://www.who.int/publications/i/item/9241544619)  
+[World Health Organization - Air Quality Guidelines for Europe, 2nd Ed.](https://www.who.int/publications/i/item/9789289013581)  
 
 ## Geology
    ***
@@ -938,33 +968,3 @@ domains of sustainable development](https://climatestrategies.org/publication/pl
    ***
 [Fandrey - Academic Slide Design](http://www.academicslidedesign.org/)  
 [Valve - Handbook for New Employees](https://www.valvesoftware.com/en/publications)  
-
-## Biology
-   ***
-[Ingalls - Mathematical Modeling in Systems Biology: An Introduction](https://uwaterloo.ca/scholar/bingalls/online-textbook)  
-[Batra et al. - The Epidemiologist R Handbook ](https://epirhandbook.com/en/)  
-[Milo et al. - Cell Biology by the Numbers](http://book.bionumbers.org/)  
-[Bonita et al. - Basic Epidemiology, 2nd Ed.](https://apps.who.int/iris/handle/10665/43541)  
-[Frank - Immunology and Evolution of Infectious Disease](https://stevefrank.org/antiVar/antiVar.html)  
-[Frank - Dynamics of Cancer](https://stevefrank.org/cancer/cancer.html)  
-[Kellis - Computational Biology](https://bio.libretexts.org/Bookshelves/Computational_Biology/Book%3A_Computational_Biology_-_Genomes_Networks_and_Evolution_(Kellis_et_al.))  
-[Rost, Barbour, Stocking, Murphy - Plant Biology](https://labs.plb.ucdavis.edu/courses/bis/1c/text/PLANTBIOLOGY1.htm)  
-[Kelly - Out of Control: The New Biology of Machines, Social Systems, and the Economic World](https://kk.org/mt-files/outofcontrol/index.php)  
-[Picard, Saint-André, Henry - Manual for building tree volume and biomass allometric equations](https://openknowledge.fao.org/items/b82da473-4871-48a3-8ed8-bfff013c4886)  
-[Leinster - Entropy and Diversity: The Axiomatic Approach](https://arxiv.org/abs/2012.02113)  
-[Mattick, Amaral - RNA - The Epicenter of Genetic Information](https://www.taylorfrancis.com/books/oa-mono/10.1201/9781003109242/rna-epicenter-genetic-information-john-mattick-paulo-amaral)  
-
-### Neuroscience
-[Rolls - Emotions and Decision-Making Explained](https://www.oxcns.org/b11text.html)  
-[Rolls - Cerebral Cortex: Principles of Operation](https://www.oxcns.org/b12text.html)  
-[Rolls, Deco - The Noisy Brain - Stochastic Dynamics as a Principle of Brain Function](https://www.oxcns.org/b9_text.html)  
-[Rolls - Neuroculture - On the Implications of Brain Science](https://www.oxcns.org/b10_text.html)  
-[Rolls - Memory, Attention, and Decision-Making: a unifying computational neuroscience approach](https://www.oxcns.org/b8_text.html)  
-[Rolls, Deco - The Computational Neuroscience of Vision](https://www.oxcns.org/b6_text.html)  
-[Rolls, Treves - Neural Networks and Brain Functions](https://www.oxcns.org/b3_text.html)  
-
-## Health and Medicine
-   ***
-[Betts et al. - Anatomy and Physiology](https://openstax.org/details/books/anatomy-and-physiology)  
-[World Health Organization - Manual of diagnostic ultrasound](https://www.who.int/publications/i/item/9241544619)  
-[World Health Organization - Air Quality Guidelines for Europe, 2nd Ed.](https://www.who.int/publications/i/item/9789289013581)  
