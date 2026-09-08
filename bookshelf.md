@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 7th, 2026.   
+Last update: September 8th, 2026.   
 
 # Subject Index  
 
@@ -946,6 +946,8 @@ Last update: September 7th, 2026.
 [Moreira - Quantitative Investing](https://amoreira2.github.io/quantitativeinvesting/chapters/intro.html)  
 [Haugh - Lecture Notes on Quantitative Risk Management](https://martin-haugh.github.io/teaching/qrm/)  
 [Lopez de Prado - Causal Factor Investing](https://www.cambridge.org/core/elements/causal-factor-investing/9AFE270D7099B787B8FD4F4CBADE0C6E)  
+[Coqueret, Guida - Machine Learning for Factor Investing](https://www.mlfactor.com/index.html)  
+[Scheuch, Voigt, Weiss, Frey - Tidy Finance](https://www.tidy-finance.org/)
 
 ### Environmental, Social, and Governance
 [MacKay - Sustainable Energy - without the hot air](https://www.withouthotair.com/)  
