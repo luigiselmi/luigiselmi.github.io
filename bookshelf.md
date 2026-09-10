@@ -767,6 +767,7 @@ Last update: September 10th, 2026.
 [Baumer, Kaplan, Horton - Modern Data Science with R, 2nd Ed.](http://mdsr-book.github.io/)  
 [Spector, Norvig, Wiggins, Wing - Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/)  
 [Damji, Wenig, Das, Lee - Learning Spark, 2nd Ed.](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)  
+[Bandeira, Singer, Strohmer - Mathematics of Data Science](https://arxiv.org/abs/2607.11938)  
 
 ### Data Visualization
 [Healy - Data Visualization - A Practical Introduction](https://socviz.co/)  
