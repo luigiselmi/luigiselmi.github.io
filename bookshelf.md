@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 8th, 2026.   
+Last update: September 10th, 2026.   
 
 # Subject Index  
 
@@ -234,6 +234,7 @@ Last update: September 8th, 2026.
 [Tong - Lectures on Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys.html)  
 [Tong - Lectures on Kinetic Theory](https://www.damtp.cam.ac.uk/user/tong/kintheory/)  
 [Sethna - Statistical Mechanics: Entropy, Order Parameters, and Complexity, 2nd Ed.](https://sethna.lassp.cornell.edu/StatMech/)  
+[Tong - Kinetic Theory](https://davidtong.org/teaching/kinetic-theory/)  
 [Friedli, Velenik - Statistical Mechanics of Lattice Systems](https://www.unige.ch/math/folks/velenik/smbook/)  
 [Malthe-Sørenssen - Percolation Theory Using Python](https://link.springer.com/book/10.1007/978-3-031-59900-2)  
 [Gallavotti - Statistical Mechanics - Short Treatise](https://ipparco.roma1.infn.it/pagine/deposito/1998/libro.pdf)  
