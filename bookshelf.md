@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 10th, 2026.   
+Last update: September 12th, 2026.   
 
 # Subject Index  
 
@@ -272,6 +272,7 @@ Last update: September 10th, 2026.
 [Reetz - Fertilizers and their Efficient Use](https://www.fertilizer.org/wp-content/uploads/2023/01/2016_ifa_reetz.pdf)  
 [Simons - An Introduction to Theoretical Chemistry, 2nd Ed.](https://simons.hec.utah.edu/ITCSecondEdition/TableofContents.html)  
 [Ostwald - Solutions](https://archive.org/details/solutions00ostwrich/page/n7/mode/2up)  
+[Pedeferri - Tales of corrosion (and other stories)](https://polilapp.chem.polimi.it/wp-content/uploads/2023/12/Pietro-Pedeferri-Tales-of-corrosion-and-other-stories.pdf)  
 
 ## Biology
    ***
@@ -657,7 +658,8 @@ Last update: September 10th, 2026.
 [Chollet, Watson - Deep Learning with Python, 3rd Ed.](https://deeplearningwithpython.io/)  
 [White - Deep Learning for Molecules and Materials](https://dmol.pub/)  
 [Buchanan, Pai, Wang, Ma - Principles and Practice of Deep Representation Learning - Or A Mathematical Theory of Memory](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)  
-[Blondel, Roulet - The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)  
+[Blondel, Roulet - The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
+[Chen - The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)   
 
 
 #### Natural Language Processing
@@ -670,6 +672,7 @@ Last update: September 10th, 2026.
 [Koehn - Neural Machine Translation (draft)](http://mt-class.org/jhu/assets/nmt-book.pdf)  
 [Gibson - Syntax: A cognitive approach](https://tedlab.mit.edu/tedlab_website/researchpapers/Syntax_Gibson_MITPress_2025.pdf)   
 [Bratanic, Hane - Essential GraphRAG - Knowledge Graph-Enahnced RAG](https://neo4j.com/essential-graphrag/)  
+[Paaß , Giesselbach - Foundation Models for Natural Language Processing](https://link.springer.com/book/10.1007/978-3-031-23190-2)  
 
 #### Knowledge Graphs, Semantic Web, and Linked Data
 [Bergman - A Knowledge Representation Practionary](https://www.mkbergman.com/a-knowledge-representation-practionary/)  
