@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 13th, 2026.   
+Last update: September 15th, 2026.   
 
 # Subject Index  
 
@@ -661,7 +661,7 @@ Last update: September 13th, 2026.
 [Blondel, Roulet - The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 [Chen - The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)   
 [Buchanan, Pai, Wang, Ma - Principles and Practice of Deep Representation Learning, Or A Mathematical Theory of Memory](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)  
-
+[Roitman - The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)  
 
 #### Natural Language Processing
 [Jurafsky et al. - Speech and Language Processing, 3r Ed. draft](https://web.stanford.edu/~jurafsky/slp3/)  
