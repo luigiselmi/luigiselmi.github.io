@@ -157,6 +157,7 @@ Last update: September 15th, 2026.
 [von Storch, Navarra - Analysis of Climate Variability - Application of Statistical Techniques](http://hvonstorch.de/klima/books/SNBOOK/springer.pdf)  
 [NOAA - Climate Science Special Report](https://science2017.globalchange.gov/)  
 [Schneider, Novak - Physics of Earth’s Climate](https://climate-dynamics.org/group-publications/)  
+[Wilcox, Kolosz, Freeman - Carbon Dioxide Removal Primer](https://cdrprimer.org/)  
 
 #### Geophysical Fluid Dynamics
 [Cushman-Roisin - Environmental Fluid Mechanics](https://cushman.host.dartmouth.edu/books/EFM.html)  
@@ -962,7 +963,6 @@ Last update: September 15th, 2026.
 [Beard - Smart Grids for Dummies](https://www.cgi.com/uk/en-gb/smart-grids-for-dummies)  
 [Smets et al. - Solar Energy: The Physics and Engineering of Photovoltaic Conversion Technologies and Systems](https://ocw.tudelft.nl/course-readings/readings-solar-energy/)  
 [Honsberg et al. - Photovoltaics](https://www.pveducation.org/)  
-[Wilcox, Kolosz, Freeman - Carbon Dioxide Removal Primer](https://cdrprimer.org/)  
 [National Academies - Negative Emissions Technologies and Reliable Sequestration](https://nap.nationalacademies.org/catalog/25259/negative-emissions-technologies-and-reliable-sequestration-a-research-agenda)  
 [Klinger - Rare Earth Frontiers](https://library.oapen.org/handle/20.500.12657/30764)  
 [Schoenmaker, Schramade - Corporate Finance for Long-Term Value](https://link.springer.com/book/10.1007/978-3-031-35009-2)  
