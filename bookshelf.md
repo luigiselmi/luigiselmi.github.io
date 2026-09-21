@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 15th, 2026.   
+Last update: September 21st, 2026.   
 
 # Subject Index  
 
@@ -360,6 +360,7 @@ Last update: September 15th, 2026.
 [Aleksandrov, Kolmogorov, Lavrent'ev - Mathematics, its Content, Methods, and Meaning](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/)  
 [Sochi - Tensor Calculus Made Simple](https://vixra.org/abs/2501.0040)  
 [Sochi - Solutions of Exercises of Tensor Calculus Made Simple](https://www.researchgate.net/publication/319307737_Solutions_of_Exercises_of_Tensor_Calculus_Made_Simple_Taha_Sochi)  
+[Noll - Finite-Dimensional Spaces: Algebra, Geometry, and Analysis - Volume I](https://doi.org/10.1184/R1/6477443)  
 
 ### Dynamical Systems
 [Aström, Murray - Feedback Systems: An Introduction for Scientists and Engineers, 2nd Ed.](https://fbswiki.org/wiki/index.php/Main_Page)     
@@ -389,7 +390,8 @@ Last update: September 15th, 2026.
 ### Geometry
 [Clader, Ross - Beginning in Algebraic Geometry](https://link.springer.com/book/10.1007/978-3-031-88819-9)  
 [Bezem, Buchholtz, Cagne, Dundas, Grayson - Symmetry](https://ncatlab.org/nlab/show/symmetry)  
-[Kari - Tiling and Patterns](https://users.utu.fi/jkari/tilings2025/)
+[Kari - Tiling and Patterns](https://users.utu.fi/jkari/tilings2025/)  
+[Ben-Ari - The Geometry of Ellipses and Planetary Orbits](https://link.springer.com/book/10.1007/978-3-032-26272-1)  
 
 #### Differential Geometry
 [Sussman et al. - Functional Differential Geometry](https://mitpress.mit.edu/9780262019347/functional-differential-geometry/)    
