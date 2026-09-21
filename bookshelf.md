@@ -460,6 +460,7 @@ Last update: September 21st, 2026.
 [Alquier - User-friendly introduction to PAC-Bayes bounds](https://arxiv.org/abs/2110.11216)  
 [Pishro-Nik - Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)  
 [Polyanskiy - Fundamentals of Probability](https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/)  
+[Pollard - Probability tools, tricks, and miracles](http://www.stat.yale.edu/~pollard/Books/Pttm/Pttm26-06-22.pdf)  
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
