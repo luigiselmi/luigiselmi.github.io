@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 21st, 2026.   
+Last update: September 24th, 2026.   
 
 # Subject Index  
 
@@ -229,6 +229,7 @@ Last update: September 21st, 2026.
 [Styer - Invitation to Quantum Mechanics](https://www2.oberlin.edu/physics/dstyer/InvitationToQM/)  
 [Hoofnagle, Garfinkel - Law and Policy for the Quantum Age](https://doi.org/10.1017/9781108883719)  
 [Kleinert - Path Integrals in Quantum Mechanics, Statistics, Polymer Physics, and Financial Markets](https://hagenkleinert.de/documents/pi/HagenKleinert_PathIntegrals.pdf)  
+[Yamazaki - Geometries of Quantum Field Theories](https://arxiv.org/abs/2609.28210)  
 
 ### Thermodynamics and Statistical Physics
 [Goodstein - States of Matter](http://xn--webducation-dbb.com/book-states-of-matter-by-david-l-goodstein-pdf/)  
@@ -461,6 +462,7 @@ Last update: September 21st, 2026.
 [Pishro-Nik - Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)  
 [Polyanskiy - Fundamentals of Probability](https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/)  
 [Pollard - Probability tools, tricks, and miracles](http://www.stat.yale.edu/~pollard/Books/Pttm/Pttm26-06-22.pdf)  
+[Samworth, Shah - Modern Statistical Methods and Theory - An Introduction to Nonparametric and High-Dimensional Statistics](https://doi.org/10.1017/9781009160421)
 
 #### Stochastic Processes and Time Series
 [Subba Rao - A Course in Time Series Analysis](https://web.stat.tamu.edu/~suhasini/teaching673/teaching673_2022.html)  
