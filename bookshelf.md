@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 24th, 2026.   
+Last update: September 28th, 2026.   
 
 # Subject Index  
 
@@ -230,6 +230,7 @@ Last update: September 24th, 2026.
 [Hoofnagle, Garfinkel - Law and Policy for the Quantum Age](https://doi.org/10.1017/9781108883719)  
 [Kleinert - Path Integrals in Quantum Mechanics, Statistics, Polymer Physics, and Financial Markets](https://hagenkleinert.de/documents/pi/HagenKleinert_PathIntegrals.pdf)  
 [Yamazaki - Geometries of Quantum Field Theories](https://arxiv.org/abs/2609.28210)  
+[Idema - Introduction to Quantum Mechanics](https://interactivetextbooks.tudelft.nl/introduction-to-quantum-mechanics/index.html)  
 
 ### Thermodynamics and Statistical Physics
 [Goodstein - States of Matter](http://xn--webducation-dbb.com/book-states-of-matter-by-david-l-goodstein-pdf/)  
@@ -492,6 +493,7 @@ Last update: September 24th, 2026.
 ### Number Theory
 [Stein - Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/)  
 [Shoup - A Computational Introduction to Number Theory and Algebra, 2nd Ed.](https://shoup.net/ntb/)  
+[Rijke - The Great Story of Numbers](https://egbertrijke.github.io/notes/number-theory/)  
 
 ### Optimization and Linear Programming
 [Dantzig - Linear Programming and Extensions](https://www.rand.org/pubs/reports/R366.html)  
@@ -587,6 +589,8 @@ Last update: September 24th, 2026.
 [Hyvärinen - Painful intelligence: What AI can tell us about human suffering](https://www.cs.helsinki.fi/u/ahyvarin/painintl/)  
 [Gans - The Microeconomics of Artificial Intelligence](https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence)  
 [Tedrake - Underactuated Robotics](https://underactuated.csail.mit.edu/)  
+[Risi, Tang, Ha, Miikkulainen - Neuroevolution: Harnessing Creativity in AI Agent Design](https://neuroevolutionbook.com/)  
+[Carlone, Kim, Barfoot, Cremers, Dellaert - SLAM Handbook: From Localization and Mapping to Spatial Intelligence](https://asrl.utias.utoronto.ca/~tdb/slam/)  
 
 #### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
@@ -664,7 +668,7 @@ Last update: September 24th, 2026.
 [Chollet, Watson - Deep Learning with Python, 3rd Ed.](https://deeplearningwithpython.io/)  
 [White - Deep Learning for Molecules and Materials](https://dmol.pub/)  
 [Buchanan, Pai, Wang, Ma - Principles and Practice of Deep Representation Learning - Or A Mathematical Theory of Memory](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)  
-[Blondel, Roulet - The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
+[Blondel, Roulet - The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)  
 [Chen - The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)   
 [Buchanan, Pai, Wang, Ma - Principles and Practice of Deep Representation Learning, Or A Mathematical Theory of Memory](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)  
 [Roitman - The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)  
