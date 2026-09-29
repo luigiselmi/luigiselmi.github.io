@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 28th, 2026.   
+Last update: September 29th, 2026.   
 
 # Subject Index  
 
@@ -196,6 +196,7 @@ Last update: September 28th, 2026.
 [Canada Centre for Mapping and Earth Observation - Fundamentals of Remote Sensing](https://natural-resources.canada.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)  
 [NASA SERVIR et al. - The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar-handbook)  
 [Paperin - Cloud Structures](https://www.brockmann-consult.de/CloudStructures/introduction.htm)  
+[WMO - Handbook on Use of radio spectrum for meteorology: Weather, climate, water and related environmental applications](https://library.wmo.int/records/item/55658-handbook-on-use-of-radio-spectrum-for-meteorology)  
 
 #### Seismology  
 [Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
