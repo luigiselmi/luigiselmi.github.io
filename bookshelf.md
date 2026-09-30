@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 29th, 2026.   
+Last update: September 30th, 2026.   
 
 # Subject Index  
 
@@ -948,6 +948,7 @@ Last update: September 29th, 2026.
 [Stachurski - Economic Dynamics: Theory and Computation, 2nd Ed.](https://johnstachurski.net/edtc)  
 [Sargent et al. - Quantitative Economics with Python](https://python.quantecon.org/intro.html)  
 [Sargent et al. - Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)  
+[Sargent, Stachurski - Quantitative Economics with JAX](https://jax.quantecon.org/intro.html)  
 [Ødegaard - Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/index.html)  
 [Hanck, Arnold, Gerber, Schmelzer - Introduction to Econometrics with R](https://www.econometrics-with-r.org/)  
 [Diebold - Econometric Data Science](https://www.sas.upenn.edu/~fdiebold/Textbooks.html)  
