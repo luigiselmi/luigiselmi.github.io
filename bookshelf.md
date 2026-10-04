@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: September 30th, 2026.   
+Last update: October 4th, 2026.   
 
 # Subject Index  
 
@@ -87,6 +87,7 @@ Last update: September 30th, 2026.
     * [Macroeconomics](#macroeconomics)
     * [Econometrics and Quantitative Finance](#econometrics-and-quantitative-finance)  
     * [Environmental, Social, and Governance](#environmental-social-and-governance)
+* [Politics](#politics)
 * [Entrepreneurship, Project Management and Marketing](#entrepreneurship-project-management-and-marketing)  
 
    ***
@@ -983,7 +984,10 @@ domains of sustainable development](https://climatestrategies.org/publication/pl
 [Hafner, Luciani (eds) - The Palgrave Handbook of International Energy Economics](https://link.springer.com/book/10.1007/978-3-030-86884-0)  
 [Stern - Stern Review on the Economics of Climate Change](https://webarchive.nationalarchives.gov.uk/ukgwa/20100407172811/http://www.hm-treasury.gov.uk/stern_review_report.htm)  
 
-## Entrepreneurship, Project Management and Marketing
+## Politics  
+[Blackwill, Tellis - Revising U.S. Grand Strategy Toward China](https://www.cfr.org/reports/revising-us-grand-strategy-toward-china)  
+
+## Entrepreneurship, Project Management and Marketing  
    ***
 [Fandrey - Academic Slide Design](http://www.academicslidedesign.org/)  
 [Valve - Handbook for New Employees](https://www.valvesoftware.com/en/publications)  
