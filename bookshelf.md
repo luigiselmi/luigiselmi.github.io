@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: October 4th, 2026.   
+Last update: October 7th, 2026.   
 
 # Subject Index  
 
@@ -986,6 +986,7 @@ domains of sustainable development](https://climatestrategies.org/publication/pl
 
 ## Politics  
 [Blackwill, Tellis - Revising U.S. Grand Strategy Toward China](https://www.cfr.org/reports/revising-us-grand-strategy-toward-china)  
+[Blackwill - Implementing Grand Strategy Toward China](https://www.cfr.org/reports/implementing-grand-strategy-toward-china)  
 
 ## Entrepreneurship, Project Management and Marketing  
    ***
