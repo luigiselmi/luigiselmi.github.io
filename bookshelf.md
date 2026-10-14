@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: October 7th, 2026.   
+Last update: October 14th, 2026.   
 
 # Subject Index  
 
@@ -555,6 +555,7 @@ Last update: October 7th, 2026.
 [Shapley, Shubik - Game Theory in Economics](https://www.rand.org/pubs/reports/R0904z1.html)  
 [Shoham, Leyton-Brown - Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations](https://masfoundations.org/)  
 [Epstein, Axtell - Growing Artificial Societies: Social Science from the Bottom Up](https://complexityexplorer.s3.amazonaws.com/Mesa+ABM/epstein_axtell.pdf)  
+[Yannakakis, Togelius - Artificial Intelligence and Games](https://gameaibook.org/book.pdf)  
 
 ### Category Theory
 [Milewski - Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)  
@@ -938,6 +939,7 @@ Last update: October 7th, 2026.
 [Schumpeter - Business Cycles: A Theoretical, Historical and Statistical Analysis of the Capitalist Process](https://www.mises.at/static/literatur/Buch/schumpeter-business-cycles-a-theoretical-historical-and-statistical-analysis-of-the-capitalist-process.pdf)  
 [Campante, Sturzenegger, Velasco - Advanced Macroeconomics: An Easy Guide](https://press.lse.ac.uk/books/m/10.31389/lsepress.ame)  
 [Cochrane - Inflation](https://www.johnhcochrane.com/research-all/inflation)  
+[Carlin, Soskice - Macroeconomics: Institutions, Instability and Inequality](https://sites.google.com/site/wendycarlinucl/new-book)  
 
 ### Econometrics and Quantitative Finance
 [Giovannini - Understanding Economic Statistics: An OECD Perspective](https://www.oecd-ilibrary.org/economics/understanding-economic-statistics-an-oecd-perspective_9789264046986-en)  
