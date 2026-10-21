@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: October 14th, 2026.   
+Last update: October 21st, 2026.   
 
 # Subject Index  
 
@@ -18,6 +18,7 @@ Last update: October 14th, 2026.
     * [Geophysics](#geophysics)  
         * [Atmospheric Physics](#atmospheric-physics)    
         * [Meteorology](#meteorology)
+        * [Agrometeorology](#agrometeorology)
         * [Climate Science](#climate-science)
         * [Geophysical Fluid Dynamics](#geophysical-fluid-dynamics)
         * [Inverse Theory](#inverse-theory)
@@ -145,7 +146,12 @@ Last update: October 14th, 2026.
 [Lalic, Eitzinger, Foken, Weidinger - Micrometeorological Measurements - An Introduction for Beginners](https://link.springer.com/book/10.1007/978-3-032-03884-5)  
 [Fujita - The Downburst, Microburst, and Macroburst](https://swco-ir.tdl.org/items/500757a4-6919-4c78-a19d-6e16f7327653)  
 [Air Weather Service - The Use of the Skew T, Log P Diagram in Analysis and Forecasting](https://apps.dtic.mil/sti/html/tr/ADA221842/index.html)   
-[Pielke - Hurricanes: their Nature and Impacts on Society](Pielke - Hurricanes - Their Nature and Impacts on Society)  
+[Pielke - Hurricanes: their Nature and Impacts on Society](Pielke - Hurricanes - Their Nature and Impacts on Society)
+
+#### Agrometeorology
+[Lalic, Eitzinger, Dalla Marta, Orlandini, Firanj Sremac, Pacher - Agricultural Meteorology and Climatology](https://books.fupress.com/catalogue/agricultural-meteorology-and-climatology/3808)  
+[FAO - Crop Yield Response to Water](https://openknowledge.fao.org/items/acb0049f-3ea4-4e7d-b149-587bbea84a96)  
+[FAO - Crop evapotranspiration](https://openknowledge.fao.org/items/2743458b-b1bc-4ebb-925a-83a15f2929b9)    
 
 #### Climate Science
 [Schmittner - Introduction to Climate Science](https://open.oregonstate.education/climatechange)  
