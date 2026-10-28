@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: October 21st, 2026.   
+Last update: October 28th, 2026.   
 
 # Subject Index  
 
@@ -171,6 +171,7 @@ Last update: October 21st, 2026.
 [Cushman-Roisin - Practical Fluid Mechanics: From Everyday Experience to Rockets](https://cushman.host.dartmouth.edu/books/PracticalFM.html)  
 [Greenshields et al. - Notes on Computational Fluid Dynamics: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)  
 [Herbert - An Introduction to Fluid Turbulence](https://perso.ens-lyon.fr/corentin.herbert/docs/turbulence_course.pdf)  
+[Flierl, Ferrari - Turbulence in the Ocean and Atmosphere](https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007/)  
 
 #### Inverse Theory
 [Rodgers - Inverse Methods for Atmospheric Sounding: Theory and Practice](https://library.wmo.int/index.php?lvl=notice_display&id=12279)  
