@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: October 28th, 2026.   
+Last update: November 6th, 2026.   
 
 # Subject Index  
 
@@ -262,6 +262,7 @@ Last update: October 28th, 2026.
 [Styer - Statistical Mechanics](https://www2.oberlin.edu/physics/dstyer/StatMech/)  
 [Weinan - Principles of Multiscale Modeling](https://web.math.princeton.edu/~weinan/book.shtml)  
 [Niemeyer - Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/)  
+[Cleynen - Engi­neering Thermo­dynamics](https://thermodynamicsbook.com/)  
 
 ### Nuclear Physics
 [Wiedemann - Particle Accelerators Physics](https://library.oapen.org/handle/20.500.12657/23641)  
