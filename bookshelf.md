@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: November 6th, 2026.   
+Last update: November 9th, 2026.   
 
 # Subject Index  
 
@@ -683,6 +683,7 @@ Last update: November 6th, 2026.
 [Chen - The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)   
 [Buchanan, Pai, Wang, Ma - Principles and Practice of Deep Representation Learning, Or A Mathematical Theory of Memory](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)  
 [Roitman - The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)  
+[Jentzen, Kuckuck, von Wurstemberger - Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)  
 
 #### Natural Language Processing
 [Jurafsky et al. - Speech and Language Processing, 3r Ed. draft](https://web.stanford.edu/~jurafsky/slp3/)  
@@ -917,7 +918,7 @@ Last update: November 6th, 2026.
 [Knight - Risk, Uncertainty and Profit](https://fraser.stlouisfed.org/title/risk-uncertainty-profit-110)  
 [Markowitz - Portfolio Selection: Efficient Diversiﬁcation of Investments](https://cowles.yale.edu/research/cfm-16-portfolio-selection-efficient-diversification-investments)  
 [The Federal Reserve - The Fed Explained: What the Central Bank Does, 11th Ed.](https://www.federalreserve.gov/aboutthefed/the-fed-explained.htm)  
-[Ugolini - The Evolution of Central Banking: Theory and History](https://hal.science/hal-01717861)
+[Ugolini - The Evolution of Central Banking: Theory and History](https://hal.science/hal-01717861)  
 [OECD - Handbook on Constructing Composite Indicators: Methodology and User Guide](https://doi.org/10.1787/9789264043466-en)  
 [Draghi - The future of European competitiveness](https://commission.europa.eu/topics/strengthening-european-competitiveness/eu-competitiveness-looking-ahead_en)  
 [James - The IMF and the European Debt Crisis](https://www.imf.org/en/Publications/Books/Issues/2024/01/09/The-IMF-and-the-European-Debt-Crisis-529235)  
