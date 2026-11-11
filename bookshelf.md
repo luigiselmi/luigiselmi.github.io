@@ -7,7 +7,7 @@ permalink: /antilibrary
 
 I am addicted to science and technology and I am collecting textbooks that have been made available online for free by their authors. I will never be able to read all of them but, as Umberto Eco who coined the term *[antilibrary](https://en.wikipedia.org/wiki/Antilibrary)* once said, a collection of books is not meant to show what we know but what we will be able to know.
 
-Last update: November 9th, 2026.   
+Last update: November 11th, 2026.   
 
 # Subject Index  
 
@@ -205,6 +205,7 @@ Last update: November 9th, 2026.
 [NASA SERVIR et al. - The SAR Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar-handbook)  
 [Paperin - Cloud Structures](https://www.brockmann-consult.de/CloudStructures/introduction.htm)  
 [WMO - Handbook on Use of radio spectrum for meteorology: Weather, climate, water and related environmental applications](https://library.wmo.int/records/item/55658-handbook-on-use-of-radio-spectrum-for-meteorology)  
+[Corley - First Principles of Geospatial Computer Vision](https://geospatialml.com/book/)  
 
 #### Seismology  
 [Cerveny - Seismic Ray Theory](http://sw3d.cz/papers/a01vc1.htm)  
@@ -602,6 +603,7 @@ Last update: November 9th, 2026.
 [Tedrake - Underactuated Robotics](https://underactuated.csail.mit.edu/)  
 [Risi, Tang, Ha, Miikkulainen - Neuroevolution: Harnessing Creativity in AI Agent Design](https://neuroevolutionbook.com/)  
 [Carlone, Kim, Barfoot, Cremers, Dellaert - SLAM Handbook: From Localization and Mapping to Spatial Intelligence](https://asrl.utias.utoronto.ca/~tdb/slam/)  
+[McShane, Nirenburg, English - Agents in the Long Game of AI: Computational Cognitive Modeling for Trustworthy, Hybrid AI](https://direct.mit.edu/books/oa-monograph/5833/Agents-in-the-Long-Game-of-AIComputational)  
 
 #### Machine Learning
 [Daume’ III - A Course in Machine Learning](http://ciml.info/)  
@@ -901,6 +903,8 @@ Last update: November 9th, 2026.
 [Boneh et al. - A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)  
 [Menezes - Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)  
 [Kohel - Cryptography](https://www.i2m.univ-amu.fr/perso/david.kohel/pub/crypto.pdf)  
+[Zheng - Modern Cryptography - Volume 1](https://link.springer.com/book/10.1007/978-981-19-0920-7)  
+[Zheng , Tian , Liu - Modern Cryptography - Volume 2](https://link.springer.com/book/10.1007/978-981-19-7644-5)  
 
 ## Finance and Economics
    ***
